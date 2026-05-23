@@ -19,7 +19,7 @@ MauvilleCity_House1_EventScript_ReceivedRockSmash::
 	end
 
 MauvilleCity_House1_Text_ImRockSmashDudeTakeThis:
-	.string "Woohoo!\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pWoohoo!\p"
 	.string "I hear people call me the ROCK SMASH\n"
 	.string "GUY, but I find that sort of degrading.\p"
 	.string "I think I deserve a bit more respect,\n"
@@ -40,7 +40,7 @@ MauvilleCity_House1_Text_ExplainRockSmash:
 	.string "Woohoo!$"
 
 MauvilleCity_House1_Text_MonCanFlyOutOfSmashedRock:
-	.string "Oh, yes, if you smash a rock, a POKéMON\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pOh, yes, if you smash a rock, a POKéMON\n"
 	.string "could come flying out of hiding.\p"
 	.string "Woohoo!$"
 

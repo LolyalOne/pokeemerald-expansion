@@ -57,23 +57,23 @@ Route12_EventScript_FishingSign::
 	end
 
 Route12_Text_MonSprawledOutInSlumber::
-	.string "A POKéMON is sprawled out in\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pA POKéMON is sprawled out in\n"
 	.string "a deep and comfortable slumber.$"
 
 Text_SnorlaxWokeUp::
-	.string "SNORLAX woke up!\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pSNORLAX woke up!\p"
 	.string "It attacked in a grumpy rage!$"
 
 Text_SnorlaxReturnedToMountains::
-	.string "SNORLAX calmed down.\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pSNORLAX calmed down.\n"
 	.string "It gave a huge yawn…\l"
 	.string "And returned to the mountains.$"
 
 Text_WantToUsePokeFlute::
-	.string "Want to use the POKé FLUTE?$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWant to use the POKé FLUTE?$"
 
 Text_PlayedPokeFlute::
-	.string "{PLAYER} played the POKé FLUTE.$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\p{PLAYER} played the POKé FLUTE.$"
 
 Route12_Text_NedIntro::
 	.string "Yeah!\n"
@@ -165,7 +165,7 @@ Route12_Text_RouteSign::
 	.string "North to LAVENDER$"
 
 Route12_Text_SportfishingArea::
-	.string "SPORTFISHING AREA$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pSPORTFISHING AREA$"
 
 Route12_Text_JesIntro::
 	.string "JES: If I win, I'm going to\n"
@@ -180,7 +180,7 @@ Route12_Text_JesPostBattle::
 	.string "my love!$"
 
 Route12_Text_JesNotEnoughMons::
-	.string "JES: GIA and I, we'll be\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pJES: GIA and I, we'll be\n"
 	.string "together forever.\p"
 	.string "We won't battle unless you have\n"
 	.string "two POKéMON of your own.$"
@@ -197,6 +197,6 @@ Route12_Text_GiaPostBattle::
 	.string "You ruined this!$"
 
 Route12_Text_GiaNotEnoughMons::
-	.string "GIA: I can't bear to battle\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pGIA: I can't bear to battle\n"
 	.string "without my JES!\p"
 	.string "Don't you have one more POKéMON?$"

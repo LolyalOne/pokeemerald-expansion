@@ -83,7 +83,7 @@ SixIsland_WaterPath_Text_MiuPostBattle::
 	.string "when we lose…$"
 
 SixIsland_WaterPath_Text_MiuNotEnoughMons::
-	.string "MIU: MIA and I are TWINS.\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pMIU: MIA and I are TWINS.\n"
 	.string "We want to battle together.$"
 
 SixIsland_WaterPath_Text_MiaIntro::
@@ -99,12 +99,12 @@ SixIsland_WaterPath_Text_MiaPostBattle::
 	.string "I'm sorry, my POKéMON…$"
 
 SixIsland_WaterPath_Text_MiaNotEnoughMons::
-	.string "MIA: Oh, you only have one\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pMIA: Oh, you only have one\n"
 	.string "POKéMON?\p"
 	.string "Don't you feel lonesome?$"
 
 SixIsland_WaterPath_Text_WantedUltimateHorn::
-	.string "Wanted!\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWanted!\n"
 	.string "The Ultimate Horn!$"
 
 SixIsland_WaterPath_Text_RouteSign::

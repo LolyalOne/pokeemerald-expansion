@@ -20,11 +20,11 @@ SafariZone_East_Text_KeepAnyItemFoundOnSafari::
 	.string "try for all of them at once.$"
 
 SafariZone_East_Text_PrizeInDeepestPartOfSafariZone::
-	.string "Go to the deepest part of the\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pGo to the deepest part of the\n"
 	.string "SAFARI ZONE. You will win a prize!$"
 
 SafariZone_East_Text_MyEeveeEvolvedIntoFlareon::
-	.string "My EEVEE evolved into FLAREON.\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pMy EEVEE evolved into FLAREON.\p"
 	.string "But, a friend's EEVEE turned into a\n"
 	.string "VAPOREON. I wonder why?$"
 

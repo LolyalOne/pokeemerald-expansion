@@ -106,7 +106,7 @@ OneIsland_EventScript_PokemonNetCenterSign::
 	end
 
 OneIsland_Text_BillLetsGoSeeCelio::
-	.string "BILL: Here we are!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pBILL: Here we are!\n"
 	.string "This is ONE ISLAND.\p"
 	.string "There are several islands around\n"
 	.string "here, and this is one of them.\p"
@@ -118,11 +118,11 @@ OneIsland_Text_BillLetsGoSeeCelio::
 	.string "Let's just go see CELIO!$"
 
 Text_WhereDoYouWantToSail::
-	.string "Ahoy, there!\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pAhoy, there!\n"
 	.string "Where do you want to sail?$"
 
 OneIsland_Text_LuckyToHaveCelioHere::
-	.string "Here we are on an island smack in\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHere we are on an island smack in\n"
 	.string "the middle of nowhere.\p"
 	.string "We're lucky to have an upstanding\n"
 	.string "young man like CELIO here.\p"
@@ -161,9 +161,9 @@ OneIsland_Text_PokemonNetCenterSign::
 
 @ Unused
 OneIsland_Text_ReturnToCinnabar::
-	.string "グレンタウンに　もどりますか？$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pグレンタウンに　もどりますか？$"
 
 OneIsland_Text_IsntWarmClimateHereGreat::
-	.string "Hi, sight-seeing, are you?\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHi, sight-seeing, are you?\n"
 	.string "Isn't the warm climate here great?$"
 

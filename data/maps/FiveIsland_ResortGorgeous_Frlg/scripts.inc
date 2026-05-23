@@ -130,9 +130,9 @@ FiveIsland_ResortGorgeous_Text_TobyPostBattle::
 	.string "How nonsensical.$"
 
 FiveIsland_ResortGorgeous_Text_SelphyThanksYouMayGoNow::
-	.string "SELPHY: Thank you.\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pSELPHY: Thank you.\p"
 	.string "You may go now.$"
 
 FiveIsland_ResortGorgeous_Text_SelphysHouse::
-	.string "SELPHY'S HOUSE$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pSELPHY'S HOUSE$"
 

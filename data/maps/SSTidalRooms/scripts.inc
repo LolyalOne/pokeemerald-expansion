@@ -63,7 +63,7 @@ SSTidalRooms_EventScript_Naomi::
 	end
 
 SSTidalRooms_Text_TakeRestOnBed:
-	.string "There's a bed…\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThere's a bed…\n"
 	.string "Let's take a rest.$"
 
 SSTidalRooms_Text_ColtonIntro:
@@ -114,7 +114,7 @@ SSTidalRooms_Text_JedPostBattle:
 	.string "You must be an awesome TRAINER!$"
 
 SSTidalRooms_Text_JedNotEnoughMons:
-	.string "JED: You only have one POKéMON?\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pJED: You only have one POKéMON?\n"
 	.string "Isn't that just too lonesome?$"
 
 SSTidalRooms_Text_LeaIntro:
@@ -130,7 +130,7 @@ SSTidalRooms_Text_LeaPostBattle:
 	.string "You must be an awesome TRAINER!$"
 
 SSTidalRooms_Text_LeaNotEnoughMons:
-	.string "LEA: I wanted to battle…\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pLEA: I wanted to battle…\n"
 	.string "But you don't even have two POKéMON…$"
 
 SSTidalRooms_Text_GarretIntro:
@@ -162,7 +162,7 @@ SSTidalRooms_Text_NaomiPostBattle:
 	.string "side to touring HOENN by ferry.$"
 
 SSTidalRooms_Text_NotSuspiciousTakeThis:
-	.string "Uh… Hi! I… I'm not acting suspicious!\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pUh… Hi! I… I'm not acting suspicious!\n"
 	.string "Uh… You can have this! For free!\p"
 	.string "It… Honestly, I didn't SNATCH it from\n"
 	.string "someone! I'd never do such a thing!\l"

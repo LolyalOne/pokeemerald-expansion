@@ -24,16 +24,16 @@ SaffronCity_House_EventScript_Letter::
 	end
 
 SaffronCity_House_Text_DontLookAtMyLetter::
-	.string "…Thank you for writing.\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\p…Thank you for writing.\n"
 	.string "I hope to see you soon!\p"
 	.string "…Hey!\n"
 	.string "Don't look at my letter!$"
 
 SaffronCity_House_Text_Pidgey::
-	.string "PIDGEY: Kurukkoo!$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pPIDGEY: Kurukkoo!$"
 
 SaffronCity_House_Text_GettingCopycatPokeDoll::
-	.string "The COPYCAT is cute!\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pThe COPYCAT is cute!\n"
 	.string "I'm getting her a POKé DOLL.$"
 
 SaffronCity_House_Text_ExplainPPUp::

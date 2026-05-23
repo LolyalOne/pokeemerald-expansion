@@ -27,7 +27,7 @@ DewfordTown_House2_EventScript_Boy::
 	end
 
 DewfordTown_House2_Text_WantYouToHaveSilkScarf:
-	.string "Gorge your eyes on this!\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pGorge your eyes on this!\p"
 	.string "It's a SILK SCARF. It's right at the\n"
 	.string "cutting edge of fashion, yeah!\p"
 	.string "Oh, I can see your eyes twinkling!\n"
@@ -36,7 +36,7 @@ DewfordTown_House2_Text_WantYouToHaveSilkScarf:
 	.string "Here you go. I want you to have it!$"
 
 DewfordTown_House2_Text_NoRoom:
-	.string "Oh, you don't have room?\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pOh, you don't have room?\p"
 	.string "Now, listen tight, this SCARF is a must-\n"
 	.string "have! Why, I would sell all my items\l"
 	.string "in order to get it!$"
@@ -48,7 +48,7 @@ DewfordTown_House2_Text_ExplainSilkScarf:
 	.string "with almost all POKéMON!$"
 
 DewfordTown_House2_Text_BrawlySoCool:
-	.string "Wow, you bothered to cross the sea\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWow, you bothered to cross the sea\n"
 	.string "to visit DEWFORD?\p"
 	.string "Did you maybe come here because you\n"
 	.string "heard about BRAWLY?\p"

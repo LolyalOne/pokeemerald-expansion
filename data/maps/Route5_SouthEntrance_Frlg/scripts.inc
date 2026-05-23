@@ -84,16 +84,16 @@ Route5_SouthEntrance_Movement_BlockPlayerEntry::
 	step_end
 
 Route5_SouthEntrance_Text_ThirstyOnGuardDuty::
-	.string "I'm on guard duty.\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pI'm on guard duty.\n"
 	.string "Gee, I'm thirsty, though!\p"
 	.string "Oh, wait there, the road's closed.$"
 
 Route5_SouthEntrance_Text_ThatTeaLooksTasty::
-	.string "Oh, that TEA…\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh, that TEA…\n"
 	.string "It looks awfully tasty…$"
 
 Route5_SouthEntrance_Text_ThanksIllShareTeaWithGuards::
-	.string "Huh? I can have this drink?\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pHuh? I can have this drink?\n"
 	.string "Gee, thanks!\l"
 	.string "… …\l"
 	.string "Glug, glug…\l"
@@ -107,5 +107,5 @@ Route5_SouthEntrance_Text_ThanksIllShareTeaWithGuards::
 	.string "guards!$"
 
 Route5_SouthEntrance_Text_HiHowsItGoing::
-	.string "Hi, how's it going?$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHi, how's it going?$"
 

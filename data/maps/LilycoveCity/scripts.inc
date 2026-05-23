@@ -423,7 +423,7 @@ LilycoveCity_Text_MayShoppingLetsBattle:
 	.string "me your POKéMON, {PLAYER}{KUN}.$"
 
 LilycoveCity_Text_MayNotRaisingPokemon:
-	.string "MAY: Oh, why? {PLAYER}{KUN}, haven't you\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pMAY: Oh, why? {PLAYER}{KUN}, haven't you\n"
 	.string "been raising your POKéMON?\p"
 	.string "That's not a very good showing as a\n"
 	.string "TRAINER…$"
@@ -444,14 +444,14 @@ LilycoveCity_Text_MayDefeat:
 	.string "strong, {PLAYER}{KUN}, didn't it?$"
 
 LilycoveCity_Text_MayGoingBackToLittleroot:
-	.string "MAY: I'm thinking of going back to\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pMAY: I'm thinking of going back to\n"
 	.string "LITTLEROOT soon.\p"
 	.string "I've caught a decent group of POKéMON,\n"
 	.string "and my POKéDEX is coming along, so\l"
 	.string "I'm going home to show my dad.$"
 
 LilycoveCity_Text_MayYouGoingToCollectBadges:
-	.string "{PLAYER}{KUN}, what are you going to do?\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\p{PLAYER}{KUN}, what are you going to do?\p"
 	.string "Collect all the GYM BADGES and take\n"
 	.string "the POKéMON LEAGUE challenge?\p"
 	.string "Well, while you're collecting BADGES,\n"
@@ -460,7 +460,7 @@ LilycoveCity_Text_MayYouGoingToCollectBadges:
 	.string "See you!$"
 
 LilycoveCity_Text_MayYouGoingToPokemonLeague:
-	.string "{PLAYER}{KUN}, what are you going to do?\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p{PLAYER}{KUN}, what are you going to do?\p"
 	.string "Are you taking the POKéMON LEAGUE\n"
 	.string "challenge?\p"
 	.string "Or, are you going to complete your\n"
@@ -488,7 +488,7 @@ LilycoveCity_Text_BrendanShoppingLetsBattle:
 	.string "raising POKéMON better?$"
 
 LilycoveCity_Text_BrendanNoConfidence:
-	.string "BRENDAN: Oh, what's the matter?\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pBRENDAN: Oh, what's the matter?\n"
 	.string "Don't have the confidence?$"
 
 LilycoveCity_Text_BrendanBattleMe:
@@ -506,21 +506,21 @@ LilycoveCity_Text_BrendanDefeat:
 	.string "on you as a TRAINER…$"
 
 LilycoveCity_Text_BrendanGoingBackToLittleroot:
-	.string "BRENDAN: I…\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pBRENDAN: I…\n"
 	.string "I plan on going home to LITTLEROOT.\p"
 	.string "You know I'm helping out my dad on his\n"
 	.string "POKéDEX. It's coming together pretty\l"
 	.string "decently, so I should go show him.$"
 
 LilycoveCity_Text_BrendanYouGoingToCollectBadges:
-	.string "{PLAYER}, what are you going to do?\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\p{PLAYER}, what are you going to do?\p"
 	.string "Collect all the GYM BADGES and take\n"
 	.string "the POKéMON LEAGUE challenge?\p"
 	.string "Maybe I'll do that, too…\p"
 	.string "Well, anyway, hang in there!$"
 
 LilycoveCity_Text_BrendanYouGoingToPokemonLeague:
-	.string "{PLAYER}, what are you going to do?\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\p{PLAYER}, what are you going to do?\p"
 	.string "Since you're that strong, are you\n"
 	.string "taking the POKéMON LEAGUE challenge?\p"
 	.string "Heh, even me--if I trained my POKéMON\n"
@@ -543,14 +543,14 @@ LilycoveCity_Text_BrendanYouGoingToBattleFrontier:
 	.string "Well, anyway, hang in there!$"
 
 LilycoveCity_Text_MovedLootIntoHideoutToday:
-	.string "Fufufu…\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pFufufu…\p"
 	.string "We moved more loot into our secret\n"
 	.string "HIDEOUT today…\p"
 	.string "Wh-who are you?!\n"
 	.string "I was just talking to myself!$"
 
 LilycoveCity_Text_ChanceToDoBigThings:
-	.string "I'm just a GRUNT, so I don't know what\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI'm just a GRUNT, so I don't know what\n"
 	.string "the BOSS is thinking…\p"
 	.string "But being on TEAM AQUA, I know I'll get\n"
 	.string "the chance to do big things!\p"
@@ -558,18 +558,18 @@ LilycoveCity_Text_ChanceToDoBigThings:
 	.string "I was just talking to myself!$"
 
 LilycoveCity_Text_DontGoNearCaveInCove:
-	.string "Hey, you!\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pHey, you!\p"
 	.string "Don't go near the cave in the cove!\p"
 	.string "Why? You don't need a reason why!\n"
 	.string "I'm an adult, so you just listen to me!$"
 
 LilycoveCity_Text_IfWorldBecomesOurs:
-	.string "If this whole wide world becomes ours,\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pIf this whole wide world becomes ours,\n"
 	.string "TEAM AQUA's, it will be a happier\l"
 	.string "place for POKéMON, too.$"
 
 LilycoveCity_Text_WailmerLeapOutOfWater:
-	.string "There! WAILMER!\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThere! WAILMER!\n"
 	.string "Leap out of the water now!$"
 
 LilycoveCity_Text_GetLostMessingUpTraining:
@@ -578,24 +578,24 @@ LilycoveCity_Text_GetLostMessingUpTraining:
 	.string "so can you, like, get lost?$"
 
 LilycoveCity_Text_ContestHallInTown:
-	.string "There's a POKéMON CONTEST HALL\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThere's a POKéMON CONTEST HALL\n"
 	.string "right in this here town. \p"
 	.string "That means well-raised POKéMON will\n"
 	.string "come from all over the country.\p"
 	.string "My heart swells with excitement!$"
 
 LilycoveCity_Text_StrangeCaveInCove:
-	.string "Have you seen that strange cave in\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHave you seen that strange cave in\n"
 	.string "the cove at the edge of town?$"
 
 LilycoveCity_Text_GoingToMoveDeleterForHMs:
-	.string "I'm going to teach my POKéMON some new\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI'm going to teach my POKéMON some new\n"
 	.string "moves for entering a CONTEST.\p"
 	.string "So, I'm going to see the MOVE DELETER\n"
 	.string "and make it forget HM moves.$"
 
 LilycoveCity_Text_ImFromKanto:
-	.string "I came from KANTO.\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI came from KANTO.\p"
 	.string "The HOENN region is beautiful with\n"
 	.string "all its water and verdant nature.\p"
 	.string "Hunh? Wait a second…\p"
@@ -603,27 +603,27 @@ LilycoveCity_Text_ImFromKanto:
 	.string "only in this area?$"
 
 LilycoveCity_Text_TeamAquaBeenTrainingWailmer:
-	.string "TEAM AQUA's been training their\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pTEAM AQUA's been training their\n"
 	.string "WAILMER in the cove.\p"
 	.string "We SAILORS can't get our boats out\n"
 	.string "to sea with them in the way!$"
 
 LilycoveCity_Text_SomeonePuntedTeamAquaOut:
-	.string "Ahoy, did you know?\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pAhoy, did you know?\p"
 	.string "Someone punted TEAM AQUA out of\n"
 	.string "the way for us!\p"
 	.string "That got the WAILMER out of the cove,\n"
 	.string "so we can get our boats out again.$"
 
 LilycoveCity_Text_SomeoneStoleMyPokemon:
-	.string "I was taking a relaxing snooze at the\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI was taking a relaxing snooze at the\n"
 	.string "seaside inn to the sound of waves…\p"
 	.string "When someone stole my POKéMON!\p"
 	.string "Who's the abductor?\n"
 	.string "TEAM AQUA? Is it TEAM AQUA?$"
 
 LilycoveCity_Text_MissingPokemonCameBack:
-	.string "My missing POKéMON…\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pMy missing POKéMON…\n"
 	.string "It came back without me noticing!$"
 
 LilycoveCity_Text_ImArtDealer:
@@ -634,19 +634,19 @@ LilycoveCity_Text_ImArtDealer:
 	.string "magnificent works on exhibit…$"
 
 LilycoveCity_Text_SeaRemainsForeverYoung:
-	.string "Even as we grow old and wrinkled,\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pEven as we grow old and wrinkled,\n"
 	.string "the sea remains forever young with\l"
 	.string "the vivid brilliance of life…\p"
 	.string "Fwohoho fwohohohoho…$"
 
 LilycoveCity_Text_SixtyYearsAgoHusbandProposed:
-	.string "It was sixty years ago that my husband\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pIt was sixty years ago that my husband\n"
 	.string "proposed to me here.\l"
 	.string "The sea remains as beautiful as ever.\p"
 	.string "Mufufufu mufufufufufu…$"
 
 LilycoveCity_Text_TeamAquaRenovatedCavern:
-	.string "Hm, you know of the peculiar cavern\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHm, you know of the peculiar cavern\n"
 	.string "in this cove?\p"
 	.string "That had been a natural formation,\n"
 	.string "but then that TEAM AQUA lot came\l"
@@ -657,7 +657,7 @@ LilycoveCity_Text_TeamAquaRenovatedCavern:
 	.string "don't match at all!$"
 
 LilycoveCity_Text_TeamAquaLotGoneForGood:
-	.string "That cave in the cove…\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThat cave in the cove…\p"
 	.string "I didn't notice it right away,\n"
 	.string "but it's completely empty now.\p"
 	.string "That TEAM AQUA lot, they must\n"
@@ -716,11 +716,11 @@ LilycoveCity_Text_MoveDeletersHouseSign:
 	.string "“Unwanted POKéMON moves deleted.”$"
 
 LilycoveCity_Text_DoYouKnowAboutBerryBlender:
-	.string "Do you know about the machine\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pDo you know about the machine\n"
 	.string "BERRY BLENDER?$"
 
 LilycoveCity_Text_FasterSpinBetterPokeblocks:
-	.string "People have to work together to get it\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pPeople have to work together to get it\n"
 	.string "to spin faster.\p"
 	.string "The faster you can make it spin, the\n"
 	.string "better {POKEBLOCK}S you can get, I've heard.$"
@@ -732,17 +732,17 @@ LilycoveCity_Text_ExplainBerryBlender:
 	.string "its condition will improve by a lot.$"
 
 LilycoveCity_Text_HeardTowerCalledSkyPillar:
-	.string "I heard there's a tower somewhere out\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI heard there's a tower somewhere out\n"
 	.string "on the sea routes.\p"
 	.string "It's called the SKY PILLAR, I hear.$"
 
 LilycoveCity_Text_SawTallTowerOnRoute131:
-	.string "I saw this tall tower somewhere\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pI saw this tall tower somewhere\n"
 	.string "around ROUTE 131.\p"
 	.string "Could that possibly be…?$"
 
 LilycoveCity_Text_JustArrivedAndSawRarePokemon:
-	.string "We just arrived here on our\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWe just arrived here on our\n"
 	.string "honeymoon vacation.\p"
 	.string "We happened to see a DRAGON-type\n"
 	.string "POKéMON flying way up in the sky.\p"
@@ -750,7 +750,7 @@ LilycoveCity_Text_JustArrivedAndSawRarePokemon:
 	.string "the HOENN region?$"
 
 LilycoveCity_Text_HoneymoonVowToSeeRarePokemon:
-	.string "On our honeymoon, we vowed to see as\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pOn our honeymoon, we vowed to see as\n"
 	.string "many rare POKéMON as we can.\p"
 	.string "So we were delighted to see a rare\n"
 	.string "POKéMON as soon as we arrived.\p"

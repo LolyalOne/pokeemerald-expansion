@@ -113,11 +113,11 @@ PewterCity_Gym_Text_BrockDefeat::
 	.string "move FLASH to use it.$"
 
 PewterCity_Gym_Text_TakeThisWithYou::
-	.string "Wait!\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWait!\n"
 	.string "Take this with you.$"
 
 PewterCity_Gym_Text_ReceivedTM39FromBrock::
-	.string "{PLAYER} received TM39\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p{PLAYER} received TM39\n"
 	.string "from BROCK.$"
 
 PewterCity_Gym_Text_ExplainTM39::
@@ -143,7 +143,7 @@ PewterCity_Gym_Text_BrockPostBattle::
 	.string "your abilities.$"
 
 PewterCity_Gym_Text_DontHaveRoomForThis::
-	.string "You don't have room for this.$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pYou don't have room for this.$"
 
 PewterCity_Gym_Text_LiamIntro::
 	.string "Stop right there, kid!\p"
@@ -160,7 +160,7 @@ PewterCity_Gym_Text_LiamPostBattle::
 	.string "…But not as hot as BROCK!$"
 
 PewterCity_Gym_Text_LetMeTakeYouToTheTop::
-	.string "Hiya!\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pHiya!\n"
 	.string "Do you want to dream big?\p"
 	.string "Do you dare to dream of becoming\n"
 	.string "the POKéMON champ?\p"
@@ -169,11 +169,11 @@ PewterCity_Gym_Text_LetMeTakeYouToTheTop::
 	.string "Let me take you to the top!$"
 
 PewterCity_Gym_Text_LetsGetHappening::
-	.string "All right!\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pAll right!\n"
 	.string "Let's get happening!$"
 
 PewterCity_Gym_Text_TryDifferentPartyOrders::
-	.string "The first POKéMON out in a match is\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThe first POKéMON out in a match is\n"
 	.string "at the left of the POKéMON LIST.\p"
 	.string "By changing the order of POKéMON,\n"
 	.string "you may gain an advantage.\p"
@@ -181,11 +181,11 @@ PewterCity_Gym_Text_TryDifferentPartyOrders::
 	.string "opponent's party.$"
 
 PewterCity_Gym_Text_ItsFreeLetsGetHappening::
-	.string "It's a free service!\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pIt's a free service!\n"
 	.string "Let's get happening!$"
 
 PewterCity_Gym_Text_YoureChampMaterial::
-	.string "Just as I thought!\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pJust as I thought!\n"
 	.string "You're POKéMON champ material!$"
 
 PewterCity_Gym_Text_GymStatue::

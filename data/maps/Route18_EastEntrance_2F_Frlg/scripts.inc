@@ -44,12 +44,12 @@ Route18_EastEntrance_2F_EventScript_AlreadyTraded::
 	end
 
 Route18_EastEntrance_2F_Text_PalletTownInWest::
-	.string "Let's see what the binoculars have\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pLet's see what the binoculars have\n"
 	.string "to show…\p"
 	.string "PALLET TOWN is in the west.$"
 
 Route18_EastEntrance_2F_Text_PeopleSwimming::
-	.string "Let's see what the binoculars have\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pLet's see what the binoculars have\n"
 	.string "to show…\p"
 	.string "There are people swimming.$"
 

@@ -264,46 +264,46 @@ Route119_WeatherInstitute_2F_Text_ShellyPostBattle:
 	.string "in our business, anyway?$"
 
 Route119_WeatherInstitute_2F_Text_TeamMagmaJustPassedBy:
-	.string "We have a situation here!\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pWe have a situation here!\p"
 	.string "A TEAM MAGMA mob just passed\n"
 	.string "the WEATHER INSTITUTE.\p"
 	.string "They appear to be headed for\n"
 	.string "MT. PYRE!$"
 
 Route119_WeatherInstitute_2F_Text_WeHaveToHurryToMtPyre:
-	.string "What?!\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pWhat?!\p"
 	.string "We can't waste any more time here!\n"
 	.string "We have to hurry to MT. PYRE, too!\p"
 	.string "Ahahahaha!\n"
 	.string "TEAM MAGMA, just you wait!$"
 
 Route119_WeatherInstitute_2F_Text_ThanksPleaseTakePokemon:
-	.string "Thanks!\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pThanks!\n"
 	.string "Thanks to you, we're safe!\p"
 	.string "It might be an odd way of thanking you,\n"
 	.string "but take this POKéMON.$"
 
 @ Unused
 Route119_WeatherInstitute_2F_Text_NoRoomForPokemon:
-	.string "Hm? You don't seem to have any room\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pHm? You don't seem to have any room\n"
 	.string "for this POKéMON.$"
 
 Route119_WeatherInstitute_2F_Text_PlayerReceivedCastform:
 	.string "{PLAYER} received CASTFORM!$"
 
 Route119_WeatherInstitute_2F_Text_PokemonChangesWithWeather:
-	.string "That POKéMON changes shape according\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThat POKéMON changes shape according\n"
 	.string "to the weather conditions.\p"
 	.string "There're plenty of them in the\n"
 	.string "INSTITUTE--go ahead and take it.$"
 
 Route119_WeatherInstitute_2F_Text_ChangingWeatherRidiculous:
-	.string "I've been researching rain for many\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI've been researching rain for many\n"
 	.string "years, but it's ridiculous to think that\l"
 	.string "humans can freely change the weather.$"
 
 Route119_WeatherInstitute_2F_Text_GroudonWeather:
-	.string "I track weather patterns over\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI track weather patterns over\n"
 	.string "the HOENN region.\p"
 	.string "Presently, a drought has been recorded\n"
 	.string "in {STR_VAR_1}.\p"
@@ -311,7 +311,7 @@ Route119_WeatherInstitute_2F_Text_GroudonWeather:
 	.string "{STR_VAR_1}…$"
 
 Route119_WeatherInstitute_2F_Text_KyogreWeather:
-	.string "I track weather patterns over\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI track weather patterns over\n"
 	.string "the HOENN region.\p"
 	.string "Presently, heavy rainfall has been\n"
 	.string "recorded over {STR_VAR_1}.\p"
@@ -319,7 +319,7 @@ Route119_WeatherInstitute_2F_Text_KyogreWeather:
 	.string "{STR_VAR_1}…$"
 
 Route119_WeatherInstitute_2F_Text_NoAbnormalWeather:
-	.string "Abnormal weather conditions are\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pAbnormal weather conditions are\n"
 	.string "no longer being reported.\p"
 	.string "The occasional rainfall is a blessing,\n"
 	.string "really.$"

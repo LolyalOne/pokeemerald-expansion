@@ -14,18 +14,18 @@ CeladonCity_House1_EventScript_Rocket2::
 	end
 
 CeladonCity_House1_Text_SlotsReelInTheDough::
-	.string "Hehehe!\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHehehe!\p"
 	.string "The slots just reel in the dough,\n"
 	.string "big-time!$"
 
 CeladonCity_House1_Text_ShippedMonsAsSlotPrizes::
-	.string "CHIEF!\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pCHIEF!\p"
 	.string "We just shipped two thousand\n"
 	.string "more POKéMON as slot prizes\l"
 	.string "again today!$"
 
 CeladonCity_House1_Text_DontTouchGameCornerPoster::
-	.string "Don't touch the poster at the GAME\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pDon't touch the poster at the GAME\n"
 	.string "CORNER!\p"
 	.string "There's no secret switch behind it!$"
 

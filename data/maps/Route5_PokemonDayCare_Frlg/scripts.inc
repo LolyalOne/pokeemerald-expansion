@@ -4,38 +4,38 @@ Route5_PokemonDayCare_Frlg_MapScripts::
 	.byte 0
 
 Route5_PokemonDayCare_Text_WantMeToRaiseMon::
-	.string "I run the DAY-CARE service.\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI run the DAY-CARE service.\p"
 	.string "Would you like me to raise one of\n"
 	.string "your POKéMON?$"
 
 Route5_PokemonDayCare_Text_ComeAgain::
-	.string "Come again.$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pCome again.$"
 
 Route5_PokemonDayCare_Text_WhichMonShouldIRaise::
-	.string "Which POKéMON should I raise?$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWhich POKéMON should I raise?$"
 
 Route5_PokemonDayCare_Text_ComeAnytimeYouLike::
-	.string "Fine.\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pFine.\n"
 	.string "Come anytime you like.$"
 
 Route5_PokemonDayCare_Text_LookAfterMonForAWhile::
-	.string "Fine, I'll look after your\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pFine, I'll look after your\n"
 	.string "{STR_VAR_1} for a while.$"
 
 Route5_PokemonDayCare_Text_ComeSeeMeInAWhile::
-	.string "Come see me in a while.$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pCome see me in a while.$"
 
 Route5_PokemonDayCare_Text_MonNeedsToSpendMoreTime::
-	.string "You're back already?\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pYou're back already?\p"
 	.string "Your {STR_VAR_1} needs to spend\n"
 	.string "some more time with me.$"
 
 Route5_PokemonDayCare_Text_OweMeXForMonsReturn::
-	.string "You owe me ¥{STR_VAR_2} for the return\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pYou owe me ¥{STR_VAR_2} for the return\n"
 	.string "of this POKéMON.$"
 
 Route5_PokemonDayCare_Text_ThankYouHeresMon::
-	.string "Thank you!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThank you!\n"
 	.string "Here's your POKéMON.$"
 
 Route5_PokemonDayCare_Text_PlayerGotMonBack::
@@ -43,7 +43,7 @@ Route5_PokemonDayCare_Text_PlayerGotMonBack::
 	.string "from the DAY-CARE MAN.$"
 
 Route5_PokemonDayCare_Text_OnlyHaveOneMonWithYou::
-	.string "Oh? You only have one POKéMON\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pOh? You only have one POKéMON\n"
 	.string "with you.$"
 
 Route5_PokemonDayCare_Text_WhatWillYouBattleWith::
@@ -51,23 +51,23 @@ Route5_PokemonDayCare_Text_WhatWillYouBattleWith::
 	.string "what will you battle with?$"
 
 Route5_PokemonDayCare_Text_MonHasGrownByXLevels::
-	.string "Your {STR_VAR_1} has grown a lot.\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pYour {STR_VAR_1} has grown a lot.\n"
 	.string "Yes, quite a lot, I'd say.\p"
 	.string "Let me see…\n"
 	.string "By level, it's grown by {STR_VAR_2}.\p"
 	.string "Aren't I great?$"
 
 Route5_PokemonDayCare_Text_YouveGotNoRoomForIt::
-	.string "You can't take this POKéMON back\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYou can't take this POKéMON back\n"
 	.string "if you've got no room for it.$"
 
 Route5_PokemonDayCare_Text_DontHaveEnoughMoney::
-	.string "You don't have enough money.$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pYou don't have enough money.$"
 
 Route5_PokemonDayCare_Text_WantMeToTakeALookAtYours::
-	.string "きみの\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pきみの\n"
 	.string "みてみるかね？$"
 
 Route5_PokemonDayCare_Text_CantAcceptMonWithHM::
-	.string "わるいけど　ひでんのわざを　もった\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pわるいけど　ひでんのわざを　もった\n"
 	.string "ポケモンは　あずかれないなぁ$"

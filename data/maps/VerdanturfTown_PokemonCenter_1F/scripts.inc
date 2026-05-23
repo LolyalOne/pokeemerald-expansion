@@ -25,7 +25,7 @@ VerdanturfTown_PokemonCenter_1F_EventScript_ExpertM::
 	end
 
 VerdanturfTown_PokemonCenter_1F_Text_FaithInYourPokemon:
-	.string "You can't consider yourself a real\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pYou can't consider yourself a real\n"
 	.string "TRAINER if you don't have faith\l"
 	.string "in your POKéMON.\p"
 	.string "Only those people who can believe\n"

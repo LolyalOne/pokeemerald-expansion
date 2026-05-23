@@ -15,7 +15,7 @@ PetalburgCity_House1_Text_TravelingIsWonderful:
 	.string "and the mountains!$"
 
 PetalburgCity_House1_Text_GoOnAdventure:
-	.string "Sigh…\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pSigh…\p"
 	.string "I wish I could go on an adventure\n"
 	.string "with some POKéMON…\p"
 	.string "Crawl through some damp grass…\n"

@@ -267,7 +267,7 @@ PokemonTower_7F_Text_Grunt3PostBattle::
 	.string "You're not getting away with this!$"
 
 PokemonTower_7F_Text_MrFujiThankYouFollowMe::
-	.string "MR. FUJI: Heh?\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pMR. FUJI: Heh?\n"
 	.string "You came to save me?\p"
 	.string "Thank you. But, I came here of my\n"
 	.string "own free will.\p"

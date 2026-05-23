@@ -318,7 +318,7 @@ LilycoveCity_ContestHall_Text_TodayWonSmartnessContest:
 	.string "My abilities scare even me…$"
 
 LilycoveCity_ContestHall_Text_EnteredBunchOfContests:
-	.string "I've entered a bunch of CONTESTS,\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pI've entered a bunch of CONTESTS,\n"
 	.string "so I'm seeing how things work.\p"
 	.string "If you're in a COOLNESS CONTEST,\n"
 	.string "cool moves go over as appeals.\p"
@@ -332,7 +332,7 @@ LilycoveCity_ContestHall_Text_ManWhoWonEarlierHadPokeblocks:
 	.string "of those things?$"
 
 LilycoveCity_ContestHall_Text_IsntThisPlaceHumongous:
-	.string "Whoa, isn't this place humongous!\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pWhoa, isn't this place humongous!\p"
 	.string "The tension in the air… It's not\n"
 	.string "like a CONTEST hall in the sticks.$"
 
@@ -343,12 +343,12 @@ LilycoveCity_ContestHall_Text_GiveItBestSmartAppeal:
 	.string "Let's appeal!$"
 
 LilycoveCity_ContestHall_Text_AreYouEnjoyingThisContest:
-	.string "JUDGE: Are you enjoying this CONTEST?\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pJUDGE: Are you enjoying this CONTEST?\p"
 	.string "Come back with three friends, and\n"
 	.string "all of you may enter a CONTEST!$"
 
 LilycoveCity_ContestHall_Text_EnteredWrongContest:
-	.string "Ayayayay…\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pAyayayay…\n"
 	.string "I entered the wrong CONTEST.\p"
 	.string "I entered this tough POKéMON in\n"
 	.string "the SMARTNESS CONTEST…\p"
@@ -369,17 +369,17 @@ LilycoveCity_ContestHall_Text_IfMonPullsSmartMoveNext:
 	.string "the audience's excitement will peak!$"
 
 LilycoveCity_ContestHall_Text_DontAppreciateCuteLeechLife:
-	.string "Oh, dear, no!\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pOh, dear, no!\p"
 	.string "My darling ZUBAT's LEECH LIFE is so\n"
 	.string "cute I kept using it over and over!\p"
 	.string "But these mean people don't appreciate\n"
 	.string "it at all!$"
 
 LilycoveCity_ContestHall_Text_YoureBeautifulGrandpa:
-	.string "Kiyaaah! You're beautiful, Grandpa!$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pKiyaaah! You're beautiful, Grandpa!$"
 
 LilycoveCity_ContestHall_Text_AllSeemToUseDifferentMoves:
-	.string "Even when TRAINERS enter the same\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pEven when TRAINERS enter the same\n"
 	.string "kind of POKéMON, they all seem to use\l"
 	.string "different moves for appeals.\p"
 	.string "It's just like the way people have\n"
@@ -396,22 +396,22 @@ LilycoveCity_ContestHall_Text_StillLoveSmartnessContests:
 	.string "It's so… So… Cool.$"
 
 LilycoveCity_ContestHall_Text_AreYouEnteringBeautyContest:
-	.string "MC: Are you entering the BEAUTY\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pMC: Are you entering the BEAUTY\n"
 	.string "CONTEST, too? Good luck!$"
 
 LilycoveCity_ContestHall_Text_EveryPokemonPristineBeauty:
-	.string "JUDGE: Ah, every POKéMON here is\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pJUDGE: Ah, every POKéMON here is\n"
 	.string "a model of pristine beauty!\p"
 	.string "Why, I almost forgot to score them!$"
 
 LilycoveCity_ContestHall_Text_EyesWillBeGluedToMyBeauty:
-	.string "A POKéMON this beautiful…\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pA POKéMON this beautiful…\n"
 	.string "There isn't another one like it.\p"
 	.string "Everyone's eyes will be glued to\n"
 	.string "my beauty.$"
 
 LilycoveCity_ContestHall_Text_OverdidGrooming:
-	.string "Waaaah!\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pWaaaah!\p"
 	.string "I brushed and groomed my POKéMON\n"
 	.string "carefully for this CONTEST…\p"
 	.string "But I overdid it…\n"
@@ -425,7 +425,7 @@ LilycoveCity_ContestHall_Text_JudgeWontSeeAuroraBeam:
 	.string "That'll be meaningless, then!$"
 
 LilycoveCity_ContestHall_Text_PokemonLooksLikeYoungerMe:
-	.string "This pretty POKéMON looks just like\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pThis pretty POKéMON looks just like\n"
 	.string "me when I was younger.\p"
 	.string "Right when I said that, my husband\n"
 	.string "spewed the coffee he was drinking.\p"
@@ -437,7 +437,7 @@ LilycoveCity_ContestHall_Text_WinBeautyContestMakesMeHappy:
 	.string "happy. More than usual, anyway.$"
 
 LilycoveCity_ContestHall_Text_GanderAtAllThosePrettyPokemon:
-	.string "Wahahahah!\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWahahahah!\p"
 	.string "Will you take a gander at all those\n"
 	.string "pretty POKéMON!\l"
 	.string "I just love this sort of glitz!$"
@@ -449,19 +449,19 @@ LilycoveCity_ContestHall_Text_CantWinOnBeautyAlone:
 	.string "it's nice and glossy like mine.$"
 
 LilycoveCity_ContestHall_Text_InTheMiddleOfContest:
-	.string "MC: Uh-oh! Hello!\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pMC: Uh-oh! Hello!\n"
 	.string "We're in the middle of a CONTEST!\p"
 	.string "Please enter at our registration\n"
 	.string "counter and come out, okay?$"
 
 LilycoveCity_ContestHall_Text_SuchCharmingCuteAppeals:
-	.string "JUDGE: Oh, such charming and cute\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pJUDGE: Oh, such charming and cute\n"
 	.string "appeals!\p"
 	.string "Oh, my goodness! What a perfectly\n"
 	.string "adorable WATER SPORT appeal!$"
 
 LilycoveCity_ContestHall_Text_MyAzurillWasDistracted:
-	.string "Oh, no… My sweet AZURILL was\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh, no… My sweet AZURILL was\n"
 	.string "distracted by another POKéMON.$"
 
 LilycoveCity_ContestHall_Text_NeverWonBattleButContest:
@@ -469,42 +469,42 @@ LilycoveCity_ContestHall_Text_NeverWonBattleButContest:
 	.string "but put it in a CONTEST and look out!$"
 
 LilycoveCity_ContestHall_Text_PetalDanceIsMarvel:
-	.string "My POKéMON's PETAL DANCE is a marvel\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pMy POKéMON's PETAL DANCE is a marvel\n"
 	.string "of elegance.\p"
 	.string "I won't let anyone disturb its\n"
 	.string "performance.$"
 
 LilycoveCity_ContestHall_Text_MyMonAppealSoMuchCuter:
-	.string "Everyone's POKéMON are very cute.\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pEveryone's POKéMON are very cute.\p"
 	.string "However, if my POKéMON were to make\n"
 	.string "a cute appeal…\p"
 	.string "I'm sure that it would be so much \n"
 	.string "cuter than the others.$"
 
 LilycoveCity_ContestHall_Text_MyChildIsInContest:
-	.string "My child is in this CONTEST.$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pMy child is in this CONTEST.$"
 
 LilycoveCity_ContestHall_Text_ComeOnDear:
-	.string "Come on, dear. Go for it!\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pCome on, dear. Go for it!\n"
 	.string "Your POKéMON is the best!$"
 
 LilycoveCity_ContestHall_Text_ThatGirlThereIsCutest:
-	.string "I think that girl over there is\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pI think that girl over there is\n"
 	.string "the cutest of the lot.\p"
 	.string "What's that? They're judging\n"
 	.string "POKéMON by their looks?$"
 
 LilycoveCity_ContestHall_Text_WantCuteMonOfMyOwn:
-	.string "Ohh, seeing all these cute POKéMON,\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOhh, seeing all these cute POKéMON,\n"
 	.string "they make we want to get my own!\p"
 	.string "I'm going to go catch some!$"
 
 LilycoveCity_ContestHall_Text_BeautyContestStage:
-	.string "BEAUTY CONTEST STAGE\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pBEAUTY CONTEST STAGE\n"
 	.string "BE ALLURED BY BEAUTIFUL POKéMON!$"
 
 LilycoveCity_ContestHall_Text_CuteContestStage:
-	.string "CUTENESS CONTEST STAGE\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pCUTENESS CONTEST STAGE\n"
 	.string "BE CHARMED BY CUTE POKéMON!$"
 
 LilycoveCity_ContestHall_Text_SmartContestStage:

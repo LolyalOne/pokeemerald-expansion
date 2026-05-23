@@ -52,15 +52,15 @@ CeladonCity_Condominiums_3F_EventScript_Computer3::
 	end
 
 CeladonCity_Condominiums_3F_Text_ImTheProgrammer::
-	.string "Me?\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pMe?\n"
 	.string "I'm the programmer!$"
 
 CeladonCity_Condominiums_3F_Text_ImTheGraphicArtist::
-	.string "I'm the graphic artist!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI'm the graphic artist!\n"
 	.string "I drew you!$"
 
 CeladonCity_Condominiums_3F_Text_IWroteTheStory::
-	.string "I wrote the story!\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pI wrote the story!\n"
 	.string "Isn't ERIKA cute?\p"
 	.string "I like MISTY a lot, too!\n"
 	.string "Oh, and SABRINA, I like her!$"
@@ -73,23 +73,23 @@ CeladonCity_Condominiums_3F_Text_ImGameDesignerShowMeFinishedPokedex::
 	.string "When you finish, come tell me!$"
 
 CeladonCity_Condominiums_3F_Text_CompletedPokedexCongratulations::
-	.string "Wow! Excellent!\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWow! Excellent!\n"
 	.string "You completed your POKéDEX!\l"
 	.string "Congratulations!\l"
 	.string "…$"
 
 CeladonCity_Condominiums_3F_Text_ItsTheGameProgram::
-	.string "It's the game program! Messing with\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pIt's the game program! Messing with\n"
 	.string "it could bug out the game!$"
 
 CeladonCity_Condominiums_3F_Text_SomeonesPlayingGame::
-	.string "Someone's playing a game instead of\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pSomeone's playing a game instead of\n"
 	.string "working!$"
 
 CeladonCity_Condominiums_3F_Text_ItsScriptBetterNotLookAtEnding::
-	.string "It's the script!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pIt's the script!\n"
 	.string "Better not look at the ending!$"
 
 CeladonCity_Condominiums_3F_Text_GameFreakDevelopmentRoom::
-	.string "GAME FREAK Development Room$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pGAME FREAK Development Room$"
 

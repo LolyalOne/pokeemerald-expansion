@@ -45,14 +45,14 @@ SilphCo_9F_EventScript_Grunt2::
 	end
 
 SilphCo_9F_Text_YouShouldTakeQuickNap::
-	.string "You look tired.\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pYou look tired.\n"
 	.string "You should take a quick nap.$"
 
 SilphCo_9F_Text_DontGiveUp::
-	.string "Don't give up!$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pDon't give up!$"
 
 SilphCo_9F_Text_ThankYouSoMuch::
-	.string "Thank you so much.$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThank you so much.$"
 
 SilphCo_9F_Text_Grunt1Intro::
 	.string "Your POKéMON seem to adore you,\n"

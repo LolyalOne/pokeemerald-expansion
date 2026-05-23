@@ -68,7 +68,7 @@ Route21_North_Text_LilPostBattle::
 	.string "Can't we go home already?$"
 
 Route21_North_Text_LilNotEnoughMons::
-	.string "LIL: Huh? A battle?\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pLIL: Huh? A battle?\n"
 	.string "I can't be bothered to do it alone.\l"
 	.string "Bring two POKéMON, won't you?$"
 
@@ -86,5 +86,5 @@ Route21_North_Text_IanPostBattle::
 	.string "like this!$"
 
 Route21_North_Text_IanNotEnoughMons::
-	.string "IAN: We want a two-on-two battle.\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pIAN: We want a two-on-two battle.\n"
 	.string "So can you bring two POKéMON?$"

@@ -93,12 +93,12 @@ Route10_Text_CarolPostBattle::
 	.string "with a floral pattern!$"
 
 Route10_Text_RockTunnelDetourToLavender::
-	.string "ROCK TUNNEL\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pROCK TUNNEL\n"
 	.string "Detour to LAVENDER TOWN$"
 
 Route10_Text_RockTunnel::
-	.string "ROCK TUNNEL$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pROCK TUNNEL$"
 
 Route10_Text_PowerPlant::
-	.string "POWER PLANT$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pPOWER PLANT$"
 

@@ -43,7 +43,7 @@ Route110_TrickHousePuzzle6_EventScript_Sebastian::
 	end
 
 Route110_TrickHousePuzzle6_Text_WroteSecretCodeLockOpened:
-	.string "{PLAYER} wrote down the secret code\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\p{PLAYER} wrote down the secret code\n"
 	.string "on the door.\p"
 	.string "“TRICK MASTER is my life.”\n"
 	.string "… … … … … … … …\p"

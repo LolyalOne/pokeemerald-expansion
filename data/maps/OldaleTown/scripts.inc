@@ -340,7 +340,7 @@ OldaleTown_Movement_ReturnToOriginalPosition:
 	step_end
 
 OldaleTown_Text_SavingMyProgress:
-	.string "I want to take a rest, so I'm saving my\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI want to take a rest, so I'm saving my\n"
 	.string "progress.$"
 
 OldaleTown_Text_IWorkAtPokemonMart:
@@ -357,7 +357,7 @@ OldaleTown_Text_ThisIsAPokemonMart:
 	.string "a promotional item.$"
 
 OldaleTown_Text_PotionExplanation:
-	.string "A POTION can be used anytime, so it's\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pA POTION can be used anytime, so it's\n"
 	.string "even more useful than a POKéMON CENTER\l"
 	.string "in certain situations.$"
 
@@ -370,24 +370,24 @@ OldaleTown_Text_WaitDontComeInHere:
 	.string "them, okay?$"
 
 OldaleTown_Text_DiscoveredFootprints:
-	.string "I just discovered the footprints of\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pI just discovered the footprints of\n"
 	.string "a rare POKéMON!\p"
 	.string "Wait until I finish sketching\n"
 	.string "them, okay?$"
 
 OldaleTown_Text_FinishedSketchingFootprints:
-	.string "I finished sketching the footprints of\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI finished sketching the footprints of\n"
 	.string "a rare POKéMON.\p"
 	.string "But it turns out they were only my\n"
 	.string "own footprints…$"
 
 OldaleTown_Text_MayLetsGoBack:
-	.string "MAY: {PLAYER}{KUN}!\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pMAY: {PLAYER}{KUN}!\n"
 	.string "Over here!\l"
 	.string "Let's hurry home!$"
 
 OldaleTown_Text_BrendanLetsGoBack:
-	.string "BRENDAN: I'm heading back to my dad's\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pBRENDAN: I'm heading back to my dad's\n"
 	.string "LAB now.\l"
 	.string "{PLAYER}, you should hustle back, too.$"
 

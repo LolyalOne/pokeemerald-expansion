@@ -60,7 +60,7 @@ VictoryRoad_3F_EventScript_Tyra::
 	end
 
 Text_DoubleEdgeTeach::
-	.string "You should be proud of yourself,\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pYou should be proud of yourself,\n"
 	.string "having battled your way through\l"
 	.string "VICTORY ROAD so courageously.\p"
 	.string "In recognition of your feat,\n"
@@ -69,15 +69,15 @@ Text_DoubleEdgeTeach::
 	.string "technique?$"
 
 Text_DoubleEdgeDeclined::
-	.string "I'll teach you the technique\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pI'll teach you the technique\n"
 	.string "anytime.$"
 
 Text_DoubleEdgeWhichMon::
-	.string "Which POKéMON should I teach\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWhich POKéMON should I teach\n"
 	.string "DOUBLE-EDGE?$"
 
 Text_DoubleEdgeTaught::
-	.string "Keep that drive going for the\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pKeep that drive going for the\n"
 	.string "POKéMON LEAGUE!\p"
 	.string "Take a run at them and knock 'em\n"
 	.string "out!$"
@@ -139,7 +139,7 @@ VictoryRoad_3F_Text_RayPostBattle::
 	.string "Greatness remains elusive…$"
 
 VictoryRoad_3F_Text_RayNotEnoughMons::
-	.string "RAY: Together, the two of us are\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pRAY: Together, the two of us are\n"
 	.string "striving for the pinnacle.\p"
 	.string "We need you to bring two POKéMON\n"
 	.string "into battle with us.$"
@@ -156,6 +156,6 @@ VictoryRoad_3F_Text_TyraPostBattle::
 	.string "can be infinite in shape and form.$"
 
 VictoryRoad_3F_Text_TyraNotEnoughMons::
-	.string "TYRA: You can't battle with us if\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pTYRA: You can't battle with us if\n"
 	.string "you have only one POKéMON.$"
 

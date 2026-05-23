@@ -139,7 +139,7 @@ Route19_Text_LiaPostBattle::
 	.string "sorts of things.$"
 
 Route19_Text_LiaNotEnoughMons::
-	.string "LIA: I want to battle together\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pLIA: I want to battle together\n"
 	.string "with my little brother.\p"
 	.string "Don't you have two POKéMON?$"
 
@@ -156,6 +156,6 @@ Route19_Text_LucPostBattle::
 	.string "I think she's awesome!$"
 
 Route19_Text_LucNotEnoughMons::
-	.string "LUC: I don't want to if I can't\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pLUC: I don't want to if I can't\n"
 	.string "battle you with my big sis.\p"
 	.string "Don't you have two POKéMON?$"

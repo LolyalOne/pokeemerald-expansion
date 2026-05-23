@@ -133,13 +133,13 @@ Route17_Text_WatchOutForDiscardedItems::
 	.string "Watch out for discarded items.$"
 
 Route17_Text_SameSpeciesGrowDifferentRates::
-	.string "TRAINER TIPS\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pTRAINER TIPS\p"
 	.string "All POKéMON are unique.\p"
 	.string "Even POKéMON of the same species\n"
 	.string "and level grow at different rates.$"
 
 Route17_Text_PressBToStayInPlace::
-	.string "TRAINER TIPS\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pTRAINER TIPS\p"
 	.string "Press the B Button to stay in place\n"
 	.string "while on a slope.$"
 
@@ -148,7 +148,7 @@ Route17_Text_RouteSign::
 	.string "CELADON CITY - FUCHSIA CITY$"
 
 Route17_Text_DontThrowGameThrowBalls::
-	.string "It's a notice!\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pIt's a notice!\p"
 	.string "Don't throw the game, throw POKé\n"
 	.string "BALLS instead!$"
 

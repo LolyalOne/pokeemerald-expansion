@@ -101,7 +101,7 @@ SevenIsland_SevaultCanyon_Text_LexPostBattle::
 	.string "You have my gratitude.$"
 
 SevenIsland_SevaultCanyon_Text_LexNotEnoughMons::
-	.string "LEX: May I ask you to battle the\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pLEX: May I ask you to battle the\n"
 	.string "both of us at the same time?$"
 
 SevenIsland_SevaultCanyon_Text_NyaIntro::
@@ -120,7 +120,7 @@ SevenIsland_SevaultCanyon_Text_NyaPostBattle::
 	.string "you like this?$"
 
 SevenIsland_SevaultCanyon_Text_NyaNotEnoughMons::
-	.string "NYA: I'm sorry, but may we battle\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pNYA: I'm sorry, but may we battle\n"
 	.string "in two-on-two style?$"
 
 SevenIsland_SevaultCanyon_Text_RouteSign::
@@ -128,7 +128,7 @@ SevenIsland_SevaultCanyon_Text_RouteSign::
 	.string "TANOBY RUINS AHEAD$"
 
 SevenIsland_SevaultCanyon_Text_BrunoTrainedWithBrawly::
-	.string "Training by oneself is certainly\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pTraining by oneself is certainly\n"
 	.string "not a bad thing.\p"
 	.string "But it's also not bad to aim for\n"
 	.string "the top with a partner.\p"

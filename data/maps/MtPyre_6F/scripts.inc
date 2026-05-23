@@ -39,7 +39,7 @@ MtPyre_6F_Text_ValeriePostBattle:
 	.string "of POKéMON in fitful sleep here…$"
 
 MtPyre_6F_Text_ValerieRegister:
-	.string "Fufufu… I lost the match, but…\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pFufufu… I lost the match, but…\n"
 	.string "I have this little ability…\p"
 	.string "Without ever laying my hands on\n"
 	.string "your POKéNAV… Hiyah!$"
@@ -52,7 +52,7 @@ MtPyre_6F_Text_ValerieRematchDefeat:
 	.string "Something faded away…$"
 
 MtPyre_6F_Text_ValeriePostRematch:
-	.string "The POKéMON at rest here…\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThe POKéMON at rest here…\n"
 	.string "Sometimes, they play…$"
 
 MtPyre_6F_Text_CedricIntro:

@@ -34,13 +34,13 @@ ThreeIsland_PokemonCenter_1F_Text_PCNetworkCanLinkWithKanto::
 	.string "but it's fantastic!$"
 
 ThreeIsland_PokemonCenter_1F_Text_ImpossibleToSurfBetweenIslands::
-	.string "It's impossible to SURF between the\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pIt's impossible to SURF between the\n"
 	.string "islands around these parts.\p"
 	.string "The tides are too fast and\n"
 	.string "treacherous.$"
 
 ThreeIsland_PokemonCenter_1F_Text_AlwaysBerriesInBerryForest::
-	.string "Let's crush BERRIES!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pLet's crush BERRIES!\n"
 	.string "…That'd be wasting BERRIES?\p"
 	.string "You can always find some BERRIES\n"
 	.string "on the ground in BERRY FOREST.$"

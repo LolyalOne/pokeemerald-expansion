@@ -76,7 +76,7 @@ RustboroCity_Flat1_2F_EventScript_PokeDoll::
 	end
 
 RustboroCity_Flat1_2F_Text_ComingUpWithMealsIsHard:
-	.string "Oh, it's so hard every day…\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh, it's so hard every day…\p"
 	.string "What's hard?\n"
 	.string "You need to ask?\p"
 	.string "It's trying to figure out what to\n"
@@ -85,7 +85,7 @@ RustboroCity_Flat1_2F_Text_ComingUpWithMealsIsHard:
 	.string "meals every day.$"
 
 RustboroCity_Flat1_2F_Text_HelloDoYouKnowFunnyPhrase:
-	.string "Oh, hello!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh, hello!\n"
 	.string "Welcome to the PEPPER household.\p"
 	.string "I have a question for you.\n"
 	.string "Have you ever baby-sat?\p"
@@ -99,7 +99,7 @@ RustboroCity_Flat1_2F_Text_HelloDoYouKnowFunnyPhrase:
 	.string "phrase you can tell me?$"
 
 RustboroCity_Flat1_2F_Text_BeenSayingXDoYouKnowBetterPhrase:
-	.string "I've been saying “{STR_VAR_1}”\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI've been saying “{STR_VAR_1}”\n"
 	.string "to amuse her lately.\p"
 	.string "Do you know of a better word or\n"
 	.string "a phrase that might work?$"
@@ -109,52 +109,52 @@ RustboroCity_Flat1_2F_Text_WonderfulLetsHearSuggestion:
 	.string "So, let's hear it, your suggestion.$"
 
 RustboroCity_Flat1_2F_Text_OhIsThatRight:
-	.string "Oh, is that right?\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pOh, is that right?\p"
 	.string "Well, if you come up with a good\n"
 	.string "suggestion, I'm all ears.$"
 
 RustboroCity_Flat1_2F_Text_LetsGiveItATry2:
-	.string "Ah, I see.\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pAh, I see.\n"
 	.string "Well, let's give it a try, shall we?$"
 
 RustboroCity_Flat1_2F_Text_OhShesLaughing:
-	.string "{STR_VAR_1}.\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\p{STR_VAR_1}.\n"
 	.string "{STR_VAR_1}.\p"
 	.string "Oh, yes! She's laughing!\n"
 	.string "Oh, I am as delighted as she!$"
 
 RustboroCity_Flat1_2F_Text_LetsGiveItATry:
-	.string "Ah, I see.\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pAh, I see.\n"
 	.string "Well, let's give it a try, shall we?$"
 
 RustboroCity_Flat1_2F_Text_ShesNotSmilingAtAll:
-	.string "{STR_VAR_1}.\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p{STR_VAR_1}.\n"
 	.string "{STR_VAR_1}.\p"
 	.string "Hmmm… She's not smiling at all.\n"
 	.string "Maybe WALDA is one serious child…$"
 
 RustboroCity_Flat1_2F_Text_ThinkOfMyOwnPhrase:
-	.string "Oh, so you don't know any good words.\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh, so you don't know any good words.\n"
 	.string "I'd better think for myself, then.\p"
 	.string "Hmm…\n"
 	.string "How about “{STR_VAR_1}”?\l"
 	.string "Let's see if that will work.$"
 
 RustboroCity_Flat1_2F_Text_ShesNotSmilingAtAll2:
-	.string "{STR_VAR_1}.\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p{STR_VAR_1}.\n"
 	.string "{STR_VAR_1}.\p"
 	.string "Hmmm… She's not smiling at all.\n"
 	.string "Maybe WALDA is one serious child…$"
 
 RustboroCity_Flat1_2F_Text_OhYouDontKnowAny:
-	.string "Oh, so you don't know any good words.\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pOh, so you don't know any good words.\n"
 	.string "I guess I'll try to amuse her with\l"
 	.string "the saying I used before.\p"
 	.string "Anyways, if you have a good suggestion,\n"
 	.string "don't hesitate in telling me, okay?$"
 
 RustboroCity_Flat1_2F_Text_ThankYouIllGiveYouWallpaper:
-	.string "Thank you!\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThank you!\p"
 	.string "Thanks to you, my darling WALDA\n"
 	.string "laughed for me!\p"
 	.string "Actually, I may not look all that\n"
@@ -171,5 +171,5 @@ RustboroCity_Flat1_2F_Text_ThankYouIllGiveYouWallpaper:
 	.string "wallpaper patterns.$"
 
 RustboroCity_Flat1_2F_Text_ItsAPokemonPlushDoll:
-	.string "It's a POKéMON plush DOLL!$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pIt's a POKéMON plush DOLL!$"
 

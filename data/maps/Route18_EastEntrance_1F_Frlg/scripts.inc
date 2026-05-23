@@ -110,13 +110,13 @@ Route18_EastEntrance_1F_Movement_WalkRight::
 	step_end
 
 Route18_EastEntrance_1F_Text_NeedBicycleForCyclingRoad::
-	.string "You need a BICYCLE to go out on\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYou need a BICYCLE to go out on\n"
 	.string "CYCLING ROAD!$"
 
 Route18_EastEntrance_1F_Text_CyclingRoadAllUphillFromHere::
-	.string "CYCLING ROAD is all uphill from\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pCYCLING ROAD is all uphill from\n"
 	.string "here.$"
 
 Route18_EastEntrance_1F_Text_ExcuseMe::
-	.string "Excuse me!$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pExcuse me!$"
 

@@ -628,7 +628,7 @@ DewfordTown_EventScript_PhraseNotTrendyEnough::
 	end
 
 DewfordTown_Text_TinyIslandCommunity:
-	.string "DEWFORD is a tiny island community.\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pDEWFORD is a tiny island community.\n"
 	.string "If something gets trendy here,\l"
 	.string "everyone picks up on it right away.$"
 
@@ -646,19 +646,19 @@ DewfordTown_Text_HallSign:
 	.string "“Everyone's information exchange!”$"
 
 Route104_Text_LandedInDewfordDeliverLetter:
-	.string "MR. BRINEY: Ahoy!\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pMR. BRINEY: Ahoy!\n"
 	.string "We've hit land in DEWFORD.\p"
 	.string "I suppose you're off to deliver that\n"
 	.string "LETTER to, who was it now, STEVEN!$"
 
 DewfordTown_Text_SetSailBackToPetalburg:
-	.string "MR. BRINEY: Have you delivered your\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pMR. BRINEY: Have you delivered your\n"
 	.string "LETTER?\p"
 	.string "Or were you meaning to sail back to\n"
 	.string "PETALBURG?$"
 
 DewfordTown_Text_PetalburgWereSettingSail2:
-	.string "MR. BRINEY: PETALBURG it is, then!\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pMR. BRINEY: PETALBURG it is, then!\p"
 	.string "Anchors aweigh!\n"
 	.string "PEEKO, we're setting sail, my darling!$"
 
@@ -667,36 +667,36 @@ DewfordTown_Text_GoDeliverIllBeWaiting:
 	.string "the LETTER. I'll be waiting.$"
 
 DewfordTown_Text_BrineyLandedInDewford:
-	.string "MR. BRINEY: Ahoy!\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pMR. BRINEY: Ahoy!\n"
 	.string "We've hit land in DEWFORD!\p"
 	.string "You just go on and tell me whenever\n"
 	.string "you want to set sail again!$"
 
 DewfordTown_Text_WhereAreWeBound:
-	.string "MR. BRINEY: Ahoy!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pMR. BRINEY: Ahoy!\n"
 	.string "For you, I'll go out to sea anytime!\p"
 	.string "Now, my friend, where are we bound?$"
 
 DewfordTown_Text_PetalburgWereSettingSail:
-	.string "MR. BRINEY: PETALBURG, is it?\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pMR. BRINEY: PETALBURG, is it?\p"
 	.string "Anchors aweigh!\n"
 	.string "PEEKO, we're setting sail, my darling!$"
 
 DewfordTown_Text_SlateportWereSettingSail:
-	.string "MR. BRINEY: SLATEPORT, is it?\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pMR. BRINEY: SLATEPORT, is it?\p"
 	.string "Anchors aweigh!\n"
 	.string "PEEKO, we're setting sail, my darling!$"
 
 DewfordTown_Text_JustTellMeWhenYouNeedToSetSail:
-	.string "MR. BRINEY: You just tell me whenever\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pMR. BRINEY: You just tell me whenever\n"
 	.string "you need to set sail again!$"
 
 DewfordTown_Text_GettingItchToFish:
-	.string "This is a renowned fishing spot.\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pThis is a renowned fishing spot.\n"
 	.string "Are you getting the itch to fish?$"
 
 DewfordTown_Text_GiveYouOneOfMyRods:
-	.string "I hear you, and I like what\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pI hear you, and I like what\n"
 	.string "you're saying!\p"
 	.string "I'll give you one of my fishing RODS.$"
 
@@ -713,19 +713,19 @@ DewfordTown_Text_ThrowInFishingAdvice:
 	.string "to haul them in.$"
 
 DewfordTown_Text_ThatsTooBadThen:
-	.string "Oh, is that so?\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pOh, is that so?\n"
 	.string "That's too bad, then.$"
 
 DewfordTown_Text_HowsYourFishing:
-	.string "Yo!\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pYo!\n"
 	.string "How's your fishing?$"
 
 DewfordTown_Text_GreatHaulInSomeBigOnes:
-	.string "Is that right! That's great!\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pIs that right! That's great!\n"
 	.string "Haul in some big ones!$"
 
 DewfordTown_Text_FishingAdvice:
-	.string "Oh, hey, don't get down on yourself!\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pOh, hey, don't get down on yourself!\n"
 	.string "I'll give you a little fishing advice.\p"
 	.string "First, you want to face the water,\n"
 	.string "then use the ROD.\p"
@@ -737,7 +737,7 @@ DewfordTown_Text_FishingAdvice:
 	.string "to haul them in.$"
 
 DewfordTown_Text_XIsTheBiggestHappeningThingRight:
-	.string "I like what's hip, happening, and trendy.\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI like what's hip, happening, and trendy.\n"
 	.string "I'm always checking it out.\p"
 	.string "Listen, have you heard about this new\n"
 	.string "“{STR_VAR_1}”?\p"
@@ -751,13 +751,13 @@ DewfordTown_Text_XIsTheBiggestHappeningThingRight:
 	.string "is the biggest happening thing, right?$"
 
 DewfordTown_Text_TellMeWhatsNewAndIn:
-	.string "Hunh?\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pHunh?\n"
 	.string "It's not the hip and happening thing?\p"
 	.string "Well, hey, you have to tell me,\n"
 	.string "what's new and what's “in”?$"
 
 DewfordTown_Text_OfCourseIKnowAboutThat:
-	.string "Hunh?\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pHunh?\n"
 	.string "“{STR_VAR_2}”?\p"
 	.string "… …\p"
 	.string "…Uh… Yeah! That's right!\n"
@@ -775,17 +775,17 @@ DewfordTown_Text_OfCourseIKnowAboutThat:
 	.string "what's vital and in tune with the times!$"
 
 DewfordTown_Text_XHuhIThinkYIsCool:
-	.string "Hmm…\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pHmm…\n"
 	.string "“{STR_VAR_2},” huh?\p"
 	.string "But personally, I think\n"
 	.string "“{STR_VAR_1}”\l"
 	.string "is what's real in cool.$"
 
 DewfordTown_Text_HearOfAnyTrendsComeShareWithMe:
-	.string "Well, if you hear of any happening new\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pWell, if you hear of any happening new\n"
 	.string "trends, come share them with me, okay?$"
 
 DewfordTown_Text_YeahDefinitionOfInRightNow:
-	.string "Yeah, absolutely right!\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pYeah, absolutely right!\p"
 	.string "“{STR_VAR_1}” is the\n"
 	.string "definition of “in” right now.$"

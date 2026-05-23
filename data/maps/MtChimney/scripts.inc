@@ -542,7 +542,7 @@ MtChimney_EventScript_SawyerRematch::
 	end
 
 MtChimney_Text_MeteoriteWillActivateVolcano:
-	.string "The power contained in the METEORITE…\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pThe power contained in the METEORITE…\p"
 	.string "By amplifying its power with this\n"
 	.string "machine, MT. CHIMNEY's volcanic\l"
 	.string "activity will instantly intensify…\p"
@@ -583,7 +583,7 @@ MtChimney_Text_MaxieDefeat:
 	.string "I, MAXIE, was caught off guard?!$"
 
 MtChimney_Text_MaxieYouHaventSeenLastOfMagma:
-	.string "MAXIE: But, enough.\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pMAXIE: But, enough.\n"
 	.string "I will back off this time.\p"
 	.string "But don't think that this is the last\n"
 	.string "you've seen of TEAM MAGMA.\p"
@@ -638,14 +638,14 @@ MtChimney_Text_Grunt1PostBattle:
 	.string "splashing about in the waves!$"
 
 MtChimney_Text_TeamAquaAlwaysMessingWithPlans:
-	.string "That annoying TEAM AQUA…\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThat annoying TEAM AQUA…\n"
 	.string "They always mess with our plans!$"
 
 MtChimney_Text_MeteoritesPackAmazingPower:
-	.string "METEORITES pack amazing power!$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pMETEORITES pack amazing power!$"
 
 MtChimney_Text_YouBetterNotMessWithUs:
-	.string "You'd better not mess with us!\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYou'd better not mess with us!\p"
 	.string "We're trying to awaken that thing\n"
 	.string "for the benefit of everyone!$"
 
@@ -656,17 +656,17 @@ MtChimney_Text_AquasNameSimilar:
 	.string "use a name like ours!$"
 
 MtChimney_Text_DouseThemInFire:
-	.string "Yeah!\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYeah!\n"
 	.string "Douse them in fire!$"
 
 MtChimney_Text_KeepMakingMoreLand:
-	.string "We're going to keep making more land!$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWe're going to keep making more land!$"
 
 MtChimney_Text_Bufoh:
-	.string "Bufoh!$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pBufoh!$"
 
 MtChimney_Text_ArchieGoStopTeamMagma:
-	.string "ARCHIE: Grr, {PLAYER}!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pARCHIE: Grr, {PLAYER}!\n"
 	.string "I should've guessed you'd show up!\p"
 	.string "See for yourself what the fanatics\n"
 	.string "of TEAM MAGMA are up to!\p"
@@ -676,14 +676,14 @@ MtChimney_Text_ArchieGoStopTeamMagma:
 	.string "the volcano's eruption!$"
 
 MtChimney_Text_ArchieIHaveMyHandsFull:
-	.string "ARCHIE: Grrr…\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pARCHIE: Grrr…\p"
 	.string "I want to stop that MAXIE,\n"
 	.string "but I can't!\p"
 	.string "Not when I have my hands full battling\n"
 	.string "three opponents at once!$"
 
 MtChimney_Text_ArchieThankYou:
-	.string "ARCHIE: {PLAYER}!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pARCHIE: {PLAYER}!\n"
 	.string "Thank you!\p"
 	.string "With your help, we thwarted TEAM\n"
 	.string "MAGMA's destructive plan!\p"
@@ -695,11 +695,11 @@ MtChimney_Text_ArchieThankYou:
 	.string "{PLAYER}, we shall meet again!$"
 
 MtChimney_Text_MagmaOutnumbersUs:
-	.string "Darn… TEAM MAGMA outnumbers us!\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pDarn… TEAM MAGMA outnumbers us!\n"
 	.string "We can't keep up with them!$"
 
 MtChimney_Text_LessHabitatForWaterPokemon:
-	.string "If they expand the land, there'll be\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pIf they expand the land, there'll be\n"
 	.string "less habitats for WATER POKéMON!$"
 
 MtChimney_Text_MagmasNameSimilar:
@@ -709,22 +709,22 @@ MtChimney_Text_MagmasNameSimilar:
 	.string "a confusing name!$"
 
 MtChimney_Text_Bushaa:
-	.string "Bushaa!$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pBushaa!$"
 
 MtChimney_Text_LavaCookiesJust200:
-	.string "LAVA COOKIES are MT. CHIMNEY's local\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pLAVA COOKIES are MT. CHIMNEY's local\n"
 	.string "specialty.\p"
 	.string "Try one. It's just ¥200.$"
 
 MtChimney_Text_ThankYouDear:
-	.string "Thank you, dear!$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pThank you, dear!$"
 
 MtChimney_Text_YouveNotGotTheMoney:
-	.string "Oh, dear. You can't buy a thing if\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh, dear. You can't buy a thing if\n"
 	.string "you've not got the money.$"
 
 MtChimney_Text_OhFineThen:
-	.string "Oh, fine then.$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh, fine then.$"
 
 MtChimney_Text_MetoriteFittedOnMachine:
 	.string "A METEORITE is fitted on a mysterious\n"
@@ -733,7 +733,7 @@ MtChimney_Text_MetoriteFittedOnMachine:
 	.string "energy in the METEORITE.$"
 
 MtChimney_Text_RemoveTheMeteorite:
-	.string "A METEORITE is fitted on a mysterious\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pA METEORITE is fitted on a mysterious\n"
 	.string "machine…\p"
 	.string "Do you want to remove the METEORITE?$"
 
@@ -767,7 +767,7 @@ MtChimney_Text_ShelbyPostBattle:
 	.string "myself an EXPERT now, can I?$"
 
 MtChimney_Text_ShelbyRegister:
-	.string "Thank you, child. It was fun, as if\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pThank you, child. It was fun, as if\n"
 	.string "I were battling my own grandchild.\p"
 	.string "Please, come see me again for\n"
 	.string "a rematch.$"
@@ -782,7 +782,7 @@ MtChimney_Text_ShelbyRematchDefeat:
 	.string "Now, aren't you something!$"
 
 MtChimney_Text_ShelbyPostRematch:
-	.string "Perhaps your heart has become one\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pPerhaps your heart has become one\n"
 	.string "with the hearts of your POKéMON.$"
 
 MtChimney_Text_MelissaIntro:
@@ -837,7 +837,7 @@ MtChimney_Text_SawyerPostBattle:
 	.string "HOT SPRING with the locals!$"
 
 MtChimney_Text_SawyerRegister:
-	.string "I like little fireballs like you.\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI like little fireballs like you.\n"
 	.string "Let me register you in my POKéNAV.$"
 
 MtChimney_Text_SawyerRematchIntro:
@@ -849,5 +849,5 @@ MtChimney_Text_SawyerRematchDefeat:
 	.string "firebrand as before!$"
 
 MtChimney_Text_SawyerPostRematch:
-	.string "Actually, it really is hot here.\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pActually, it really is hot here.\n"
 	.string "I'm overdressed for these parts.$"

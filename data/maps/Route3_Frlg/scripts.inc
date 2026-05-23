@@ -10,7 +10,7 @@ Route3_EventScript_RouteSign::
 	end
 
 Route3_Text_TunnelFromCeruleanTiring::
-	.string "Whew… I better take a rest…\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pWhew… I better take a rest…\n"
 	.string "Groan…\p"
 	.string "That tunnel from CERULEAN takes a\n"
 	.string "lot out of you!$"

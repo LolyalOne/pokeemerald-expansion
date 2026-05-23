@@ -270,7 +270,7 @@ PokemonLeague_ChampionsRoom_Text_Defeat::
 	.string "It's not fair!$"
 
 PokemonLeague_ChampionsRoom_Text_Victory::
-	.string "はーはッ！\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pはーはッ！\n"
 	.string "かった！　かった！　かった！\p"
 	.string "{PLAYER}に　まける　ような\n"
 	.string "おれさま　では　なーい！\p"
@@ -293,7 +293,7 @@ PokemonLeague_ChampionsRoom_Text_OakPlayer::
 	.string "OAK: {PLAYER}!$"
 
 PokemonLeague_ChampionsRoom_Text_OakCongratulations::
-	.string "OAK: So, you've won!\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pOAK: So, you've won!\n"
 	.string "Sincerely, congratulations!\p"
 	.string "You're the new POKéMON LEAGUE\n"
 	.string "CHAMPION!\p"
@@ -303,7 +303,7 @@ PokemonLeague_ChampionsRoom_Text_OakCongratulations::
 	.string "{PLAYER}, you have come of age!$"
 
 PokemonLeague_ChampionsRoom_Text_OakImDisappointedRival::
-	.string "OAK: {RIVAL}…\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pOAK: {RIVAL}…\n"
 	.string "I'm disappointed in you.\p"
 	.string "I came when I heard you'd beaten\n"
 	.string "the ELITE FOUR.\p"

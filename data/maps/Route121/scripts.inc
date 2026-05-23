@@ -169,11 +169,11 @@ Route121_EventScript_RematchCristin::
 	end
 
 Route121_Text_OkayMoveOutToMtPyre:
-	.string "Okay!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOkay!\n"
 	.string "We're to move out to MT. PYRE!$"
 
 Route121_Text_AheadLoomsMtPyre:
-	.string "Ahead looms MT. PYRE…\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pAhead looms MT. PYRE…\p"
 	.string "It is a natural monument to the spirits \n"
 	.string "of departed POKéMON…$"
 

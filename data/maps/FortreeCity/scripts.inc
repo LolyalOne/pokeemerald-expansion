@@ -88,7 +88,7 @@ FortreeCity_Movement_KecleonFlee:
 	step_end
 
 FortreeCity_Text_SawGiganticPokemonInSky:
-	.string "No one believes me, but I saw this\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pNo one believes me, but I saw this\n"
 	.string "gigantic POKéMON in the sky.\p"
 	.string "It seemed to squirm as it flew toward\n"
 	.string "ROUTE 131.\p"
@@ -97,7 +97,7 @@ FortreeCity_Text_SawGiganticPokemonInSky:
 	.string "Were you at a volcano or something?$"
 
 FortreeCity_Text_SomethingBlockingGym:
-	.string "I want to go to the POKéMON GYM,\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pI want to go to the POKéMON GYM,\n"
 	.string "but something's blocking the way.\p"
 	.string "After all the bother I went through\n"
 	.string "training on ROUTE 120…$"
@@ -107,7 +107,7 @@ FortreeCity_Text_ThisTimeIllBeatWinona:
 	.string "with me. This time, I'll beat WINONA.$"
 
 FortreeCity_Text_TreesGrowByDrinkingRainwater:
-	.string "The ground absorbs rainwater, and\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThe ground absorbs rainwater, and\n"
 	.string "trees grow by drinking that water…\p"
 	.string "Our FORTREE CITY exists because\n"
 	.string "there's both water and soil.$"
@@ -127,18 +127,18 @@ FortreeCity_Text_BugPokemonComeThroughWindow:
 	.string "It can be really startling.$"
 
 FortreeCity_Text_PokemonThatEvolveWhenTraded:
-	.string "There are POKéMON that evolve when\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThere are POKéMON that evolve when\n"
 	.string "you trade them! That's what I heard.$"
 
 FortreeCity_Text_SomethingUnseeable:
-	.string "Something unseeable is in the way.$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pSomething unseeable is in the way.$"
 
 FortreeCity_Text_UnseeableUseDevonScope:
-	.string "Something unseeable is in the way.\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pSomething unseeable is in the way.\p"
 	.string "Want to use the DEVON SCOPE?$"
 
 FortreeCity_Text_UsedDevonScopePokemonFled:
-	.string "{PLAYER} used the DEVON SCOPE.\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\p{PLAYER} used the DEVON SCOPE.\p"
 	.string "An invisible POKéMON became completely\n"
 	.string "visible!\p"
 	.string "The startled POKéMON fled!$"

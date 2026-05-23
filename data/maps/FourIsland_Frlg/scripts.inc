@@ -165,12 +165,12 @@ FourIsland_Text_IslandSign::
 	.string "The Warm, Blue, Floe Island$"
 
 FourIsland_Text_LoreleiHasReturned::
-	.string "LORELEI has returned.\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pLORELEI has returned.\p"
 	.string "Did she find the city life too\n"
 	.string "stressful, I wonder?$"
 
 FourIsland_Text_LoreleiMetLaprasAsChild::
-	.string "LORELEI has gone back.\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pLORELEI has gone back.\p"
 	.string "The LAPRAS she has, I imagine it\n"
 	.string "to be the one she met as a child.\p"
 	.string "I believe it was in ICEFALL CAVE\n"
@@ -179,7 +179,7 @@ FourIsland_Text_LoreleiMetLaprasAsChild::
 	.string "her ever since.$"
 
 FourIsland_Text_RivalAlreadyGotEggBeSmellingYa::
-	.string "{RIVAL}: Hey!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p{RIVAL}: Hey!\n"
 	.string "{PLAYER}!\p"
 	.string "What are you doing here in the\n"
 	.string "SEVII ISLANDS?\p"
@@ -200,7 +200,7 @@ FourIsland_Text_RivalAlreadyGotEggBeSmellingYa::
 	.string "Be smelling ya!$"
 
 FourIsland_Text_LoreleiHasLotsOfStuffedDolls::
-	.string "Oh, you found me!\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pOh, you found me!\n"
 	.string "Please don't tell LORELEI.\p"
 	.string "Did you know that LORELEI has lots\n"
 	.string "and lots of stuffed dolls?\p"
@@ -208,11 +208,11 @@ FourIsland_Text_LoreleiHasLotsOfStuffedDolls::
 	.string "FOUR ISLAND, her collection grows!$"
 
 FourIsland_Text_MadeSlushieUsingIcefallCaveIce::
-	.string "Ooh, chilly!\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pOoh, chilly!\p"
 	.string "I made a slushie using ice I\n"
 	.string "shaved inside ICEFALL CAVE.\p"
 	.string "It's chilly and tasty!$"
 
 FourIsland_Text_LoreleisHouse::
-	.string "LORELEI'S HOUSE$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pLORELEI'S HOUSE$"
 

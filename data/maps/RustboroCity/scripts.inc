@@ -1013,49 +1013,49 @@ RustboroCity_EventScript_Boy1::
 	end
 
 RustboroCity_Text_WeShortenItToDevon:
-	.string "The DEVON CORPORATION…\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pThe DEVON CORPORATION…\n"
 	.string "We all just shorten it to DEVON.\p"
 	.string "That company makes all sorts of\n"
 	.string "convenient products.$"
 
 RustboroCity_Text_SneakyLookingManWentAroundCorner:
-	.string "Hm? A sneaky-looking man?\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pHm? A sneaky-looking man?\p"
 	.string "Come to think of it, yes, a shady-\n"
 	.string "looking guy went around the corner.$"
 
 RustboroCity_Text_HaveYouChallengedGym:
-	.string "Have you taken the POKéMON GYM\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pHave you taken the POKéMON GYM\n"
 	.string "challenge?\p"
 	.string "When you get that shiny GYM BADGE\n"
 	.string "in hand, I guess TRAINERS begin to\l"
 	.string "realize what is required of them.$"
 
 RustboroCity_Text_HeyThatsRustborosGymBadge:
-	.string "Hey, that's RUSTBORO's GYM BADGE!\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pHey, that's RUSTBORO's GYM BADGE!\p"
 	.string "Out of all the POKéMON GYM BADGES,\n"
 	.string "RUSTBORO's is the coolest, I'd say.$"
 
 RustboroCity_Text_YoureNewAroundHere:
-	.string "Oh? Who might you be?\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pOh? Who might you be?\n"
 	.string "You're a new face around these parts.\p"
 	.string "Have you just transferred into the\n"
 	.string "POKéMON TRAINER'S SCHOOL?$"
 
 RustboroCity_Text_GymLeaderIsntEasyWithFire:
-	.string "I challenged the GYM LEADER, but…\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI challenged the GYM LEADER, but…\p"
 	.string "It's not going to be easy winning with\n"
 	.string "my FIRE-type POKéMON…\p"
 	.string "FIRE-type POKéMON don't match up\n"
 	.string "well against ROCK-type POKéMON…$"
 
 RustboroCity_Text_MrBrineyWalksInTheTunnel:
-	.string "The old sailor MR. BRINEY lives in\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pThe old sailor MR. BRINEY lives in\n"
 	.string "a cottage by the sea.\p"
 	.string "He goes for walks in the tunnel every\n"
 	.string "so often.$"
 
 RustboroCity_Text_MrBrineyLovesPeeko:
-	.string "The old sailor MR. BRINEY lives in\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pThe old sailor MR. BRINEY lives in\n"
 	.string "a cottage by the sea.\p"
 	.string "He said he was going shopping in\n"
 	.string "SLATEPORT for his pet, PEEKO.\p"
@@ -1063,32 +1063,32 @@ RustboroCity_Text_MrBrineyLovesPeeko:
 	.string "that PEEKO.$"
 
 RustboroCity_Text_WowYouHavePokemon:
-	.string "Wow, you have POKéMON with you, too.\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWow, you have POKéMON with you, too.\p"
 	.string "When I get bigger, I'm going to go\n"
 	.string "places with POKéMON, too.$"
 
 RustboroCity_Text_CatchRarePokemonIfIGoToSchool:
-	.string "POKéMON TRAINER'S SCHOOL!\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pPOKéMON TRAINER'S SCHOOL!\p"
 	.string "If I go to this school, will I be able\n"
 	.string "to catch rare POKéMON easily?$"
 
 RustboroCity_Text_PokemonCanChangeLookFromExp:
-	.string "If a POKéMON gains experience in\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pIf a POKéMON gains experience in\n"
 	.string "battles, it can sometimes change in\l"
 	.string "the way it looks.$"
 
 RustboroCity_Text_PokemonChangeShape:
-	.string "A POKéMON changes shape?\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pA POKéMON changes shape?\n"
 	.string "If one did that, I would be shocked!$"
 
 RustboroCity_Text_TradePokemonGrowFast:
-	.string "A POKéMON you get in a trade from\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pA POKéMON you get in a trade from\n"
 	.string "someone grows fast.\p"
 	.string "But if you don't have certain GYM\n"
 	.string "BADGES, it may not obey you…$"
 
 RustboroCity_Text_OutOfTheWay:
-	.string "Get out!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pGet out!\n"
 	.string "Out of the way!$"
 
 RustboroCity_Text_WaitDontTakeMyGoods:
@@ -1096,7 +1096,7 @@ RustboroCity_Text_WaitDontTakeMyGoods:
 	.string "Don't take my GOODS!$"
 
 RustboroCity_Text_HelpMeIWasRobbed:
-	.string "Oh, it's you!\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pOh, it's you!\p"
 	.string "You're that fantastic TRAINER who\n"
 	.string "helped me in PETALBURG WOODS!\p"
 	.string "Help me! I was robbed by TEAM AQUA!\n"
@@ -1105,11 +1105,11 @@ RustboroCity_Text_HelpMeIWasRobbed:
 	.string "I'm going to be in serious trouble.$"
 
 RustboroCity_Text_ShadyCharacterTookOffTowardsTunnel:
-	.string "That shady character, I think he took\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThat shady character, I think he took\n"
 	.string "off towards the tunnel over there.$"
 
 RustboroCity_Text_YouGotItThankYou:
-	.string "Oh! How did it go?\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pOh! How did it go?\n"
 	.string "The DEVON GOODS?\p"
 	.string "You did!\n"
 	.string "You got them back!\p"
@@ -1122,11 +1122,11 @@ RustboroCity_Text_YoureLoadedWithItems:
 	.string "I can't give you this GREAT BALL.$"
 
 RustboroCity_Text_PleaseComeWithMe:
-	.string "Excuse me, please!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pExcuse me, please!\n"
 	.string "Please come with me!$"
 
 RustboroCity_Text_MayHiLetsRegister:
-	.string "MAY: Oh, hi, {PLAYER}{KUN}!\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pMAY: Oh, hi, {PLAYER}{KUN}!\p"
 	.string "You had a MATCH CALL feature put\n"
 	.string "on your POKéNAV!\p"
 	.string "Let's register each other so we can\n"
@@ -1134,7 +1134,7 @@ RustboroCity_Text_MayHiLetsRegister:
 	.string "… … … … … …$"
 
 RustboroCity_Text_RegisteredMay:
-	.string "Registered MAY\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pRegistered MAY\n"
 	.string "in the POKéNAV.$"
 
 RustboroCity_Text_MayPassedBrineyWantToBattle:
@@ -1148,7 +1148,7 @@ RustboroCity_Text_MayPassedBrineyWantToBattle:
 	.string "How about a little battle?$"
 
 RustboroCity_Text_MayOhHaventRaisedPokemonEnough:
-	.string "MAY: Oh, what's the matter?\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pMAY: Oh, what's the matter?\p"
 	.string "Haven't you caught or raised your\n"
 	.string "POKéMON very much?\p"
 	.string "That's not very good for a TRAINER!$"
@@ -1166,14 +1166,14 @@ RustboroCity_Text_MayDefeat:
 	.string "You're better than I expected!$"
 
 RustboroCity_Text_MayMrBrineyHint:
-	.string "MAY: Oh, by the way, MR. BRINEY, who\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pMAY: Oh, by the way, MR. BRINEY, who\n"
 	.string "I just passed…\p"
 	.string "{PLAYER}{KUN}, you just moved here so you\n"
 	.string "might not know this, but MR. BRINEY\l"
 	.string "was once a revered seafarer.$"
 
 RustboroCity_Text_BrendanHiLetsRegister:
-	.string "BRENDAN: Oh, hey, {PLAYER}!\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pBRENDAN: Oh, hey, {PLAYER}!\p"
 	.string "You had a MATCH CALL feature put\n"
 	.string "on your POKéNAV! Cool!\p"
 	.string "Let's register each other so we can\n"
@@ -1181,7 +1181,7 @@ RustboroCity_Text_BrendanHiLetsRegister:
 	.string "… … … … … …$"
 
 RustboroCity_Text_RegisteredBrendan:
-	.string "Registered BRENDAN\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pRegistered BRENDAN\n"
 	.string "in the POKéNAV.$"
 
 RustboroCity_Text_BrendanPassedBrineyWantToBattle:
@@ -1196,7 +1196,7 @@ RustboroCity_Text_BrendanPassedBrineyWantToBattle:
 	.string "far you've progressed?$"
 
 RustboroCity_Text_BrendanNoConfidenceInPokemon:
-	.string "BRENDAN: What's the matter? Don't have\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pBRENDAN: What's the matter? Don't have\n"
 	.string "any confidence in your POKéMON?$"
 
 RustboroCity_Text_BrendanWantToBattle:
@@ -1212,14 +1212,14 @@ RustboroCity_Text_BrendanDefeat:
 	.string "You're pretty good.$"
 
 RustboroCity_Text_BrendanMrBrineyHint:
-	.string "BRENDAN: By the way, you know\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pBRENDAN: By the way, you know\n"
 	.string "MR. BRINEY? The guy I just passed?\p"
 	.string "I bet you didn't know this, since you\n"
 	.string "just moved here, {PLAYER}, but\l"
 	.string "MR. BRINEY was once a great sailor.$"
 
 RustboroCity_Text_TunnelNearingCompletion:
-	.string "“Timesaving tunnel nearing\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p“Timesaving tunnel nearing\n"
 	.string "completion!”\p"
 	.string "…Is what it says on the sign, but\n"
 	.string "there's also a big “X” splashed\l"
@@ -1251,17 +1251,17 @@ RustboroCity_Text_TrainersSchoolSign:
 	.string "POKéMON!”$"
 
 RustboroCity_Text_CuttersHouse:
-	.string "CUTTER'S HOUSE$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pCUTTER'S HOUSE$"
 
 RustboroCity_Text_DevelopedNewPokenavFeature:
-	.string "I've been developing an added feature\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI've been developing an added feature\n"
 	.string "for the POKéNAV…\p"
 	.string "And it turned out great!\p"
 	.string "{PLAYER}, may I see that POKéNAV?\n"
 	.string "The one our PRESIDENT gave you?$"
 
 RustboroCity_Text_AddedMatchCallPleaseCallMrStone:
-	.string "There you go, {PLAYER}!\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pThere you go, {PLAYER}!\p"
 	.string "I added a new feature named\n"
 	.string "MATCH CALL to your POKéNAV.\p"
 	.string "Using the MATCH CALL feature,\n"
@@ -1273,10 +1273,10 @@ RustboroCity_Text_AddedMatchCallPleaseCallMrStone:
 	.string "Please give our PRESIDENT a call.$"
 
 RustboroCity_Text_PleaseSelectPokenav:
-	.string "Please select the POKéNAV.$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pPlease select the POKéNAV.$"
 
 RustboroCity_Text_IdBetterGetBackToWork:
-	.string "Okay, I'd better get back to work.\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pOkay, I'd better get back to work.\n"
 	.string "Please take care, {PLAYER}!$"
 
 RustboroCity_Text_YouCanHave2On2Battle:

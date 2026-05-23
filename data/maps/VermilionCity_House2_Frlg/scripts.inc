@@ -36,22 +36,22 @@ VermilionCity_House2_EventScript_AlreadyTraded::
 	end
 
 VermilionCity_House2_Text_DoYouHaveMonWantToTradeForMyMon::
-	.string "Hi!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHi!\n"
 	.string "Do you have a {STR_VAR_1}?\p"
 	.string "Want to trade it for my\n"
 	.string "{STR_VAR_2}?$"
 
 VermilionCity_House2_Text_ThatsTooBad::
-	.string "That's too bad.$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThat's too bad.$"
 
 VermilionCity_House2_Text_ThisIsNoMon::
-	.string "…This is no {STR_VAR_1}.\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p…This is no {STR_VAR_1}.\p"
 	.string "If you get one, please trade it\n"
 	.string "to me!$"
 
 VermilionCity_House2_Text_ThankYou::
-	.string "Thank you!$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pThank you!$"
 
 VermilionCity_House2_Text_HowIsMyOldMon::
-	.string "How is my old {STR_VAR_2}?\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHow is my old {STR_VAR_2}?\p"
 	.string "My {STR_VAR_1} is doing great!$"

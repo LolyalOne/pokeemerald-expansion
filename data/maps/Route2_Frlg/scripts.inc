@@ -14,5 +14,5 @@ Route2_Text_RouteSign::
 	.string "VIRIDIAN CITY - PEWTER CITY$"
 
 Route2_Text_DiglettsCave::
-	.string "DIGLETT'S CAVE$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pDIGLETT'S CAVE$"
 

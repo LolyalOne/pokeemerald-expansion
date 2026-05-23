@@ -460,25 +460,25 @@ MauvilleCity_EventScript_RegisterWallyCall::
 	end
 
 MauvilleCity_Text_UncleHesTooPeppy:
-	.string "UNCLE: It's because of POKéMON that\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pUNCLE: It's because of POKéMON that\n"
 	.string "this boy's got more pep, I suppose…\l"
 	.string "But he's become a bit too peppy…$"
 
 MauvilleCity_Text_WallyWantToChallengeGym:
-	.string "WALLY: Aww, UNCLE, please?\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWALLY: Aww, UNCLE, please?\p"
 	.string "I want to challenge this GYM and see\n"
 	.string "how much better I've become.\p"
 	.string "Please? May I, please?$"
 
 MauvilleCity_Text_UncleYourePushingIt:
-	.string "UNCLE: Now hold on, WALLY.\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pUNCLE: Now hold on, WALLY.\p"
 	.string "Since you started living with POKéMON,\n"
 	.string "you have grown quite a lot stronger.\p"
 	.string "But don't you think you're pushing it\n"
 	.string "to suddenly challenge a GYM?$"
 
 MauvilleCity_Text_WallyWeCanBeatAnyone:
-	.string "WALLY: I'm not pushing it.\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWALLY: I'm not pushing it.\p"
 	.string "If I combine forces with RALTS,\n"
 	.string "we can beat anyone!$"
 
@@ -508,7 +508,7 @@ MauvilleCity_Text_WallyPleaseBattleMe:
 	.string "Battle with me, please.$"
 
 MauvilleCity_Text_WallyHereICome:
-	.string "WALLY: {PLAYER}, thank you.\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pWALLY: {PLAYER}, thank you.\p"
 	.string "Okay… Here I come!$"
 
 MauvilleCity_Text_WallyDefeat:
@@ -517,7 +517,7 @@ MauvilleCity_Text_WallyDefeat:
 	.string "I lost…$"
 
 MauvilleCity_Text_WallyIllGoBackToVerdanturf:
-	.string "WALLY: UNCLE…\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pWALLY: UNCLE…\n"
 	.string "I'll go back to VERDANTURF…$"
 
 MauvilleCity_Text_ThankYouNotEnoughToBattle:
@@ -528,7 +528,7 @@ MauvilleCity_Text_ThankYouNotEnoughToBattle:
 	.string "being a real TRAINER is about.$"
 
 MauvilleCity_Text_UncleNoNeedToBeDown:
-	.string "UNCLE: WALLY, there's no need to be so\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pUNCLE: WALLY, there's no need to be so\n"
 	.string "down on yourself.\p"
 	.string "Why, what's keeping you from becoming\n"
 	.string "stronger and stronger?\p"
@@ -536,7 +536,7 @@ MauvilleCity_Text_UncleNoNeedToBeDown:
 	.string "Everyone's waiting for you.$"
 
 MauvilleCity_Text_UncleVisitUsSometime:
-	.string "UNCLE: {PLAYER}{KUN}, it just dawned on me\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pUNCLE: {PLAYER}{KUN}, it just dawned on me\n"
 	.string "that you must be the TRAINER who kept\l"
 	.string "an eye out for WALLY when he caught\l"
 	.string "his POKéMON.\p"
@@ -546,7 +546,7 @@ MauvilleCity_Text_UncleVisitUsSometime:
 
 
 MauvilleCity_Text_WallyPokenavCall:
-	.string "… … … … … …\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p… … … … … …\n"
 	.string "… … … … … Beep!\p"
 	.string "WALLY: Oh, hello, {PLAYER}!\p"
 	.string "I just wanted to tell you that\n"
@@ -557,11 +557,11 @@ MauvilleCity_Text_WallyPokenavCall:
 	.string "… … … … … Click!$"
 
 MauvilleCity_Text_RegisteredWally:
-	.string "Registered WALLY\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pRegistered WALLY\n"
 	.string "in the POKéNAV.$"
 
 MauvilleCity_Text_ScottYouDidntHoldBack:
-	.string "SCOTT: Hehe…\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pSCOTT: Hehe…\n"
 	.string "I was watching that match!\p"
 	.string "You're friends with that boy WALLY,\n"
 	.string "aren't you?\p"
@@ -574,7 +574,7 @@ MauvilleCity_Text_ScottYouDidntHoldBack:
 	.string "I'll be cheering for you!$"
 
 MauvilleCity_Text_WattsonNeedFavorTakeKey:
-	.string "WATTSON: Oh, {PLAYER}{KUN}!\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWATTSON: Oh, {PLAYER}{KUN}!\n"
 	.string "You look like you have a lot of zip!\l"
 	.string "That's a good thing, wahahahaha!\p"
 	.string "Fine! I've decided!\n"
@@ -597,7 +597,7 @@ MauvilleCity_Text_WattsonWontBeChallenge:
 	.string "Wahahahaha!$"
 
 MauvilleCity_Text_WattsonThanksTakeTM:
-	.string "WATTSON: Wahahahaha!\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWATTSON: Wahahahaha!\p"
 	.string "I knew it, {PLAYER}{KUN}! I knew I'd made\n"
 	.string "the right choice asking you!\p"
 	.string "This is my thanks--a TM containing\n"
@@ -605,7 +605,7 @@ MauvilleCity_Text_WattsonThanksTakeTM:
 	.string "Go on, you've earned it!$"
 
 MauvilleCity_Text_WattsonYoungTakeCharge:
-	.string "WATTSON: Wahahahaha!\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWATTSON: Wahahahaha!\p"
 	.string "It pleases me to no end to see\n"
 	.string "the young step up and take charge!$"
 
@@ -616,18 +616,18 @@ MauvilleCity_Text_NurseHurtMonBackToHealth:
 	.string "you have to nurse it back to health.$"
 
 MauvilleCity_Text_AllSortsOfPeopleComeThrough:
-	.string "The roads of this town stretch north\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pThe roads of this town stretch north\n"
 	.string "and south, and east and west.\p"
 	.string "Because of that, we get all sorts of\n"
 	.string "people coming through.$"
 
 MauvilleCity_Text_RydelVeryGenerous:
-	.string "Have you been to RYDEL'S CYCLES yet?\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pHave you been to RYDEL'S CYCLES yet?\p"
 	.string "RYDEL, the owner, is a very generous\n"
 	.string "man.$"
 
 MauvilleCity_Text_PokemonCanJumpYouOnBike:
-	.string "Even if you're riding a BIKE,\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pEven if you're riding a BIKE,\n"
 	.string "wild POKéMON could jump you.$"
 
 MauvilleCity_Text_CitySign:
@@ -661,4 +661,4 @@ MauvilleCity_Text_ExplainTV:
 	.string "out TVs whenever you can.$"
 
 MauvilleCity_Text_BeenCheckingOutTV:
-	.string "Hi, have you been checking out TVs?$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pHi, have you been checking out TVs?$"

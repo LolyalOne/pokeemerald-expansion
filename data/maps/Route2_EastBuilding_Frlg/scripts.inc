@@ -39,7 +39,7 @@ Route2_EastBuilding_EventScript_Rocker::
 	end
 
 Route2_EastBuilding_Text_GiveHM05IfSeen10Mons::
-	.string "Hi! Remember me?\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pHi! Remember me?\n"
 	.string "I'm one of PROF. OAK's AIDES.\p"
 	.string "If your POKéDEX has complete data\n"
 	.string "on ten species, I'm supposed to\l"
@@ -51,13 +51,13 @@ Route2_EastBuilding_Text_GiveHM05IfSeen10Mons::
 	.string "ten kinds of POKéMON?$"
 
 Route2_EastBuilding_Text_GreatHereYouGo::
-	.string "Great! You have caught or owned\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pGreat! You have caught or owned\n"
 	.string "{STR_VAR_3} kinds of POKéMON!\p"
 	.string "Congratulations!\n"
 	.string "Here you go!$"
 
 Route2_EastBuilding_Text_ReceivedHM05FromAide::
-	.string "{PLAYER} received HM05\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p{PLAYER} received HM05\n"
 	.string "from the AIDE.$"
 
 Route2_EastBuilding_Text_ExplainHM05::
@@ -67,6 +67,6 @@ Route2_EastBuilding_Text_ExplainHM05::
 	.string "of caves and dungeons.$"
 
 Route2_EastBuilding_Text_CanGetThroughRockTunnel::
-	.string "Once a POKéMON learns FLASH, you\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOnce a POKéMON learns FLASH, you\n"
 	.string "can get through ROCK TUNNEL.$"
 

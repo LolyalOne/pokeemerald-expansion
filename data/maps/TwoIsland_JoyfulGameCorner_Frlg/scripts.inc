@@ -208,7 +208,7 @@ TwoIsland_JoyfulGameCorner_Text_PleaseHelpFindLostelle::
 	.string "Please go search THREE ISLAND!$"
 
 TwoIsland_JoyfulGameCorner_Text_IsThisOnlyThreeIsland::
-	.string "Hah? What is this GAME CORNER?\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pHah? What is this GAME CORNER?\n"
 	.string "How much sadder can this get?\p"
 	.string "Those clowns…\p"
 	.string "They said they'd be waiting on the\n"
@@ -217,24 +217,24 @@ TwoIsland_JoyfulGameCorner_Text_IsThisOnlyThreeIsland::
 	.string "ISLAND around here?$"
 
 TwoIsland_JoyfulGameCorner_Text_ThisIsTwoIslandMoveIt::
-	.string "Try waking up before you crawl out\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pTry waking up before you crawl out\n"
 	.string "of bed, you punk.\p"
 	.string "This is TWO ISLAND!\p"
 	.string "Move it! Get your filthy motorbike\n"
 	.string "out of my place!$"
 
 TwoIsland_JoyfulGameCorner_Text_TheseIslandsAreConfusing::
-	.string "Huh…\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHuh…\n"
 	.string "Oh, oh, gotcha.\p"
 	.string "Tch…\n"
 	.string "These islands are confusing…$"
 
 TwoIsland_JoyfulGameCorner_Text_PunkScuffedUpMyFloor::
-	.string "Would you look at that?\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pWould you look at that?\n"
 	.string "That punk scuffed up my floor.$"
 
 TwoIsland_JoyfulGameCorner_Text_PleaseGoToThreeIsland::
-	.string "Hey, but listen! I'm begging you,\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pHey, but listen! I'm begging you,\n"
 	.string "you have to go to THREE ISLAND.\p"
 	.string "If anything were to happen to my\n"
 	.string "LOSTELLE…\p"
@@ -246,11 +246,11 @@ TwoIsland_JoyfulGameCorner_Text_PleaseGoToThreeIsland::
 	.string "me this big favor.$"
 
 TwoIsland_JoyfulGameCorner_Text_NotRunningAnyGamesToday::
-	.string "I'm sorry.\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI'm sorry.\n"
 	.string "We're not running any games today.$"
 
 TwoIsland_JoyfulGameCorner_Text_GetGamesGoingSoon::
-	.string "We'll get the games going soon\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWe'll get the games going soon\n"
 	.string "for you!$"
 
 TwoIsland_JoyfulGameCorner_Text_YouRescuedLostelle::
@@ -265,7 +265,7 @@ TwoIsland_JoyfulGameCorner_Text_LostelleItsOkayDaddy::
 	.string "I got to be friends with {PLAYER}!$"
 
 TwoIsland_JoyfulGameCorner_Text_ThisIsForMe::
-	.string "Oh, what's that?\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pOh, what's that?\n"
 	.string "You're saying that this is for me?\p"
 	.string "How did you know that I love rare\n"
 	.string "rocks and gems?\p"
@@ -277,7 +277,7 @@ TwoIsland_JoyfulGameCorner_Text_HandedMeteoriteToLostellesDaddy::
 	.string "to LOSTELLE's daddy.$"
 
 TwoIsland_JoyfulGameCorner_Text_OhThisIsFromBill::
-	.string "Oh, I see, this is from BILL!\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pOh, I see, this is from BILL!\n"
 	.string "You have to thank him for me!\p"
 	.string "You know, you've been fantastic.\n"
 	.string "I want you to have this.$"
@@ -287,17 +287,17 @@ TwoIsland_JoyfulGameCorner_Text_ReceivedMoonStoneFromLostellesDaddy::
 	.string "from LOSTELLE's daddy.$"
 
 TwoIsland_JoyfulGameCorner_Text_NotGoingToFitInBag::
-	.string "Your BAG's not going to fit another\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYour BAG's not going to fit another\n"
 	.string "thing…$"
 
 TwoIsland_JoyfulGameCorner_Text_IllGetGameCornerRunning::
-	.string "All right, I'll get the GAME CORNER\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pAll right, I'll get the GAME CORNER\n"
 	.string "running right away.\p"
 	.string "You have to come visit with a\n"
 	.string "friend.$"
 
 TwoIsland_JoyfulGameCorner_Text_PleaseShowMeYouBeingCool::
-	.string "Listen, listen!\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pListen, listen!\p"
 	.string "Please show me you being cool\n"
 	.string "again!$"
 

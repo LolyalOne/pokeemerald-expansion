@@ -51,20 +51,20 @@ Route16_NorthEntrance_2F_EventScript_GetAideRequestInfo::
 	return
 
 Route16_NorthEntrance_2F_Text_OnBikeRideWithGirlfriend::
-	.string "I'm on a relaxing ride on my new\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pI'm on a relaxing ride on my new\n"
 	.string "bike with my girlfriend.$"
 
 Route16_NorthEntrance_2F_Text_RidingTogetherOnNewBikes::
-	.string "We're going riding together on our\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWe're going riding together on our\n"
 	.string "new bikes.$"
 
 Route16_NorthEntrance_2F_Text_ItsCeladonDeptStore::
-	.string "Let's see what the binoculars have\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pLet's see what the binoculars have\n"
 	.string "to show…\p"
 	.string "It's the CELADON DEPT. STORE!$"
 
 Route16_NorthEntrance_2F_Text_LongPathOverWater::
-	.string "Let's see what the binoculars have\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pLet's see what the binoculars have\n"
 	.string "to show…\p"
 	.string "There's a long path over water far\n"
 	.string "away.$"
@@ -82,7 +82,7 @@ Route16_NorthEntrance_2F_Text_GiveAmuletCoinIfCaught40::
 	.string "40 kinds of POKéMON?$"
 
 Route16_NorthEntrance_2F_Text_GreatHereYouGo::
-	.string "Great! You have caught or owned\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pGreat! You have caught or owned\n"
 	.string "{STR_VAR_3} kinds of POKéMON!\p"
 	.string "Congratulations!\n"
 	.string "Here you go!$"

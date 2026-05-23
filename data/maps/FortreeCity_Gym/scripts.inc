@@ -135,7 +135,7 @@ FortreeCity_Gym_EventScript_GymStatue::
 	end
 
 FortreeCity_Gym_Text_GymGuideAdvice:
-	.string "Yo, how's it going, CHAMPION-\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYo, how's it going, CHAMPION-\n"
 	.string "bound {PLAYER}?\p"
 	.string "FORTREE GYM LEADER WINONA is\n"
 	.string "a master of FLYING-type POKéMON.\p"
@@ -146,7 +146,7 @@ FortreeCity_Gym_Text_GymGuideAdvice:
 	.string "Okay, go for it!$"
 
 FortreeCity_Gym_Text_GymGuidePostVictory:
-	.string "You did it!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pYou did it!\n"
 	.string "You've achieved liftoff!$"
 
 FortreeCity_Gym_Text_JaredIntro:
@@ -250,7 +250,7 @@ FortreeCity_Gym_Text_WinonaDefeat:
 	.string "I present to you this GYM BADGE.$"
 
 FortreeCity_Gym_Text_ReceivedFeatherBadge:
-	.string "{PLAYER} received the FEATHER BADGE\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\p{PLAYER} received the FEATHER BADGE\n"
 	.string "from WINONA.$"
 
 FortreeCity_Gym_Text_ExplainFeatherBadgeTakeThis:

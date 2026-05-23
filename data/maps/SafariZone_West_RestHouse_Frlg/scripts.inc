@@ -14,7 +14,7 @@ SafariZone_West_RestHouse_EventScript_CooltrainerF::
 	end
 
 SafariZone_West_Text_KogaPatrolsSafariEverySoOften::
-	.string "The SAFARI ZONE's huge, wouldn't\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pThe SAFARI ZONE's huge, wouldn't\n"
 	.string "you say?\p"
 	.string "FUCHSIA's GYM LEADER, KOGA, \n"
 	.string "patrols the grounds every so often.\p"
@@ -22,16 +22,16 @@ SafariZone_West_Text_KogaPatrolsSafariEverySoOften::
 	.string "knowing that we're safe.$"
 
 SafariZone_West_Text_RocksMakeMonRunButEasierCatch::
-	.string "Tossing ROCKS at POKéMON might\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pTossing ROCKS at POKéMON might\n"
 	.string "make them run, but they'll be\l"
 	.string "easier to catch.$"
 
 SafariZone_West_Text_BaitMakesMonStickAround::
-	.string "Using BAIT will make POKéMON more\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pUsing BAIT will make POKéMON more\n"
 	.string "likely to stick around if they get\l"
 	.string "busy eating.$"
 
 SafariZone_West_Text_HikedLotsDidntSeeMonIWanted::
-	.string "I hiked a lot, but I didn't see any\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI hiked a lot, but I didn't see any\n"
 	.string "POKéMON I wanted.$"
 

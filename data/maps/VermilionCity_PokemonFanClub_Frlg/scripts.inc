@@ -119,33 +119,33 @@ VermilionCity_PokemonFanClub_EventScript_RulesSign2::
 	end
 
 VermilionCity_PokemonFanClub_Text_AdmirePikachusTail::
-	.string "Won't you admire my PIKACHU's\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pWon't you admire my PIKACHU's\n"
 	.string "adorable tail?$"
 
 VermilionCity_PokemonFanClub_Text_PikachuTwiceAsCute::
-	.string "Humph!\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHumph!\p"
 	.string "My PIKACHU is twice as cute as\n"
 	.string "that one!$"
 
 VermilionCity_PokemonFanClub_Text_AdoreMySeel::
-	.string "I just adore my SEEL!\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pI just adore my SEEL!\n"
 	.string "It's so lovable!\p"
 	.string "It squeals, “Kyuuuh,” when I\n"
 	.string "hug it!$"
 
 VermilionCity_PokemonFanClub_Text_SeelFarMoreAttractive::
-	.string "Oh, dear!\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pOh, dear!\p"
 	.string "My SEEL is far more attractive.\n"
 	.string "By double, I would say.$"
 
 VermilionCity_PokemonFanClub_Text_Pikachu::
-	.string "PIKACHU: Chu! Pikachu!$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pPIKACHU: Chu! Pikachu!$"
 
 VermilionCity_PokemonFanClub_Text_Seel::
-	.string "SEEL: Kyuoo!$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pSEEL: Kyuoo!$"
 
 VermilionCity_PokemonFanClub_Text_DidYouComeToHearAboutMyMons::
-	.string "I chair the POKéMON Fan Club!\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI chair the POKéMON Fan Club!\p"
 	.string "I raise more than a hundred\n"
 	.string "POKéMON!\p"
 	.string "I'm very fussy when it comes to\n"
@@ -155,7 +155,7 @@ VermilionCity_PokemonFanClub_Text_DidYouComeToHearAboutMyMons::
 	.string "my POKéMON?$"
 
 VermilionCity_PokemonFanClub_Text_ChairmansStory::
-	.string "Good!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pGood!\n"
 	.string "Then listen up!\p"
 	.string "My favorite RAPIDASH…\p"
 	.string "It's…cute…lovely…smart… \n"
@@ -171,7 +171,7 @@ VermilionCity_PokemonFanClub_Text_ChairmansStory::
 	.string "I want you to have this!$"
 
 VermilionCity_PokemonFanClub_Text_ReceivedBikeVoucherFromChairman::
-	.string "{PLAYER} received a BIKE VOUCHER\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\p{PLAYER} received a BIKE VOUCHER\n"
 	.string "from the CHAIRMAN.$"
 
 VermilionCity_PokemonFanClub_Text_ExplainBikeVoucher::
@@ -185,32 +185,32 @@ VermilionCity_PokemonFanClub_Text_ExplainBikeVoucher::
 	.string "I hope you like cycling!$"
 
 VermilionCity_PokemonFanClub_Text_ComeBackToHearStory::
-	.string "Oh. Come back when you want to\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pOh. Come back when you want to\n"
 	.string "hear my story!$"
 
 VermilionCity_PokemonFanClub_Text_DidntComeToSeeAboutMonsAgain::
-	.string "Hello, {PLAYER}!\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHello, {PLAYER}!\p"
 	.string "Did you come see me about my\n"
 	.string "POKéMON again?\p"
 	.string "No?\n"
 	.string "Too bad!$"
 
 VermilionCity_PokemonFanClub_Text_MakeRoomForThis::
-	.string "Make room for this!$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pMake room for this!$"
 
 VermilionCity_PokemonFanClub_Text_ChairmanVeryVocalAboutPokemon::
-	.string "Our CHAIRMAN is very vocal about\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOur CHAIRMAN is very vocal about\n"
 	.string "POKéMON.$"
 
 VermilionCity_PokemonFanClub_Text_ListenPolitelyToOtherTrainers::
-	.string "Let's all listen politely to other\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pLet's all listen politely to other\n"
 	.string "TRAINERS!$"
 
 VermilionCity_PokemonFanClub_Text_SomeoneBragsBragBack::
-	.string "If someone brags, brag right back!$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pIf someone brags, brag right back!$"
 
 VermilionCity_PokemonFanClub_Text_ChairmanReallyAdoresHisMons::
-	.string "Our CHAIRMAN really does adore his\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pOur CHAIRMAN really does adore his\n"
 	.string "POKéMON.\p"
 	.string "But the person who is most liked by\n"
 	.string "POKéMON is DAISY, I think.$"

@@ -24,15 +24,15 @@ SSAnne_Deck_EventScript_Trevor::
 	end
 
 SSAnne_Deck_Text_ShipDepartingSoon::
-	.string "The party's over.\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThe party's over.\n"
 	.string "The ship will be departing soon.$"
 
 SSAnne_Deck_Text_ScrubbingDecksHardWork::
-	.string "Whew!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWhew!\n"
 	.string "Scrubbing decks is hard work!$"
 
 SSAnne_Deck_Text_FeelSeasick::
-	.string "Urf… I feel ill…\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pUrf… I feel ill…\p"
 	.string "I got seasick, so I stepped out to\n"
 	.string "get some air…$"
 

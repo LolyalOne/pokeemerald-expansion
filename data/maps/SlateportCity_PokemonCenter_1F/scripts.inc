@@ -25,7 +25,7 @@ SlateportCity_PokemonCenter_1F_EventScript_Woman::
 	end
 
 SlateportCity_PokemonCenter_1F_Text_RaiseDifferentTypesOfPokemon:
-	.string "Want a tip for battling?\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWant a tip for battling?\p"
 	.string "I'd say it's raising different kinds\n"
 	.string "of POKéMON in a balanced manner.\p"
 	.string "It's no good to make just one\n"
@@ -34,7 +34,7 @@ SlateportCity_PokemonCenter_1F_Text_RaiseDifferentTypesOfPokemon:
 	.string "it might not stand a chance.$"
 
 SlateportCity_PokemonCenter_1F_Text_TradedMonWithFriend:
-	.string "I trade POKéMON with my friends.\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pI trade POKéMON with my friends.\p"
 	.string "If a traded POKéMON is holding an\n"
 	.string "item, it makes me twice as happy!$"
 

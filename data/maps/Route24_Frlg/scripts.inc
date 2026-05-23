@@ -97,19 +97,19 @@ Route24_Movement_WalkDown::
 	step_end
 
 Route24_Text_JustEarnedFabulousPrize::
-	.string "Congratulations! You beat our\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pCongratulations! You beat our\n"
 	.string "five contest TRAINERS!\p"
 	.string "You just earned a fabulous prize!$"
 
 Route24_Text_ReceivedNuggetFromMysteryTrainer::
-	.string "{PLAYER} received a NUGGET\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\p{PLAYER} received a NUGGET\n"
 	.string "from the mystery TRAINER!$"
 
 Route24_Text_YouDontHaveAnyRoom::
-	.string "You don't have any room!$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pYou don't have any room!$"
 
 Route24_Text_JoinTeamRocket::
-	.string "By the way, how would you like to\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pBy the way, how would you like to\n"
 	.string "join TEAM ROCKET?\p"
 	.string "We're a group of professional\n"
 	.string "criminals specializing in POKéMON!\p"
@@ -126,7 +126,7 @@ Route24_Text_RocketDefeat::
 	.string "You are good!$"
 
 Route24_Text_YoudBecomeTopRocketLeader::
-	.string "With your ability, you'd become\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWith your ability, you'd become\n"
 	.string "a top leader in TEAM ROCKET.\p"
 	.string "Come on, think of the opportunity!\n"
 	.string "Don't let this chance go to waste.$"

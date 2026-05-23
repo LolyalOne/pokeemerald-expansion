@@ -130,7 +130,7 @@ Route115_EventScript_Marlene::
 	end
 
 Route115_Text_NeverKnowWhenCavePokemonWillAppear:
-	.string "Exploring a cave isn't like walking\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pExploring a cave isn't like walking\n"
 	.string "on a road.\p"
 	.string "You never know when wild POKéMON will\n"
 	.string "appear. It's full of suspense.$"

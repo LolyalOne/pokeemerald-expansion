@@ -63,7 +63,7 @@ Route15_WestEntrance_2F_Text_GiveItemIfCaughtEnough::
 	.string "{STR_VAR_1} kinds of POKéMON?$"
 
 Route15_WestEntrance_2F_Text_GreatHereYouGo::
-	.string "Great! You have caught or owned\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pGreat! You have caught or owned\n"
 	.string "{STR_VAR_3} kinds of POKéMON!\p"
 	.string "Congratulations!\n"
 	.string "Here you go!$"
@@ -80,13 +80,13 @@ Route15_WestEntrance_2F_Text_ExplainExpShare::
 	.string "to battle.$"
 
 Route15_WestEntrance_2F_Text_LargeShiningBird::
-	.string "Let's see what the binoculars have\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pLet's see what the binoculars have\n"
 	.string "to show…\p"
 	.string "A large, shining bird is flying\n"
 	.string "toward the sea.$"
 
 Route15_WestEntrance_2F_Text_SmallIslandOnHorizon::
-	.string "Let's see what the binoculars have\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pLet's see what the binoculars have\n"
 	.string "to show…\p"
 	.string "It looks like a small island on\n"
 	.string "the horizon!$"

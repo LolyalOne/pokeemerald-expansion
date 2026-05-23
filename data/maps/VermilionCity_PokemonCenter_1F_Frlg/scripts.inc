@@ -44,18 +44,18 @@ VermilionCity_PokemonCenter_1F_EventScript_ExplainVSSeeker::
 	end
 
 VermilionCity_PokemonCenter_1F_Text_TrainerMonsStrongerThanWild::
-	.string "Even if they are the same level,\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pEven if they are the same level,\n"
 	.string "POKéMON can have very different\l"
 	.string "stats and abilities.\p"
 	.string "A POKéMON raised by a TRAINER is\n"
 	.string "stronger than one in the wild.$"
 
 VermilionCity_PokemonCenter_1F_Text_PoisonedMonFaintedWhileWalking::
-	.string "My POKéMON was poisoned!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pMy POKéMON was poisoned!\n"
 	.string "It fainted while we were walking!$"
 
 VermilionCity_PokemonCenter_1F_Text_AllMonWeakToSpecificTypes::
-	.string "It is true that a higher-level\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pIt is true that a higher-level\n"
 	.string "POKéMON will be more powerful…\p"
 	.string "But, all POKéMON will have weak\n"
 	.string "points against specific types.\p"
@@ -73,7 +73,7 @@ VermilionCity_PokemonCenter_1F_Text_UrgeToBattleSomeoneAgain::
 	.string "Please, take one!$"
 
 VermilionCity_PokemonCenter_1F_Text_UseDeviceForRematches::
-	.string "Use that device and you'll find\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pUse that device and you'll find\n"
 	.string "TRAINERS looking for a rematch.\p"
 	.string "You have to charge its battery to\n"
 	.string "use it, though.$"

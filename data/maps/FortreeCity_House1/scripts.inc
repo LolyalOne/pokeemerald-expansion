@@ -51,12 +51,12 @@ FortreeCity_House1_Text_YouWillTradeWontYou:
 	.string "won't you?$"
 
 FortreeCity_House1_Text_MonYouTakeCare:
-	.string "Oh, yeah, right on!\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pOh, yeah, right on!\p"
 	.string "{STR_VAR_1}, welcome!\n"
 	.string "{STR_VAR_2}, you take care!$"
 
 FortreeCity_House1_Text_ThisIsntAMon:
-	.string "Uh, no, I don't think so.\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pUh, no, I don't think so.\n"
 	.string "That isn't a {STR_VAR_1}.$"
 
 FortreeCity_House1_Text_YouWontTradeMe:
@@ -64,15 +64,15 @@ FortreeCity_House1_Text_YouWontTradeMe:
 	.string "Even after I bared my heart to you?$"
 
 FortreeCity_House1_Text_GoingToMakeVolbeatStrong:
-	.string "I'm going to make VOLBEAT super\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI'm going to make VOLBEAT super\n"
 	.string "strong from this moment on!\p"
 	.string "I hope you do the same with PLUSLE!$"
 
 FortreeCity_House1_Text_TradingMemoriesWithOthers:
-	.string "Trading POKéMON with others…\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pTrading POKéMON with others…\p"
 	.string "It's as if you're trading your own\n"
 	.string "memories with other people.$"
 
 FortreeCity_House1_Text_Zigzagoon:
-	.string "ZIGZAGOON: Gumomoh?$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pZIGZAGOON: Gumomoh?$"
 

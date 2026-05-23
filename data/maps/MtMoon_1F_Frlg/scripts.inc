@@ -129,11 +129,11 @@ MtMoon_1F_Text_RobbyPostBattle::
 	.string "be able to count on it.$"
 
 MtMoon_1F_Text_ZubatIsABloodsucker::
-	.string "Beware!\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pBeware!\n"
 	.string "ZUBAT is a bloodsucker!$"
 
 MtMoon_1F_Text_BrockHelpsExcavateFossils::
-	.string "Hi, I'm excavating for fossils here\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHi, I'm excavating for fossils here\n"
 	.string "under MT. MOON.\p"
 	.string "Sometimes, BROCK of PEWTER GYM\n"
 	.string "lends me a hand.$"

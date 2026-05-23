@@ -61,21 +61,21 @@ Route10_PokemonCenter_1F_EventScript_GetAideRequestInfo::
 	return
 
 Route10_PokemonCenter_1F_Text_EveryTypeStrongerThanOthers::
-	.string "The types of POKéMON match up\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThe types of POKéMON match up\n"
 	.string "differently with each other.\p"
 	.string "Every type is stronger than some\n"
 	.string "types and weaker than others.$"
 
 Route10_PokemonCenter_1F_Text_NuggetUselessSoldFor5000::
-	.string "A NUGGET is totally useless.\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pA NUGGET is totally useless.\n"
 	.string "So I sold it for ¥5000.$"
 
 Route10_PokemonCenter_1F_Text_HeardGhostsHauntLavender::
-	.string "I heard that ghosts haunt\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI heard that ghosts haunt\n"
 	.string "LAVENDER TOWN.$"
 
 Route10_PokemonCenter_1F_Text_GiveEverstoneIfCaught20Mons::
-	.string "Oh… {PLAYER}!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh… {PLAYER}!\n"
 	.string "I've been looking for you!\p"
 	.string "It's me, one of the ever-present\n"
 	.string "AIDES to PROF. OAK.\p"
@@ -89,13 +89,13 @@ Route10_PokemonCenter_1F_Text_GiveEverstoneIfCaught20Mons::
 	.string "twenty kinds of POKéMON?$"
 
 Route10_PokemonCenter_1F_Text_GreatHereYouGo::
-	.string "Great! You have caught or owned\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pGreat! You have caught or owned\n"
 	.string "{STR_VAR_3} kinds of POKéMON!\p"
 	.string "Congratulations!\n"
 	.string "Here you go!$"
 
 Route10_PokemonCenter_1F_Text_ReceivedEverstoneFromAide::
-	.string "{PLAYER} received the EVERSTONE\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p{PLAYER} received the EVERSTONE\n"
 	.string "from the AIDE.$"
 
 Route10_PokemonCenter_1F_Text_ExplainEverstone::

@@ -627,7 +627,7 @@ MauvilleCity_GameCorner_EventScript_NoCoinCase::
 	end
 
 MauvilleCity_GameCorner_Text_ThisIsMauvilleGameCorner:
-	.string "This is MAUVILLE GAME CORNER.$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pThis is MAUVILLE GAME CORNER.$"
 
 MauvilleCity_GameCorner_Text_NeedCoinCaseForCoins:
 	.string "Okay, you wanted some COINS for\n"
@@ -645,7 +645,7 @@ MauvilleCity_GameCorner_Text_ThankYouHereAreYourCoins:
 	.string "Here are your COINS!$"
 
 MauvilleCity_GameCorner_Text_DontHaveEnoughMoney:
-	.string "Um… You don't appear to have\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pUm… You don't appear to have\n"
 	.string "enough money…$"
 
 MauvilleCity_GameCorner_Text_CoinCaseIsFull:
@@ -662,10 +662,10 @@ MauvilleCity_GameCorner_Text_ExchangeCoinsForPrizes:
 	.string "prizes here.$"
 
 MauvilleCity_GameCorner_Text_WhichPrize:
-	.string "Which prize would you like?$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWhich prize would you like?$"
 
 MauvilleCity_GameCorner_Text_SoYourChoiceIsTheTMX:
-	.string "So your choice is\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pSo your choice is\n"
 	.string "the {STR_VAR_1} {STR_VAR_2}?$"
 
 MauvilleCity_GameCorner_Text_SendToYourHomePC:
@@ -677,38 +677,38 @@ MauvilleCity_GameCorner_Text_NotEnoughCoins:
 
 @ Unused
 MauvilleCity_GameCorner_Text_NoRoomForPlacingDecor:
-	.string "There isn't any room available for\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThere isn't any room available for\n"
 	.string "placing {STR_VAR_1}.$"
 
 MauvilleCity_GameCorner_Text_OhIsThatSo:
-	.string "Oh, is that so? \n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh, is that so? \n"
 	.string "You need to save some COINS before\l"
 	.string "coming back here.$"
 
 MauvilleCity_GameCorner_Text_SoYourChoiceIsX:
-	.string "So your choice is {STR_VAR_1}?$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pSo your choice is {STR_VAR_1}?$"
 
 MauvilleCity_GameCorner_Text_HereYouGo:
-	.string "Here you go!$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHere you go!$"
 
 @ Unused
 MauvilleCity_GameCorner_Text_CantCarryAnyMore:
-	.string "Oh, you can't carry any more than that.$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pOh, you can't carry any more than that.$"
 
 MauvilleCity_GameCorner_Text_GotTwoOfSameDollWantOne:
-	.string "I made a mistake and got two of\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI made a mistake and got two of\n"
 	.string "the same DOLLS.\p"
 	.string "Would you like one of them?$"
 
 MauvilleCity_GameCorner_Text_HereYouGo2:
-	.string "Here you go!$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pHere you go!$"
 
 MauvilleCity_GameCorner_Text_YouWantItButNotNow:
-	.string "Huh?\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHuh?\n"
 	.string "You want it, but not right now?$"
 
 MauvilleCity_GameCorner_Text_DontBeNegative:
-	.string "Oh, don't be so negative!\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pOh, don't be so negative!\n"
 	.string "You can have this!$"
 
 MauvilleCity_GameCorner_Text_CantWinJackpot:
@@ -727,12 +727,12 @@ MauvilleCity_GameCorner_Text_LuckOnlyLastSoLongTakeCoins:
 	.string "Here, take some COINS!$"
 
 MauvilleCity_GameCorner_Text_MauvilleSomethingForEveryone:
-	.string "MAUVILLE has something for\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pMAUVILLE has something for\n"
 	.string "everyone.\p"
 	.string "For me, it's the GAME CORNER.$"
 
 MauvilleCity_GameCorner_Text_RouletteTablesDifferentRates:
-	.string "The ROULETTE tables have different\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pThe ROULETTE tables have different\n"
 	.string "rates.\p"
 	.string "Check your COINS if you're going to\n"
 	.string "pick a table.$"
@@ -746,7 +746,7 @@ MauvilleCity_GameCorner_Text_CoinsAreNeededToPlay:
 	.string "in the GAME CORNER.$"
 
 MauvilleCity_GameCorner_Text_RouletteOnlyLuck:
-	.string "This ROULETTE thing…\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThis ROULETTE thing…\n"
 	.string "It's rather demanding.\p"
 	.string "Win or lose, it's only by luck.$"
 
@@ -755,13 +755,13 @@ MauvilleCity_GameCorner_Text_UpTo3CoinsCanBeUsed:
 	.string "the SLOTS.$"
 
 MauvilleCity_GameCorner_Text_DifficultToStopOn7:
-	.string "It's very difficult to make it stop\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pIt's very difficult to make it stop\n"
 	.string "right on “7.”\p"
 	.string "If it stops on “7” during the REEL TIME\n"
 	.string "bonus game, you'll receive extra COINS.$"
 
 MauvilleCity_GameCorner_Text_HeresSomeSlotsInfo:
-	.string "Here's some information for you\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pHere's some information for you\n"
 	.string "about the SLOTS.\p"
 	.string "The more lightning bolts you stock,\n"
 	.string "the more REEL TIME chances you get.\p"

@@ -223,71 +223,71 @@ SlateportCity_OceanicMuseum_1F_Movement_FamiliarGruntExitNorth:
 	step_end
 
 SlateportCity_OceanicMuseum_1F_Text_WouldYouLikeToEnter:
-	.string "Welcome to the OCEANIC MUSEUM.\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWelcome to the OCEANIC MUSEUM.\p"
 	.string "The entrance fee is ¥50.\n"
 	.string "Would you like to enter?$"
 
 SlateportCity_OceanicMuseum_1F_Text_PleaseEnjoyYourself:
-	.string "Please enjoy yourself.$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pPlease enjoy yourself.$"
 
 SlateportCity_OceanicMuseum_1F_Text_NotEnoughMoney:
-	.string "Oh? I'm sorry, but you don't seem to\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pOh? I'm sorry, but you don't seem to\n"
 	.string "have enough money.$"
 
 SlateportCity_OceanicMuseum_1F_Text_CatchUpWithYourGroup:
-	.string "Oh? You're with that group that\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pOh? You're with that group that\n"
 	.string "went in earlier?\p"
 	.string "You're the only one who's late.\n"
 	.string "You'd better go catch up to them!$"
 
 SlateportCity_OceanicMuseum_1F_Text_AquaExistForGoodOfAll:
-	.string "We, TEAM AQUA, exist for the good\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pWe, TEAM AQUA, exist for the good\n"
 	.string "of all!$"
 
 SlateportCity_OceanicMuseum_1F_Text_OurBossIsntHere:
-	.string "We were told to assemble here,\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pWe were told to assemble here,\n"
 	.string "so we did, but…\p"
 	.string "Our BOSS, the linchpin, isn't here.$"
 
 SlateportCity_OceanicMuseum_1F_Text_WouldStuffHereMakeMeRich:
-	.string "If I ripped off the stuff here,\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pIf I ripped off the stuff here,\n"
 	.string "would it make me rich?$"
 
 SlateportCity_OceanicMuseum_1F_Text_CanLearnForNefariousDeeds:
-	.string "What I learn here, I can put to use on\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pWhat I learn here, I can put to use on\n"
 	.string "nefarious deeds…$"
 
 SlateportCity_OceanicMuseum_1F_Text_RustboroBungled:
-	.string "If our goons didn't bungle things\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pIf our goons didn't bungle things\n"
 	.string "in RUSTBORO, we wouldn't be here!$"
 
 SlateportCity_OceanicMuseum_1F_Text_DidntHaveMoney:
-	.string "I didn't have ¥50, so it took a long\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pI didn't have ¥50, so it took a long\n"
 	.string "time getting by the receptionist.$"
 
 SlateportCity_OceanicMuseum_1F_Text_LearnAboutSeaForBattling:
-	.string "I want to learn about the sea and\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pI want to learn about the sea and\n"
 	.string "use that knowledge for battling.$"
 
 SlateportCity_OceanicMuseum_1F_Text_SternIsRoleModel:
-	.string "I get all giddy and gooey when\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI get all giddy and gooey when\n"
 	.string "I see the sea!\p"
 	.string "For me, CAPT. STERN is the number\n"
 	.string "one role model!$"
 
 SlateportCity_OceanicMuseum_1F_Text_MustBePokemonWeDontKnow:
-	.string "The sea is vast without end, and\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThe sea is vast without end, and\n"
 	.string "infinitely deep…\p"
 	.string "There must be many POKéMON that\n"
 	.string "we don't know about.$"
 
 SlateportCity_OceanicMuseum_1F_Text_WantSeaPokemon:
-	.string "I want a sea POKéMON.\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pI want a sea POKéMON.\p"
 	.string "I think it would feel cool and nice\n"
 	.string "to hug.$"
 
 SlateportCity_OceanicMuseum_1F_Text_RememberMeTakeThis:
-	.string "Aiyeeeh!\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pAiyeeeh!\n"
 	.string "What are you doing here?\p"
 	.string "Me? I'm the TEAM AQUA member\n"
 	.string "you thumped before, remember?\l"
@@ -296,29 +296,29 @@ SlateportCity_OceanicMuseum_1F_Text_RememberMeTakeThis:
 	.string "You have to forgive me!$"
 
 SlateportCity_OceanicMuseum_1F_Text_HopeINeverSeeYouAgain:
-	.string "That TM, it suits you more than it\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pThat TM, it suits you more than it\n"
 	.string "does me.\p"
 	.string "Hope I never see you again!\n"
 	.string "Wahahaha!$"
 
 SlateportCity_OceanicMuseum_1F_Text_YouHaveToTakeThis:
-	.string "Awww, come on!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pAwww, come on!\n"
 	.string "You have to take this and let me go!$"
 
 SlateportCity_OceanicMuseum_1F_Text_WhirlpoolExperiment:
-	.string "A blue fluid is spiraling inside\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pA blue fluid is spiraling inside\n"
 	.string "a glass vessel.\p"
 	.string "“This is an experiment to create a\n"
 	.string "WHIRLPOOL artificially using wind.”$"
 
 SlateportCity_OceanicMuseum_1F_Text_WaterfallExperiment:
-	.string "A red ball is bobbing up and down\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pA red ball is bobbing up and down\n"
 	.string "inside a glass vessel.\p"
 	.string "“This is an experiment simulating a\n"
 	.string "WATERFALL using the ball's buoyancy.”$"
 
 SlateportCity_OceanicMuseum_1F_Text_OceanSoilDisplay:
-	.string "It's a sample of soil from the ocean\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pIt's a sample of soil from the ocean\n"
 	.string "floor.\p"
 	.string "“Over many years, the remains of\n"
 	.string "life-forms settle at the bottom of\l"
@@ -327,7 +327,7 @@ SlateportCity_OceanicMuseum_1F_Text_OceanSoilDisplay:
 	.string "ancient past is revealed.”$"
 
 SlateportCity_OceanicMuseum_1F_Text_BeachSandDisplay:
-	.string "It's a sample of beach sand.\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pIt's a sample of beach sand.\p"
 	.string "“Stones from mountains are washed\n"
 	.string "down by rivers where they are\l"
 	.string "chipped and ground down.\p"
@@ -335,7 +335,7 @@ SlateportCity_OceanicMuseum_1F_Text_BeachSandDisplay:
 	.string "up as sand on beaches.”$"
 
 SlateportCity_OceanicMuseum_1F_Text_OceanicMinifact1:
-	.string "“OCEANIC MINIFACT 1\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\p“OCEANIC MINIFACT 1\n"
 	.string "Why is seawater blue?\p"
 	.string "“Light is composed of many colors.\p"
 	.string "“When light passes through water,\n"
@@ -344,7 +344,7 @@ SlateportCity_OceanicMuseum_1F_Text_OceanicMinifact1:
 	.string "color, making the sea appear blue.”$"
 
 SlateportCity_OceanicMuseum_1F_Text_OceanicMinifact2:
-	.string "“OCEANIC MINIFACT 2\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\p“OCEANIC MINIFACT 2\n"
 	.string "Why is the sea salty?\p"
 	.string "“Seawater contains dissolved salt in\n"
 	.string "the form of sodium and chlorine ions.\p"
@@ -354,7 +354,7 @@ SlateportCity_OceanicMuseum_1F_Text_OceanicMinifact2:
 	.string "makes the sea salty.”$"
 
 SlateportCity_OceanicMuseum_1F_Text_OceanicMinifact3:
-	.string "“OCEANIC MINIFACT 3\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p“OCEANIC MINIFACT 3\n"
 	.string "Which is bigger? The sea or land?\p"
 	.string "“The sea covers about 70% of\n"
 	.string "the planet, and the rest is land.\p"
@@ -362,7 +362,7 @@ SlateportCity_OceanicMuseum_1F_Text_OceanicMinifact3:
 	.string "the size of land.”$"
 
 SlateportCity_OceanicMuseum_1F_Text_FossilDisplay:
-	.string "It's a fossil with wavy ridges on it.\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pIt's a fossil with wavy ridges on it.\p"
 	.string "“Soil on the ocean floor gets scoured\n"
 	.string "by the tide.\p"
 	.string "“The flowing seawater marks the soil\n"

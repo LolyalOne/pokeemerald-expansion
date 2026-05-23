@@ -281,15 +281,15 @@ CeladonCity_DepartmentStore_Roof_EventScript_ExitVendingMachine::
 	end
 
 CeladonCity_DepartmentStore_Roof_Text_ImThirstyGiveHerDrink::
-	.string "I'm thirsty!\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pI'm thirsty!\n"
 	.string "I want something to drink!\p"
 	.string "{FONT_NORMAL}Give her a drink?$"
 
 CeladonCity_DepartmentStore_Roof_Text_GiveWhichDrink::
-	.string "Give her which drink?$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pGive her which drink?$"
 
 CeladonCity_DepartmentStore_Roof_Text_YayFreshWaterHaveThis::
-	.string "Yay!\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYay!\p"
 	.string "FRESH WATER!\p"
 	.string "Thank you!\n"
 	.string "You can have this from me!$"
@@ -304,7 +304,7 @@ CeladonCity_DepartmentStore_Roof_Text_ExplainTM16::
 	.string "of special attacks by your foe.$"
 
 CeladonCity_DepartmentStore_Roof_Text_YaySodaPopHaveThis::
-	.string "Yay!\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pYay!\p"
 	.string "SODA POP!\p"
 	.string "Thank you!\n"
 	.string "You can have this from me!$"
@@ -315,7 +315,7 @@ CeladonCity_DepartmentStore_Roof_Text_ExplainTM20::
 	.string "problems among your POKéMON.$"
 
 CeladonCity_DepartmentStore_Roof_Text_YayLemonadeHaveThis::
-	.string "Yay!\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYay!\p"
 	.string "LEMONADE!\p"
 	.string "Thank you!\n"
 	.string "You can have this from me!$"
@@ -326,20 +326,20 @@ CeladonCity_DepartmentStore_Roof_Text_ExplainTM33::
 	.string "of physical attacks by your foe.$"
 
 CeladonCity_DepartmentStore_Roof_Text_DontHaveSpaceForThis::
-	.string "You don't have space for this!$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pYou don't have space for this!$"
 
 CeladonCity_DepartmentStore_Roof_Text_ImNotThirstyAfterAll::
-	.string "No, thank you!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pNo, thank you!\n"
 	.string "I'm not thirsty after all!$"
 
 CeladonCity_DepartmentStore_Roof_Text_MySisterIsImmature::
-	.string "My sister is a TRAINER, believe it\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pMy sister is a TRAINER, believe it\n"
 	.string "or not.\p"
 	.string "But, she's so immature, she drives\n"
 	.string "me nuts!$"
 
 CeladonCity_DepartmentStore_Roof_Text_ImThirstyIWantDrink::
-	.string "I'm thirsty!\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pI'm thirsty!\n"
 	.string "I want something to drink!$"
 
 CeladonCity_DepartmentStore_Roof_Text_FloorSign::
@@ -351,14 +351,14 @@ CeladonCity_DepartmentStore_Roof_Text_VendingMachineWhatDoesItHave::
 	.string "What does it have?$"
 
 CeladonCity_DepartmentStore_Roof_Text_NotEnoughMoney::
-	.string "Oops, not enough money!$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pOops, not enough money!$"
 
 CeladonCity_DepartmentStore_Roof_Text_DrinkCanPoppedOut::
-	.string "A can of {STR_VAR_1} popped out!$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pA can of {STR_VAR_1} popped out!$"
 
 CeladonCity_DepartmentStore_Roof_Text_NoMoreRoomForStuff::
-	.string "There's no more room for stuff!$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pThere's no more room for stuff!$"
 
 CeladonCity_DepartmentStore_Roof_Text_NotThirsty::
-	.string "Not thirsty!$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pNot thirsty!$"
 

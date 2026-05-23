@@ -78,7 +78,7 @@ SixIsland_PokemonCenter_1F_EventScript_OldMan::
 	end
 
 SixIsland_PokemonCenter_1F_Text_SomethingHiddenOnThisIsland::
-	.string "For ten years, I've searched for\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pFor ten years, I've searched for\n"
 	.string "RUINS.\p"
 	.string "No, make that twenty years.\p"
 	.string "I get this feeling that there's\n"
@@ -93,7 +93,7 @@ SixIsland_PokemonCenter_1F_Text_SomeMonsEvolveByTradingWithHeldItem::
 	.string "traded while holding specific items.$"
 
 SixIsland_PokemonCenter_1F_Text_RivalImpossibleToGetAllMonsAroundHere::
-	.string "{RIVAL}: Hey, {PLAYER}!\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\p{RIVAL}: Hey, {PLAYER}!\n"
 	.string "How's your POKéDEX filling up?\p"
 	.string "It looks like it's impossible to get\n"
 	.string "all the POKéMON by hanging around\l"

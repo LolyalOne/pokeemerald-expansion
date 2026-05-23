@@ -568,7 +568,7 @@ Route111_Text_BattleOurFamily:
 	.string "POKéMON battles?$"
 
 Route111_Text_IsThatSo:
-	.string "Is that so?\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pIs that so?\n"
 	.string "Drop in, if you change your mind!$"
 
 Route111_Text_VictorIntro:
@@ -656,7 +656,7 @@ Route111_Text_OldLadysRestStopSign:
 	.string "“Come in and rest your tired bones.”$"
 
 Route111_Text_TrainerTipsSpAtkSpDef:
-	.string "TRAINER TIPS\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pTRAINER TIPS\p"
 	.string "One of the indicators of a POKéMON's\n"
 	.string "powerfulness is SP. ATK. It stands for\l"
 	.string "“SPECIAL ATTACK.”\p"
@@ -664,14 +664,14 @@ Route111_Text_TrainerTipsSpAtkSpDef:
 	.string "DEFENSE.”$"
 
 Route111_Text_ShouldBeMirageTowerAroundHere:
-	.string "There should be a tower made of sand\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThere should be a tower made of sand\n"
 	.string "around here somewhere.\p"
 	.string "But for some reason, it can be seen\n"
 	.string "sometimes, and sometimes not.\p"
 	.string "That's why I call it the MIRAGE TOWER.$"
 
 Route111_Text_MirageTowerClearlyVisible:
-	.string "I see it!\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pI see it!\n"
 	.string "The tower of sand!\p"
 	.string "The sand tower they called a mirage\n"
 	.string "is clearly visible!\p"
@@ -681,7 +681,7 @@ Route111_Text_MirageTowerClearlyVisible:
 	.string "get my courage up for it…$"
 
 Route111_Text_ThatWasShockingSandRainedDown:
-	.string "Whoa…\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWhoa…\n"
 	.string "That was shocking.\p"
 	.string "Sand rained down in chunks all of\n"
 	.string "a sudden.\p"
@@ -689,21 +689,21 @@ Route111_Text_ThatWasShockingSandRainedDown:
 	.string "Were there sandy ghosts and such?$"
 
 Route111_Text_MirageTowerHasntBeenSeenSince:
-	.string "Since I spoke to you, the tower of sand\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pSince I spoke to you, the tower of sand\n"
 	.string "hasn't been seen.\p"
 	.string "Perhaps it really was\n"
 	.string "the MIRAGE TOWER…$"
 
 Route111_Text_ClawFossilDisappeared:
-	.string "The CLAW FOSSIL disappeared into\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pThe CLAW FOSSIL disappeared into\n"
 	.string "the sand…$"
 
 Route111_Text_RootFossilDisappeared:
-	.string "The ROOT FOSSIL disappeared into\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThe ROOT FOSSIL disappeared into\n"
 	.string "the sand…$"
 
 Route111_Text_MauvilleUncleToldMeToTakeRockSmash:
-	.string "Oh, no!\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh, no!\p"
 	.string "My uncle in MAUVILLE told me to take\n"
 	.string "ROCK SMASH with me if I was going to\l"
 	.string "ROUTE 111!\p"

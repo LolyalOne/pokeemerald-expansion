@@ -62,7 +62,7 @@ AbandonedShip_Rooms2_1F_Text_DanPostBattle:
 	.string "I wonder if someone got them already?$"
 
 AbandonedShip_Rooms2_1F_Text_DanNotEnoughMons:
-	.string "DAN: You don't even have two POKéMON.\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pDAN: You don't even have two POKéMON.\n"
 	.string "You can't expect to beat us like that.$"
 
 AbandonedShip_Rooms2_1F_Text_KiraIntro:
@@ -79,11 +79,11 @@ AbandonedShip_Rooms2_1F_Text_KiraPostBattle:
 	.string "when we find the treasures!$"
 
 AbandonedShip_Rooms2_1F_Text_KiraNotEnoughMons:
-	.string "KIRA: Oh, you don't have two POKéMON?\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pKIRA: Oh, you don't have two POKéMON?\n"
 	.string "We'll have to battle some other time!$"
 
 AbandonedShip_Rooms2_1F_Text_KiraRegister:
-	.string "KIRA: Oh, you make me so angry!\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pKIRA: Oh, you make me so angry!\n"
 	.string "I'm going to register you for that!$"
 
 AbandonedShip_Rooms2_1F_Text_DanRematchIntro:
@@ -96,13 +96,13 @@ AbandonedShip_Rooms2_1F_Text_DanRematchDefeat:
 	.string "DAN: You're strong, as usual!$"
 
 AbandonedShip_Rooms2_1F_Text_DanPostRematch:
-	.string "DAN: We can't find any treasures,\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pDAN: We can't find any treasures,\n"
 	.string "we lose at POKéMON…\p"
 	.string "I want to go home… But if I say that,\n"
 	.string "she gets all angry with me…$"
 
 AbandonedShip_Rooms2_1F_Text_DanRematchNotEnoughMons:
-	.string "DAN: You don't even have two POKéMON.\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pDAN: You don't even have two POKéMON.\n"
 	.string "You can't expect to beat us like that.$"
 
 AbandonedShip_Rooms2_1F_Text_KiraRematchIntro:
@@ -116,12 +116,12 @@ AbandonedShip_Rooms2_1F_Text_KiraRematchDefeat:
 	.string "KIRA: Oh, we lost again…$"
 
 AbandonedShip_Rooms2_1F_Text_KiraPostRematch:
-	.string "KIRA: We're not leaving until we raise\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pKIRA: We're not leaving until we raise\n"
 	.string "our POKéMON some more and we find\l"
 	.string "the treasures here!$"
 
 AbandonedShip_Rooms2_1F_Text_KiraRematchNotEnoughMons:
-	.string "KIRA: Oh, you don't have two POKéMON?\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pKIRA: Oh, you don't have two POKéMON?\n"
 	.string "We'll have to battle some other time!$"
 
 AbandonedShip_Rooms2_1F_Text_JaniIntro:

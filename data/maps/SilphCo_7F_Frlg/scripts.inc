@@ -233,14 +233,14 @@ SilphCo_7F_EventScript_Grunt3::
 	end
 
 SilphCo_7F_Text_HaveMonForSavingUs::
-	.string "Oh! Hi! You're not a ROCKET!\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pOh! Hi! You're not a ROCKET!\n"
 	.string "You came to save us?\l"
 	.string "Why, thank you!\p"
 	.string "I want you to have this POKéMON\n"
 	.string "for saving us.$"
 
 SilphCo_7F_Text_ObtainedLaprasFromEmployee::
-	.string "{PLAYER} obtained a LAPRAS from\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\p{PLAYER} obtained a LAPRAS from\n"
 	.string "the SILPH employee!$"
 
 SilphCo_7F_Text_ExplainLapras::
@@ -254,36 +254,36 @@ SilphCo_7F_Text_ExplainLapras::
 	.string "It'll give you a lift across water!$"
 
 SilphCo_7F_Text_RocketBossWentToBoardroom::
-	.string "TEAM ROCKET's BOSS went to the\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pTEAM ROCKET's BOSS went to the\n"
 	.string "boardroom!\p"
 	.string "Is our PRESIDENT okay?\n"
 	.string "I'm worried.$"
 
 SilphCo_7F_Text_RocketsAfterMasterBall::
-	.string "TEAM ROCKET was after the MASTER\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pTEAM ROCKET was after the MASTER\n"
 	.string "BALL, which catches any POKéMON.$"
 
 SilphCo_7F_Text_CanceledMasterBallProject::
-	.string "We canceled the MASTER BALL\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWe canceled the MASTER BALL\n"
 	.string "project because of TEAM ROCKET.$"
 
 SilphCo_7F_Text_BadIfTeamRocketTookOver::
-	.string "It would be bad if TEAM ROCKET\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pIt would be bad if TEAM ROCKET\n"
 	.string "took over SILPH or our POKéMON.$"
 
 SilphCo_7F_Text_WowYouChasedOffTeamRocket::
-	.string "Wow!\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWow!\p"
 	.string "You chased off TEAM ROCKET all by\n"
 	.string "yourself?$"
 
 SilphCo_7F_Text_ReallyDangerousHere::
-	.string "You!\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pYou!\n"
 	.string "It's really dangerous here!\p"
 	.string "You came to save me?\n"
 	.string "You can't!$"
 
 SilphCo_7F_Text_ThankYouSoMuch::
-	.string "Thank you so much!$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThank you so much!$"
 
 SilphCo_7F_Text_Grunt3Intro::
 	.string "Uh-oh!\n"
@@ -332,7 +332,7 @@ SilphCo_7F_Text_Grunt2PostBattle::
 	.string "ticked off!$"
 
 SilphCo_7F_Text_RivalWhatKeptYou::
-	.string "{RIVAL}: What kept you, {PLAYER}?$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\p{RIVAL}: What kept you, {PLAYER}?$"
 
 SilphCo_7F_Text_RivalIntro::
 	.string "{RIVAL}: Hahaha! I thought you'd\n"

@@ -311,7 +311,7 @@ VermilionCity_Gym_Text_ExplainThunderBadgeTakeThis::
 	.string "Take this!$"
 
 VermilionCity_Gym_Text_ReceivedTM34FromLtSurge::
-	.string "{PLAYER} received TM34\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\p{PLAYER} received TM34\n"
 	.string "from LT. SURGE.$"
 
 VermilionCity_Gym_Text_ExplainTM34::
@@ -319,7 +319,7 @@ VermilionCity_Gym_Text_ExplainTM34::
 	.string "Teach it to an ELECTRIC POKéMON!$"
 
 VermilionCity_Gym_Text_MakeRoomInYourBag::
-	.string "Yo, kid, make room in your BAG!$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pYo, kid, make room in your BAG!$"
 
 VermilionCity_Gym_Text_LtSurgeDefeat::
 	.string "Now that's a shocker!\p"
@@ -370,7 +370,7 @@ VermilionCity_Gym_Text_DwaynePostBattle::
 	.string "second lock is right next to it.$"
 
 VermilionCity_Gym_Text_GymGuyAdvice::
-	.string "Yo!\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYo!\n"
 	.string "Champ in the making!\p"
 	.string "LT. SURGE has a nickname.\p"
 	.string "People refer to him as the\n"
@@ -385,7 +385,7 @@ VermilionCity_Gym_Text_GymGuyAdvice::
 	.string "be easy getting to him.$"
 
 VermilionCity_Gym_Text_GymGuyPostVictory::
-	.string "Whew!\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWhew!\n"
 	.string "That match was electric!$"
 
 VermilionCity_Gym_Text_GymStatue::
@@ -401,7 +401,7 @@ VermilionCity_Gym_Text_GymStatuePlayerWon::
 	.string "{RIVAL}, {PLAYER}$"
 
 VermilionCity_Gym_Text_NopeOnlyTrashHere::
-	.string "Nope!\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pNope!\n"
 	.string "There's only trash here.$"
 
 VermilionCity_Gym_Text_SwitchUnderTrashFirstLockOpened::
@@ -410,11 +410,11 @@ VermilionCity_Gym_Text_SwitchUnderTrashFirstLockOpened::
 	.string "The first electric lock opened!$"
 
 VermilionCity_Gym_Text_SecondLockOpened::
-	.string "The second electric lock opened!\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pThe second electric lock opened!\n"
 	.string "The motorized door opened!$"
 
 VermilionCity_Gym_Text_OnlyTrashLocksWereReset::
-	.string "Nope!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pNope!\n"
 	.string "There's only trash here.\p"
 	.string "Hey!\n"
 	.string "The electric locks were reset!$"

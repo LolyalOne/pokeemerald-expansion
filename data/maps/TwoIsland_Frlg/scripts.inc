@@ -224,7 +224,7 @@ TwoIsland_Text_JoyfulGameCornerSign::
 	.string "Joyful GAME CORNER$"
 
 TwoIsland_Text_DangerFastCurrent::
-	.string "DANGER! FAST CURRENT!\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pDANGER! FAST CURRENT!\n"
 	.string "Fishing and surfing prohibited!$"
 
 TwoIsland_Text_WelcomeToShopMerchandiseLimited::
@@ -245,7 +245,7 @@ TwoIsland_Text_AddedMerchandiseForLostelle::
 	.string "helped me add to my merchandise.$"
 
 TwoIsland_Text_HopeYouGiveItYourBest::
-	.string "Hi! I'm giving it my best here.\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHi! I'm giving it my best here.\n"
 	.string "I hope you do too, {PLAYER}.$"
 
 TwoIsland_Text_BringingItemsFromDistantLands::
@@ -257,7 +257,7 @@ TwoIsland_Text_BringingItemsFromDistantLands::
 	.string "Please have a look!$"
 
 TwoIsland_Text_FellowMovedFromCeladonCity::
-	.string "That fellow there, he moved here\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThat fellow there, he moved here\n"
 	.string "from CELADON CITY.\p"
 	.string "He started up a shop with his\n"
 	.string "younger brother.\p"
@@ -271,7 +271,7 @@ TwoIsland_Text_ShopkeepersBrotherWorksGameCorner::
 	.string "so they can buy more merchandise.$"
 
 TwoIsland_Text_BrunoCameToIslandWhileBack::
-	.string "Listen, listen.\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pListen, listen.\n"
 	.string "Did you know?\p"
 	.string "A famous TRAINER came to the\n"
 	.string "ISLAND a little while back.\p"
@@ -286,13 +286,13 @@ TwoIsland_Text_BuyRareItemsHere::
 	.string "buy rare items here!$"
 
 TwoIsland_Text_OldWomanLivesOutOnCape::
-	.string "There's an old woman who lives in\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThere's an old woman who lives in\n"
 	.string "a cottage out on the cape.\p"
 	.string "She gives the eye to POKéMON.\n"
 	.string "It's a bit unnerving.$"
 
 TwoIsland_Text_HaveYouTriedJumpingGame::
-	.string "Boing! Boing!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pBoing! Boing!\n"
 	.string "Have you tried the jumping game?\p"
 	.string "The POKéMON you can enter…\n"
 	.string "Boing!\p"

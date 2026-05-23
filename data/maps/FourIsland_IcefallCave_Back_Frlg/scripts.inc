@@ -191,13 +191,13 @@ FourIsland_IcefallCave_Back_EventScript_Lorelei::
 	end
 
 FourIsland_IcefallCave_Back_Text_LoreleiKeepHandsOffMons::
-	.string "LORELEI: Keep your filthy hands\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pLORELEI: Keep your filthy hands\n"
 	.string "off the POKéMON in the cave!\p"
 	.string "Do as I say, or you'll have me to\n"
 	.string "answer to!$"
 
 FourIsland_IcefallCave_Back_Text_ShutItLadyLeaveUsBe::
-	.string "Aww, shut it, lady, and leave\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pAww, shut it, lady, and leave\n"
 	.string "us be.\p"
 	.string "Don't let your glasses get all\n"
 	.string "steamed up!$"
@@ -223,7 +223,7 @@ FourIsland_IcefallCave_Back_Text_GruntDefeat::
 	.string "We didn't plan on this!$"
 
 FourIsland_IcefallCave_Back_Text_LoreleiWhereHaveYouTakenMons::
-	.string "LORELEI: Humph.\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pLORELEI: Humph.\n"
 	.string "So despicably weak.\p"
 	.string "You!\n"
 	.string "Tell me!\p"
@@ -233,11 +233,11 @@ FourIsland_IcefallCave_Back_Text_LoreleiWhereHaveYouTakenMons::
 	.string "for all!$"
 
 FourIsland_IcefallCave_Back_Text_NotTellingYouThat::
-	.string "N-no way!\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pN-no way!\n"
 	.string "I'm not telling you that!$"
 
 FourIsland_IcefallCave_Back_Text_LoreleiWellDeepFreezeYou::
-	.string "LORELEI: If you won't confess,\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pLORELEI: If you won't confess,\n"
 	.string "we'll deep-freeze you.\p"
 	.string "My LAPRAS is furious for what\n"
 	.string "you've done to its friends.\p"
@@ -245,7 +245,7 @@ FourIsland_IcefallCave_Back_Text_LoreleiWellDeepFreezeYou::
 	.string "ICE BEAM…$"
 
 FourIsland_IcefallCave_Back_Text_OkayRocketWareHouseFiveIsland::
-	.string "Wawaah! Okay!\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWawaah! Okay!\n"
 	.string "I'll talk!\p"
 	.string "The POKéMON are in the ROCKET\n"
 	.string "WAREHOUSE on FIVE ISLAND.\p"
@@ -256,7 +256,7 @@ FourIsland_IcefallCave_Back_Text_OkayRocketWareHouseFiveIsland::
 	.string "Heheheheh!$"
 
 FourIsland_IcefallCave_Back_Text_ThankYouThisIsAwful::
-	.string "{PLAYER}, thank you.\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\p{PLAYER}, thank you.\n"
 	.string "But this is awful…\p"
 	.string "I was born and raised here on\n"
 	.string "these islands.\p"

@@ -176,7 +176,7 @@ JaggedPass_Text_DianaPostBattle:
 	.string "bicycles up this horribly bumpy pass.$"
 
 JaggedPass_Text_DianaRegister:
-	.string "Will you ever be back in this area?\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pWill you ever be back in this area?\n"
 	.string "If you do return, I'd like a rematch.$"
 
 JaggedPass_Text_DianaRematchIntro:
@@ -188,7 +188,7 @@ JaggedPass_Text_DianaRematchDefeat:
 	.string "too bumpy!$"
 
 JaggedPass_Text_DianaPostRematch:
-	.string "I'll forget about losing and just\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI'll forget about losing and just\n"
 	.string "enjoy this bumpy hike.$"
 
 JaggedPass_Text_EthanIntro:
@@ -204,7 +204,7 @@ JaggedPass_Text_EthanPostBattle:
 	.string "jump ledges.$"
 
 JaggedPass_Text_EthanRegister:
-	.string "When I get more used to this bumpiness,\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pWhen I get more used to this bumpiness,\n"
 	.string "I'll be sure to win!\p"
 	.string "Can you register me in your POKéNAV?$"
 
@@ -217,7 +217,7 @@ JaggedPass_Text_EthanRematchDefeat:
 	.string "bumpy ground…$"
 
 JaggedPass_Text_EthanPostRematch:
-	.string "I should get an ACRO BIKE from RYDEL\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI should get an ACRO BIKE from RYDEL\n"
 	.string "in MAUVILLE CITY…$"
 
 JaggedPass_Text_GruntIntro:
@@ -232,13 +232,13 @@ JaggedPass_Text_GruntDefeat:
 	.string "right away…$"
 
 JaggedPass_Text_GoWhereverYouWant:
-	.string "Okay, oh-kay!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOkay, oh-kay!\n"
 	.string "I admit it--you're strong!\p"
 	.string "Don't worry about me.\n"
 	.string "Go wherever you want!$"
 
 JaggedPass_Text_BoulderShakingInResponseToEmblem:
-	.string "Oh! This boulder is shaking in response\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pOh! This boulder is shaking in response\n"
 	.string "to the MAGMA EMBLEM!$"
 
 JaggedPass_Text_JulioIntro:

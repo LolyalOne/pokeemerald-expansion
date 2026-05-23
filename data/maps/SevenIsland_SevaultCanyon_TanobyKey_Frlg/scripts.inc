@@ -130,6 +130,6 @@ SevenIsland_SevaultCanyon_TanobyKey_EventScript_PuzzleSolved::
 	end
 
 SevenIsland_SevaultCanyon_TanobyKey_Text_MysteriousRumbleFarAway::
-	.string "A mysterious rumble echoed\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pA mysterious rumble echoed\n"
 	.string "somewhere far away.$"
 

@@ -49,7 +49,7 @@ LilycoveCity_PokemonCenter_1F_EventScript_ManiacBadTeamGone::
 	end
 
 LilycoveCity_PokemonCenter_1F_Text_HowManyKindsOfPokemon:
-	.string "I wonder how many kinds of POKéMON\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pI wonder how many kinds of POKéMON\n"
 	.string "there are in the world.\p"
 	.string "It'd be great to cross seas and\n"
 	.string "trade POKéMON with people far away.$"
@@ -60,7 +60,7 @@ LilycoveCity_PokemonCenter_1F_Text_HeardAboutRottenScoundrels:
 	.string "off METEORITES.$"
 
 LilycoveCity_PokemonCenter_1F_Text_HaventSeenRottenScoundrels:
-	.string "Those rotten scoundrels who steal\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThose rotten scoundrels who steal\n"
 	.string "POKéMON and rip off METEORITES…\p"
 	.string "I haven't seen them around recently.$"
 

@@ -14,7 +14,7 @@ ThreeIsland_House2_EventScript_Rocker::
 	end
 
 ThreeIsland_House2_Text_CantMakeThisSpoonBend::
-	.string "Urrrrrrrrgggghhhh…\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pUrrrrrrrrgggghhhh…\n"
 	.string "Kwaaaaah!\p"
 	.string "…It's useless! I can't make this\n"
 	.string "spoon bend with my mind.\p"
@@ -22,7 +22,7 @@ ThreeIsland_House2_Text_CantMakeThisSpoonBend::
 	.string "psychic powers.$"
 
 ThreeIsland_House2_Text_IAdmireSabrina::
-	.string "You know about a girl GYM LEADER\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYou know about a girl GYM LEADER\n"
 	.string "in SAFFRON CITY?\p"
 	.string "She uses PSYCHIC-type POKéMON,\n"
 	.string "right?\p"

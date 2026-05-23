@@ -104,7 +104,7 @@ CeladonCity_Condominiums_RoofRoom_EventScript_ExitBlackboard::
 	end
 
 CeladonCity_Condominiums_RoofRoom_Text_TheresNothingIDontKnow::
-	.string "There is nothing that I don't know,\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThere is nothing that I don't know,\n"
 	.string "like I wrote on the blackboard.\p"
 	.string "I know about the world of POKéMON\n"
 	.string "in your GAME BOY ADVANCE!\p"
@@ -112,18 +112,18 @@ CeladonCity_Condominiums_RoofRoom_Text_TheresNothingIDontKnow::
 	.string "enjoy trading POKéMON!$"
 
 CeladonCity_Condominiums_RoofRoom_Text_ObtainedAnEevee::
-	.string "{PLAYER} obtained an EEVEE!$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p{PLAYER} obtained an EEVEE!$"
 
 CeladonCity_Condominiums_RoofRoom_Text_BoxIsFull::
-	.string "ポケモンが　いっぱいだ\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pポケモンが　いっぱいだ\n"
 	.string "ボックスを　かえて　きなさい$"
 
 CeladonCity_Condominiums_RoofRoom_Text_WirelessAdapterLecture::
-	.string "POKéMON Lecture\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pPOKéMON Lecture\p"
 	.string "Playing with the Wireless Adapter$"
 
 CeladonCity_Condominiums_RoofRoom_Text_ReadWhichHeading::
-	.string "Which heading do you want to read?$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWhich heading do you want to read?$"
 
 CeladonCity_Condominiums_RoofRoom_Text_ExplainWirelessClub::
 	.string "The POKéMON WIRELESS CLUB is\n"
@@ -148,7 +148,7 @@ CeladonCity_Condominiums_RoofRoom_Text_ExplainUnionRoom::
 	.string "meeting other TRAINERS.$"
 
 CeladonCity_Condominiums_RoofRoom_Text_PamphletOnTMs::
-	.string "It's a pamphlet on TMs.\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pIt's a pamphlet on TMs.\p"
 	.string "… …\p"
 	.string "There are fifty TMs in all.\p"
 	.string "There are also seven HMs that\n"

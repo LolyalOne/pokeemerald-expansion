@@ -144,10 +144,10 @@ Route20_Text_MelissaPostBattle::
 	.string "when a volcano erupted.$"
 
 Route20_Text_SeafoamIslands::
-	.string "SEAFOAM ISLANDS$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pSEAFOAM ISLANDS$"
 
 Route20_Text_MistyTrainsHere::
-	.string "Strong TRAINERS and WATER POKéMON\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pStrong TRAINERS and WATER POKéMON\n"
 	.string "are common sights in these parts.\p"
 	.string "They say that MISTY of the\n"
 	.string "CERULEAN GYM trains here.$"

@@ -349,7 +349,7 @@ Route116_EventScript_Johnson::
 	end
 
 Route116_Text_ScoundrelMadeOffWithPeeko:
-	.string "Ohhh, what am I to do?\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pOhhh, what am I to do?\p"
 	.string "We were on our walk, PEEKO and I, when\n"
 	.string "we were jumped by an odd thug…\p"
 	.string "The scoundrel made off with my\n"
@@ -357,11 +357,11 @@ Route116_Text_ScoundrelMadeOffWithPeeko:
 	.string "Wrrrooooooaaaar! PEEKO!$"
 
 Route116_Text_WantToDigTunnel:
-	.string "Nnn… Roar!\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pNnn… Roar!\p"
 	.string "I want to dig that tunnel!$"
 
 Route116_Text_DiggingTunnelWhenGoonOrderedMeOut:
-	.string "Nnn… Roar!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pNnn… Roar!\n"
 	.string "What's going on?\p"
 	.string "I was digging the tunnel without any\n"
 	.string "tools when some goon ordered me out!\p"
@@ -375,12 +375,12 @@ Route116_Text_DiggingTunnelWhenGoonOrderedMeOut:
 	.string "POKéMON into an uproar.$"
 
 Route116_Text_GoonHightailedItOutOfTunnel:
-	.string "Nnn… Roar!\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pNnn… Roar!\p"
 	.string "That goofy goon hightailed it out of\n"
 	.string "the tunnel! I can go back to digging!$"
 
 Route116_Text_ThankYouTokenOfAppreciation:
-	.string "Oh! It's you!\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh! It's you!\p"
 	.string "You're that person who not only helped\n"
 	.string "me in PETALBURG WOODS, but also got\l"
 	.string "back my stolen package and then even\l"
@@ -405,37 +405,37 @@ Route116_Text_NewBallAvailableAtMart:
 	.string "Thank you and bye-bye!$"
 
 Route116_Text_BagIsJamPacked:
-	.string "Your BAG is jam-packed.\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYour BAG is jam-packed.\n"
 	.string "I can't give you this REPEAT BALL.$"
 
 Route116_Text_TokenOfAppreciation:
-	.string "As a token of our appreciation for\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pAs a token of our appreciation for\n"
 	.string "your delivering our package, I have\l"
 	.string "a gift of a new kind of POKé BALL\l"
 	.string "for our most wonderful TRAINER!$"
 
 Route116_Text_CanYouHelpMeFindGlasses:
-	.string "I dropped my glasses…\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pI dropped my glasses…\n"
 	.string "Can you help me find them?$"
 
 Route116_Text_MayISeeThoseGlasses:
-	.string "Those glasses!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThose glasses!\n"
 	.string "May I see them for a second?$"
 
 Route116_Text_NotWhatImLookingForMaybeTheyArentHere:
-	.string "Hmm…\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pHmm…\n"
 	.string "These are BLACKGLASSES.\l"
 	.string "They're not what I'm looking for…\p"
 	.string "Maybe my glasses aren't around\n"
 	.string "here…$"
 
 Route116_Text_CantFindGlassesNotHere:
-	.string "Hmm…\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pHmm…\n"
 	.string "I can't find my glasses anywhere…\l"
 	.string "Maybe they're not around here…$"
 
 Route116_Text_NotWhatImLookingFor:
-	.string "Hmm…\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHmm…\n"
 	.string "These are BLACKGLASSES.\l"
 	.string "They're not what I'm looking for…$"
 
@@ -450,10 +450,10 @@ Route116_Text_RusturfTunnelSign:
 	.string "canceled.”$"
 
 Route116_Text_TunnelersRestHouse:
-	.string "TUNNELER'S REST HOUSE$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pTUNNELER'S REST HOUSE$"
 
 Route116_Text_TrainerTipsBToStopEvolution:
-	.string "TRAINER TIPS\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pTRAINER TIPS\p"
 	.string "If you want to stop a POKéMON from\n"
 	.string "evolving, press the B Button while it\l"
 	.string "is trying to evolve.\l"
@@ -461,7 +461,7 @@ Route116_Text_TrainerTipsBToStopEvolution:
 	.string "This is called an evolution cancel.$"
 
 Route116_Text_TrainerTipsBagHasPockets:
-	.string "TRAINER TIPS\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pTRAINER TIPS\p"
 	.string "Your BAG has several POCKETS.\p"
 	.string "Items you obtain are automatically\n"
 	.string "placed in the appropriate POCKETS.\p"

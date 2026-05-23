@@ -14,7 +14,7 @@ CeladonCity_DepartmentStore_1F_EventScript_FloorSign::
 	end
 
 CeladonCity_DepartmentStore_1F_Text_WelcomeToDeptStore::
-	.string "Hello!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHello!\n"
 	.string "Welcome to CELADON DEPT. STORE.\p"
 	.string "The board on the right describes\n"
 	.string "the store layout.$"
@@ -28,5 +28,5 @@ CeladonCity_DepartmentStore_1F_Text_FloorDescriptions::
 	.string "ROOFTOP SQUARE: VENDING MACHINES$"
 
 CeladonCity_DepartmentStore_1F_Text_ServiceCounter::
-	.string "1F: SERVICE COUNTER$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p1F: SERVICE COUNTER$"
 

@@ -170,7 +170,7 @@ SaffronCity_Dojo_Text_ChoosePrizedFightingMon::
 	.string "Choose whichever one you like!$"
 
 SaffronCity_Dojo_Text_StayAndTrainWithUs::
-	.string "Grunt!\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pGrunt!\n"
 	.string "Stay and train at karate with us!$"
 
 SaffronCity_Dojo_Text_MikeIntro::
@@ -224,30 +224,30 @@ SaffronCity_Dojo_Text_HitoshiPostBattle::
 	.string "train here.$"
 
 SaffronCity_Dojo_Text_YouWantHitmonlee::
-	.string "You want the hard-kicking\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pYou want the hard-kicking\n"
 	.string "HITMONLEE?$"
 
 SaffronCity_Dojo_Text_ReceivedMonFromKarateMaster::
-	.string "{PLAYER} received the {STR_VAR_1}\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p{PLAYER} received the {STR_VAR_1}\n"
 	.string "from the KARATE MASTER.$"
 
 SaffronCity_Dojo_Text_YouWantHitmonchan::
-	.string "You want the piston-punching\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pYou want the piston-punching\n"
 	.string "HITMONCHAN?$"
 
 SaffronCity_Dojo_Text_ReceivedMonFromKarateMaster2::
-	.string "{PLAYER}は　カラテ　だいおう　から\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p{PLAYER}は　カラテ　だいおう　から\n"
 	.string "{STR_VAR_1}を　もらった！$"
 
 SaffronCity_Dojo_Text_BetterNotGetGreedy::
-	.string "Better not get greedy…$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pBetter not get greedy…$"
 
 SaffronCity_Dojo_Text_EnemiesOnEverySide::
-	.string "Enemies on every side!$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pEnemies on every side!$"
 
 SaffronCity_Dojo_Text_GoesAroundComesAround::
-	.string "What goes around comes around.$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pWhat goes around comes around.$"
 
 SaffronCity_Dojo_Text_FightingDojo::
-	.string "FIGHTING DOJO$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pFIGHTING DOJO$"
 

@@ -51,7 +51,7 @@ AquaHideout_1F_EventScript_Grunt1Defeated::
 	end
 
 AquaHideout_1F_Text_OurBossIsSnatchingSomething:
-	.string "What? What? What do you want with \n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pWhat? What? What do you want with \n"
 	.string "TEAM AQUA?\p"
 	.string "Our BOSS isn't here! He's gone off to\n"
 	.string "snatch something important!\p"
@@ -61,7 +61,7 @@ AquaHideout_1F_Text_OurBossIsSnatchingSomething:
 	.string "you something that crucial?$"
 
 AquaHideout_1F_Text_WhereMightMagmaHideoutBe:
-	.string "What? What?\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWhat? What?\n"
 	.string "Are you a TEAM MAGMA grunt?\p"
 	.string "I hear that TEAM MAGMA is trying to\n"
 	.string "awaken an awesome POKéMON at their\l"
@@ -69,7 +69,7 @@ AquaHideout_1F_Text_WhereMightMagmaHideoutBe:
 	.string "But where might their HIDEOUT be?$"
 
 AquaHideout_1F_Text_BossWentToJackASubmarine:
-	.string "What? What? What do you want with \n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pWhat? What? What do you want with \n"
 	.string "TEAM AQUA?\p"
 	.string "Our BOSS isn't here!\n"
 	.string "He's gone off to jack a submarine!\p"
@@ -79,7 +79,7 @@ AquaHideout_1F_Text_BossWentToJackASubmarine:
 	.string "you something that crucial?$"
 
 AquaHideout_1F_Text_BossIsOnRoute122:
-	.string "What? What? What do you want with \n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWhat? What? What do you want with \n"
 	.string "TEAM AQUA?\p"
 	.string "Our BOSS isn't here! He's on his way to\n"
 	.string "MT. PYRE on ROUTE 122!\p"
@@ -89,14 +89,14 @@ AquaHideout_1F_Text_BossIsOnRoute122:
 	.string "you something that crucial?$"
 
 AquaHideout_1F_Text_TeamMagmaAtMtChimney:
-	.string "What? What?\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWhat? What?\n"
 	.string "Are you a TEAM MAGMA grunt?\p"
 	.string "I hear that TEAM MAGMA is after\n"
 	.string "an awesome POKéMON at MT. CHIMNEY.\p"
 	.string "But what is that POKéMON like?$"
 
 AquaHideout_1F_Text_BossIsInSlateportCity:
-	.string "What? What? What do you want with\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWhat? What? What do you want with\n"
 	.string "TEAM AQUA?\p"
 	.string "Our BOSS isn't here!\n"
 	.string "He's on his way to SLATEPORT CITY!\p"

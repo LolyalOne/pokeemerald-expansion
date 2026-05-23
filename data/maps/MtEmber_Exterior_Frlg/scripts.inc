@@ -123,7 +123,7 @@ MtEmber_Exterior_EventScript_Jocelyn::
 	end
 
 Text_ExplosionTeach::
-	.string "Can you imagine?\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pCan you imagine?\n"
 	.string "If this volcano were to erupt?\p"
 	.string "The explosion would be the end of\n"
 	.string "us. How terrifying is that?\p"
@@ -131,21 +131,21 @@ Text_ExplosionTeach::
 	.string "like me to teach EXPLOSION?$"
 
 Text_ExplosionDeclined::
-	.string "Yeah, you're right.\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pYeah, you're right.\n"
 	.string "It is too terrifying.$"
 
 Text_ExplosionWhichMon::
-	.string "You're terribly brave!\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYou're terribly brave!\p"
 	.string "Which POKéMON should I teach\n"
 	.string "EXPLOSION?$"
 
 Text_ExplosionTaught::
-	.string "Using EXPLOSION while on this\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pUsing EXPLOSION while on this\n"
 	.string "volcano…\p"
 	.string "What a terrifying thrill!$"
 
 MtEmber_Exterior_Text_WellTryDiggingHere::
-	.string "Over here.\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOver here.\n"
 	.string "We'll try digging here.\p"
 	.string "That treasure the ADMINS've been\n"
 	.string "talking about should be here.$"
@@ -155,24 +155,24 @@ MtEmber_Exterior_Text_YoureInTheWayGetLost::
 	.string "You're in the way. Get lost.$"
 
 MtEmber_Exterior_Text_PunchedThroughAtLast::
-	.string "Whew, punched through at last.\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pWhew, punched through at last.\n"
 	.string "Let's go treasure hunting!$"
 
 MtEmber_Exterior_Text_WhatsPasswordAgain::
-	.string "Any treasure we find, we haul back\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pAny treasure we find, we haul back\n"
 	.string "to the WAREHOUSE, understood?\p"
 	.string "…Oh, and what're the passwords?\n"
 	.string "At the ROCKET WAREHOUSE, I mean.$"
 
 MtEmber_Exterior_Text_FirstPasswordGoldeen::
-	.string "What, you forgot the password?\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pWhat, you forgot the password?\n"
 	.string "There're actually two.\p"
 	.string "The first one's “GOLDEEN need\n"
 	.string "log.”\p"
 	.string "And the second one is…$"
 
 MtEmber_Exterior_Text_SnoopsBeenListeningIn::
-	.string "Hey!\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pHey!\n"
 	.string "This snoop's been listening in!$"
 
 MtEmber_Exterior_Text_Grunt1Intro::
@@ -198,7 +198,7 @@ MtEmber_Exterior_Text_Grunt2PostBattle::
 	.string "forget everything you heard!$"
 
 MtEmber_Exterior_Text_WellRegroupDontStepInsideThere::
-	.string "What a setback…\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pWhat a setback…\n"
 	.string "We'll have to regroup.\p"
 	.string "You! Don't even think about taking\n"
 	.string "a step inside here!\p"

@@ -82,7 +82,7 @@ ThreeIsland_BondBridge_Text_JoyPostBattle::
 	.string "I hope we can battle again!$"
 
 ThreeIsland_BondBridge_Text_JoyNotEnoughMons::
-	.string "JOY: I really want to battle with\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pJOY: I really want to battle with\n"
 	.string "MEG.\p"
 	.string "One POKéMON isn't enough.$"
 
@@ -98,12 +98,12 @@ ThreeIsland_BondBridge_Text_MegPostBattle::
 	.string "MEG: JOY, wasn't that fun?$"
 
 ThreeIsland_BondBridge_Text_MegNotEnoughMons::
-	.string "MEG: I want to battle together\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pMEG: I want to battle together\n"
 	.string "with JOY.\p"
 	.string "One POKéMON isn't enough.$"
 
 ThreeIsland_BondBridge_Text_BerryForestAhead::
-	.string "BERRY FOREST AHEAD$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pBERRY FOREST AHEAD$"
 
 ThreeIsland_BondBridge_Text_BondBridgeSign::
 	.string "BOND BRIDGE\n"

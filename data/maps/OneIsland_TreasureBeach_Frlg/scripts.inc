@@ -18,7 +18,7 @@ OneIsland_TreasureBeach_Text_AmaraPostBattle::
 	.string "parts.$"
 
 OneIsland_TreasureBeach_Text_GoodThingsWashUpOnBeach::
-	.string "Good things get washed up by the\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pGood things get washed up by the\n"
 	.string "ocean current onto this beach.\p"
 	.string "That's why I often come here for\n"
 	.string "some beachcombing.$"

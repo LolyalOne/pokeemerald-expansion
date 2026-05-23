@@ -41,7 +41,7 @@ Underwater_SeafloorCavern_EventScript_CheckStolenSub::
 	end
 
 Underwater_SeafloorCavern_Text_SubExplorer1:
-	.string "“SUBMARINE EXPLORER 1” is painted\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p“SUBMARINE EXPLORER 1” is painted\n"
 	.string "on the hull.\p"
 	.string "This is the submarine TEAM AQUA\n"
 	.string "stole in SLATEPORT!\p"

@@ -42,7 +42,7 @@ PokemonTower_5F_EventScript_Janae::
 	end
 
 PokemonTower_5F_Text_RestHereInPurifiedSpace::
-	.string "Come, child!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pCome, child!\n"
 	.string "I have purified this space.\l"
 	.string "You can rest here.$"
 

@@ -11,7 +11,7 @@ Route11_EastEntrance_1F_EventScript_BottomGuard::
 
 @ Unclear where this is originally from
 Route11_EastEntrance_1F_Text_BagIsFull::
-	.string "{PLAYER}{KUN}の　バッグ\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p{PLAYER}{KUN}の　バッグ\n"
 	.string "いっぱい　みたい　だね$"
 
 Route11_EastEntrance_1F_Text_ManInLavenderRatesNames::
@@ -25,7 +25,7 @@ Route11_EastEntrance_1F_Text_ManInLavenderRatesNames::
 	.string "POKéMON, too.$"
 
 Route11_EastEntrance_1F_Text_RockTunnelToReachLavender::
-	.string "If you're aiming to reach LAVENDER\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pIf you're aiming to reach LAVENDER\n"
 	.string "TOWN, take ROCK TUNNEL.\p"
 	.string "You can get to ROCK TUNNEL from\n"
 	.string "CERULEAN CITY.$"

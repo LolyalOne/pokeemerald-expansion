@@ -68,19 +68,19 @@ AbandonedShip_Corridors_B1F_Text_DuncanPostBattle:
 	.string "we might make some progress…$"
 
 AbandonedShip_Corridors_B1F_Text_YayItsAShip:
-	.string "Yay!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pYay!\n"
 	.string "It's a ship!$"
 
 AbandonedShip_Corridors_B1F_Text_DoorIsLocked:
-	.string "The door is locked.\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pThe door is locked.\p"
 	.string "“STORAGE” is painted on the door.$"
 
 AbandonedShip_Corridors_B1F_Text_InsertedStorageKey:
-	.string "{PLAYER} inserted and turned the\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\p{PLAYER} inserted and turned the\n"
 	.string "STORAGE KEY.\p"
 	.string "The inserted KEY stuck fast,\n"
 	.string "but the door opened.$"
 
 AbandonedShip_Text_TheDoorIsOpen:
-	.string "The door is open.$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pThe door is open.$"
 

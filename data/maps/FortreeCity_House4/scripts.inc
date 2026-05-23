@@ -69,7 +69,7 @@ FortreeCity_House4_Text_BringsWorldCloserTogether:
 	.string "together. I think it's wonderful!$"
 
 FortreeCity_House4_Text_GoBirdPokemon:
-	.string "There!\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pThere!\n"
 	.string "Go, BIRD POKéMON!$"
 
 FortreeCity_House4_Text_AskedWingullToRunErrand:

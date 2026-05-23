@@ -103,40 +103,40 @@ CeladonCity_EventScript_GameCornerSign::
 	end
 
 CeladonCity_Text_GotMyKoffingInCinnabar::
-	.string "I got my KOFFING in CINNABAR.\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI got my KOFFING in CINNABAR.\p"
 	.string "It's usually nice, but it breathes\n"
 	.string "poison when it's angry.$"
 
 CeladonCity_Text_GymIsGreatFullOfWomen::
-	.string "Heheh! This GYM is great!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHeheh! This GYM is great!\n"
 	.string "It's full of women!$"
 
 CeladonCity_Text_GameCornerIsBadForCitysImage::
-	.string "CELADON takes pride in its efforts\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pCELADON takes pride in its efforts\n"
 	.string "to keep the city beautiful.\p"
 	.string "That's why the new GAME CORNER is\n"
 	.string "bad for our city's image.$"
 
 CeladonCity_Text_BlewItAllAtSlots::
-	.string "Moan…\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pMoan…\n"
 	.string "I blew it all at the slots!\p"
 	.string "I knew I should have cashed in my\n"
 	.string "COINS for prizes!$"
 
 CeladonCity_Text_MyTrustedPalPoliwrath::
-	.string "This is my trusted pal, POLIWRATH.\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThis is my trusted pal, POLIWRATH.\p"
 	.string "It evolved from a POLIWHIRL when\n"
 	.string "I used a WATER STONE.$"
 
 CeladonCity_Text_Poliwrath::
-	.string "POLIWRATH: Ribi ribit!$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pPOLIWRATH: Ribi ribit!$"
 
 CeladonCity_Text_GetLostOrIllPunchYou::
 	.string "What are you staring at?\n"
 	.string "Get lost, or I'll punch you.$"
 
 CeladonCity_Text_KeepOutOfTeamRocketsWay::
-	.string "Keep out of TEAM ROCKET's way!$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pKeep out of TEAM ROCKET's way!$"
 
 CeladonCity_Text_ExplainXAccuracyDireHit::
 	.string "TRAINER TIPS\p"
@@ -164,7 +164,7 @@ CeladonCity_Text_DeptStoreSign::
 	.string "CELADON DEPT. STORE!$"
 
 CeladonCity_Text_GuardSpecProtectsFromStatus::
-	.string "TRAINER TIPS\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pTRAINER TIPS\p"
 	.string "GUARD SPEC. protects POKéMON\n"
 	.string "from status-reduction moves during\l"
 	.string "battle.\p"
@@ -180,7 +180,7 @@ CeladonCity_Text_GameCornerSign::
 	.string "The playground for grown-ups!$"
 
 CeladonCity_Text_ScaldedTongueOnTea::
-	.string "Aaaagh, ow…\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pAaaagh, ow…\n"
 	.string "I scalded my tongue!\p"
 	.string "This nice old lady in the MANSION\n"
 	.string "gave me some TEA.\p"
@@ -188,7 +188,7 @@ CeladonCity_Text_ScaldedTongueOnTea::
 	.string "Gotta cool it to drink it.$"
 
 Text_SoftboiledTeach::
-	.string "Hello, there!\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHello, there!\p"
 	.string "I've seen you about, but I never\n"
 	.string "had a chance to chat.\p"
 	.string "It must be good luck that brought\n"
@@ -197,19 +197,19 @@ Text_SoftboiledTeach::
 	.string "you the move SOFTBOILED.$"
 
 Text_SoftboiledDeclined::
-	.string "I'll always be keeping an eye out\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pI'll always be keeping an eye out\n"
 	.string "for you.\p"
 	.string "I hope we can chat again.$"
 
 Text_SoftboiledWhichMon::
-	.string "So, who's the POKéMON that gets\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pSo, who's the POKéMON that gets\n"
 	.string "the chance to learn SOFTBOILED?$"
 
 Text_SoftboiledTaught::
-	.string "I wish you the best of luck!$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI wish you the best of luck!$"
 
 CeladonCity_Text_SomeoneStoleSilphScope::
-	.string "Oh, what am I to do…\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh, what am I to do…\p"
 	.string "Someone stole our SILPH SCOPE.\p"
 	.string "The thief came running this way,\n"
 	.string "I'm sure of it.\p"

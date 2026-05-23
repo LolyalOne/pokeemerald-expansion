@@ -246,13 +246,13 @@ NewMauville_Inside_EventScript_DefeatedVoltorb3::
 	end
 
 NewMauville_Inside_Text_GeneratorRadiatingHeat:
-	.string "The generator is radiating heat that\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThe generator is radiating heat that\n"
 	.string "can be felt even at a distance.\p"
 	.string "It looks like it should be turned off\n"
 	.string "as soon as possible.$"
 
 NewMauville_Inside_Text_GeneratorQuietedDown:
-	.string "The generator quieted down.$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThe generator quieted down.$"
 
 NewMauville_Inside_Text_SteppedOnSwitchGeneratorStopped:
 	.string "{PLAYER} stepped on the switch.\p"

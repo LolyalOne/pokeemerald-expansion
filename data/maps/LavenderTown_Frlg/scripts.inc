@@ -47,25 +47,25 @@ LavenderTown_EventScript_PokemonTowerSign::
 	end
 
 LavenderTown_Text_DoYouBelieveInGhosts::
-	.string "Do you believe in ghosts?$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pDo you believe in ghosts?$"
 
 LavenderTown_Text_SoThereAreBelievers::
-	.string "Really?\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pReally?\n"
 	.string "So there are believers…$"
 
 LavenderTown_Text_JustImaginingWhiteHand::
-	.string "Hahaha, I guess not.\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHahaha, I guess not.\p"
 	.string "That white hand on your shoulder…\n"
 	.string "I'm just imagining it.$"
 
 LavenderTown_Text_TownKnownAsMonGraveSite::
-	.string "This town is known as the grave\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThis town is known as the grave\n"
 	.string "site of POKéMON.\p"
 	.string "Memorial services are held in\n"
 	.string "POKéMON TOWER.$"
 
 LavenderTown_Text_GhostsAppearedInTower::
-	.string "Ghosts appeared in POKéMON TOWER.\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pGhosts appeared in POKéMON TOWER.\p"
 	.string "I think they're the spirits of\n"
 	.string "POKéMON that the ROCKETS killed.$"
 
@@ -74,12 +74,12 @@ LavenderTown_Text_TownSign::
 	.string "The Noble Purple Town$"
 
 LavenderTown_Text_SilphScopeNotice::
-	.string "New SILPH SCOPE!\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pNew SILPH SCOPE!\n"
 	.string "Make the Invisible Plain to See!\p"
 	.string "SILPH CO.$"
 
 LavenderTown_Text_VolunteerPokemonHouse::
-	.string "LAVENDER VOLUNTEER\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pLAVENDER VOLUNTEER\n"
 	.string "POKéMON HOUSE$"
 
 LavenderTown_Text_PokemonTowerSign::

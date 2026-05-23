@@ -140,7 +140,7 @@ CinnabarIsland_PokemonCenter_1F_Movement_PlayerExitWest::
 	step_end
 
 CinnabarIsland_PokemonCenter_1F_Text_CinnabarGymLocked::
-	.string "I came to visit the CINNABAR GYM,\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI came to visit the CINNABAR GYM,\n"
 	.string "but the door is locked tight.\p"
 	.string "There should be a key for it\n"
 	.string "somewhere.\p"
@@ -150,7 +150,7 @@ CinnabarIsland_PokemonCenter_1F_Text_CinnabarGymLocked::
 	.string "live there, they say.$"
 
 CinnabarIsland_PokemonCenter_1F_Text_VisitUnionRoom::
-	.string "Do you have lots of friends?\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pDo you have lots of friends?\p"
 	.string "Linking up with the usual friends\n"
 	.string "is fun, of course.\p"
 	.string "But how about visiting the\n"
@@ -167,13 +167,13 @@ CinnabarIsland_PokemonCenter_1F_Text_EvolutionCanWaitForNewMoves::
 	.string "have been learned.$"
 
 CinnabarIsland_PokemonCenter_1F_Text_ReadyToSailToOneIsland::
-	.string "BILL: Hey, you kept me waiting!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pBILL: Hey, you kept me waiting!\n"
 	.string "Ready to set sail to ONE ISLAND?$"
 
 CinnabarIsland_PokemonCenter_1F_Text_OhNotDoneYet::
-	.string "Oh, you're still not done yet?$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pOh, you're still not done yet?$"
 
 CinnabarIsland_PokemonCenter_1F_Text_LetsGo::
-	.string "Well, that's it.\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWell, that's it.\n"
 	.string "Let's go!$"
 

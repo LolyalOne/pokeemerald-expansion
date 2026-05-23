@@ -285,7 +285,7 @@ CinnabarIsland_PokemonLab_ExperimentRoom_EventScript_CheckRevivedDome::
 	return
 
 Text_MetronomeTeach::
-	.string "Tch-tch-tch!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pTch-tch-tch!\n"
 	.string "I'll teach you a nifty move.\p"
 	.string "Teach it to a POKéMON, and watch\n"
 	.string "the fun unfold!\p"
@@ -293,20 +293,20 @@ Text_MetronomeTeach::
 	.string "Does it strike your fancy?$"
 
 Text_MetronomeDeclined::
-	.string "I tell you, it's a lot of fun!$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI tell you, it's a lot of fun!$"
 
 Text_MetronomeWhichMon::
-	.string "Okay!\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pOkay!\n"
 	.string "Which POKéMON should I teach?$"
 
 Text_MetronomeTaught::
-	.string "Tch-tch-tch!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pTch-tch-tch!\n"
 	.string "That's the sound of a METRONOME.\p"
 	.string "It tweaks your POKéMON's brain into\n"
 	.string "using moves it doesn't even know.$"
 
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_HaveYouAFossilForMe::
-	.string "Hiya!\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pHiya!\p"
 	.string "I am important doctor.\n"
 	.string "Yes, very much so, indeed.\p"
 	.string "Here, I study rare POKéMON fossils.\n"
@@ -315,31 +315,31 @@ CinnabarIsland_PokemonLab_ExperimentRoom_Text_HaveYouAFossilForMe::
 	.string "Have you a fossil for me?$"
 
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_NoIsTooBad::
-	.string "No!\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pNo!\n"
 	.string "Is too bad!$"
 
 @ Unused
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_TakesTimeGoForWalkJP::
-	.string "ちょっと　じかん　かかるよ！\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pちょっと　じかん　かかるよ！\p"
 	.string "そこらへんを　すこし\n"
 	.string "ブラブラ　してくると　よろしー！$"
 
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_FossilMonBackToLife::
-	.string "You late.\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pYou late.\n"
 	.string "Where were you?\p"
 	.string "Your fossil is back to life!\n"
 	.string "It was {STR_VAR_1} like I think!$"
 
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_ReceivedMonFromDoctor::
-	.string "{PLAYER} received the {STR_VAR_1}\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p{PLAYER} received the {STR_VAR_1}\n"
 	.string "from the doctor.$"
 
 @ Unused
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_NoRoomForPokemon::
-	.string "ポケモン　いっぱいで　もてないね！$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pポケモン　いっぱいで　もてないね！$"
 
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_ThatFossilIsOfMonMakeItLiveAgain::
-	.string "Oh!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh!\n"
 	.string "That is {STR_VAR_2}, it is!\p"
 	.string "It is fossil of {STR_VAR_1},\n"
 	.string "a POKéMON that is already extinct!\p"
@@ -348,16 +348,16 @@ CinnabarIsland_PokemonLab_ExperimentRoom_Text_ThatFossilIsOfMonMakeItLiveAgain::
 
 @ TODO: Resolve text dump error below?
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_HandedFossilToWeirdDoctor::
-	.string "So!\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pSo!\n"
 	.string "You hurry and give me that!\p"
 	.string "{FONT_NORMAL}{PLAYER} handed over the\n"
 	.string "{STR_VAR_2} to the weird doctor.$"
 
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_TakesTimeGoForWalk::
-	.string "I take a little time!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI take a little time!\n"
 	.string "You go for walk a little while!$"
 
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_YouComeAgain::
-	.string "Aiyah!\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pAiyah!\n"
 	.string "You come again!$"
 

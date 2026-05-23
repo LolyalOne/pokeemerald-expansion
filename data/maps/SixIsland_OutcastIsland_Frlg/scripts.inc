@@ -70,7 +70,7 @@ SixIsland_OutcastIsland_Text_AvaPostBattle::
 	.string "sea over any pool.$"
 
 SixIsland_OutcastIsland_Text_AvaNotEnoughMons::
-	.string "AVA: You're challenging us to\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pAVA: You're challenging us to\n"
 	.string "a battle?\p"
 	.string "You'll need at least two POKéMON\n"
 	.string "if you want to do that.$"
@@ -88,6 +88,6 @@ SixIsland_OutcastIsland_Text_GebPostBattle::
 	.string "because I can't touch the bottom.$"
 
 SixIsland_OutcastIsland_Text_GebNotEnoughMons::
-	.string "GEB: Please battle against me and\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pGEB: Please battle against me and\n"
 	.string "my sister!\p"
 	.string "…Oh, you don't have two POKéMON?$"

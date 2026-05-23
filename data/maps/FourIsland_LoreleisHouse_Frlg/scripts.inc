@@ -33,7 +33,7 @@ FourIsland_LoreleisHouse_EventScript_Doll::
 	end
 
 FourIsland_LoreleisHouse_Text_IfAnythingWereToHappenToIsland::
-	.string "LORELEI: There's something weighing\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pLORELEI: There's something weighing\n"
 	.string "heavily on my mind.\p"
 	.string "If anything were to happen on\n"
 	.string "the island where I was born…\p"
@@ -43,7 +43,7 @@ FourIsland_LoreleisHouse_Text_IfAnythingWereToHappenToIsland::
 	.string "irresponsible to my home…$"
 
 FourIsland_LoreleisHouse_Text_IllReturnToLeagueInShortWhile::
-	.string "LORELEI: So, you managed to solve\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pLORELEI: So, you managed to solve\n"
 	.string "all the problems here?\p"
 	.string "That's wonderful.\p"
 	.string "That means there isn't any reason\n"
@@ -53,11 +53,11 @@ FourIsland_LoreleisHouse_Text_IllReturnToLeagueInShortWhile::
 	.string "in a short while.$"
 
 FourIsland_LoreleisHouse_Text_WillDoWhatICanHereAndNow::
-	.string "I don't know what will happen in\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI don't know what will happen in\n"
 	.string "the future, but…\p"
 	.string "I will do what I can here and now.\n"
 	.string "That's all I can do.$"
 
 FourIsland_LoreleisHouse_Text_StuffedMonDollsGalore::
-	.string "Stuffed POKéMON dolls galore!$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pStuffed POKéMON dolls galore!$"
 

@@ -25,11 +25,11 @@ SaffronCity_MrPsychicsHouse_EventScript_AlreadyGotTM29::
 	end
 
 SaffronCity_MrPsychicsHouse_Text_YouWantedThis::
-	.string "…Wait! Don't say a word!\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p…Wait! Don't say a word!\p"
 	.string "You wanted this!$"
 
 SaffronCity_MrPsychicsHouse_Text_ReceivedTM29FromMrPsychic::
-	.string "{PLAYER} received TM29\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\p{PLAYER} received TM29\n"
 	.string "from MR. PSYCHIC.$"
 
 SaffronCity_MrPsychicsHouse_Text_ExplainTM29::
@@ -39,6 +39,6 @@ SaffronCity_MrPsychicsHouse_Text_ExplainTM29::
 	.string "the target's special stats.$"
 
 SaffronCity_MrPsychicsHouse_Text_YouveNoRoom::
-	.string "Where do you plan to put this?\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWhere do you plan to put this?\n"
 	.string "You've no room.$"
 

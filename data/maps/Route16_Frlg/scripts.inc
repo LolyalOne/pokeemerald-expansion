@@ -142,7 +142,7 @@ Route16_Text_RubenPostBattle::
 	.string "And, they bite, too.$"
 
 Route16_Text_MonSprawledOutInSlumber::
-	.string "A POKéMON is sprawled out in\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pA POKéMON is sprawled out in\n"
 	.string "a deep and comfortable slumber.$"
 
 Route16_Text_CyclingRoadSign::
@@ -166,7 +166,7 @@ Route16_Text_JedPostBattle::
 	.string "You need to focus less on me.$"
 
 Route16_Text_JedNotEnoughMons::
-	.string "JED: You have just one POKéMON?\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pJED: You have just one POKéMON?\n"
 	.string "Is there no love in your heart?$"
 
 Route16_Text_LeaIntro::
@@ -182,7 +182,7 @@ Route16_Text_LeaPostBattle::
 	.string "JED is so cool.$"
 
 Route16_Text_LeaNotEnoughMons::
-	.string "LEA: Oh, you don't have two\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pLEA: Oh, you don't have two\n"
 	.string "POKéMON with you?\p"
 	.string "Doesn't it feel lonely for you or\n"
 	.string "your POKéMON?$"

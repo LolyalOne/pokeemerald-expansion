@@ -124,7 +124,7 @@ FuchsiaCity_Gym_Text_KogaExplainSoulBadge::
 	.string "Take this, too!$"
 
 FuchsiaCity_Gym_Text_ReceivedTM06FromKoga::
-	.string "{PLAYER} received TM06\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\p{PLAYER} received TM06\n"
 	.string "from KOGA.$"
 
 FuchsiaCity_Gym_Text_KogaExplainTM06::
@@ -134,7 +134,7 @@ FuchsiaCity_Gym_Text_KogaExplainTM06::
 	.string "back some four hundred years.$"
 
 FuchsiaCity_Gym_Text_MakeSpaceForThis::
-	.string "Make space for this, child!$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pMake space for this, child!$"
 
 FuchsiaCity_Gym_Text_KaydenIntro::
 	.string "Strength isn't the key for POKéMON.\n"
@@ -220,7 +220,7 @@ FuchsiaCity_Gym_Text_ShawnPostBattle::
 	.string "Which do you choose?$"
 
 FuchsiaCity_Gym_Text_GymGuyAdvice::
-	.string "Yo!\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYo!\n"
 	.string "Champ in the making!\p"
 	.string "FUCHSIA GYM is a tricked-up place.\n"
 	.string "It's riddled with invisible walls!\p"
@@ -230,7 +230,7 @@ FuchsiaCity_Gym_Text_GymGuyAdvice::
 	.string "to reach him.$"
 
 FuchsiaCity_Gym_Text_GymGuyPostVictory::
-	.string "It's amazing how ninja can terrify,\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pIt's amazing how ninja can terrify,\n"
 	.string "even now!$"
 
 FuchsiaCity_Gym_Text_GymStatue::

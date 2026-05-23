@@ -143,7 +143,7 @@ Route14_Text_KiriPostBattle::
 	.string "KIRI: Did we lose because of me?$"
 
 Route14_Text_KiriNotEnoughMons::
-	.string "KIRI: We can battle if you have\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pKIRI: We can battle if you have\n"
 	.string "two POKéMON.$"
 
 Route14_Text_JanIntro::
@@ -159,5 +159,5 @@ Route14_Text_JanPostBattle::
 	.string "We'll just try harder next time.$"
 
 Route14_Text_JanNotEnoughMons::
-	.string "JAN: You want to battle?\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pJAN: You want to battle?\n"
 	.string "You don't have enough POKéMON.$"

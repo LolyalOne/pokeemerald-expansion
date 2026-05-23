@@ -31,13 +31,13 @@ PewterCity_House1_EventScript_DoNidoranCry::
 	return
 
 PewterCity_House1_Text_Nidoran::
-	.string "NIDORAN♂: Bowbow!$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pNIDORAN♂: Bowbow!$"
 
 PewterCity_House1_Text_NidoranSit::
-	.string "NIDORAN, sit!$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pNIDORAN, sit!$"
 
 PewterCity_House1_Text_TradeMonsAreFinicky::
-	.string "Our POKéMON's an outsider, so it's\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOur POKéMON's an outsider, so it's\n"
 	.string "finicky and hard to handle.\p"
 	.string "An outsider is a POKéMON that you\n"
 	.string "get in a trade.\p"

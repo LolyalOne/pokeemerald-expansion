@@ -45,7 +45,7 @@ SaffronCity_CopycatsHouse_2F_EventScript_Game::
 	end
 
 SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyMale::
-	.string "{PLAYER}: Hi!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p{PLAYER}: Hi!\n"
 	.string "Do you like POKéMON?\p"
 	.string "{PLAYER}: Uh, no, I just asked you.\p"
 	.string "{PLAYER}: Huh?\n"
@@ -54,7 +54,7 @@ SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyMale::
 	.string "But, that's my favorite hobby!$"
 
 SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyFemale::
-	.string "{PLAYER}: Hi.\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p{PLAYER}: Hi.\n"
 	.string "You must like POKéMON.\p"
 	.string "{PLAYER}: No, not me.\n"
 	.string "I asked you.\p"
@@ -65,7 +65,7 @@ SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyFemale::
 	.string "But that's my favorite hobby!$"
 
 Text_MimicTeach::
-	.string "Oh wow!\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pOh wow!\n"
 	.string "A POKé DOLL!\p"
 	.string "For me?\n"
 	.string "Thank you!\p"
@@ -73,14 +73,14 @@ Text_MimicTeach::
 	.string "I can teach the move MIMIC.$"
 
 Text_MimicDeclined::
-	.string "Don't you like MIMIC?$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pDon't you like MIMIC?$"
 
 Text_MimicWhichMon::
-	.string "I really love MIMIC!\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI really love MIMIC!\n"
 	.string "Who's going to learn it?$"
 
 Text_MimicTaughtMale::
-	.string "{PLAYER}: Hi!\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p{PLAYER}: Hi!\n"
 	.string "Thanks for earlier!\p"
 	.string "{PLAYER}: Pardon?\p"
 	.string "{PLAYER}: Is it that fun to mimic my\n"
@@ -89,7 +89,7 @@ Text_MimicTaughtMale::
 	.string "It's a scream!$"
 
 Text_MimicTaughtFemale::
-	.string "{PLAYER}: Hi!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p{PLAYER}: Hi!\n"
 	.string "Thanks for what you did for us.\p"
 	.string "{PLAYER}: Pardon?\p"
 	.string "{PLAYER}: Is it really that fun to\n"
@@ -98,20 +98,20 @@ Text_MimicTaughtFemale::
 	.string "It's a scream!$"
 
 SaffronCity_CopycatsHouse_2F_Text_Doduo::
-	.string "DODUO: Giiih!\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pDODUO: Giiih!\p"
 	.string "PRETTY MIRROR LOOK AT ME,\n"
 	.string "SEE HOW PRETTY I CAN BE?$"
 
 SaffronCity_CopycatsHouse_2F_Text_RareMonOnlyDoll::
-	.string "This is a rare POKéMON!\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pThis is a rare POKéMON!\n"
 	.string "Huh? It's only a doll!$"
 
 SaffronCity_CopycatsHouse_2F_Text_MarioWearingABucket::
-	.string "A game with MARIO wearing a bucket\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pA game with MARIO wearing a bucket\n"
 	.string "on his head!$"
 
 SaffronCity_CopycatsHouse_2F_Text_MySecrets::
-	.string "…\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p…\p"
 	.string "My Secrets!\p"
 	.string "Skill: Mimicry!\n"
 	.string "Hobby: Collecting dolls!\l"

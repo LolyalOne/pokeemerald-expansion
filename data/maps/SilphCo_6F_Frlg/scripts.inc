@@ -91,42 +91,42 @@ SilphCo_6F_EventScript_Grunt2::
 	end
 
 SilphCo_6F_Text_RocketsTookOverBuilding::
-	.string "The ROCKETS came and took over\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThe ROCKETS came and took over\n"
 	.string "the building!$"
 
 SilphCo_6F_Text_BetterGetBackToWork::
-	.string "Well, better get back to work.$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWell, better get back to work.$"
 
 SilphCo_6F_Text_HelpMePlease::
-	.string "Oh dear, oh dear.\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pOh dear, oh dear.\n"
 	.string "Help me, please!$"
 
 SilphCo_6F_Text_WeGotEngaged::
-	.string "We got engaged.\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pWe got engaged.\n"
 	.string "Heheh!$"
 
 SilphCo_6F_Text_ThatManIsSuchACoward::
-	.string "That man next to me…\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThat man next to me…\n"
 	.string "He's such a coward!$"
 
 SilphCo_6F_Text_NeedsMeToLookAfterHim::
-	.string "He's so helpless, he needed\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pHe's so helpless, he needed\n"
 	.string "someone like me to look after him.$"
 
 SilphCo_6F_Text_RocketsTryingToConquerWorld::
-	.string "TEAM ROCKET is trying to conquer\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pTEAM ROCKET is trying to conquer\n"
 	.string "the world with POKéMON.$"
 
 SilphCo_6F_Text_RocketsRanAwayBecauseOfYou::
-	.string "TEAM ROCKET ran away, and it's all\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pTEAM ROCKET ran away, and it's all\n"
 	.string "because of you!$"
 
 SilphCo_6F_Text_TargetedSilphForOurMonProducts::
-	.string "They must have targeted SILPH for\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThey must have targeted SILPH for\n"
 	.string "our POKéMON products.$"
 
 SilphCo_6F_Text_ComeWorkForSilphWhenYoureOlder::
-	.string "Come work for SILPH when you\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pCome work for SILPH when you\n"
 	.string "get older.$"
 
 SilphCo_6F_Text_Grunt1Intro::

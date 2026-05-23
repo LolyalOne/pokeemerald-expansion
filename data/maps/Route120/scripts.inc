@@ -360,7 +360,7 @@ Route120_EventScript_Callie::
 	end
 
 Route120_Text_StevenGreeting:
-	.string "STEVEN: Hm? {PLAYER}{KUN}, hi.\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pSTEVEN: Hm? {PLAYER}{KUN}, hi.\n"
 	.string "It's been a while.\p"
 	.string "There's something here that you can't\n"
 	.string "see, right?\p"
@@ -381,17 +381,17 @@ Route120_Text_StevenReadyForBattle:
 	.string "ready for battle?$"
 
 Route120_Text_StevenShowMeYourPower:
-	.string "STEVEN: {PLAYER}{KUN}, show me your true\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pSTEVEN: {PLAYER}{KUN}, show me your true\n"
 	.string "power as a TRAINER!$"
 
 Route120_Text_StevenUsedDevonScope:
-	.string "STEVEN used the DEVON SCOPE.\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pSTEVEN used the DEVON SCOPE.\p"
 	.string "An invisible POKéMON became completely\n"
 	.string "visible!\p"
 	.string "The startled POKéMON attacked!$"
 
 Route120_Text_StevenGiveDevonScope:
-	.string "STEVEN: I see…\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pSTEVEN: I see…\n"
 	.string "Your battle style is intriguing.\p"
 	.string "Your POKéMON have obviously grown\n"
 	.string "since I first met you in DEWFORD.\p"
@@ -401,21 +401,21 @@ Route120_Text_StevenGiveDevonScope:
 	.string "concealed POKéMON.$"
 
 Route120_Text_StevenGoodbye:
-	.string "STEVEN: {PLAYER}{KUN}.\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pSTEVEN: {PLAYER}{KUN}.\p"
 	.string "I enjoy seeing POKéMON and TRAINERS\n"
 	.string "who strive together.\p"
 	.string "I think you're doing great.\p"
 	.string "Well, let's meet again somewhere.$"
 
 Kecleon_Text_SomethingUnseeable:
-	.string "Something unseeable is in the way.$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pSomething unseeable is in the way.$"
 
 Kecleon_Text_WantToUseDevonScope:
-	.string "Something unseeable is in the way.\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pSomething unseeable is in the way.\p"
 	.string "Want to use the DEVON SCOPE?$"
 
 Kecleon_Text_UseDevonScopeMonAttacked:
-	.string "{PLAYER} used the DEVON SCOPE.\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\p{PLAYER} used the DEVON SCOPE.\p"
 	.string "An invisible POKéMON became completely\n"
 	.string "visible!\p"
 	.string "The startled POKéMON attacked!$"

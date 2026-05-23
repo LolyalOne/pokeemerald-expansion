@@ -24,10 +24,10 @@ EverGrandeCity_EventScript_SetVisitedEverGrande::
 	end
 
 EverGrandeCity_Text_EnteringVictoryRoad:
-	.string "ENTERING VICTORY ROAD$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pENTERING VICTORY ROAD$"
 
 EverGrandeCity_Text_EnteringPokemonLeague:
-	.string "ENTERING POKéMON LEAGUE\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pENTERING POKéMON LEAGUE\n"
 	.string "CENTER GATE$"
 
 EverGrandeCity_Text_CitySign:

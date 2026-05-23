@@ -62,24 +62,24 @@ CeladonCity_Condominiums_1F_EventScript_SuiteSign::
 	end
 
 CeladonCity_Condominiums_1F_Text_Meowth::
-	.string "MEOWTH: Meow!$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pMEOWTH: Meow!$"
 
 CeladonCity_Condominiums_1F_Text_TryThisDrinkInstead::
-	.string "You shouldn't spend all your money\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pYou shouldn't spend all your money\n"
 	.string "on drinks.\p"
 	.string "Try this instead.$"
 
 CeladonCity_Condominiums_1F_Text_NothingBeatsThirstLikeTea::
-	.string "Nothing beats thirst like some hot\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pNothing beats thirst like some hot\n"
 	.string "TEA.\p"
 	.string "It really is the best.$"
 
 CeladonCity_Condominiums_1F_Text_MyDearMonsKeepMeCompany::
-	.string "My dear POKéMON keep me company.\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pMy dear POKéMON keep me company.\n"
 	.string "MEOWTH even brings money home!$"
 
 CeladonCity_Condominiums_1F_Text_DaisyComesToBuyTea::
-	.string "Oh, hello, dearie.\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh, hello, dearie.\n"
 	.string "Did you enjoy my TEA?\p"
 	.string "By the way, dear. Are you, by any\n"
 	.string "chance, from PALLET TOWN?\p"
@@ -89,12 +89,12 @@ CeladonCity_Condominiums_1F_Text_DaisyComesToBuyTea::
 	.string "to buy some TEA.$"
 
 CeladonCity_Condominiums_1F_Text_Clefairy::
-	.string "CLEFAIRY: Pi pippippi!$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pCLEFAIRY: Pi pippippi!$"
 
 CeladonCity_Condominiums_1F_Text_Nidoran::
-	.string "NIDORAN♀: Kya kyaoo!$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pNIDORAN♀: Kya kyaoo!$"
 
 CeladonCity_Condominiums_1F_Text_ManagersSuite::
-	.string "CELADON MANSION\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pCELADON MANSION\n"
 	.string "Manager's Suite$"
 

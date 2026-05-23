@@ -206,17 +206,17 @@ FuchsiaCity_SafariZone_Entrance_EventScript_ExplainSafariZone::
 	end
 
 FuchsiaCity_SafariZone_Entrance_Text_WelcomeToSafariZone::
-	.string "Welcome to the SAFARI ZONE!$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWelcome to the SAFARI ZONE!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_PlaySafariGameFor500::
-	.string "For just ¥500, you can play the\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pFor just ¥500, you can play the\n"
 	.string "SAFARI GAME.\p"
 	.string "You can roam the wide-open safari\n"
 	.string "and catch what you like.\p"
 	.string "Would you like to play?$"
 
 FuchsiaCity_SafariZone_Entrance_Text_ThatllBe500WeOnlyUseSpecialBalls::
-	.string "That'll be ¥500, please!\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pThat'll be ¥500, please!\p"
 	.string "We only use a special kind of \n"
 	.string "POKé BALLS here.$"
 
@@ -225,36 +225,36 @@ FuchsiaCity_SafariZone_Entrance_Text_PlayerReceived30SafariBalls::
 	.string "from the attendant.$"
 
 FuchsiaCity_SafariZone_Entrance_Text_CallYouOnPAWhenYouRunOut::
-	.string "We'll call you on the PA when you\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWe'll call you on the PA when you\n"
 	.string "run out of time or SAFARI BALLS.\p"
 	.string "Well, I'll wish you the best of\n"
 	.string "luck!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_OkayPleaseComeAgain::
-	.string "Okay.\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOkay.\n"
 	.string "Please come again!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_OopsNotEnoughMoney::
-	.string "Oops!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOops!\n"
 	.string "Not enough money!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_GoingToLeaveSafariZoneEarly::
-	.string "Are you going to leave the\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pAre you going to leave the\n"
 	.string "SAFARI ZONE early?$"
 
 FuchsiaCity_SafariZone_Entrance_Text_PleaseReturnSafariBalls::
-	.string "Please return any SAFARI BALLS\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pPlease return any SAFARI BALLS\n"
 	.string "you may have left.$"
 
 FuchsiaCity_SafariZone_Entrance_Text_GoodLuck::
-	.string "Good luck!$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pGood luck!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_CatchFairShareComeAgain::
-	.string "Did you catch your fair share?\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pDid you catch your fair share?\n"
 	.string "Come again!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_FirstTimeAtSafariZone::
-	.string "Hi! Is it your first time here at\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pHi! Is it your first time here at\n"
 	.string "the SAFARI ZONE?$"
 
 FuchsiaCity_SafariZone_Entrance_Text_ExplainSafariZone::
@@ -276,5 +276,5 @@ FuchsiaCity_SafariZone_Entrance_Text_ExplainSafariZone::
 	.string "BALLS, it's game over for you!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_SorryYoureARegularHere::
-	.string "Sorry, you're a regular here!$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pSorry, you're a regular here!$"
 

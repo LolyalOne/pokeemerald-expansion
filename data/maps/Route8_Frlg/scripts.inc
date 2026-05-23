@@ -128,7 +128,7 @@ Route8_Text_EliPostBattle::
 	.string "ANNE!$"
 
 Route8_Text_EliNotEnoughMons::
-	.string "ELI: We can't battle if you don't\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pELI: We can't battle if you don't\n"
 	.string "have two POKéMON.$"
 
 Route8_Text_AnneIntro::
@@ -143,7 +143,7 @@ Route8_Text_AnnePostBattle::
 	.string "ELI.$"
 
 Route8_Text_AnneNotEnoughMons::
-	.string "ANNE: Hi, hi! Let's battle!\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pANNE: Hi, hi! Let's battle!\n"
 	.string "But bring two POKéMON.$"
 
 Route8_Text_RicardoIntro::

@@ -200,11 +200,11 @@ RustboroCity_PokemonSchool_EventScript_ScottWatchStudents::
 	end
 
 RustboroCity_PokemonSchool_Text_BlackboardListsStatusChanges:
-	.string "The blackboard lists status changes\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThe blackboard lists status changes\n"
 	.string "that may affect POKéMON in battle.$"
 
 RustboroCity_PokemonSchool_Text_ReadWhichTopic:
-	.string "Which topic do you want to read?$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWhich topic do you want to read?$"
 
 RustboroCity_PokemonSchool_Text_ExplainPoison:
 	.string "If a POKéMON is poisoned, it will\n"
@@ -244,7 +244,7 @@ RustboroCity_PokemonSchool_Text_ExplainFreeze:
 	.string "Thaw it out using an ICE HEAL.$"
 
 RustboroCity_PokemonSchool_Text_StudentsWhoDontStudyGetQuickClaw:
-	.string "Students who don't study get a little\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pStudents who don't study get a little\n"
 	.string "taste of my QUICK CLAW.\p"
 	.string "Whether or not you are a good student \n"
 	.string "will be evident from the way you use\l"
@@ -260,11 +260,11 @@ RustboroCity_PokemonSchool_Text_ExplainQuickClaw:
 	.string "topics to study!$"
 
 RustboroCity_PokemonSchool_Text_TradingRightNow:
-	.string "I'm trading POKéMON with my friend\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pI'm trading POKéMON with my friend\n"
 	.string "right now.$"
 
 RustboroCity_PokemonSchool_Text_AlwaysWantedSeedot:
-	.string "I always wanted a SEEDOT, and\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pI always wanted a SEEDOT, and\n"
 	.string "I'm finally getting one!$"
 
 RustboroCity_PokemonSchool_Text_PokemontCantUseManMadeItems:
@@ -273,7 +273,7 @@ RustboroCity_PokemonSchool_Text_PokemontCantUseManMadeItems:
 	.string "items like POTION and ANTIDOTE.$"
 
 RustboroCity_PokemonSchool_Text_ConfusedPokemonAttacksItself:
-	.string "You know how some POKéMON moves can\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pYou know how some POKéMON moves can\n"
 	.string "confuse a POKéMON?\p"
 	.string "A confused POKéMON will sometimes\n"
 	.string "attack itself without meaning to.\p"
@@ -289,7 +289,7 @@ RustboroCity_PokemonSchool_Text_PokemonHealItselfWithBerry:
 	.string "down…$"
 
 RustboroCity_PokemonSchool_Text_StudentsNotes:
-	.string "It's this student's notebook…\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pIt's this student's notebook…\p"
 	.string "POKéMON are to be caught using\n"
 	.string "POKé BALLS.\p"
 	.string "Up to six POKéMON can accompany\n"
@@ -302,7 +302,7 @@ RustboroCity_PokemonSchool_Text_StudentsNotes:
 	.string "challengers in POKéMON GYMS.$"
 
 RustboroCity_PokemonSchool_Text_ScottMetAlreadyCut:
-	.string "Hello? Didn't we meet before?\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pHello? Didn't we meet before?\n"
 	.string "I think back in PETALBURG CITY.\p"
 	.string "Let me introduce myself.\n"
 	.string "My name's SCOTT.\p"
@@ -318,12 +318,12 @@ RustboroCity_PokemonSchool_Text_ScottMetAlreadyCut:
 	.string "this town has CUT.$"
 
 RustboroCity_PokemonSchool_Text_StudentTalentLevelUnknown:
-	.string "SCOTT: Hmm…\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pSCOTT: Hmm…\p"
 	.string "The talent levels of the students here\n"
 	.string "are unknown. The potential's there.$"
 
 RustboroCity_PokemonSchool_Text_ScottStoneBadge:
-	.string "SCOTT: Oh, what's that?\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pSCOTT: Oh, what's that?\p"
 	.string "It's a STONE BADGE, isn't it?\n"
 	.string "That's pretty impressive, I'd say.\p"
 	.string "But, you know, I would've loved to see\n"
@@ -332,7 +332,7 @@ RustboroCity_PokemonSchool_Text_ScottStoneBadge:
 	.string "a TRAINER from a LEAGUE BADGE.$"
 
 RustboroCity_PokemonSchool_Text_ScottMetAlreadyStoneBadge:
-	.string "Hello? Didn't we meet before?\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHello? Didn't we meet before?\n"
 	.string "I think back in PETALBURG CITY.\p"
 	.string "Let me introduce myself.\n"
 	.string "My name's SCOTT.\p"

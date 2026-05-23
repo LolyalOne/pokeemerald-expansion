@@ -79,46 +79,46 @@ RustboroCity_DevonCorp_1F_EventScript_ProductsDisplay::
 	end
 
 RustboroCity_DevonCorp_1F_Text_WelcomeToDevonCorp:
-	.string "Hello and welcome to the DEVON\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pHello and welcome to the DEVON\n"
 	.string "CORPORATION.\p"
 	.string "We're proud producers of items and\n"
 	.string "medicine that enhance your life.$"
 
 RustboroCity_DevonCorp_1F_Text_StaffGotRobbed:
-	.string "One of our research staff stupidly\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pOne of our research staff stupidly\n"
 	.string "got robbed of an important parcel.$"
 
 RustboroCity_DevonCorp_1F_Text_ThoseShoesAreOurProduct:
-	.string "Hey, those RUNNING SHOES!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHey, those RUNNING SHOES!\n"
 	.string "They're one of our products!\p"
 	.string "It makes me happy when I see someone\n"
 	.string "using something we made.$"
 
 RustboroCity_DevonCorp_1F_Text_RobberWasntVeryBright:
-	.string "That stolen parcel…\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThat stolen parcel…\p"
 	.string "Well, sure it's important, but it's not\n"
 	.string "anything that anyone can use.\p"
 	.string "In my estimation, that robber must not\n"
 	.string "have been very bright.$"
 
 RustboroCity_DevonCorp_1F_Text_SoundsLikeStolenGoodsRecovered:
-	.string "It sounds like they've recovered\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pIt sounds like they've recovered\n"
 	.string "the ripped-off DEVON GOODS.$"
 
 RustboroCity_DevonCorp_1F_Text_OnlyAuthorizedPeopleEnter:
-	.string "I'm sorry, only authorized people\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pI'm sorry, only authorized people\n"
 	.string "are allowed to enter here.$"
 
 RustboroCity_DevonCorp_1F_Text_HowCouldWeGetRobbed:
-	.string "It's beyond stupid.\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pIt's beyond stupid.\n"
 	.string "How could we get robbed?$"
 
 RustboroCity_DevonCorp_1F_Text_YoureAlwaysWelcomeHere:
-	.string "Hi, there!\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pHi, there!\n"
 	.string "You're always welcome here!$"
 
 RustboroCity_DevonCorp_1F_Text_RocksMetalDisplay:
-	.string "Samples of rocks and metal are\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pSamples of rocks and metal are\n"
 	.string "displayed in the glass case.\p"
 	.string "There's a panel with some writing\n"
 	.string "on it…\p"
@@ -132,7 +132,7 @@ RustboroCity_DevonCorp_1F_Text_RocksMetalDisplay:
 	.string "range of industrial products.”$"
 
 RustboroCity_DevonCorp_1F_Text_ProductDisplay:
-	.string "Prototypes and test products fill\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pPrototypes and test products fill\n"
 	.string "the glass display case.\p"
 	.string "There's a panel with a description…\p"
 	.string "“In addition to industrial products,\n"

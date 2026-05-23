@@ -725,7 +725,7 @@ CinnabarIsland_Gym_Text_BlaineDefeat::
 	.string "You have earned the VOLCANOBADGE.$"
 
 CinnabarIsland_Gym_Text_FireBlastIsUltimateFireMove::
-	.string "FIRE BLAST is the ultimate fire\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pFIRE BLAST is the ultimate fire\n"
 	.string "technique.\p"
 	.string "Don't waste it on WATER POKéMON.$"
 
@@ -736,7 +736,7 @@ CinnabarIsland_Gym_Text_ExplainVolcanoBadge::
 	.string "Here, you can have this, too!$"
 
 CinnabarIsland_Gym_Text_ReceivedTM38FromBlaine::
-	.string "{PLAYER} received TM38\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p{PLAYER} received TM38\n"
 	.string "from BLAINE.$"
 
 CinnabarIsland_Gym_Text_BlainePostBattle::
@@ -746,7 +746,7 @@ CinnabarIsland_Gym_Text_BlainePostBattle::
 	.string "ideal for that move.$"
 
 CinnabarIsland_Gym_Text_MakeSpaceForThis::
-	.string "Make space for this, child!$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pMake space for this, child!$"
 
 CinnabarIsland_Gym_Text_ErikIntro::
 	.string "Do you know how hot POKéMON fire\n"
@@ -836,7 +836,7 @@ CinnabarIsland_Gym_Text_ZacPostBattle::
 	.string "type beats ICE-type POKéMON.$"
 
 CinnabarIsland_Gym_Text_GymGuyAdvice::
-	.string "Yo!\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pYo!\n"
 	.string "Champ in the making!\p"
 	.string "The hotheaded BLAINE is a FIRE\n"
 	.string "POKéMON pro.\p"
@@ -845,7 +845,7 @@ CinnabarIsland_Gym_Text_GymGuyAdvice::
 	.string "BURN HEALS, too.$"
 
 CinnabarIsland_Gym_Text_GymGuyPostVictory::
-	.string "{PLAYER}!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p{PLAYER}!\n"
 	.string "You beat that firebrand!$"
 
 CinnabarIsland_Gym_Text_GymStatue::
@@ -861,7 +861,7 @@ CinnabarIsland_Gym_Text_GymStatuePlayerWon::
 	.string "{RIVAL}, {PLAYER}$"
 
 CinnabarIsland_Gym_Text_PokemonQuizRules::
-	.string "POKéMON Quiz!\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pPOKéMON Quiz!\p"
 	.string "Get it right, and the door opens to\n"
 	.string "the next room.\p"
 	.string "Get it wrong, and face a TRAINER!\p"
@@ -871,31 +871,31 @@ CinnabarIsland_Gym_Text_PokemonQuizRules::
 	.string "Here we go!$"
 
 CinnabarIsland_Gym_Text_QuizQuestion1::
-	.string "CATERPIE evolves into METAPOD?$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pCATERPIE evolves into METAPOD?$"
 
 CinnabarIsland_Gym_Text_QuizQuestion2::
-	.string "There are nine certified POKéMON\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pThere are nine certified POKéMON\n"
 	.string "LEAGUE BADGES?$"
 
 CinnabarIsland_Gym_Text_QuizQuestion3::
-	.string "POLIWAG evolves three times?$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pPOLIWAG evolves three times?$"
 
 CinnabarIsland_Gym_Text_QuizQuestion4::
-	.string "Are electric moves effective\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pAre electric moves effective\n"
 	.string "against GROUND-type POKéMON?$"
 
 CinnabarIsland_Gym_Text_QuizQuestion5::
-	.string "POKéMON of the same kind and level\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pPOKéMON of the same kind and level\n"
 	.string "are not identical?$"
 
 CinnabarIsland_Gym_Text_QuizQuestion6::
-	.string "TM28 contains TOMBSTONY?$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pTM28 contains TOMBSTONY?$"
 
 CinnabarIsland_Gym_Text_CorrectGoOnThrough::
-	.string "You're absolutely correct!\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pYou're absolutely correct!\p"
 	.string "Go on through!$"
 
 CinnabarIsland_Gym_Text_SorryBadCall::
-	.string "Sorry!\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pSorry!\n"
 	.string "Bad call!$"
 

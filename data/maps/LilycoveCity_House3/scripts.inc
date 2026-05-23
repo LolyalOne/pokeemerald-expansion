@@ -98,7 +98,7 @@ LilycoveCity_House3_EventScript_WereDoingContest::
 	end
 
 LilycoveCity_House3_Text_LearnFromMasterOfPokeblocks:
-	.string "Oh, my, my! Are you traveling alone?\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pOh, my, my! Are you traveling alone?\n"
 	.string "But you're so young! Good for you!\p"
 	.string "I'm sure my kids could learn a thing\n"
 	.string "or two from you!\p"
@@ -109,7 +109,7 @@ LilycoveCity_House3_Text_LearnFromMasterOfPokeblocks:
 	.string "a master of {POKEBLOCK}S?$"
 
 LilycoveCity_House3_Text_OhAreYouSure:
-	.string "Oh? Are you sure?\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh? Are you sure?\p"
 	.string "You shouldn't always try to do\n"
 	.string "everything by yourself, dear!$"
 
@@ -143,7 +143,7 @@ LilycoveCity_House3_Text_ExplainPokeblocks:
 	.string "Don't give up, dear!$"
 
 LilycoveCity_House3_Text_HappyToHaveQuadruplets:
-	.string "When my wife gave birth to quadruplets,\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWhen my wife gave birth to quadruplets,\n"
 	.string "you bet I was shocked.\p"
 	.string "But, now, seeing them play together,\n"
 	.string "it makes me happy.$"
@@ -153,16 +153,16 @@ LilycoveCity_House3_Text_GoingToWinMultiBattles:
 	.string "I'm going to win.$"
 
 LilycoveCity_House3_Text_LikeMixingAtRecordCorner:
-	.string "We like mixing stuff at\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWe like mixing stuff at\n"
 	.string "the RECORD CORNER.\p"
 	.string "But what gets mixed up?$"
 
 LilycoveCity_House3_Text_MakePokeblocksWithBerryBlender:
-	.string "We're going to make super {POKEBLOCK}S\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWe're going to make super {POKEBLOCK}S\n"
 	.string "with a BERRY BLENDER!$"
 
 LilycoveCity_House3_Text_GoingToEnterContest:
-	.string "I want to brag about how tough my\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pI want to brag about how tough my\n"
 	.string "POKéMON is, so we're going to enter\l"
 	.string "a CONTEST together.$"
 

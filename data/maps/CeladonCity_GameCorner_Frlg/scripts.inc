@@ -475,7 +475,7 @@ CeladonCity_GameCorner_Text_WelcomeBuySomeCoins::
 	.string "Would you like to buy some?$"
 
 CeladonCity_GameCorner_Text_ComePlaySometime::
-	.string "No?\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pNo?\n"
 	.string "Please come play sometime!$"
 
 CeladonCity_GameCorner_Text_SorryDontHaveCoinCase::
@@ -494,7 +494,7 @@ CeladonCity_GameCorner_Text_HereAreYourCoins::
 	.string "Here are your COINS!$"
 
 CeladonCity_GameCorner_Text_RumoredTeamRocketRunsThisPlace::
-	.string "Keep this quiet.\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pKeep this quiet.\p"
 	.string "It's rumored that this place is run\n"
 	.string "by TEAM ROCKET.$"
 
@@ -503,7 +503,7 @@ CeladonCity_GameCorner_Text_ThinkMachinesHaveDifferentOdds::
 	.string "different odds.$"
 
 CeladonCity_GameCorner_Text_DoYouWantToPlay::
-	.string "Kid, do you want to play?$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pKid, do you want to play?$"
 
 CeladonCity_GameCorner_Text_Received10CoinsFromMan::
 	.string "{PLAYER} received 10 COINS\n"
@@ -521,7 +521,7 @@ CeladonCity_GameCorner_Text_WinOrLoseItsOnlyLuck::
 	.string "Win or lose, it's only by luck.$"
 
 CeladonCity_GameCorner_Text_GymGuyAdvice::
-	.string "Hey!\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pHey!\p"
 	.string "You have better things to do,\n"
 	.string "champ in the making!\p"
 	.string "CELADON GYM's LEADER is ERIKA.\p"
@@ -538,7 +538,7 @@ CeladonCity_GameCorner_Text_RareMonsForCoins::
 	.string "But, I just can't seem to win!$"
 
 CeladonCity_GameCorner_Text_SoEasyToGetHooked::
-	.string "Games are scary!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pGames are scary!\n"
 	.string "It's so easy to get hooked!$"
 
 CeladonCity_GameCorner_Text_WantSomeCoins::
@@ -601,14 +601,14 @@ CeladonCity_GameCorner_Text_SlotMachineWantToPlay::
 	.string "Want to play?$"
 
 CeladonCity_GameCorner_Text_OutOfOrder::
-	.string "OUT OF ORDER\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOUT OF ORDER\n"
 	.string "This is broken.$"
 
 CeladonCity_GameCorner_Text_OutToLunch::
-	.string "OUT TO LUNCH\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pOUT TO LUNCH\n"
 	.string "This is reserved.$"
 
 CeladonCity_GameCorner_Text_SomeonesKeys::
-	.string "Someone's keys!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pSomeone's keys!\n"
 	.string "They'll be back.$"
 

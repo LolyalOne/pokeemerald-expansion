@@ -173,11 +173,11 @@ FiveIsland_RocketWarehouse_Movement_AdminWalkToSwitch::
 	step_end
 
 FiveIsland_RocketWarehouse_Text_ManyMonsLockedInPen::
-	.string "There are many POKéMON locked\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThere are many POKéMON locked\n"
 	.string "away in the pen…$"
 
 FiveIsland_RocketWarehouse_Text_PenUnlockedMonsFled::
-	.string "The pen door is unlocked.\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pThe pen door is unlocked.\n"
 	.string "The POKéMON appear to have fled.$"
 
 FiveIsland_RocketWarehouse_Text_Grunt2Intro::
@@ -234,7 +234,7 @@ FiveIsland_RocketWarehouse_Text_Admin1PostBattle::
 	.string "I understand now…$"
 
 FiveIsland_RocketWarehouse_Text_MadeItSoYouCanComeBackThrough::
-	.string "I've made it so you can come back\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI've made it so you can come back\n"
 	.string "in through there.\p"
 	.string "Why don't you go get rested and\n"
 	.string "refreshed for what lies ahead?\p"
@@ -273,7 +273,7 @@ FiveIsland_RocketWarehouse_Text_Admin2PostBattle::
 	.string "Until then, farewell!$"
 
 FiveIsland_RocketWarehouse_Text_ReportWithGraphsAndText::
-	.string "A report with graphs and text is on\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pA report with graphs and text is on\n"
 	.string "the PC monitor.\p"
 	.string "“The Influence of Magnetic Waves\n"
 	.string "on POKéMON Evolution”…\p"
@@ -301,7 +301,7 @@ FiveIsland_RocketWarehouse_Text_GetLostLeaveMeBe::
 	.string "Go on, get lost, leave me be.$"
 
 FiveIsland_RocketWarehouse_Text_GiovannisKidHasRedHair::
-	.string "What, you again?\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pWhat, you again?\p"
 	.string "You… You're not GIOVANNI's kid,\n"
 	.string "are you?\p"
 	.string "No, that can't be right!\n"

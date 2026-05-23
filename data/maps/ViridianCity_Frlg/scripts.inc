@@ -233,7 +233,7 @@ ViridianCity_EventScript_DoTutorialBattle::
 	return
 
 ViridianCity_Text_CanCarryMonsAnywhere::
-	.string "Those POKé BALLS at your waist!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThose POKé BALLS at your waist!\n"
 	.string "You have POKéMON, don't you?\p"
 	.string "It's great that you can carry and\n"
 	.string "use POKéMON anytime, anywhere.$"
@@ -243,14 +243,14 @@ ViridianCity_Text_GymClosedWonderWhoLeaderIs::
 	.string "I wonder who the LEADER is?$"
 
 ViridianCity_Text_ViridiansGymLeaderReturned::
-	.string "VIRIDIAN GYM's LEADER returned!$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pVIRIDIAN GYM's LEADER returned!$"
 
 ViridianCity_Text_WantToKnowAboutCaterpillarMons::
-	.string "You want to know about the two\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pYou want to know about the two\n"
 	.string "kinds of caterpillar POKéMON?$"
 
 ViridianCity_Text_OhOkayThen::
-	.string "Oh, okay then!$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh, okay then!$"
 
 ViridianCity_Text_ExplainCaterpieWeedle::
 	.string "CATERPIE has no poison,\n"
@@ -259,7 +259,7 @@ ViridianCity_Text_ExplainCaterpieWeedle::
 	.string "stabbed by WEEDLE's POISON STING.$"
 
 ViridianCity_Text_GrandpaHasntHadCoffeeYet::
-	.string "Oh, Grandpa!\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pOh, Grandpa!\n"
 	.string "Don't be so mean!\p"
 	.string "I'm so sorry.\n"
 	.string "He hasn't had his coffee yet.$"
@@ -271,12 +271,12 @@ ViridianCity_Text_GoShoppingInPewterOccasionally::
 	.string "VIRIDIAN FOREST when I go.$"
 
 ViridianCity_Text_ThisIsPrivateProperty::
-	.string "I absolutely forbid you from\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pI absolutely forbid you from\n"
 	.string "going through here!\p"
 	.string "This is private property!$"
 
 ViridianCity_Text_ShowYouHowToCatchMons::
-	.string "Well, now, I've had my coffee, and\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWell, now, I've had my coffee, and\n"
 	.string "that's what I need to get going!\p"
 	.string "Hm?\n"
 	.string "What is that red box you have?\p"
@@ -293,18 +293,18 @@ ViridianCity_Text_ShowYouHowToCatchMons::
 	.string "then!$"
 
 ViridianCity_Text_ThatWasEducationalTakeThis::
-	.string "There! Now tell me, that was\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThere! Now tell me, that was\n"
 	.string "educational, was it not?\p"
 	.string "And here, take this, too.$"
 
 ViridianCity_Text_WatchThatToLearnBasics::
-	.string "If there's something you don't\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pIf there's something you don't\n"
 	.string "understand, watch that.\p"
 	.string "It will teach you about the basics\n"
 	.string "of being a POKéMON TRAINER.$"
 
 ViridianCity_Text_WeakenMonsFirstToCatch::
-	.string "Well, now, I've had my coffee, and\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWell, now, I've had my coffee, and\n"
 	.string "that's what I need to get going!\p"
 	.string "But I made it too strong.\n"
 	.string "It gave me a headache…\p"
@@ -314,7 +314,7 @@ ViridianCity_Text_WeakenMonsFirstToCatch::
 	.string "POKéMON before trying to catch it.$"
 
 ViridianCity_Text_HowsTeachyTVHelping::
-	.string "Well, now, I've had my coffee, and\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pWell, now, I've had my coffee, and\n"
 	.string "that's what I need to get going!\p"
 	.string "But I made it too strong.\n"
 	.string "It gave me a headache…\p"
@@ -322,13 +322,13 @@ ViridianCity_Text_HowsTeachyTVHelping::
 	.string "helping you?$"
 
 ViridianCity_Text_MyGrandsonOnTheShow::
-	.string "Wahaha!\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWahaha!\n"
 	.string "It's my grandson on the show!\p"
 	.string "Since he's the one doing the\n"
 	.string "teaching, you're bound to learn.$"
 
 ViridianCity_Text_TooBusyForTeachyTV::
-	.string "Hm… You're too busy to not even\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pHm… You're too busy to not even\n"
 	.string "have the time for TEACHY TV…\p"
 	.string "Time is money, and neither should\n"
 	.string "be ill spent…$"
@@ -345,7 +345,7 @@ ViridianCity_Text_CatchMonsForEasierBattles::
 	.string "is to battle.$"
 
 ViridianCity_Text_MovesLimitedByPP::
-	.string "TRAINER TIPS\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pTRAINER TIPS\p"
 	.string "The battle moves of POKéMON are\n"
 	.string "limited by their POWER POINTS, PP.\p"
 	.string "To replenish PP, rest your tired\n"
@@ -355,5 +355,5 @@ ViridianCity_Text_GymSign::
 	.string "VIRIDIAN CITY POKéMON GYM$"
 
 ViridianCity_Text_GymDoorsAreLocked::
-	.string "VIRIDIAN GYM's doors are locked…$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pVIRIDIAN GYM's doors are locked…$"
 

@@ -40,16 +40,16 @@ CeladonCity_Restaurant_EventScript_FatMan::
 	end
 
 CeladonCity_Restaurant_Text_TakingBreakRightNow::
-	.string "Hi!\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pHi!\p"
 	.string "Sorry, but we're taking a break\n"
 	.string "right now.$"
 
 CeladonCity_Restaurant_Text_OftenGoToDrugstore::
-	.string "My POKéMON are weak, so I often\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pMy POKéMON are weak, so I often\n"
 	.string "have to go to the DRUGSTORE.$"
 
 CeladonCity_Restaurant_Text_PsstBasementUnderGameCorner::
-	.string "Psst! There's a basement under the\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pPsst! There's a basement under the\n"
 	.string "GAME CORNER, I hear.$"
 
 CeladonCity_Restaurant_Text_ManLostItAllAtSlots::
@@ -58,7 +58,7 @@ CeladonCity_Restaurant_Text_ManLostItAllAtSlots::
 	.string "at the slots.$"
 
 CeladonCity_Restaurant_Text_TakeThisImBusted::
-	.string "Go ahead! Laugh!\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pGo ahead! Laugh!\n"
 	.string "I'm flat-out busted!\p"
 	.string "No more slots for me!\n"
 	.string "I'm going straight!\p"
@@ -70,7 +70,7 @@ CeladonCity_Restaurant_Text_ReceivedCoinCaseFromMan::
 	.string "from the man.$"
 
 CeladonCity_Restaurant_Text_MakeRoomForThis::
-	.string "Make room for this!$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pMake room for this!$"
 
 CeladonCity_Restaurant_Text_ThoughtIdWinItBack::
 	.string "I always thought I was going to\n"

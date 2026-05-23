@@ -40,11 +40,11 @@ SilphCo_4F_EventScript_Grunt2::
 	end
 
 SilphCo_4F_Text_CantYouSeeImHiding::
-	.string "Sssh!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pSssh!\n"
 	.string "Can't you see I'm hiding?$"
 
 SilphCo_4F_Text_TeamRocketIsGone::
-	.string "Huh?\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pHuh?\n"
 	.string "TEAM ROCKET is gone?$"
 
 SilphCo_4F_Text_Grunt1Intro::

@@ -274,7 +274,7 @@ LavaridgeTown_EventScript_HerbShopSign::
 	end
 
 LavaridgeTown_Text_MayNiceBadgesTakeThis:
-	.string "MAY: {PLAYER}{KUN}! Long time no see!\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pMAY: {PLAYER}{KUN}! Long time no see!\p"
 	.string "Oh? While I visited the hot springs,\n"
 	.string "you got the LAVARIDGE GYM BADGE.\p"
 	.string "You must have collected\n"
@@ -296,7 +296,7 @@ LavaridgeTown_Text_MayExplainGoGogglesChallengeDad:
 	.string "See you again!$"
 
 LavaridgeTown_Text_BrendanNiceBadgesTakeThis:
-	.string "BRENDAN: {PLAYER}, hey, it's been a while.\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pBRENDAN: {PLAYER}, hey, it's been a while.\n"
 	.string "How's it going?\p"
 	.string "Hmm…\n"
 	.string "That's a decent collection of BADGES.\p"
@@ -318,7 +318,7 @@ LavaridgeTown_Text_BrendanExplainGoGogglesChallengeDad:
 	.string "See you around!$"
 
 LavaridgeTown_Text_HaveEggWillYouTakeIt:
-	.string "I have here an EGG.\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI have here an EGG.\p"
 	.string "I'd hoped to hatch it by covering it in\n"
 	.string "hot sand by the hot springs.\l"
 	.string "But that doesn't seem to be enough…\p"
@@ -331,28 +331,28 @@ LavaridgeTown_Text_HaveEggWillYouTakeIt:
 	.string "Will you take this EGG to hatch?$"
 
 LavaridgeTown_Text_HopeYoullWalkPlentyWithEgg:
-	.string "Good! I hope you'll walk plenty with\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pGood! I hope you'll walk plenty with\n"
 	.string "this here EGG!$"
 
 LavaridgeTown_Text_ReceivedTheEgg:
-	.string "{PLAYER} received the EGG.$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\p{PLAYER} received the EGG.$"
 
 LavaridgeTown_Text_NoRoomForThisEgg:
-	.string "Oh? You've too many POKéMON.\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pOh? You've too many POKéMON.\n"
 	.string "There's no room for this EGG…$"
 
 LavaridgeTown_Text_AsYouWishThen:
-	.string "As you wish, then…\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pAs you wish, then…\p"
 	.string "If you have a change of heart about\n"
 	.string "hatching this EGG, I will be here.$"
 
 LavaridgeTown_Text_EverySoOftenEggFoundAtDayCare:
-	.string "Every so often, an EGG will be found at\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pEvery so often, an EGG will be found at\n"
 	.string "the POKéMON DAY CARE.\p"
 	.string "Or at least that's how the rumor goes.$"
 
 LavaridgeTown_Text_HotSpringsNeverRunDry:
-	.string "We draw as much hot water as we need,\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWe draw as much hot water as we need,\n"
 	.string "and yet the hot springs never run dry.\p"
 	.string "Isn't it magical?\p"
 	.string "These hot springs appear near active\n"
@@ -361,30 +361,30 @@ LavaridgeTown_Text_HotSpringsNeverRunDry:
 	.string "as hot springs.$"
 
 LavaridgeTown_Text_PokemonNippedBackside:
-	.string "Being buried in this hot sand is…\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pBeing buried in this hot sand is…\n"
 	.string "Sigh…\p"
 	.string "So warm and heavenly…\p"
 	.string "Eh? Gyaah! Ouch!\p"
 	.string "A POKéMON nipped my backside!$"
 
 LavaridgeTown_Text_OhYouLikeHotSprings:
-	.string "Oh, you like hot springs, do you?\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pOh, you like hot springs, do you?\p"
 	.string "That's surprising for one as young\n"
 	.string "as you.$"
 
 LavaridgeTown_Text_BatheInHotSpringsEveryDay:
-	.string "I bathe in the hot springs every day.\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI bathe in the hot springs every day.\p"
 	.string "I want to become a beautiful and strong\n"
 	.string "GYM LEADER like FLANNERY.$"
 
 LavaridgeTown_Text_IfPokemonInHotSprings:
-	.string "If people put POKéMON in hot springs,\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pIf people put POKéMON in hot springs,\n"
 	.string "it might be seriously strange.\p"
 	.string "Why, it might be an electric bath, or\n"
 	.string "a bubble bath, or even a lava bath…$"
 
 LavaridgeTown_Text_HotSpringsClaims:
-	.string "They're claiming that these hot springs\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pThey're claiming that these hot springs\n"
 	.string "are good for calming nervous tension,\l"
 	.string "relieving aching muscles, solving\l"
 	.string "romantic problems, and attracting\l"

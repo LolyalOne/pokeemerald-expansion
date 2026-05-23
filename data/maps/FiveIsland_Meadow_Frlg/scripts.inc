@@ -52,25 +52,25 @@ FiveIsland_Meadow_EventScript_Rocket3::
 
 @ Unused
 FiveIsland_Meadow_Text_DoorNeedsTwoPasswords::
-	.string "とびらを　あけるには\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pとびらを　あけるには\n"
 	.string "パスワードが　2つ　いるようだ$"
 
 FiveIsland_Meadow_Text_EnteredPasswordAnotherNeeded::
-	.string "{PLAYER} entered a password.\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p{PLAYER} entered a password.\p"
 	.string "“GOLDEEN need log.”\p"
 	.string "… …  … …  … …\p"
 	.string "Another password is needed to\n"
 	.string "open the door…$"
 
 FiveIsland_Meadow_Text_EnteredPasswordDoorOpened::
-	.string "{PLAYER} entered two passwords.\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\p{PLAYER} entered two passwords.\p"
 	.string "“GOLDEEN need log.”\n"
 	.string "“Yes, nah, CHANSEY.”\p"
 	.string "… …  … …  … …\p"
 	.string "The WAREHOUSE's door opened!$"
 
 FiveIsland_Meadow_Text_WarehouseDoorAlreadyOpen::
-	.string "The WAREHOUSE's door is already\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pThe WAREHOUSE's door is already\n"
 	.string "open.$"
 
 FiveIsland_Meadow_Text_Rocket1Intro::

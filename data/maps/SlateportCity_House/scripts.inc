@@ -10,7 +10,7 @@ SlateportCity_House_EventScript_Girl::
 	end
 
 SlateportCity_House_Text_NatureToDoWithStatGains:
-	.string "My POKéMON has a HASTY nature.\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pMy POKéMON has a HASTY nature.\p"
 	.string "It has higher SPEED compared to\n"
 	.string "my other POKéMON.\p"
 	.string "Maybe their nature has something to\n"

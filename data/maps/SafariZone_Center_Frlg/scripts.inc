@@ -19,13 +19,13 @@ SafariZone_Center_EventScript_AreaSign::
 	end
 
 SafariZone_Center_Text_RestHouse::
-	.string "REST HOUSE$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pREST HOUSE$"
 
 SafariZone_Center_Text_PressStartToCheckTime::
-	.string "TRAINER TIPS\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pTRAINER TIPS\p"
 	.string "Press START to check\n"
 	.string "remaining time.$"
 
 SafariZone_Center_Text_CenterArea::
-	.string "CENTER AREA$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pCENTER AREA$"
 

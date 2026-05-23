@@ -91,13 +91,13 @@ CeruleanCity_House4_EventScript_NoRoomForBerries::
 	end
 
 CeruleanCity_House4_Text_NothingEntertaining::
-	.string "Sigh…\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pSigh…\n"
 	.string "Too much time, too little to do…\p"
 	.string "Is nothing entertaining happening\n"
 	.string "anywhere?$"
 
 CeruleanCity_House4_Text_NewNewsInformativeHaveThis::
-	.string "Ah!\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pAh!\n"
 	.string "A new news report!\p"
 	.string "Hmm…\p"
 	.string "I see!\n"
@@ -108,7 +108,7 @@ CeruleanCity_House4_Text_NewNewsInformativeHaveThis::
 	.string "with me, I want you to have this.$"
 
 CeruleanCity_House4_Text_IncredibleNewsHaveBerries::
-	.string "Oh, oh!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh, oh!\n"
 	.string "Th-this news report!\p"
 	.string "Hmm…\p"
 	.string "Amazing!\n"
@@ -119,20 +119,20 @@ CeruleanCity_House4_Text_IncredibleNewsHaveBerries::
 	.string "news. Have a bunch of BERRIES!$"
 
 CeruleanCity_House4_Text_WishCouldShareNewsWithOthers::
-	.string "It seems such a shame to not share\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pIt seems such a shame to not share\n"
 	.string "this news with other folks…\p"
 	.string "I wish I could tell someone…\n"
 	.string "Let others know the news…$"
 
 CeruleanCity_House4_Text_ThanksForSpreadingNewsTakeThis::
-	.string "Ah, you've spread the news for me?\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pAh, you've spread the news for me?\p"
 	.string "Good news becomes worthwhile when\n"
 	.string "all sorts of people share it.\p"
 	.string "As my thanks for your spreading\n"
 	.string "the news, take this!$"
 
 CeruleanCity_House4_Text_MagnificentNewsSpreadHaveBerries::
-	.string "You've spread the news some more?\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYou've spread the news some more?\n"
 	.string "Magnificent!\p"
 	.string "That piece of news must be\n"
 	.string "delighted to be passed around so.\p"
@@ -143,12 +143,12 @@ CeruleanCity_House4_Text_MagnificentNewsSpreadHaveBerries::
 	.string "I usually do.$"
 
 CeruleanCity_House4_Text_EnjoyingMyselfWithAllSortsOfNews::
-	.string "I'm quite enjoying myself with all\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pI'm quite enjoying myself with all\n"
 	.string "sorts of news.\p"
 	.string "Yes, I am satisfied!\n"
 	.string "I won't be bored for a while.$"
 
 CeruleanCity_House4_Text_YourBerryPouchIsFull::
-	.string "Hm? Your BERRY POUCH is full.\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pHm? Your BERRY POUCH is full.\n"
 	.string "My gift remains ungiven, then.$"
 

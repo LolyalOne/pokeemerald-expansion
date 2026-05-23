@@ -42,7 +42,7 @@ MauvilleCity_House2_EventScript_DeclineTrade::
 	end
 
 MauvilleCity_House2_Text_BuyHarborMailAtSlateport:
-	.string "If I had a BIKE, it'd be easy to cycle to\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pIf I had a BIKE, it'd be easy to cycle to\n"
 	.string "SLATEPORT for some shopping.\p"
 	.string "I'd be able to buy HARBOR MAIL at the\n"
 	.string "POKéMON MART in SLATEPORT…$"
@@ -60,7 +60,7 @@ MauvilleCity_House2_Text_UseCoinCaseAtGameCorner:
 	.string "at the GAME CORNER.$"
 
 MauvilleCity_House2_Text_ThatsDisappointing:
-	.string "Oh, that's disappointing.\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh, that's disappointing.\p"
 	.string "A COIN CASE is needed for the\n"
 	.string "GAME CORNER.$"
 

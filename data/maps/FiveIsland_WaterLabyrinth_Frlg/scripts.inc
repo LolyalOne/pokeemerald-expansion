@@ -64,7 +64,7 @@ FiveIsland_WaterLabyrinth_EventScript_ReturnForEgg::
 	end
 
 FiveIsland_WaterLabyrinth_Text_LetMeTakeLookAtMons::
-	.string "You travel all over the place,\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pYou travel all over the place,\n"
 	.string "don't you?\p"
 	.string "You're not driving your POKéMON\n"
 	.string "too harshly, are you?\p"
@@ -72,39 +72,39 @@ FiveIsland_WaterLabyrinth_Text_LetMeTakeLookAtMons::
 	.string "… … …   … … …$"
 
 FiveIsland_WaterLabyrinth_Text_HmmISeeIsee::
-	.string "Ah, hmm…\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pAh, hmm…\n"
 	.string "I see, I see…$"
 
 FiveIsland_WaterLabyrinth_Text_TreatMonRightHaveThis::
-	.string "Oh, impressive.\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pOh, impressive.\n"
 	.string "You treat your POKéMON right.\p"
 	.string "I think you can be entrusted with\n"
 	.string "this.\p"
 	.string "Please, I'd like you to have this.$"
 
 FiveIsland_WaterLabyrinth_Text_ReceivedEggFromMan::
-	.string "{PLAYER} received an EGG\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p{PLAYER} received an EGG\n"
 	.string "from the man!$"
 
 FiveIsland_WaterLabyrinth_Text_DontHaveSpaceInYourParty::
-	.string "…Unfortunately, you don't have\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p…Unfortunately, you don't have\n"
 	.string "space for this in your party.\p"
 	.string "You'd better come back for it\n"
 	.string "another time.$"
 
 @ Unused
 FiveIsland_WaterLabyrinth_Text_YouveComeBackForTheEgg::
-	.string "やあ\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pやあ\n"
 	.string "タマゴを　もらいに\l"
 	.string "きて　くれたんだね$"
 
 FiveIsland_WaterLabyrinth_Text_GladIMetSomeoneLikeYou::
-	.string "I received that EGG while I was\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pI received that EGG while I was\n"
 	.string "traveling.\p"
 	.string "I'm glad I met someone like you.$"
 
 FiveIsland_WaterLabyrinth_Text_CuteMonRemindsMeOfDaisy::
-	.string "Oh, hello.\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh, hello.\n"
 	.string "That's a cute {STR_VAR_2}.\p"
 	.string "Seeing it reminds me of a sweet \n"
 	.string "little girl I met while traveling.\p"

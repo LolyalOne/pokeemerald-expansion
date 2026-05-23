@@ -6,5 +6,5 @@ CeladonCity_Condominiums_Roof_EventScript_Sign::
 	end
 
 CeladonCity_Condominiums_Roof_Text_IKnowEverything::
-	.string "I KNOW EVERYTHING!$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI KNOW EVERYTHING!$"
 

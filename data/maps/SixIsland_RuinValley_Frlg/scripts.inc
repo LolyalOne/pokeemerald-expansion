@@ -42,27 +42,27 @@ SixIsland_RuinValley_EventScript_IgnoreDottedHoleDoor::
 	end
 
 SixIsland_RuinValley_Text_CantFigureOutHowToGetInside::
-	.string "I can't figure out how I'm supposed\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI can't figure out how I'm supposed\n"
 	.string "to get inside.$"
 
 SixIsland_RuinValley_Text_IFoundThisPlace::
-	.string "Let me tell you, I found this\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pLet me tell you, I found this\n"
 	.string "place.\p"
 	.string "Don't look so envious, will you?$"
 
 SixIsland_RuinValley_Text_CheckDoorMoreThoroughly::
-	.string "The door doesn't budge at all.\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pThe door doesn't budge at all.\n"
 	.string "Check it more thoroughly?$"
 
 SixIsland_RuinValley_Text_LeftDoorAlone::
-	.string "{PLAYER} left the door alone.$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\p{PLAYER} left the door alone.$"
 
 SixIsland_RuinValley_Text_SeveralDotsOnTheDoor::
-	.string "On closer inspection, there are\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pOn closer inspection, there are\n"
 	.string "several dots on the door…$"
 
 SixIsland_RuinValley_Text_DoorIsOpen::
-	.string "The door is open.$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThe door is open.$"
 
 SixIsland_RuinValley_Text_StanlyIntro::
 	.string "There appear to be many secrets\n"

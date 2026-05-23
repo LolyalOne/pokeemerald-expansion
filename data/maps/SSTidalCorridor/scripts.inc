@@ -276,19 +276,19 @@ SSTidal_Text_FastCurrentsHopeYouEnjoyVoyage:
 	.string "Feel free to explore the ship.$"
 
 SSTidal_Text_HopeYouEnjoyVoyage:
-	.string "We hope you enjoy your voyage on\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWe hope you enjoy your voyage on\n"
 	.string "our ferry.$"
 
 SSTidal_Text_MadeLandInSlateport:
-	.string "We have made land in SLATEPORT CITY.\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWe have made land in SLATEPORT CITY.\n"
 	.string "Thank you for sailing with us.$"
 
 SSTidal_Text_MadeLandInLilycove:
-	.string "We have made land in LILYCOVE CITY.\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWe have made land in LILYCOVE CITY.\n"
 	.string "Thank you for sailing with us.$"
 
 SSTidalCorridor_Text_CanRestInCabin2:
-	.string "It'll be some time before we make land,\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pIt'll be some time before we make land,\n"
 	.string "I reckon.\p"
 	.string "You can rest up in your cabin if you'd\n"
 	.string "like. Your cabin's No. 2.\p"
@@ -296,22 +296,22 @@ SSTidalCorridor_Text_CanRestInCabin2:
 	.string "I can attest to how comfy it is!$"
 
 SSTidalCorridor_Text_WeveArrived:
-	.string "We've arrived!$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pWe've arrived!$"
 
 SSTidalCorridor_Text_VisitOtherCabins:
-	.string "Go visit other cabins.\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pGo visit other cabins.\n"
 	.string "TRAINERS bored of the boat trip will\l"
 	.string "be itching to battle.$"
 
 SSTidalCorridor_Text_EnjoyYourCruise:
-	.string "Enjoy your cruise!$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pEnjoy your cruise!$"
 
 SSTidalCorridor_Text_HorizonSpreadsBeyondPorthole:
-	.string "The horizon spreads beyond\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThe horizon spreads beyond\n"
 	.string "the porthole.$"
 
 SSTidalCorridor_Text_BrineyWelcomeAboard:
-	.string "MR. BRINEY: Welcome aboard, {PLAYER}{KUN}!\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pMR. BRINEY: Welcome aboard, {PLAYER}{KUN}!\p"
 	.string "They made me honorary captain of\n"
 	.string "the S.S. TIDAL!\p"
 	.string "You can call me CAPTAIN BRINEY now!\p"
@@ -321,16 +321,16 @@ SSTidalCorridor_Text_BrineyWelcomeAboard:
 	.string "soul as a sailor!$"
 
 SSTidalCorridor_Text_Peeko:
-	.string "PEEKO: Pihyo pihyohyo…$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pPEEKO: Pihyo pihyohyo…$"
 
 SSTidalCorridor_Text_Cabin1:
-	.string "Cabin 1$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pCabin 1$"
 
 SSTidalCorridor_Text_Cabin2:
-	.string "Cabin 2$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pCabin 2$"
 
 SSTidalCorridor_Text_Cabin3:
-	.string "Cabin 3$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pCabin 3$"
 
 SSTidalCorridor_Text_Cabin4:
-	.string "Cabin 4$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pCabin 4$"

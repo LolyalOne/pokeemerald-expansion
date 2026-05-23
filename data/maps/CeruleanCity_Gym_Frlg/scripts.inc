@@ -94,11 +94,11 @@ CeruleanCity_Gym_Text_ExplainCascadeBadge::
 	.string "You can also have my favorite TM.$"
 
 CeruleanCity_Gym_Text_ReceivedTM03FromMisty::
-	.string "{PLAYER} received TM03\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p{PLAYER} received TM03\n"
 	.string "from MISTY.$"
 
 CeruleanCity_Gym_Text_BetterMakeRoomForThis::
-	.string "You better make room for this!$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pYou better make room for this!$"
 
 CeruleanCity_Gym_Text_MistyDefeat::
 	.string "Wow!\n"
@@ -133,7 +133,7 @@ CeruleanCity_Gym_Text_LuisPostBattle::
 	.string "She won't lose to someone like you!$"
 
 CeruleanCity_Gym_Text_GymGuyAdvice::
-	.string "Yo!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pYo!\n"
 	.string "Champ in the making!\p"
 	.string "Let me give you some advice!\p"
 	.string "The LEADER, MISTY, is a pro who\n"
@@ -144,7 +144,7 @@ CeruleanCity_Gym_Text_GymGuyAdvice::
 	.string "POKéMON and zap them!$"
 
 CeruleanCity_Gym_Text_WeMakePrettyGoodTeam::
-	.string "You beat MISTY!\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYou beat MISTY!\n"
 	.string "See, what'd I tell ya?\p"
 	.string "You and me, kid, we make a pretty\n"
 	.string "darn-good team!$"

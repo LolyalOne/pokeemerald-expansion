@@ -145,7 +145,7 @@ ViridianCity_Gym_Text_ExplainEarthBadgeTakeThis::
 	.string "LEAGUE challenge.$"
 
 ViridianCity_Gym_Text_ReceivedTM26FromGiovanni::
-	.string "{PLAYER} received TM26\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\p{PLAYER} received TM26\n"
 	.string "from GIOVANNI.$"
 
 ViridianCity_Gym_Text_ExplainTM26::
@@ -156,7 +156,7 @@ ViridianCity_Gym_Text_ExplainTM26::
 	.string "far too long ago… $"
 
 ViridianCity_Gym_Text_YouDoNotHaveSpace::
-	.string "You do not have space for this!$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pYou do not have space for this!$"
 
 ViridianCity_Gym_Text_YujiIntro::
 	.string "Heh!\n"
@@ -249,7 +249,7 @@ ViridianCity_Gym_Text_SamuelPostBattle::
 	.string "LEADER!$"
 
 ViridianCity_Gym_Text_GymGuyAdvice::
-	.string "Yo!\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYo!\n"
 	.string "Champ in the making!\p"
 	.string "Even I don't know the VIRIDIAN\n"
 	.string "LEADER's identity.\p"
@@ -260,7 +260,7 @@ ViridianCity_Gym_Text_GymGuyAdvice::
 	.string "here like GROUND-type POKéMON.$"
 
 ViridianCity_Gym_Text_GymGuyPostVictory::
-	.string "Blow me away! GIOVANNI was the\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pBlow me away! GIOVANNI was the\n"
 	.string "GYM LEADER of VIRIDIAN?$"
 
 ViridianCity_Gym_Text_GymStatue::

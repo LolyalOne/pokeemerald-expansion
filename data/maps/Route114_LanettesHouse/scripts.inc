@@ -46,7 +46,7 @@ Route114_LanettesHouse_EventScript_PC::
 	end
 
 Route114_LanettesHouse_Text_EverythingClutteredKeepThis:
-	.string "LANETTE: Oh! {PLAYER}{KUN}!\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pLANETTE: Oh! {PLAYER}{KUN}!\p"
 	.string "I'm sorry everything is so cluttered…\n"
 	.string "When I get engrossed in research,\l"
 	.string "things end up this way…\p"
@@ -54,13 +54,13 @@ Route114_LanettesHouse_Text_EverythingClutteredKeepThis:
 	.string "this a secret in exchange for this.$"
 
 Route114_LanettesHouse_Text_OrganizeYourBoxes:
-	.string "May I offer advice about my POKéMON\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pMay I offer advice about my POKéMON\n"
 	.string "Storage System?\p"
 	.string "You should organize your BOXES so you\n"
 	.string "can tell which POKéMON are in them.$"
 
 Route114_LanettesHouse_Text_ResearchNotesPage1:
-	.string "It's LANETTE's research notes.\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pIt's LANETTE's research notes.\n"
 	.string "There's information about BOXES.\p"
 	.string "Design BOXES to hold 30 POKéMON each.\p"
 	.string "Each TRAINER should be able to store\n"
@@ -68,7 +68,7 @@ Route114_LanettesHouse_Text_ResearchNotesPage1:
 	.string "Keep reading?$"
 
 Route114_LanettesHouse_Text_ResearchNotesPage2:
-	.string "A marking system should be added to\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pA marking system should be added to\n"
 	.string "make POKéMON easier to organize.\p"
 	.string "The name and wallpaper design of each\n"
 	.string "BOX will be made changeable to please\l"
@@ -76,7 +76,7 @@ Route114_LanettesHouse_Text_ResearchNotesPage2:
 	.string "Keep reading?$"
 
 Route114_LanettesHouse_Text_ResearchNotesPage3:
-	.string "When storing a POKéMON, it should be\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pWhen storing a POKéMON, it should be\n"
 	.string "sent to the BOX inspected last.\p"
 	.string "If that BOX is full, the received\n"
 	.string "POKéMON is stored in the next BOX.\p"
@@ -88,7 +88,7 @@ Route114_LanettesHouse_Text_ClosedTheNotebook:
 	.string "{PLAYER} closed the notebook.$"
 
 Route114_LanettesHouse_Text_EmailFromBill:
-	.string "There's an e-mail from someone on\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pThere's an e-mail from someone on\n"
 	.string "the PC.\p"
 	.string "“… … … … … … …\p"
 	.string "“Your Storage System offers more\n"

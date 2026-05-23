@@ -111,12 +111,12 @@ Route109_SeashoreHouse_Text_SeashoreHouseIntro:
 	.string "here, I'll reward your efforts.$"
 
 Route109_SeashoreHouse_Text_ShowMeSomeHotMatches:
-	.string "Show me some hot matches!\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pShow me some hot matches!\p"
 	.string "I run this SEASHORE HOUSE just for\n"
 	.string "that reason alone!$"
 
 Route109_SeashoreHouse_Text_TakeTheseSodaPopBottles:
-	.string "You're scorching hot!\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pYou're scorching hot!\n"
 	.string "Those battles blazed!\l"
 	.string "I'm more than just satisfied!\p"
 	.string "As thanks for showing me your hot\n"
@@ -124,23 +124,23 @@ Route109_SeashoreHouse_Text_TakeTheseSodaPopBottles:
 	.string "It's half a dozen bottles of SODA POP!$"
 
 Route109_SeashoreHouse_Text_BagFull:
-	.string "Oh, but hey, your BAG's jammed full.\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh, but hey, your BAG's jammed full.\n"
 	.string "I'll hang on to these for you.$"
 
 Route109_SeashoreHouse_Text_WantToBuySodaPop:
-	.string "Want to buy some SODA POP?\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pWant to buy some SODA POP?\n"
 	.string "POKéMON love it!\p"
 	.string "Just ¥300 a bottle!\n"
 	.string "Buy some!$"
 
 Route109_SeashoreHouse_Text_HereYouGo:
-	.string "Here you go!$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHere you go!$"
 
 Route109_SeashoreHouse_Text_NotEnoughMoney:
-	.string "You don't have the money.$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pYou don't have the money.$"
 
 Route109_SeashoreHouse_Text_ThatsTooBad:
-	.string "No?\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pNo?\n"
 	.string "That's too bad.$"
 
 Route109_SeashoreHouse_Text_DwayneIntro:

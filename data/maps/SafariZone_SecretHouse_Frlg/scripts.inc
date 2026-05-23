@@ -36,7 +36,7 @@ SafariZone_SecretHouse_Text_CongratsYouveWon::
 	.string "You have won!$"
 
 SafariZone_SecretHouse_Text_ReceivedHM03FromAttendant::
-	.string "{PLAYER} received HM03\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p{PLAYER} received HM03\n"
 	.string "from the attendant!$"
 
 SafariZone_SecretHouse_Text_ExplainSurf::
@@ -49,6 +49,6 @@ SafariZone_SecretHouse_Text_ExplainSurf::
 	.string "fabulous prize!$"
 
 SafariZone_SecretHouse_Text_DontHaveRoomForPrize::
-	.string "You don't have room for this\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pYou don't have room for this\n"
 	.string "fabulous prize!$"
 

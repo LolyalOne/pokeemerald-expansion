@@ -194,7 +194,7 @@ SeafoamIslands_B4F_EventScript_FastCurrentSign::
 	end
 
 Text_RockSlideTeach::
-	.string "When you're up on a rocky mountain\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWhen you're up on a rocky mountain\n"
 	.string "like this, rockslides are a threat.\p"
 	.string "Can you imagine?\n"
 	.string "Boulders tumbling down on you?\p"
@@ -204,21 +204,21 @@ Text_RockSlideTeach::
 	.string "Want to try using ROCK SLIDE?$"
 
 Text_RockSlideDeclined::
-	.string "Oh, so you are scared after all.$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pOh, so you are scared after all.$"
 
 Text_RockSlideWhichMon::
-	.string "Which POKéMON should I teach\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pWhich POKéMON should I teach\n"
 	.string "ROCK SLIDE?$"
 
 Text_RockSlideTaught::
-	.string "It might be scary to use it in this\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pIt might be scary to use it in this\n"
 	.string "tunnel…$"
 
 SeafoamIslands_B4F_Text_BouldersMightChangeWaterFlow::
-	.string "Hint: Boulders might change the\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pHint: Boulders might change the\n"
 	.string "flow of water.$"
 
 SeafoamIslands_B4F_Text_DangerFastCurrent::
-	.string "DANGER\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pDANGER\n"
 	.string "Fast current!$"
 

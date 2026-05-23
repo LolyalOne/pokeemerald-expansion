@@ -120,7 +120,7 @@ CeladonCity_Gym_Text_ExplainRainbowBadgeTakeThis::
 	.string "Please also take this with you.$"
 
 CeladonCity_Gym_Text_ReceivedTM19FromErika::
-	.string "{PLAYER} received TM19\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\p{PLAYER} received TM19\n"
 	.string "from ERIKA.$"
 
 CeladonCity_Gym_Text_ExplainTM19::
@@ -131,7 +131,7 @@ CeladonCity_Gym_Text_ExplainTM19::
 	.string "wonderful move?$"
 
 CeladonCity_Gym_Text_ShouldMakeRoomForThis::
-	.string "You should make room for this.$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pYou should make room for this.$"
 
 CeladonCity_Gym_Text_KayIntro::
 	.string "I should tell you about this GYM.\p"

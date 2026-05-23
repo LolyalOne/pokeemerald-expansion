@@ -257,20 +257,20 @@ Route101_Movement_BirchApproachPlayer:
 	step_end
 
 Route101_Text_HelpMe:
-	.string "H-help me!$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pH-help me!$"
 
 Route101_Text_PleaseHelp:
-	.string "Hello! You over there!\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pHello! You over there!\n"
 	.string "Please! Help!\p"
 	.string "In my BAG!\n"
 	.string "There's a POKé BALL!$"
 
 Route101_Text_DontLeaveMe:
-	.string "Wh-Where are you going?!\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pWh-Where are you going?!\n"
 	.string "Don't leave me like this!$"
 
 Route101_Text_YouSavedMe:
-	.string "PROF. BIRCH: Whew…\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pPROF. BIRCH: Whew…\p"
 	.string "I was in the tall grass studying wild\n"
 	.string "POKéMON when I was jumped.\p"
 	.string "You saved me.\n"
@@ -281,13 +281,13 @@ Route101_Text_YouSavedMe:
 	.string "by my POKéMON LAB later, okay?$"
 
 Route101_Text_TakeTiredPokemonToPokeCenter:
-	.string "If POKéMON get tired, take them to\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pIf POKéMON get tired, take them to\n"
 	.string "a POKéMON CENTER.\p"
 	.string "There's a POKéMON CENTER in OLDALE\n"
 	.string "TOWN right close by.$"
 
 Route101_Text_WildPokemonInTallGrass:
-	.string "Wild POKéMON will jump out at you in\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWild POKéMON will jump out at you in\n"
 	.string "tall grass.\p"
 	.string "If you want to catch POKéMON, you have\n"
 	.string "to go into the tall grass and search.$"

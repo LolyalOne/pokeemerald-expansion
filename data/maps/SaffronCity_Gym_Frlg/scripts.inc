@@ -128,7 +128,7 @@ SaffronCity_Gym_Text_ExplainMarshBadgeTakeThis::
 	.string "Wait, please take this TM with you.$"
 
 SaffronCity_Gym_Text_ReceivedTM04FromSabrina::
-	.string "{PLAYER} received TM04 from\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p{PLAYER} received TM04 from\n"
 	.string "SABRINA.$"
 
 SaffronCity_Gym_Text_ExplainTM04::
@@ -229,7 +229,7 @@ SaffronCity_Gym_Text_PrestonPostBattle::
 	.string "read your mind!$"
 
 SaffronCity_Gym_Text_GymGuyAdvice::
-	.string "Yo!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pYo!\n"
 	.string "Champ in the making!\p"
 	.string "SABRINA's POKéMON use psychic\n"
 	.string "power instead of force.\p"
@@ -239,7 +239,7 @@ SaffronCity_Gym_Text_GymGuyAdvice::
 	.string "can even aim a punch!$"
 
 SaffronCity_Gym_Text_GymGuyPostVictory::
-	.string "Psychic power, huh?\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pPsychic power, huh?\p"
 	.string "If I had that, I'd make a bundle\n"
 	.string "at the slots!$"
 

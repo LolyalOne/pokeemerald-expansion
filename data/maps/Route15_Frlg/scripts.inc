@@ -140,7 +140,7 @@ Route15_Text_MyaPostBattle::
 	.string "I'll add to our training menu!$"
 
 Route15_Text_MyaNotEnoughMons::
-	.string "MYA: Do you want to challenge us?\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pMYA: Do you want to challenge us?\n"
 	.string "You'll need two POKéMON, though.$"
 
 Route15_Text_RonIntro::
@@ -156,6 +156,6 @@ Route15_Text_RonPostBattle::
 	.string "I wish I had a nice sister…$"
 
 Route15_Text_RonNotEnoughMons::
-	.string "RON: Did you want to battle with\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pRON: Did you want to battle with\n"
 	.string "my sister and me?\p"
 	.string "You need two POKéMON, then.$"

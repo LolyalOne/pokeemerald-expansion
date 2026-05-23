@@ -490,7 +490,7 @@ Route119_Text_MayDefeat:
 	.string "struggling with your training.$"
 
 Route119_Text_MayPresentForYou:
-	.string "MAY: But I had absolutely nothing to\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pMAY: But I had absolutely nothing to\n"
 	.string "worry about! Keep it up!\p"
 	.string "And, here! I have a present for you.$"
 
@@ -520,7 +520,7 @@ Route119_Text_BrendanDefeat:
 	.string "You've gotten pretty darn decent.$"
 
 Route119_Text_BrendanIllGiveYouThis:
-	.string "BRENDAN: I'd say you're good enough\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pBRENDAN: I'd say you're good enough\n"
 	.string "to search for POKéMON anywhere.\p"
 	.string "Here, I'll give you this.\n"
 	.string "Try it out.$"
@@ -534,7 +534,7 @@ Route119_Text_BrendanExplainFly:
 	.string "Anyway, I have to move along.$"
 
 Route119_Text_ScottWayToGoBeSeeingYou:
-	.string "SCOTT: Hahahah!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pSCOTT: Hahahah!\n"
 	.string "Way to go, {PLAYER}{KUN}!\p"
 	.string "I just passed by a TRAINER riding\n"
 	.string "a BIKE.\p"
@@ -564,17 +564,17 @@ Route119_Text_ScottYouWonAtFortreeGym:
 	.string "… … … … … Click!$"
 
 Route119_Text_StayAwayFromWeatherInstitute:
-	.string "We're standing lookout here.\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWe're standing lookout here.\p"
 	.string "Hey, you! Stay away from the WEATHER\n"
 	.string "INSTITUTE. It's not safe.$"
 
 Route119_Text_DontGoNearWeatherInstitute:
-	.string "Lookout duty is surprisingly boring.\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pLookout duty is surprisingly boring.\p"
 	.string "Hey, you! Please don't go near the\n"
 	.string "WEATHER INSTITUTE.$"
 
 Route119_Text_ThoughtFlyByCatchingBirdMons:
-	.string "I thought you FLY by catching a whole\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI thought you FLY by catching a whole\n"
 	.string "flock of BIRD POKéMON, and then\l"
 	.string "hanging on to them somehow.\p"
 	.string "But it turns out there's an HM move\n"
@@ -583,13 +583,13 @@ Route119_Text_ThoughtFlyByCatchingBirdMons:
 	.string "time ago…$"
 
 Route119_Text_TallGrassSnaresBikeTires:
-	.string "Tch…\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pTch…\n"
 	.string "It's a no-go…\p"
 	.string "The tall grass snares BIKE tires.\n"
 	.string "There's no way you can cycle here.$"
 
 Route119_Text_CanYourMonMakeSecretBase:
-	.string "Can your POKéMON use its SECRET POWER\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pCan your POKéMON use its SECRET POWER\n"
 	.string "on a big pile of grass and make a\l"
 	.string "SECRET BASE?$"
 
@@ -598,10 +598,10 @@ Route119_Text_RouteSignFortree:
 	.string "{RIGHT_ARROW} FORTREE CITY$"
 
 Route119_Text_WeatherInstitute:
-	.string "WEATHER INSTITUTE$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pWEATHER INSTITUTE$"
 
 Route119_Text_TrainerTipsDecoration:
-	.string "TRAINER TIPS\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pTRAINER TIPS\p"
 	.string "Up to sixteen decorations and\n"
 	.string "furniture items can be placed in\l"
 	.string "a SECRET BASE.\p"

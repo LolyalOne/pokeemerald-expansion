@@ -239,15 +239,15 @@ SixIsland_DottedHole_SapphireRoom_EventScript_BrailleMessage::
 	end
 
 SixIsland_DottedHole_SapphireRoom_Text_FoundSapphire::
-	.string "{PLAYER} found a SAPPHIRE!$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p{PLAYER} found a SAPPHIRE!$"
 
 SixIsland_DottedHole_SapphireRoom_Text_IWasRightInTailingYou::
-	.string "Fufu… Fufufufu…\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pFufu… Fufufufu…\n"
 	.string "I guessed right.\p"
 	.string "I was right in tailing you!$"
 
 SixIsland_DottedHole_SapphireRoom_Text_SellToTeamRocketTellPassword::
-	.string "I knew that there was a SAPPHIRE\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI knew that there was a SAPPHIRE\n"
 	.string "here, so it belongs to me!\p"
 	.string "I'll sell it to TEAM ROCKET for\n"
 	.string "serious money.\p"

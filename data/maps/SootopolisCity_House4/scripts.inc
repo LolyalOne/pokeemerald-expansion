@@ -28,12 +28,12 @@ SootopolisCity_House4_Text_AncientTreasuresWaitingInSea:
 	.string "to be discovered down there.$"
 
 SootopolisCity_House4_Text_StrollUnderwaterWithPokemon:
-	.string "Ancient treasures…\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pAncient treasures…\p"
 	.string "It would be nice if they existed, but\n"
 	.string "even if they didn't, it would be so\l"
 	.string "beautiful to take an underwater\l"
 	.string "stroll with my POKéMON.$"
 
 SootopolisCity_House4_Text_Azumarill:
-	.string "AZUMARILL: Marurii.$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pAZUMARILL: Marurii.$"
 

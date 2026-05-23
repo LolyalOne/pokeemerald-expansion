@@ -183,4 +183,4 @@ FarawayIsland_Interior_EventScript_HideMewWhenGrassCut::
 	end
 
 FarawayIsland_Interior_Text_TheFeelingOfBeingWatchedFaded:
-	.string "The feeling of being watched faded…$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThe feeling of being watched faded…$"

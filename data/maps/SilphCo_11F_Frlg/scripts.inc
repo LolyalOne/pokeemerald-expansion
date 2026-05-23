@@ -133,7 +133,7 @@ SilphCo_11F_EventScript_Grunt2::
 	end
 
 SilphCo_11F_Text_ThanksForSavingMeDearBoy::
-	.string "PRESIDENT: Oh, dear boy!\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pPRESIDENT: Oh, dear boy!\n"
 	.string "Thank you for saving SILPH.\p"
 	.string "I will never forget you saved us in\n"
 	.string "our moment of peril.\p"
@@ -143,7 +143,7 @@ SilphCo_11F_Text_ThanksForSavingMeDearBoy::
 	.string "Here, maybe this will do.$"
 
 SilphCo_11F_Text_ThanksForSavingMeDearGirl::
-	.string "PRESIDENT: Oh, dear girl!\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pPRESIDENT: Oh, dear girl!\n"
 	.string "Thank you for saving SILPH.\p"
 	.string "I will never forget you saved us in\n"
 	.string "our moment of peril.\p"
@@ -153,11 +153,11 @@ SilphCo_11F_Text_ThanksForSavingMeDearGirl::
 	.string "Here, maybe this will do.$"
 
 SilphCo_11F_Text_ObtainedMasterBallFromPresident::
-	.string "{PLAYER} obtained a MASTER BALL\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\p{PLAYER} obtained a MASTER BALL\n"
 	.string "from the PRESIDENT!$"
 
 SilphCo_11F_Text_ThatsOurSecretPrototype::
-	.string "PRESIDENT: You can't buy that\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pPRESIDENT: You can't buy that\n"
 	.string "anywhere.\p"
 	.string "It's our secret prototype MASTER\n"
 	.string "BALL.\p"
@@ -167,10 +167,10 @@ SilphCo_11F_Text_ThatsOurSecretPrototype::
 	.string "though.$"
 
 SilphCo_11F_Text_YouHaveNoRoomForThis::
-	.string "You have no room for this.$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pYou have no room for this.$"
 
 SilphCo_11F_Text_ThanksForRescuingUs::
-	.string "SECRETARY: Thank you for rescuing\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pSECRETARY: Thank you for rescuing\n"
 	.string "all of us.\p"
 	.string "We, from the PRESIDENT down,\n"
 	.string "are indebted to you.$"
@@ -220,7 +220,7 @@ SilphCo_11F_Text_Grunt1PostBattle::
 	.string "My BOSS likes his POKéMON tough!$"
 
 SilphCo_11F_Text_MonitorHasMonsOnIt::
-	.string "The monitor has POKéMON on it!$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThe monitor has POKéMON on it!$"
 
 SilphCo_11F_Text_FloorSign::
 	.string "SILPH CO. HEAD OFFICE\n"

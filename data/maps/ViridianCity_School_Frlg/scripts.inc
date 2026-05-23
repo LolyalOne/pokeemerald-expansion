@@ -94,16 +94,16 @@ ViridianCity_School_EventScript_ExitBlackboard::
 	end
 
 ViridianCity_School_Text_TryingToMemorizeNotes::
-	.string "Whew! I'm trying to memorize all my\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pWhew! I'm trying to memorize all my\n"
 	.string "notes.$"
 
 ViridianCity_School_Text_ReadBlackboardCarefully::
-	.string "Okay!\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pOkay!\p"
 	.string "Be sure to read what's on the\n"
 	.string "blackboard carefully!$"
 
 ViridianCity_School_Text_NotebookFirstPage::
-	.string "Let's check out the notebook.\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pLet's check out the notebook.\p"
 	.string "First page…\p"
 	.string "POKé BALLS are used to catch\n"
 	.string "POKéMON.\p"
@@ -113,14 +113,14 @@ ViridianCity_School_Text_NotebookFirstPage::
 	.string "with POKéMON are called TRAINERS.$"
 
 ViridianCity_School_Text_NotebookSecondPage::
-	.string "Second page…\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pSecond page…\p"
 	.string "A healthy POKéMON may be hard to\n"
 	.string "catch, so weaken it first.\p"
 	.string "Poison, burn, or cause another\n"
 	.string "status problem to weaken it.$"
 
 ViridianCity_School_Text_NotebookThirdPage::
-	.string "Third page…\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThird page…\p"
 	.string "POKéMON TRAINERS seek others to\n"
 	.string "engage in POKéMON battles.\p"
 	.string "To TRAINERS, the taste of victory\n"
@@ -129,7 +129,7 @@ ViridianCity_School_Text_NotebookThirdPage::
 	.string "POKéMON GYMS everywhere.$"
 
 ViridianCity_School_Text_NotebookFourthPage::
-	.string "Fourth page…\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pFourth page…\p"
 	.string "The ultimate goal for all POKéMON\n"
 	.string "TRAINERS is simple.\p"
 	.string "It is to defeat the top eight\n"
@@ -139,18 +139,18 @@ ViridianCity_School_Text_NotebookFourthPage::
 	.string "LEAGUE!$"
 
 ViridianCity_School_Text_TurnThePage::
-	.string "Turn the page?$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pTurn the page?$"
 
 ViridianCity_School_Text_HeyDontLookAtMyNotes::
-	.string "GIRL: Hey!\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pGIRL: Hey!\n"
 	.string "Don't look at my notes!$"
 
 ViridianCity_School_Text_BlackboardListsStatusProblems::
-	.string "The blackboard lists POKéMON\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThe blackboard lists POKéMON\n"
 	.string "STATUS problems during battles.$"
 
 ViridianCity_School_Text_ReadWhichTopic::
-	.string "Which topic do you want to read?$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWhich topic do you want to read?$"
 
 ViridianCity_School_Text_ExplainSleep::
 	.string "A POKéMON can't attack if it's\n"

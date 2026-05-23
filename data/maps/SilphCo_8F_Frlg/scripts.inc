@@ -42,7 +42,7 @@ SilphCo_8F_Text_WonderIfSilphIsFinished::
 	.string "I wonder if SILPH is finished…$"
 
 SilphCo_8F_Text_ThanksForSavingUs::
-	.string "Thanks for saving us!$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pThanks for saving us!$"
 
 SilphCo_8F_Text_Grunt1Intro::
 	.string "That's as far as you'll go!$"
@@ -81,7 +81,7 @@ SilphCo_8F_Text_FloorSign::
 	.string "8F$"
 
 SilphCo_8F_Text_ToRocketBossMonsAreTools::
-	.string "TEAM ROCKET's BOSS is terribly\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pTEAM ROCKET's BOSS is terribly\n"
 	.string "cruel!\p"
 	.string "To him, POKéMON are just tools to\n"
 	.string "be used.\p"

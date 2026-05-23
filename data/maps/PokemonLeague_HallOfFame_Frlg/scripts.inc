@@ -54,7 +54,7 @@ PokemonLeague_HallOfFame_Movement_EnterRoom::
 	step_end
 
 PokemonLeague_HallOfFame_Text_OakCongratulations::
-	.string "OAK: Er-hem!\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pOAK: Er-hem!\n"
 	.string "Congratulations, {PLAYER}!\p"
 	.string "This floor is the POKéMON HALL OF\n"
 	.string "FAME.\p"

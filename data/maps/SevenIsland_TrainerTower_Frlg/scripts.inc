@@ -44,5 +44,5 @@ SevenIsland_TrainerTower_Text_TrainerTowerSign::
 	.string "Rise to the Challenge, TRAINERS!$"
 
 SevenIsland_TrainerTower_Text_TrainerTowerAhead::
-	.string "TRAINER TOWER AHEAD$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pTRAINER TOWER AHEAD$"
 

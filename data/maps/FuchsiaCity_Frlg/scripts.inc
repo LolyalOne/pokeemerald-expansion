@@ -139,18 +139,18 @@ FuchsiaCity_EventScript_OmanyteSign::
 	end
 
 FuchsiaCity_Text_DidYouTrySafariGame::
-	.string "Did you try the SAFARI GAME?\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pDid you try the SAFARI GAME?\p"
 	.string "There are some rare POKéMON that\n"
 	.string "can only be caught there.$"
 
 FuchsiaCity_Text_SafariZoneZooInFront::
-	.string "The SAFARI ZONE has a zoo in front\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pThe SAFARI ZONE has a zoo in front\n"
 	.string "of the entrance.\p"
 	.string "Out back is the SAFARI GAME for\n"
 	.string "catching POKéMON.$"
 
 FuchsiaCity_Text_WheresSara::
-	.string "ERIK: Where's SARA?\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pERIK: Where's SARA?\n"
 	.string "I said I'd meet her here.$"
 
 FuchsiaCity_Text_ItemBallInThere::
@@ -218,10 +218,10 @@ FuchsiaCity_Text_KabutoSign::
 
 @ Unused. May have been meant to be the placeholder text for the zoo mons, similar to RB's "!" text
 FuchsiaCity_Text_Ellipsis::
-	.string "……$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\p……$"
 
 Text_SubstituteTeach::
-	.string "Aww, I wish I was a KANGASKHAN\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pAww, I wish I was a KANGASKHAN\n"
 	.string "baby.\p"
 	.string "I'd love to be a substitute for the\n"
 	.string "baby…\p"
@@ -233,19 +233,19 @@ Text_SubstituteTeach::
 	.string "one of your POKéMON?$"
 
 Text_SubstituteDeclined::
-	.string "Oh, really?\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh, really?\n"
 	.string "SUBSTITUTE seems so fun…$"
 
 Text_SubstituteWhichMon::
-	.string "Which POKéMON wants to learn\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pWhich POKéMON wants to learn\n"
 	.string "SUBSTITUTE?$"
 
 Text_SubstituteTaught::
-	.string "Boy, what I'd give to crawl inside\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pBoy, what I'd give to crawl inside\n"
 	.string "a KANGASKHAN belly pouch…$"
 
 FuchsiaCity_Text_MyFatherIsGymLeader::
-	.string "My father is the GYM LEADER of\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pMy father is the GYM LEADER of\n"
 	.string "this town.\p"
 	.string "I'm training to use POISON POKéMON\n"
 	.string "as well as my father.$"

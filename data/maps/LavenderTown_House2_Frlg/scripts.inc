@@ -89,7 +89,7 @@ LavenderTown_House2_Text_FromNowOnShallBeKnownAsName::
 	.string "How fortunate for you!$"
 
 LavenderTown_House2_Text_ISeeComeVisitAgain::
-	.string "I see.\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pI see.\n"
 	.string "Do come visit again.$"
 
 LavenderTown_House2_Text_FromNowOnShallBeKnownAsSameName::
@@ -105,6 +105,6 @@ LavenderTown_House2_Text_TrulyImpeccableName::
 	.string "Take good care of {STR_VAR_1}!$"
 
 LavenderTown_House2_Text_ThatIsMerelyAnEgg::
-	.string "Now, now.\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pNow, now.\n"
 	.string "That is merely an EGG!$"
 

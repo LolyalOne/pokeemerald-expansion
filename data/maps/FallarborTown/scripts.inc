@@ -52,27 +52,27 @@ FallarborTown_EventScript_MoveTutorSign::
 	end
 
 FallarborTown_Text_ShadyCharactersCozmosHome:
-	.string "Something's happening,\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pSomething's happening,\n"
 	.string "and I don't like it!\p"
 	.string "I've seen shady characters wandering\n"
 	.string "in and out of PROF. COZMO's home…$"
 
 FallarborTown_Text_RegionKnownForMeteors:
-	.string "This region's been known for meteors\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pThis region's been known for meteors\n"
 	.string "since the olden days.\p"
 	.string "They say METEOR FALLS was gouged out\n"
 	.string "by a falling meteorite long ago.$"
 
 FallarborTown_Text_MyPreciousAzurill:
-	.string "See! Take a look!\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pSee! Take a look!\n"
 	.string "This is my precious AZURILL!\p"
 	.string "It's slick and smooth and plushy, too!$"
 
 FallarborTown_Text_Azurill:
-	.string "AZURILL: Rooreelooo.$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pAZURILL: Rooreelooo.$"
 
 FallarborTown_Text_HaveYouChallengedFlannery:
-	.string "Have you already challenged FLANNERY,\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pHave you already challenged FLANNERY,\n"
 	.string "the LEADER of LAVARIDGE GYM?\p"
 	.string "The girl's grandfather was famous.\n"
 	.string "He was one of the ELITE FOUR in the\l"

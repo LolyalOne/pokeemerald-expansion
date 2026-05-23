@@ -54,7 +54,7 @@ Route114_FossilManiacsTunnel_EventScript_PlayerRevivedFossil::
 	end
 
 Route114_FossilManiacsTunnel_Text_LookInDesertForFossils:
-	.string "I'm the FOSSIL MANIAC…\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI'm the FOSSIL MANIAC…\n"
 	.string "I'm a nice guy who loves FOSSILS…\p"
 	.string "Do you want a FOSSIL?\p"
 	.string "But the FOSSILS around these parts all\n"
@@ -65,7 +65,7 @@ Route114_FossilManiacsTunnel_Text_LookInDesertForFossils:
 	.string "FOSSILS…$"
 
 Route114_FossilManiacsTunnel_Text_DevonCorpRevivingFossils:
-	.string "You found a FOSSIL, didn't you?\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYou found a FOSSIL, didn't you?\n"
 	.string "That's so nice… It's so dreamy…\p"
 	.string "What are you going to do with that\n"
 	.string "FOSSIL?\p"
@@ -80,7 +80,7 @@ Route114_FossilManiacsTunnel_Text_FossilsAreWonderful:
 	.string "It's so dreamy…$"
 
 Route114_FossilManiacsTunnel_Text_NotSafeThatWay:
-	.string "Oh…\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh…\n"
 	.string "It's not safe that way…\p"
 	.string "I was digging away, you see…\n"
 	.string "When the whole wall collapsed…\p"

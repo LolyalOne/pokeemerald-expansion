@@ -104,7 +104,7 @@ RustboroCity_Gym_EventScript_RegisterRoxanne::
 	end
 
 RustboroCity_Gym_Text_GymGuideAdvice:
-	.string "Yo, how's it going?\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYo, how's it going?\p"
 	.string "Listen, my friend!\n"
 	.string "Would you like to become the CHAMPION?\p"
 	.string "I'm no TRAINER, not me, but I can\n"
@@ -126,7 +126,7 @@ RustboroCity_Gym_Text_GymGuideAdvice:
 	.string "Well, go for it!$"
 
 RustboroCity_Gym_Text_GymGuidePostVictory:
-	.string "Whoa! What a breathtaking victory!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWhoa! What a breathtaking victory!\n"
 	.string "My cheering must've worked!\p"
 	.string "Great!\n"
 	.string "Check your TRAINER CARD.\p"
@@ -197,11 +197,11 @@ RustboroCity_Gym_Text_RoxanneDefeat:
 	.string "LEAGUE STONE BADGE.$"
 
 RustboroCity_Gym_Text_ReceivedStoneBadge:
-	.string "{PLAYER} received the STONE BADGE\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p{PLAYER} received the STONE BADGE\n"
 	.string "from ROXANNE.$"
 
 RustboroCity_Gym_Text_StoneBadgeInfoTakeThis:
-	.string "The STONE BADGE heightens the ATTACK\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThe STONE BADGE heightens the ATTACK\n"
 	.string "power of your POKéMON.\p"
 	.string "It also enables them to use the HM move\n"
 	.string "CUT outside of battle.\p"
@@ -232,7 +232,7 @@ RustboroCity_Gym_Text_GymStatueCertified:
 	.string "{PLAYER}$"
 
 RustboroCity_Gym_Text_RoxanneRegisterCall:
-	.string "… … … … … …\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\p… … … … … …\n"
 	.string "… … … … … Beep!\p"
 	.string "ROXANNE: Oh, hello, {PLAYER}?\n"
 	.string "This is ROXANNE of RUSTBORO CITY.\p"
@@ -249,11 +249,11 @@ RustboroCity_Gym_Text_RoxanneRegisterCall:
 	.string "… … … … … Click!$"
 
 RustboroCity_Gym_Text_RegisteredRoxanne:
-	.string "Registered GYM LEADER ROXANNE\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pRegistered GYM LEADER ROXANNE\n"
 	.string "in the POKéNAV.$"
 
 RustboroCity_Gym_Text_RoxannePreRematch:
-	.string "ROXANNE: I'm so glad to see you again.\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pROXANNE: I'm so glad to see you again.\n"
 	.string "I'm ROXANNE, the GYM LEADER here.\p"
 	.string "I'm sure we've both experienced many\n"
 	.string "battles since we last met.\p"
@@ -265,13 +265,13 @@ RustboroCity_Gym_Text_RoxanneRematchDefeat:
 	.string "Again, I have lost…$"
 
 RustboroCity_Gym_Text_RoxannePostRematch:
-	.string "ROXANNE: I still have much to learn\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pROXANNE: I still have much to learn\n"
 	.string "when it comes to battling POKéMON.\p"
 	.string "That awareness makes me love battling\n"
 	.string "all that much more!$"
 
 RustboroCity_Gym_Text_RoxanneRematchNeedTwoMons:
-	.string "ROXANNE: I'm so glad to see you again.\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pROXANNE: I'm so glad to see you again.\n"
 	.string "I'm ROXANNE, the GYM LEADER here.\p"
 	.string "I'm sure we've both experienced many\n"
 	.string "battles since we last met.\p"

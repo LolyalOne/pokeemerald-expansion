@@ -128,7 +128,7 @@ Route13_Text_RobertPostBattle::
 	.string "PIDGEOTTO…$"
 
 Route13_Text_LookToLeftOfThatPost::
-	.string "TRAINER TIPS\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pTRAINER TIPS\p"
 	.string "Look, look!\n"
 	.string "Look to the left of that post!$"
 

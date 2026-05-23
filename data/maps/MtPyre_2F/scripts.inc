@@ -43,11 +43,11 @@ MtPyre_2F_EventScript_Zander::
 	end
 
 MtPyre_2F_Text_MemoriesOfSkitty:
-	.string "Memories of my darling SKITTY…\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pMemories of my darling SKITTY…\n"
 	.string "My eyes overflow thinking about it.$"
 
 MtPyre_2F_Text_TumbledFromFloorAbove:
-	.string "Ooch, ouch… There are holes in the\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pOoch, ouch… There are holes in the\n"
 	.string "ground here and there.\p"
 	.string "I didn't notice and took a tumble from\n"
 	.string "the floor above.$"
@@ -80,7 +80,7 @@ MtPyre_2F_Text_LukePostBattle:
 	.string "We'll make it through this dare!$"
 
 MtPyre_2F_Text_LukeNotEnoughMons:
-	.string "LUKE: If you want to take me on,\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pLUKE: If you want to take me on,\n"
 	.string "bring some more POKéMON.\p"
 	.string "If you don't, I won't be able to show\n"
 	.string "off to my girl how cool I am!$"
@@ -101,7 +101,7 @@ MtPyre_2F_Text_DezPostBattle:
 	.string "care if we lose!$"
 
 MtPyre_2F_Text_DezNotEnoughMons:
-	.string "DEZ: If you want to challenge us, you\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pDEZ: If you want to challenge us, you\n"
 	.string "should bring at least two POKéMON.\p"
 	.string "My boyfriend's strong.\n"
 	.string "Just one POKéMON won't do at all.$"

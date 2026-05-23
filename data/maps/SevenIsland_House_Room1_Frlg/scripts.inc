@@ -180,11 +180,11 @@ SevenIsland_House_Room1_Text_OnlyEnjoymentWatchingBattles::
 	.string "watching battles.$"
 
 SevenIsland_House_Room1_Text_SlightBreezeAroundBox::
-	.string "There is a slight breeze blowing\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThere is a slight breeze blowing\n"
 	.string "around the box.$"
 
 SevenIsland_House_Room1_Text_ChallengeVisitingTrainer::
-	.string "Ah!\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pAh!\n"
 	.string "Welcome, my friend!\p"
 	.string "Let me tell you something. There's\n"
 	.string "a hidden room in the basement.\p"
@@ -202,7 +202,7 @@ SevenIsland_House_Room1_Text_OhYouWontBattle::
 	.string "mind, do come back.$"
 
 SevenIsland_House_Room1_Text_LimitThreeMonsPerSide::
-	.string "Ah!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pAh!\n"
 	.string "You will battle for me?\p"
 	.string "It was worth my time moving the\n"
 	.string "box aside, then.\p"
@@ -218,18 +218,18 @@ SevenIsland_House_Room1_Text_SaveProgressBeforeBattle::
 	.string "you like to save your game?$"
 
 SevenIsland_House_Room1_Text_DontHoldAnythingBack::
-	.string "All right.\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pAll right.\n"
 	.string "Don't hold anything back!$"
 
 @ Unused
 SevenIsland_House_Room1_Text_StrVar1_1::
-	.string "{STR_VAR_1}$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p{STR_VAR_1}$"
 
 SevenIsland_House_Room2_Text_MatchEndedUpDraw::
-	.string "The match ended up a draw.$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThe match ended up a draw.$"
 
 SevenIsland_House_Room1_Text_DrawWasIt::
-	.string "A draw, was it?\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pA draw, was it?\p"
 	.string "However, let me say that it was\n"
 	.string "a worthy spectacle.\p"
 	.string "I'd say it was a wonderful battle\n"
@@ -237,7 +237,7 @@ SevenIsland_House_Room1_Text_DrawWasIt::
 
 @ Unused
 SevenIsland_House_Room1_Text_StrVar1_2::
-	.string "{STR_VAR_1}$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\p{STR_VAR_1}$"
 
 SevenIsland_House_Room1_Text_AstoundingBattle::
 	.string "Bravo!\p"
@@ -253,10 +253,10 @@ SevenIsland_House_Room1_Text_AstoundingBattle::
 
 @ Unused
 SevenIsland_House_Room1_Text_StrVar1_3::
-	.string "{STR_VAR_1}$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p{STR_VAR_1}$"
 
 SevenIsland_House_Room1_Text_FeelYourDisappointment::
-	.string "Too bad!\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pToo bad!\n"
 	.string "I feel your disappointment.\p"
 	.string "However, that disappointment is\n"
 	.string "what will make you better.\p"

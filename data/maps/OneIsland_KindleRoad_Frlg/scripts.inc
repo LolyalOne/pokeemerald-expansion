@@ -143,7 +143,7 @@ OneIsland_KindleRoad_Text_KiaPostBattle::
 	.string "better than my big brother?$"
 
 OneIsland_KindleRoad_Text_KiaNotEnoughMons::
-	.string "KIA: If you want to battle with\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pKIA: If you want to battle with\n"
 	.string "us, you have to bring at least two\l"
 	.string "POKéMON with you.$"
 
@@ -160,7 +160,7 @@ OneIsland_KindleRoad_Text_MikPostBattle::
 	.string "with KIA fail?$"
 
 OneIsland_KindleRoad_Text_MikNotEnoughMons::
-	.string "MIK: Hey, do you want to battle\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pMIK: Hey, do you want to battle\n"
 	.string "with us two?\p"
 	.string "Bring two or more POKéMON with\n"
 	.string "you, then.$"

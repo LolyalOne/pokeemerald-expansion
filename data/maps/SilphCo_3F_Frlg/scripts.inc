@@ -35,11 +35,11 @@ SilphCo_3F_EventScript_Grunt::
 	end
 
 SilphCo_3F_Text_WhatAmIToDo::
-	.string "I work for SILPH CO.\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI work for SILPH CO.\n"
 	.string "What am I to do?$"
 
 SilphCo_3F_Text_YouAndYourMonsSavedUs::
-	.string "{PLAYER}!\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p{PLAYER}!\n"
 	.string "You and your POKéMON saved us!$"
 
 SilphCo_3F_Text_GruntIntro::

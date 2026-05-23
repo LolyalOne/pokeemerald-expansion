@@ -53,7 +53,7 @@ PokemonMansion_B1F_Text_IvanPostBattle::
 	.string "It's conducive to my studies.$"
 
 PokemonMansion_B1F_Text_MewtwoIsFarTooPowerful::
-	.string "Diary: Sept. 1\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pDiary: Sept. 1\n"
 	.string "MEWTWO is far too powerful.\p"
 	.string "We have failed to curb its vicious\n"
 	.string "tendencies…$"

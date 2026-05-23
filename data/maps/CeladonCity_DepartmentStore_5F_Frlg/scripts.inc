@@ -71,7 +71,7 @@ CeladonCity_DepartmentStore_5F_Text_ExplainStatEnhancers::
 	.string "stat.$"
 
 CeladonCity_DepartmentStore_5F_Text_HereForStatEnhancers::
-	.string "I'm here for POKéMON stat\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI'm here for POKéMON stat\n"
 	.string "enhancers.\p"
 	.string "PROTEIN increases the base ATTACK\n"
 	.string "power.\p"
@@ -79,5 +79,5 @@ CeladonCity_DepartmentStore_5F_Text_HereForStatEnhancers::
 	.string "stat.$"
 
 CeladonCity_DepartmentStore_5F_Text_Drugstore::
-	.string "5F: DRUGSTORE$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p5F: DRUGSTORE$"
 

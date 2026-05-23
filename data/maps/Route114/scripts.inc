@@ -177,7 +177,7 @@ Route114_EventScript_Kai::
 	end
 
 Route114_Text_AllMyMonDoesIsRoarTakeThis:
-	.string "All my POKéMON does is ROAR…\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pAll my POKéMON does is ROAR…\n"
 	.string "No one dares to come near me…\p"
 	.string "Sigh… If you would, please take\n"
 	.string "this TM away…$"
@@ -187,7 +187,7 @@ Route114_Text_ExplainRoar:
 	.string "A ROAR sends POKéMON scurrying.$"
 
 Route114_Text_Poochyena:
-	.string "Bow! Bowwow!$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pBow! Bowwow!$"
 
 Route114_Text_MeteorFallsSign:
 	.string "METEOR FALLS\n"
@@ -198,5 +198,5 @@ Route114_Text_FossilManiacsHouseSign:
 	.string "“Fossils gratefully accepted!”$"
 
 Route114_Text_LanettesHouse:
-	.string "LANETTE'S HOUSE$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pLANETTE'S HOUSE$"
 

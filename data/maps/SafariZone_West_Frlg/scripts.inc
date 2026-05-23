@@ -18,7 +18,7 @@ SafariZone_West_EventScript_AreaSign::
 	end
 
 SafariZone_West_Text_RestHouse::
-	.string "REST HOUSE$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pREST HOUSE$"
 
 SafariZone_West_Text_PleaseFindWardensLostTeeth::
 	.string "REQUEST NOTICE\p"
@@ -29,7 +29,7 @@ SafariZone_West_Text_PleaseFindWardensLostTeeth::
 	.string "Contact: WARDEN$"
 
 SafariZone_West_Text_SearchForSecretHouse::
-	.string "TRAINER TIPS\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pTRAINER TIPS\p"
 	.string "Zone Exploration Campaign!\n"
 	.string "The Search for the SECRET HOUSE!$"
 

@@ -143,15 +143,15 @@ MtMoon_B2F_Text_MiguelDefeat::
 	.string "I'll share!$"
 
 MtMoon_B2F_Text_WellEachTakeAFossil::
-	.string "We'll each take a fossil!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWe'll each take a fossil!\n"
 	.string "No being greedy!$"
 
 MtMoon_B2F_Text_ThenThisFossilIsMine::
-	.string "All right.\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pAll right.\n"
 	.string "Then this fossil is mine!$"
 
 MtMoon_B2F_Text_LabOnCinnabarRegeneratesFossils::
-	.string "Far away, on CINNABAR ISLAND,\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pFar away, on CINNABAR ISLAND,\n"
 	.string "there's a POKéMON LAB.\p"
 	.string "They do research on regenerating\n"
 	.string "fossils.$"
@@ -206,14 +206,14 @@ MtMoon_B2F_Text_Grunt4PostBattle::
 	.string "people came.$"
 
 MtMoon_B2F_Text_YouWantDomeFossil::
-	.string "Do you want the DOME FOSSIL?$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pDo you want the DOME FOSSIL?$"
 
 MtMoon_B2F_Text_YouWantHelixFossil::
-	.string "Do you want the HELIX FOSSIL?$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pDo you want the HELIX FOSSIL?$"
 
 MtMoon_B2F_Text_ObtainedHelixFossil::
-	.string "Obtained the HELIX FOSSIL!$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pObtained the HELIX FOSSIL!$"
 
 MtMoon_B2F_Text_ObtainedDomeFossil::
-	.string "Obtained the DOME FOSSIL!$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pObtained the DOME FOSSIL!$"
 

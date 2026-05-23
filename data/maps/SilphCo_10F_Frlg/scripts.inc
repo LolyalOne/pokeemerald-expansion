@@ -55,11 +55,11 @@ SilphCo_10F_Text_TravisPostBattle::
 	.string "Then go on home!$"
 
 SilphCo_10F_Text_WaaaImScared::
-	.string "Waaaaa!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWaaaaa!\n"
 	.string "I'm scared!$"
 
 SilphCo_10F_Text_KeepMeCryingASecret::
-	.string "About me crying…\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pAbout me crying…\n"
 	.string "Please keep it a secret.$"
 
 SilphCo_10F_Text_FloorSign::

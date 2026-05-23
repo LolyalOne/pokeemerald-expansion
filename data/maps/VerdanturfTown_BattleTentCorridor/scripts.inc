@@ -43,7 +43,7 @@ VerdanturfTown_BattleTentCorridor_Movement_AttendantEnterDoor:
 @ Leftover text from when this was a Contest Hall in R/S
 @ Unused
 VerdanturfTown_ContestHall_Text_WhichContestYouEntering:
-	.string "Which CONTEST are you entering?\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWhich CONTEST are you entering?\n"
 	.string "Want a piece of advice?\p"
 	.string "In any CONTEST, for example, a CUTE\n"
 	.string "CONTEST, I don't think they judge you\l"
@@ -53,7 +53,7 @@ VerdanturfTown_ContestHall_Text_WhichContestYouEntering:
 
 @ Unused
 VerdanturfTown_ContestHall_Text_RaisedMonToBeCute:
-	.string "I raised my POKéMON to be cute.\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI raised my POKéMON to be cute.\p"
 	.string "I found out you can put POKéMON in\n"
 	.string "a CONTEST for cuteness!\p"
 	.string "I'm so glad I raised my POKéMON with\n"
@@ -61,7 +61,7 @@ VerdanturfTown_ContestHall_Text_RaisedMonToBeCute:
 
 @ Unused
 VerdanturfTown_ContestHall_Text_MyMonRules:
-	.string "My POKéMON rules!\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pMy POKéMON rules!\p"
 	.string "It's cool, tough yet beautiful, cute,\n"
 	.string "and smart. It's complete!\p"
 	.string "I may as well go for wins in every\n"
@@ -69,6 +69,6 @@ VerdanturfTown_ContestHall_Text_MyMonRules:
 
 @ Unused
 VerdanturfTown_ContestHall_Text_NormalRankStage:
-	.string "POKéMON CONTESTS\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pPOKéMON CONTESTS\n"
 	.string "NORMAL RANK STAGE!$"
 

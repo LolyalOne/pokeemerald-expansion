@@ -34,10 +34,10 @@ PokemonMansion_Text_PressSecretSwitch::
 	.string "Press it?$"
 
 PokemonMansion_Text_WhoWouldnt::
-	.string "Who wouldn't?$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWho wouldn't?$"
 
 PokemonMansion_Text_NotQuiteYet::
-	.string "Not quite yet!$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pNot quite yet!$"
 
 PokemonMansion_1F_Text_ArnieIntro::
 	.string "I can't get out!\n"
@@ -52,13 +52,13 @@ PokemonMansion_1F_Text_ArniePostBattle::
 	.string "alternating sets of doors.$"
 
 PokemonMansion_1F_Text_NewMonDiscoveredInGuyanaJungle::
-	.string "Diary: July 5\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pDiary: July 5\n"
 	.string "Guyana, South America\p"
 	.string "A new POKéMON was discovered deep\n"
 	.string "in the jungle.$"
 
 PokemonMansion_1F_Text_ChristenedDiscoveredMonMew::
-	.string "Diary: July 10\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pDiary: July 10\n"
 	.string "We christened the newly discovered\l"
 	.string "POKéMON, MEW.$"
 

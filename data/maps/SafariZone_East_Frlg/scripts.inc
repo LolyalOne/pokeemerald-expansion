@@ -14,10 +14,10 @@ SafariZone_East_EventScript_AreaSign::
 	end
 
 SafariZone_East_Text_RestHouse::
-	.string "REST HOUSE$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pREST HOUSE$"
 
 SafariZone_East_Text_TimeDeclinesOnlyWhileYouWalk::
-	.string "TRAINER TIPS\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pTRAINER TIPS\p"
 	.string "The remaining time declines only\n"
 	.string "while you walk.$"
 

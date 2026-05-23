@@ -70,7 +70,7 @@ SevenIsland_SevaultCanyon_Entrance_Text_EvePostBattle::
 	.string "JON.$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_EveNotEnoughMons::
-	.string "EVE: I want to team up with JON\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pEVE: I want to team up with JON\n"
 	.string "when I battle you.\p"
 	.string "Come back with two POKéMON, okay?$"
 
@@ -88,7 +88,7 @@ SevenIsland_SevaultCanyon_Entrance_Text_JonPostBattle::
 	.string "It's magical!$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_JonNotEnoughMons::
-	.string "JON: If it's with EVE, I'll be\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pJON: If it's with EVE, I'll be\n"
 	.string "happy to battle with you.\p"
 	.string "So, I'd like to make it a\n"
 	.string "two-on-two battle, if I may.$"

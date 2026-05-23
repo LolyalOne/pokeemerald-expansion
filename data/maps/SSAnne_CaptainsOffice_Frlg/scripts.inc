@@ -47,18 +47,18 @@ SSAnne_CaptainsOffice_EventScript_Book::
 	end
 
 SSAnne_CaptainsOffice_Text_CaptainIFeelSeasick::
-	.string "CAPTAIN: Ooargh…\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pCAPTAIN: Ooargh…\n"
 	.string "I feel hideous…\l"
 	.string "Urrp! Seasick…$"
 
 SSAnne_CaptainsOffice_Text_RubbedCaptainsBack::
-	.string "{PLAYER} rubbed the CAPTAIN's\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\p{PLAYER} rubbed the CAPTAIN's\n"
 	.string "back!\p"
 	.string "Rub-rub…\n"
 	.string "Rub-rub…$"
 
 SSAnne_CaptainsOffice_Text_ThankYouHaveHMForCut::
-	.string "CAPTAIN: Whew! Thank you!\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pCAPTAIN: Whew! Thank you!\n"
 	.string "I'm feeling much better now.\p"
 	.string "You want to see my hidden CUT\n"
 	.string "technique?\p"
@@ -70,7 +70,7 @@ SSAnne_CaptainsOffice_Text_ThankYouHaveHMForCut::
 	.string "you can see it CUT anytime!$"
 
 SSAnne_CaptainsOffice_Text_ObtainedHM01FromCaptain::
-	.string "{PLAYER} obtained HM01\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p{PLAYER} obtained HM01\n"
 	.string "from the CAPTAIN!$"
 
 SSAnne_CaptainsOffice_Text_ExplainCut::
@@ -80,7 +80,7 @@ SSAnne_CaptainsOffice_Text_ExplainCut::
 	.string "around VERMILION CITY?$"
 
 SSAnne_CaptainsOffice_Text_SSAnneWillSetSailSoon::
-	.string "CAPTAIN: …Whew!\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pCAPTAIN: …Whew!\p"
 	.string "Now that I'm not sick anymore,\n"
 	.string "I guess it's time.\p"
 	.string "The S.S. ANNE will set sail soon!\p"
@@ -88,14 +88,14 @@ SSAnne_CaptainsOffice_Text_SSAnneWillSetSailSoon::
 	.string "VERMILION CITY!$"
 
 SSAnne_CaptainsOffice_Text_YouHaveNoRoomForThis::
-	.string "Oh, no!\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pOh, no!\n"
 	.string "You have no room for this!$"
 
 SSAnne_CaptainsOffice_Text_YuckShouldntHaveLooked::
-	.string "Yuck!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pYuck!\n"
 	.string "Shouldn't have looked!$"
 
 SSAnne_CaptainsOffice_Text_HowToConquerSeasickness::
-	.string "How to Conquer Seasickness…\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHow to Conquer Seasickness…\n"
 	.string "The CAPTAIN's reading this!$"
 

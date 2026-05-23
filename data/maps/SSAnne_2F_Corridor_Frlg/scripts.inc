@@ -169,7 +169,7 @@ SSAnne_2F_Corridor_EventScript_Sailor::
 	end
 
 SSAnne_2F_Corridor_Text_ThisShipIsLuxuryLiner::
-	.string "This ship, she is a luxury liner for\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThis ship, she is a luxury liner for\n"
 	.string "TRAINERS of the world!\p"
 	.string "At every port, we hold parties with\n"
 	.string "invited TRAINERS.$"
@@ -191,7 +191,7 @@ SSAnne_2F_Corridor_Text_RivalDefeat::
 	.string "POKéMON!$"
 
 SSAnne_2F_Corridor_Text_RivalVictory::
-	.string "{PLAYER}..！\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p{PLAYER}..！\n"
 	.string "ふなよい　してるのか！\p"
 	.string "もっと　からだ\n"
 	.string "きたえた　ほうが　いいぜ！$"

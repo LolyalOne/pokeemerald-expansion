@@ -35,13 +35,13 @@ Route16_House_EventScript_Fearow::
 	end
 
 Route16_House_Text_FoundMySecretRetreat::
-	.string "Oh, dear.\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pOh, dear.\n"
 	.string "You've found my secret retreat.\p"
 	.string "Please don't tell anyone I'm here.\n"
 	.string "I'll make it up to you with this!$"
 
 Route16_House_Text_ReceivedHM02FromGirl::
-	.string "{PLAYER} received HM02\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p{PLAYER} received HM02\n"
 	.string "from the girl.$"
 
 Route16_House_Text_ExplainHM02::
@@ -50,8 +50,8 @@ Route16_House_Text_ExplainHM02::
 	.string "Please, put it to good use.$"
 
 Route16_House_Text_DontHaveAnyRoomForThis::
-	.string "You don't have any room for this.$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pYou don't have any room for this.$"
 
 Route16_House_Text_Fearow::
-	.string "FEAROW: Kyueen!$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pFEAROW: Kyueen!$"
 

@@ -419,11 +419,11 @@ RusturfTunnel_EventScript_Mike::
 	end
 
 RusturfTunnel_Text_ComeAndGetSome:
-	.string "What, are you coming?\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWhat, are you coming?\n"
 	.string "Come and get some, then!$"
 
 RusturfTunnel_Text_Peeko:
-	.string "PEEKO: Pii pihyoh!$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pPEEKO: Pii pihyoh!$"
 
 RusturfTunnel_Text_GruntIntro:
 	.string "Grah, keelhaul it all!\p"
@@ -439,7 +439,7 @@ RusturfTunnel_Text_GruntDefeat:
 	.string "a dead end!$"
 
 RusturfTunnel_Text_GruntTakePackage:
-	.string "This is plain not right…\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThis is plain not right…\p"
 	.string "The BOSS told me this would be a\n"
 	.string "slick-and-easy job to pull.\p"
 	.string "All I had to do was steal some package\n"
@@ -448,11 +448,11 @@ RusturfTunnel_Text_GruntTakePackage:
 	.string "You want it back that badly, take it!$"
 
 RusturfTunnel_Text_PeekoGladToSeeYouSafe:
-	.string "PEEKO!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pPEEKO!\n"
 	.string "Am I glad to see you're safe!$"
 
 RusturfTunnel_Text_ThankYouLetsGoHomePeeko:
-	.string "PEEKO owes her life to you!\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pPEEKO owes her life to you!\p"
 	.string "They call me MR. BRINEY.\n"
 	.string "And, you are?\p"
 	.string "… … … … … … … …\n"
@@ -468,7 +468,7 @@ RusturfTunnel_Text_ThankYouLetsGoHomePeeko:
 	.string "PEEKO: Pihyoh!$"
 
 RusturfTunnel_Text_WhyCantTheyKeepDigging:
-	.string "… …\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p… …\p"
 	.string "Why can't they keep digging?\n"
 	.string "Is the bedrock too hard?\p"
 	.string "My beloved awaits me in VERDANTURF\n"
@@ -480,12 +480,12 @@ RusturfTunnel_Text_WhyCantTheyKeepDigging:
 	.string "What am I to do?$"
 
 RusturfTunnel_Text_ToGetToVerdanturf:
-	.string "To get from RUSTBORO to VERDANTURF,\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pTo get from RUSTBORO to VERDANTURF,\n"
 	.string "you need to go to DEWFORD, then pass\l"
 	.string "through SLATEPORT and MAUVILLE…$"
 
 RusturfTunnel_Text_YouShatteredBoulderTakeHM:
-	.string "Wow! You shattered that boulder\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWow! You shattered that boulder\n"
 	.string "blocking the way.\p"
 	.string "To show you how much I appreciate it,\n"
 	.string "I'd like you to have this HM.$"
@@ -497,13 +497,13 @@ RusturfTunnel_Text_ExplainStrength:
 	.string "large boulders.$"
 
 RusturfTunnel_Text_WandaReunion:
-	.string "WANDA!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWANDA!\n"
 	.string "Now I can see you anytime!\p"
 	.string "WANDA: That's…wonderful.\p"
 	.string "Please, take some rest at my home.$"
 
 RusturfTunnel_Text_BoyfriendOnOtherSideOfRock:
-	.string "On the other side of this rock…\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pOn the other side of this rock…\n"
 	.string "My boyfriend is there.\p"
 	.string "He… He's not just digging the tunnel\n"
 	.string "to come see me.\p"

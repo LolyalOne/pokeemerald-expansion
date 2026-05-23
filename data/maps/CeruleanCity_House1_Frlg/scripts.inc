@@ -73,7 +73,7 @@ CeruleanCity_House1_EventScript_StopDescribingBadges::
 	end
 
 CeruleanCity_House1_Text_BadgesHaveAmazingSecrets::
-	.string "Only skilled TRAINERS can collect\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOnly skilled TRAINERS can collect\n"
 	.string "POKéMON BADGES.\p"
 	.string "I see you have at least one.\p"
 	.string "Those BADGES have amazing secrets,\n"
@@ -85,16 +85,16 @@ CeruleanCity_House1_Text_DescribeWhichBadge::
 	.string "I describe?$"
 
 CeruleanCity_House1_Text_ComeVisitAnytime::
-	.string "Come visit me anytime you wish.$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pCome visit me anytime you wish.$"
 
 CeruleanCity_House1_Text_AttackStatFlash::
-	.string "The ATTACK stat of all your\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThe ATTACK stat of all your\n"
 	.string "POKéMON increases a little bit.\p"
 	.string "It also lets you use the move\n"
 	.string "FLASH outside of battle.$"
 
 CeruleanCity_House1_Text_ObeyLv30Cut::
-	.string "POKéMON up to Lv. 30 will obey\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pPOKéMON up to Lv. 30 will obey\n"
 	.string "you.\p"
 	.string "That includes even outsiders you\n"
 	.string "obtain in trades.\p"
@@ -104,13 +104,13 @@ CeruleanCity_House1_Text_ObeyLv30Cut::
 	.string "CUT outside of battle.$"
 
 CeruleanCity_House1_Text_SpeedStatFly::
-	.string "The SPEED stat of all your\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThe SPEED stat of all your\n"
 	.string "POKéMON increases a little bit.\p"
 	.string "It also lets you use the move\n"
 	.string "FLY outside of battle.$"
 
 CeruleanCity_House1_Text_ObeyLv50Strength::
-	.string "POKéMON up to Lv. 50 will obey\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pPOKéMON up to Lv. 50 will obey\n"
 	.string "you.\p"
 	.string "That includes even outsiders you\n"
 	.string "obtain in trades.\p"
@@ -120,13 +120,13 @@ CeruleanCity_House1_Text_ObeyLv50Strength::
 	.string "STRENGTH outside of battle.$"
 
 CeruleanCity_House1_Text_DefenseStatSurf::
-	.string "The DEFENSE stat of all your\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThe DEFENSE stat of all your\n"
 	.string "POKéMON increases a little bit.\p"
 	.string "It also lets you use the move\n"
 	.string "SURF outside of battle.$"
 
 CeruleanCity_House1_Text_ObeyLv70RockSmash::
-	.string "POKéMON up to Lv. 70 will obey\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pPOKéMON up to Lv. 70 will obey\n"
 	.string "you.\p"
 	.string "That includes even outsiders you\n"
 	.string "obtain in trades.\p"
@@ -136,11 +136,11 @@ CeruleanCity_House1_Text_ObeyLv70RockSmash::
 	.string "ROCK SMASH outside of battle.$"
 
 CeruleanCity_House1_Text_SpStatsWaterfall::
-	.string "The SP. ATK and SP. DEF stats of\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pThe SP. ATK and SP. DEF stats of\n"
 	.string "all your POKéMON rise a little bit.\p"
 	.string "It also lets you use the move\n"
 	.string "WATERFALL outside of battle.$"
 
 CeruleanCity_House1_Text_AllMonsWillObeyYou::
-	.string "All POKéMON will obey you!$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pAll POKéMON will obey you!$"
 

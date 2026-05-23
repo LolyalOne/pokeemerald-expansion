@@ -28,7 +28,7 @@ Route110_TrickHousePuzzle4_EventScript_Paula::
 	end
 
 Route110_TrickHousePuzzle4_Text_WroteSecretCodeLockOpened:
-	.string "{PLAYER} wrote down the secret code\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p{PLAYER} wrote down the secret code\n"
 	.string "on the door.\p"
 	.string "“TRICK MASTER is cool.”\n"
 	.string "… … … … … … … …\p"

@@ -10,10 +10,10 @@ SafariZone_Center_RestHouse_EventScript_Scientist::
 	end
 
 SafariZone_Center_Text_WhereDidErikGo::
-	.string "SARA: Where did my boyfriend,\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pSARA: Where did my boyfriend,\n"
 	.string "ERIK, go?$"
 
 SafariZone_Center_Text_CatchingMonsAsGifts::
-	.string "I'm catching POKéMON to take home\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI'm catching POKéMON to take home\n"
 	.string "as gifts.$"
 

@@ -352,16 +352,16 @@ CinnabarIsland_EventScript_GymSign::
 	end
 
 CinnabarIsland_Text_DoorIsLocked::
-	.string "The door is locked…$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThe door is locked…$"
 
 CinnabarIsland_Text_BlaineLivedHereSinceBeforeLab::
-	.string "CINNABAR GYM's BLAINE is quite the\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pCINNABAR GYM's BLAINE is quite the\n"
 	.string "odd fellow.\p"
 	.string "He's lived on the island since way\n"
 	.string "before the LAB was built.$"
 
 CinnabarIsland_Text_ScientistsExperimentInMansion::
-	.string "Scientists conduct experiments \n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pScientists conduct experiments \n"
 	.string "in the burned-out building.\p"
 	.string "You know, the one they call the\n"
 	.string "POKéMON MANSION.$"
@@ -371,7 +371,7 @@ CinnabarIsland_Text_IslandSign::
 	.string "The Fiery Town of Burning Desire$"
 
 CinnabarIsland_Text_PokemonLab::
-	.string "POKéMON LAB$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pPOKéMON LAB$"
 
 CinnabarIsland_Text_GymSign::
 	.string "CINNABAR ISLAND POKéMON GYM\n"
@@ -383,7 +383,7 @@ CinnabarIsland_Text_HeyIfItIsntPlayer::
 	.string "Hey, if it isn't {PLAYER}!$"
 
 CinnabarIsland_Text_ComeWithMeToOneIsland::
-	.string "Look, it's me, BILL.\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pLook, it's me, BILL.\n"
 	.string "Long time no see!\p"
 	.string "I hope you're still using my\n"
 	.string "PC system.\p"
@@ -397,7 +397,7 @@ CinnabarIsland_Text_ComeWithMeToOneIsland::
 	.string "Do you feel like coming with me?$"
 
 CinnabarIsland_Text_AllRightLetsGo::
-	.string "All right, then.\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pAll right, then.\n"
 	.string "Let's go!$"
 
 CinnabarIsland_Text_IllBeWaitingInPokeCenter::
@@ -410,13 +410,13 @@ CinnabarIsland_Text_IllBeWaitingInPokeCenter::
 	.string "your business here.$"
 
 CinnabarIsland_Text_MyPalsBoatArrived::
-	.string "Looks like my pal's boat arrived,\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pLooks like my pal's boat arrived,\n"
 	.string "too.\p"
 	.string "He sent it specially here to\n"
 	.string "CINNABAR to pick me up.$"
 
 CinnabarIsland_Text_IfYouHaveTriPassYouCanGoAgain::
-	.string "Hey, wasn't that a long cruise?\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pHey, wasn't that a long cruise?\p"
 	.string "My buddy CELIO seemed to enjoy\n"
 	.string "your company.\p"
 	.string "I'm sure he'd welcome you if you\n"

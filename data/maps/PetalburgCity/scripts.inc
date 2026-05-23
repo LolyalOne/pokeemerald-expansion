@@ -698,12 +698,12 @@ PetalburgCity_EventScript_GymBoy::
 	end
 
 PetalburgCity_Text_WhereIsWally:
-	.string "Where has our WALLY gone?\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pWhere has our WALLY gone?\p"
 	.string "We have to leave for VERDANTURF TOWN\n"
 	.string "very soon…$"
 
 PetalburgCity_Text_AreYouRookieTrainer:
-	.string "Hiya! Are you maybe…\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pHiya! Are you maybe…\n"
 	.string "A rookie TRAINER?\p"
 	.string "Do you know what POKéMON TRAINERS\n"
 	.string "do when they reach a new town?\p"
@@ -711,21 +711,21 @@ PetalburgCity_Text_AreYouRookieTrainer:
 	.string "is in the town.$"
 
 PetalburgCity_Text_ThisIsPetalburgGym:
-	.string "See? This is PETALBURG CITY's GYM.$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pSee? This is PETALBURG CITY's GYM.$"
 
 PetalburgCity_Text_ThisIsGymSign:
 	.string "This is the GYM's sign. Look for it\n"
 	.string "whenever you're looking for a GYM.$"
 
 PetalburgCity_Text_WaterReflection:
-	.string "My face is reflected in the water.\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pMy face is reflected in the water.\p"
 	.string "It's a shining grin full of hope…\p"
 	.string "Or it could be a look of somber silence\n"
 	.string "struggling with fear…\p"
 	.string "What do you see reflected in your face?$"
 
 PetalburgCity_Text_FullPartyExplanation:
-	.string "Let's say you have six POKéMON.\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pLet's say you have six POKéMON.\n"
 	.string "If you catch another one…\p"
 	.string "It is automatically sent to a STORAGE\n"
 	.string "BOX over a PC connection.$"
@@ -743,18 +743,18 @@ PetalburgCity_Text_WallyHouseSign:
 	.string "WALLY'S HOUSE$"
 
 PetalburgCity_Text_AreYouATrainer:
-	.string "Excuse me!\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pExcuse me!\p"
 	.string "Let me guess, from the way you're\n"
 	.string "dressed, are you a POKéMON TRAINER?$"
 
 PetalburgCity_Text_WellMaybeNot:
-	.string "… … … … … …\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p… … … … … …\p"
 	.string "Well, maybe not.\n"
 	.string "Your clothes aren't all that dirty.\p"
 	.string "You're either a rookie TRAINER,\n"
 	.string "or maybe you're just an ordinary kid.$"
 
 PetalburgCity_Text_ImLookingForTalentedTrainers:
-	.string "I'm roaming the land in search of\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI'm roaming the land in search of\n"
 	.string "talented TRAINERS.\p"
 	.string "I'm sorry to have taken your time.$"

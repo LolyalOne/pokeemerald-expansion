@@ -387,7 +387,7 @@ CeruleanCity_Text_RivalPostBattle::
 	.string "Smell ya later!$"
 
 CeruleanCity_Text_OhRightLittlePresentAsFavor::
-	.string "Oh, yeah, right.\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pOh, yeah, right.\p"
 	.string "I feel sorry for you. No, really.\n"
 	.string "You're always plodding behind me.\p"
 	.string "So here, I'll give you a little\n"
@@ -414,28 +414,28 @@ CeruleanCity_Text_GruntDefeat::
 	.string "I'll leave quietly!$"
 
 CeruleanCity_Text_OkayIllReturnStolenTM::
-	.string "…Okay.\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p…Okay.\n"
 	.string "I'll return the TM I stole.$"
 
 CeruleanCity_Text_RecoveredTM28FromGrunt::
-	.string "{PLAYER} recovered TM28 from\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p{PLAYER} recovered TM28 from\n"
 	.string "the TEAM ROCKET GRUNT.$"
 
 CeruleanCity_Text_BetterGetMovingBye::
-	.string "I better get moving!\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pI better get moving!\n"
 	.string "Bye!$"
 
 CeruleanCity_Text_MakeRoomForThisCantRun::
-	.string "Make room for this!\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pMake room for this!\n"
 	.string "I can't run until I give it to you!$"
 
 CeruleanCity_Text_TrainerLifeIsToughIsntIt::
-	.string "You're a TRAINER, too?\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYou're a TRAINER, too?\p"
 	.string "Collecting, battling…\n"
 	.string "It's a tough life, isn't it?$"
 
 CeruleanCity_Text_YouCanCutDownSmallTrees::
-	.string "Did you know that you can CUT down\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pDid you know that you can CUT down\n"
 	.string "small trees?\p"
 	.string "Even that small tree in front of\n"
 	.string "the shop can be CUT down.\p"
@@ -443,7 +443,7 @@ CeruleanCity_Text_YouCanCutDownSmallTrees::
 	.string "though.$"
 
 CeruleanCity_Text_IfSlowbroWasntThereCouldCutTree::
-	.string "If that SLOWBRO wasn't there, you\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pIf that SLOWBRO wasn't there, you\n"
 	.string "could CUT down the small tree.\p"
 	.string "That way, you could get to the\n"
 	.string "other side.\p"
@@ -451,58 +451,58 @@ CeruleanCity_Text_IfSlowbroWasntThereCouldCutTree::
 	.string "though.$"
 
 CeruleanCity_Text_PokemonEncyclopediaAmusing::
-	.string "You're making an encyclopedia on\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pYou're making an encyclopedia on\n"
 	.string "POKéMON? That sounds amusing.$"
 
 CeruleanCity_Text_PeopleHereWereRobbed::
-	.string "The people here were robbed.\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pThe people here were robbed.\p"
 	.string "It's obvious that TEAM ROCKET is\n"
 	.string "behind this most heinous crime!\p"
 	.string "Even our POLICE FORCE has\n"
 	.string "trouble with the ROCKETS!$"
 
 CeruleanCity_Text_SlowbroUseSonicboom::
-	.string "Okay! SLOWBRO!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOkay! SLOWBRO!\n"
 	.string "Use SONICBOOM!$"
 
 CeruleanCity_Text_SlowbroPayAttention::
-	.string "Come on, SLOWBRO, pay attention!$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pCome on, SLOWBRO, pay attention!$"
 
 CeruleanCity_Text_SlowbroPunch::
-	.string "SLOWBRO, punch!$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pSLOWBRO, punch!$"
 
 CeruleanCity_Text_NoYouBlewItAgain::
-	.string "No!\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pNo!\n"
 	.string "You blew it again!$"
 
 CeruleanCity_Text_SlowbroWithdraw::
-	.string "SLOWBRO, WITHDRAW!$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pSLOWBRO, WITHDRAW!$"
 
 CeruleanCity_Text_HardToControlMonsObedience::
-	.string "No! That's wrong!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pNo! That's wrong!\n"
 	.string "It's so hard to control POKéMON!\p"
 	.string "Your POKéMON's obedience depends\n"
 	.string "on your abilities as a TRAINER.$"
 
 CeruleanCity_Text_SlowbroTookSnooze::
-	.string "SLOWBRO took a snooze…$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pSLOWBRO took a snooze…$"
 
 CeruleanCity_Text_SlowbroLoafingAround::
-	.string "SLOWBRO is loafing around…$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pSLOWBRO is loafing around…$"
 
 CeruleanCity_Text_SlowbroTurnedAway::
-	.string "SLOWBRO turned away…$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pSLOWBRO turned away…$"
 
 CeruleanCity_Text_SlowbroIgnoredOrders::
-	.string "SLOWBRO ignored orders…$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pSLOWBRO ignored orders…$"
 
 CeruleanCity_Text_WantBrightRedBicycle::
-	.string "I want a bright red bicycle.\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI want a bright red bicycle.\p"
 	.string "I'll keep it at home, so it won't\n"
 	.string "get dirty.$"
 
 CeruleanCity_Text_ThisIsCeruleanCave::
-	.string "This is CERULEAN CAVE.\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pThis is CERULEAN CAVE.\p"
 	.string "Horribly strong POKéMON live inside\n"
 	.string "there.\p"
 	.string "It takes a very special TRAINER to\n"

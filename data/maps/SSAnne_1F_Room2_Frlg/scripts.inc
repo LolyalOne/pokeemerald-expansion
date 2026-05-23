@@ -43,6 +43,6 @@ SSAnne_1F_Room2_Text_AnnPostBattle::
 	.string "POKéMON CENTER!$"
 
 SSAnne_1F_Room2_Text_CruisingAroundWorld::
-	.string "We are cruising around the world,\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWe are cruising around the world,\n"
 	.string "my children and I.$"
 

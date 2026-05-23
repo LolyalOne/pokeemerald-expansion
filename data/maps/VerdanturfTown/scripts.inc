@@ -62,7 +62,7 @@ VerdanturfTown_EventScript_RusturfTunnelSign::
 	end
 
 VerdanturfTown_Text_ManTryingToDigTunnel:
-	.string "My papa told me.\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pMy papa told me.\p"
 	.string "He says this tunnel is full of\n"
 	.string "timid POKéMON.\p"
 	.string "They get all scared of loud noise and\n"
@@ -73,12 +73,12 @@ VerdanturfTown_Text_ManTryingToDigTunnel:
 	.string "the tunnel by himself!$"
 
 VerdanturfTown_Text_ManDugTunnelForLove:
-	.string "There was a man who dug a tunnel for\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThere was a man who dug a tunnel for\n"
 	.string "a lady he loved.\p"
 	.string "I don't really get it, but hey!$"
 
 VerdanturfTown_Text_AirCleanHere:
-	.string "The way the winds blow, volcanic ash\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThe way the winds blow, volcanic ash\n"
 	.string "is never blown in this direction.\p"
 	.string "The air is clean and delicious here.\n"
 	.string "Living here should do wonders for even\l"
@@ -91,7 +91,7 @@ VerdanturfTown_Text_MakeBattleTentDebut:
 	.string "debut in this town.$"
 
 VerdanturfTown_Text_GuyTryingToBustThroughCave:
-	.string "Did you see the cave next to the\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pDid you see the cave next to the\n"
 	.string "POKéMON MART?\p"
 	.string "There's a guy in there who's trying to\n"
 	.string "bust up boulders so he can bust out\l"
@@ -100,7 +100,7 @@ VerdanturfTown_Text_GuyTryingToBustThroughCave:
 	.string "It'll make it easy to visit RUSTBORO.$"
 
 VerdanturfTown_Text_EasyToGetToRustboroNow:
-	.string "That cave next to the POKéMON MART\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThat cave next to the POKéMON MART\n"
 	.string "is now a tunnel to the other side.\p"
 	.string "It's great--it's easy to go shop for\n"
 	.string "new DEVON products in RUSTBORO now.$"
@@ -111,7 +111,7 @@ VerdanturfTown_Text_TownSign:
 	.string "sweet fragrance of grass.”$"
 
 VerdanturfTown_Text_WandasHouse:
-	.string "WANDA'S HOUSE$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWANDA'S HOUSE$"
 
 VerdanturfTown_Text_BattleTentSign:
 	.string "BATTLE TENT VERDANTURF SITE\n"

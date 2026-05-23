@@ -51,7 +51,7 @@ ThreeIsland_DunsparceTunnel_EventScript_ProspectorAlreadyGaveNugget::
 	end
 
 ThreeIsland_DunsparceTunnel_Text_ProspectingForGold::
-	.string "Hey, there!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHey, there!\n"
 	.string "How's it going?\p"
 	.string "What am I doing here, you ask?\n"
 	.string "Why, I'm prospecting for gold!\p"
@@ -59,7 +59,7 @@ ThreeIsland_DunsparceTunnel_Text_ProspectingForGold::
 	.string "a house in KANTO.$"
 
 ThreeIsland_DunsparceTunnel_Text_StruckGoldThisIsForYou::
-	.string "Hey, there! How's it going?\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pHey, there! How's it going?\n"
 	.string "Did you hear? I've struck gold!\p"
 	.string "You remembered that I was\n"
 	.string "prospecting, didn't you?\p"
@@ -69,11 +69,11 @@ ThreeIsland_DunsparceTunnel_Text_StruckGoldThisIsForYou::
 	.string "This is for you!$"
 
 ThreeIsland_DunsparceTunnel_Text_ThatsANugget::
-	.string "That's a NUGGET!\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThat's a NUGGET!\p"
 	.string "I can't give you any nuggets of\n"
 	.string "wisdom, so that'll have to do!$"
 
 ThreeIsland_DunsparceTunnel_Text_WhoopsBagCrammedFull::
-	.string "Whoops, your BAG is crammed full!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWhoops, your BAG is crammed full!\n"
 	.string "I'll give this to you later.$"
 

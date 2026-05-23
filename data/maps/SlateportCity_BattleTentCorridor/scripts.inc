@@ -154,7 +154,7 @@ SlateportCity_BattleTentCorridor_Movement_AttendantExit:
 @ Leftover text from when this was a Contest Hall in R/S
 @ Unused
 SlateportCity_ContestHall_Text_AdviceForContests:
-	.string "Want a tasty little bit of advice\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pWant a tasty little bit of advice\n"
 	.string "for CONTESTS?\p"
 	.string "Using a certain move after another\n"
 	.string "certain kind of move sometimes gets\l"
@@ -166,13 +166,13 @@ SlateportCity_ContestHall_Text_AdviceForContests:
 
 @ Unused
 SlateportCity_ContestHall_Text_MyPapaIsContestJudge:
-	.string "My papa, he's a CONTEST JUDGE.\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pMy papa, he's a CONTEST JUDGE.\p"
 	.string "I wonder what I should be when I\n"
 	.string "grow up, a JUDGE or a GYM LEADER?$"
 
 @ Unused
 SlateportCity_ContestHall_Text_ImLikeMajorlyCheesed:
-	.string "Hey, man, I'm like majorly cheesed,\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pHey, man, I'm like majorly cheesed,\n"
 	.string "you know. Like, you know, I just\l"
 	.string "wanted to know why my POKéMON\l"
 	.string "never won, you know, like, hey?\p"
@@ -194,7 +194,7 @@ SlateportCity_ContestHall_Text_ExplainTorment:
 
 @ Unused
 SlateportCity_ContestHall_Text_MCStepUpTakePartInContest:
-	.string "MC: Oh, my, my!\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pMC: Oh, my, my!\n"
 	.string "Now isn't that a dandy of a POKéMON?\p"
 	.string "Please! Do step right up and take\n"
 	.string "part in our splendid CONTESTS!\p"
@@ -203,7 +203,7 @@ SlateportCity_ContestHall_Text_MCStepUpTakePartInContest:
 
 @ Unused
 SlateportCity_ContestHall_Text_JudgeWouldntDoToMissContest:
-	.string "JUDGE: Well, hello there!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pJUDGE: Well, hello there!\n"
 	.string "I see that you're a TRAINER!\p"
 	.string "Then, it just wouldn't do for you\n"
 	.string "to miss a POKéMON CONTEST!\p"
@@ -212,19 +212,19 @@ SlateportCity_ContestHall_Text_JudgeWouldntDoToMissContest:
 
 @ Unused
 SlateportCity_ContestHall_Text_ItsAppealTime:
-	.string "It's appeal time!\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pIt's appeal time!\n"
 	.string "What should I lead with?$"
 
 @ Unused
 SlateportCity_ContestHall_Text_DidntPayAttentionToAppeal:
-	.string "They didn't pay much attention to\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThey didn't pay much attention to\n"
 	.string "my POKéMON's appeal…\p"
 	.string "Humph, that JUDGE, he doesn't know\n"
 	.string "a good thing when he sees it.$"
 
 @ Unused
 SlateportCity_ContestHall_Text_RewardWithSageAdvice:
-	.string "Oh, hi! You must be a serious fan to get\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh, hi! You must be a serious fan to get\n"
 	.string "this close to the action.\p"
 	.string "I'll reward your enthusiasm with\n"
 	.string "this sage advice.\p"
@@ -237,7 +237,7 @@ SlateportCity_ContestHall_Text_RewardWithSageAdvice:
 
 @ Unused
 SlateportCity_ContestHall_Text_MoreFreakedOutThanMon:
-	.string "I can't do this! I'm more freaked out\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI can't do this! I'm more freaked out\n"
 	.string "than my POKéMON.\p"
 	.string "I'm shivering and my heart is racing!$"
 
@@ -250,7 +250,7 @@ SlateportCity_ContestHall_Text_BattleAndContestAlike:
 
 @ Unused
 SlateportCity_ContestHall_Text_MonLooksOnTopOfGame:
-	.string "That POKéMON looks like it's on top\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pThat POKéMON looks like it's on top\n"
 	.string "of its game, huh?\p"
 	.string "A POKéMON that does good in the\n"
 	.string "secondary judging seems to be more\l"
@@ -258,18 +258,18 @@ SlateportCity_ContestHall_Text_MonLooksOnTopOfGame:
 
 @ Unused
 SlateportCity_ContestHall_Text_MyMonBetterThanThatLot:
-	.string "Will you look at that sorry sight?\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pWill you look at that sorry sight?\p"
 	.string "Heh, my POKéMON's absolutely better\n"
 	.string "than that lot!$"
 
 @ Unused
 SlateportCity_ContestHall_Text_GetUrgeToMoveWithMon:
-	.string "Don't you get the urge to move with\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pDon't you get the urge to move with\n"
 	.string "POKéMON if they're putting on an\l"
 	.string "energetic appeal?$"
 
 @ Unused
 SlateportCity_ContestHall_Text_HyperRankStage:
-	.string "POKéMON CONTESTS\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pPOKéMON CONTESTS\n"
 	.string "HYPER RANK STAGE!$"
 

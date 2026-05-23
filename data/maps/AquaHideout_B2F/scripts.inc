@@ -101,7 +101,7 @@ AquaHideout_B2F_Text_MattDefeat:
 	.string "So, I lost, too…$"
 
 AquaHideout_B2F_Text_OurBossGotThroughHisPreparations:
-	.string "Hehehe!\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHehehe!\p"
 	.string "While I was toying with you, our BOSS\n"
 	.string "got through his preparations!$"
 

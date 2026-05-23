@@ -44,15 +44,15 @@ Route1_Text_WorkAtPokeMartTakeSample::
 	.string "Here you go!$"
 
 Route1_Text_ComeSeeUsIfYouNeedPokeBalls::
-	.string "Please come see us if you need\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pPlease come see us if you need\n"
 	.string "POKé BALLS for catching POKéMON.$"
 
 Route1_Text_PutPotionAway::
-	.string "{PLAYER} put the POTION away in\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\p{PLAYER} put the POTION away in\n"
 	.string "the BAG's ITEMS POCKET.$"
 
 Route1_Text_CanJumpFromLedges::
-	.string "See those ledges along the road?\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pSee those ledges along the road?\p"
 	.string "It's a bit scary, but you can jump\n"
 	.string "from them.\p"
 	.string "You can get back to PALLET TOWN\n"

@@ -380,11 +380,11 @@ CeladonCity_GameCorner_PrizeRoom_EventScript_YellowFlute::
 	end
 
 CeladonCity_GameCorner_PrizeRoom_Text_FancyThatPorygon::
-	.string "I sure do fancy that PORYGON!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI sure do fancy that PORYGON!\n"
 	.string "But, it's hard to win at slots!$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_RakedItInToday::
-	.string "Gahaha! I raked it in today!\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pGahaha! I raked it in today!\n"
 	.string "If only every day were like this…$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_CoinCaseRequired::
@@ -394,16 +394,16 @@ CeladonCity_GameCorner_PrizeRoom_Text_WeExchangeCoinsForPrizes::
 	.string "We exchange your COINS for prizes.$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_WhichPrize::
-	.string "Which prize would you like?$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWhich prize would you like?$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_HereYouGo::
-	.string "はい どうぞ$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pはい どうぞ$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_YouWantPrize::
-	.string "So, you want the {STR_VAR_1}?$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pSo, you want the {STR_VAR_1}?$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_YouWantTM::
-	.string "Okay, a TM of {STR_VAR_2}\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pOkay, a TM of {STR_VAR_2}\n"
 	.string "is what you want?$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_NeedMoreCoins::
@@ -411,8 +411,8 @@ CeladonCity_GameCorner_PrizeRoom_Text_NeedMoreCoins::
 	.string "than that.$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_OopsNotEnoughRoom::
-	.string "おきゃくさん もう もてないよ$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pおきゃくさん もう もてないよ$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_OhFineThen::
-	.string "あっ そう$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pあっ そう$"
 

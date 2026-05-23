@@ -6,7 +6,7 @@ FiveIsland_House1_EventScript_Woman::
 	end
 
 FiveIsland_House1_Text_HusbandWentOffFishing::
-	.string "Don't worry about buying anything\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pDon't worry about buying anything\n"
 	.string "for dinner tonight!\p"
 	.string "…That's what my husband said when\n"
 	.string "he went off fishing today.\p"

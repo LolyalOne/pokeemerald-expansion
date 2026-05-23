@@ -76,7 +76,7 @@ MeteorFalls_1F_2R_Text_NicolasPostBattle:
 	.string "the best?$"
 
 MeteorFalls_1F_2R_Text_NicolasRegister:
-	.string "I want to know more about your power.\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI want to know more about your power.\n"
 	.string "Let me register you in my POKéNAV.$"
 
 MeteorFalls_1F_2R_Text_NicolasRematchIntro:
@@ -90,7 +90,7 @@ MeteorFalls_1F_2R_Text_NicolasRematchDefeat:
 	.string "I didn't expect you to be so strong!$"
 
 MeteorFalls_1F_2R_Text_NicolasPostRematch:
-	.string "You've obviously kept up your\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYou've obviously kept up your\n"
 	.string "POKéMON training.\p"
 	.string "So long as you remain strong, I, too,\n"
 	.string "can become stronger!$"
@@ -111,12 +111,12 @@ MeteorFalls_1F_2R_Text_JohnPostBattle:
 	.string "my dear wife in a battle.$"
 
 MeteorFalls_1F_2R_Text_JohnNotEnoughMons:
-	.string "JOHN: Well, well, what a young TRAINER!\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pJOHN: Well, well, what a young TRAINER!\p"
 	.string "Will you battle with us? If so, you'll\n"
 	.string "have to return with more POKéMON.$"
 
 MeteorFalls_1F_2R_Text_JohnRegister:
-	.string "JOHN: Young TRAINER, if the chance\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pJOHN: Young TRAINER, if the chance\n"
 	.string "arises, will you battle with us again?$"
 
 MeteorFalls_1F_2R_Text_JayIntro:
@@ -135,7 +135,7 @@ MeteorFalls_1F_2R_Text_JayPostBattle:
 	.string "it with a POKéMON battle…$"
 
 MeteorFalls_1F_2R_Text_JayNotEnoughMons:
-	.string "JAY: Well, well, aren't you a young\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pJAY: Well, well, aren't you a young\n"
 	.string "TRAINER?\p"
 	.string "If you'd care to battle with us, you'll\n"
 	.string "have to come back with more POKéMON.$"
@@ -150,12 +150,12 @@ MeteorFalls_1F_2R_Text_JohnRematchDefeat:
 	.string "We've lost, dear wife.$"
 
 MeteorFalls_1F_2R_Text_JohnPostRematch:
-	.string "JOHN: Married for fifty years…\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pJOHN: Married for fifty years…\p"
 	.string "On reflection, the dear wife and I,\n"
 	.string "we battled day in and day out…$"
 
 MeteorFalls_1F_2R_Text_JohnRematchNotEnoughMons:
-	.string "JOHN: Well, well, what a young TRAINER!\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pJOHN: Well, well, what a young TRAINER!\p"
 	.string "Will you battle with us? If so, you'll\n"
 	.string "have to return with more POKéMON.$"
 
@@ -170,13 +170,13 @@ MeteorFalls_1F_2R_Text_JayRematchDefeat:
 	.string "We've lost, my dear husband.$"
 
 MeteorFalls_1F_2R_Text_JayPostRematch:
-	.string "JAY: Fifty years of marriage…\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pJAY: Fifty years of marriage…\n"
 	.string "Many things have happened.\p"
 	.string "I hope that we will continue to make\n"
 	.string "happy memories together.$"
 
 MeteorFalls_1F_2R_Text_JayRematchNotEnoughMons:
-	.string "JAY: Well, well, aren't you a young\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pJAY: Well, well, aren't you a young\n"
 	.string "TRAINER?\p"
 	.string "If you'd care to battle with us, you'll\n"
 	.string "have to come back with more POKéMON.$"

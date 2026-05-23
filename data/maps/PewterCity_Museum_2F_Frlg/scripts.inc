@@ -30,7 +30,7 @@ PewterCity_Museum_2F_EventScript_MoonStone::
 	end
 
 Text_SeismicTossTeach::
-	.string "The secrets of space…\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pThe secrets of space…\n"
 	.string "The mysteries of earth…\p"
 	.string "There are so many things about\n"
 	.string "which we know so little.\p"
@@ -41,45 +41,45 @@ Text_SeismicTossTeach::
 	.string "Should I teach that to a POKéMON?$"
 
 Text_SeismicTossDeclined::
-	.string "Is that so?\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pIs that so?\n"
 	.string "I'm sure you'll be back for it.$"
 
 Text_SeismicTossWhichMon::
-	.string "Which POKéMON wants to learn\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWhich POKéMON wants to learn\n"
 	.string "SEISMIC TOSS?$"
 
 Text_SeismicTossTaught::
-	.string "I hope you won't toss in the towel.\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI hope you won't toss in the towel.\n"
 	.string "Keep it up.$"
 
 PewterCity_Museum_1F_Text_WhatsSpecialAboutMoonStone::
-	.string "MOON STONE, huh?\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pMOON STONE, huh?\p"
 	.string "What's so special about it?\n"
 	.string "Looks like an ordinary rock to me.$"
 
 PewterCity_Museum_1F_Text_BoughtColorTVForMoonLanding::
-	.string "July 20, 1969!\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pJuly 20, 1969!\p"
 	.string "Humankind first set foot on the\n"
 	.string "moon that day.\p"
 	.string "I bought a color TV just so I\n"
 	.string "could watch that news.$"
 
 PewterCity_Museum_1F_Text_RunningSpaceExhibitThisMonth::
-	.string "This month, we're running a space\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThis month, we're running a space\n"
 	.string "exhibit.$"
 
 PewterCity_Museum_1F_Text_AskedDaddyToCatchPikachu::
-	.string "I want a PIKACHU!\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI want a PIKACHU!\n"
 	.string "It's so cute!\p"
 	.string "I asked my daddy to catch me one!$"
 
 PewterCity_Museum_1F_Text_PikachuSoonIPromise::
-	.string "Yeah, a PIKACHU soon, I promise!$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pYeah, a PIKACHU soon, I promise!$"
 
 PewterCity_Museum_1F_Text_SpaceShuttle::
-	.string "Space Shuttle$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pSpace Shuttle$"
 
 PewterCity_Museum_1F_Text_MeteoriteThatFellOnMtMoon::
-	.string "A meteorite that fell on MT. MOON.\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pA meteorite that fell on MT. MOON.\n"
 	.string "It is thought to be a MOON STONE.$"
 

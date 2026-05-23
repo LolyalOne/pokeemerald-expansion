@@ -6,7 +6,7 @@ OldaleTown_House1_EventScript_Woman::
 	end
 
 OldaleTown_House1_Text_LeftPokemonGoesOutFirst:
-	.string "When a POKéMON battle starts, the one\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pWhen a POKéMON battle starts, the one\n"
 	.string "at the left of the list goes out first.\p"
 	.string "So, when you get more POKéMON in your\n"
 	.string "party, try switching around the order\l"

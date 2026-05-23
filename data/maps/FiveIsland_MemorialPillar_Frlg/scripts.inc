@@ -122,32 +122,32 @@ FiveIsland_MemorialPillar_Text_HaroldPostBattle::
 	.string "bird POKéMON beg playfully…$"
 
 FiveIsland_MemorialPillar_Text_ScrubScrub::
-	.string "Scrub, scrub…$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pScrub, scrub…$"
 
 FiveIsland_MemorialPillar_Text_YourMonsLookHealthy::
 	.string "Hello…\n"
 	.string "Your POKéMON look healthy…$"
 
 FiveIsland_MemorialPillar_Text_ThisIsWhereIBuriedMyOnix::
-	.string "This is where I buried my ONIX…\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThis is where I buried my ONIX…\n"
 	.string "It was named TECTONIX…$"
 
 FiveIsland_MemorialPillar_Text_HereLiesTectonixLemonadeOffering::
-	.string "“Here lies TECTONIX” is engraved\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p“Here lies TECTONIX” is engraved\n"
 	.string "on a boulder.\p"
 	.string "There is a LEMONADE placed as an\n"
 	.string "offering in front of the grave.$"
 
 FiveIsland_MemorialPillar_Text_LeaveAnotherLemonadeOffering::
-	.string "Would you like to leave another\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWould you like to leave another\n"
 	.string "LEMONADE as an offering?$"
 
 FiveIsland_MemorialPillar_Text_PlacedCanOfLemonade::
-	.string "{PLAYER} placed a can of LEMONADE\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\p{PLAYER} placed a can of LEMONADE\n"
 	.string "in front of the grave.$"
 
 FiveIsland_MemorialPillar_Text_ThankYouPleaseTakeThis::
-	.string "Th-thank you…\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pTh-thank you…\p"
 	.string "That was my TECTONIX's favorite\n"
 	.string "drink…\p"
 	.string "I don't even know you, but your\n"
@@ -157,25 +157,25 @@ FiveIsland_MemorialPillar_Text_ThankYouPleaseTakeThis::
 	.string "thanks?$"
 
 FiveIsland_MemorialPillar_Text_BeGoodToYourMonsToo::
-	.string "Please be good to your POKéMON,\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pPlease be good to your POKéMON,\n"
 	.string "too.$"
 
 FiveIsland_MemorialPillar_Text_DontHaveRoomForIt::
-	.string "If you don't have room for it,\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pIf you don't have room for it,\n"
 	.string "I'll hold it for you till next time.$"
 
 FiveIsland_MemorialPillar_Text_StillHaveThingAsMyThanks::
-	.string "Oh, it's you from that time…\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pOh, it's you from that time…\p"
 	.string "I still have that thing I wanted\n"
 	.string "you to have as my thanks.$"
 
 FiveIsland_MemorialPillar_Text_ScrubScrubTectonix::
-	.string "Scrub, scrub…\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pScrub, scrub…\p"
 	.string "… … …\n"
 	.string "TECTONIX…$"
 
 FiveIsland_MemorialPillar_Text_HereLiesTectonix::
-	.string "Boulders and rocks are neatly piled\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pBoulders and rocks are neatly piled\n"
 	.string "up as a cairn.\p"
 	.string "“Here lies TECTONIX” is engraved\n"
 	.string "on a boulder.$"

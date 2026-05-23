@@ -58,12 +58,12 @@ SilphCo_5F_EventScript_Dalton::
 	end
 
 SilphCo_5F_Text_RocketsInUproarAboutIntruder::
-	.string "TEAM ROCKET is in an uproar over\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pTEAM ROCKET is in an uproar over\n"
 	.string "some intruder.\p"
 	.string "That's you, right?$"
 
 SilphCo_5F_Text_YoureOurHeroThankYou::
-	.string "TEAM ROCKET took off!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pTEAM ROCKET took off!\n"
 	.string "You're our hero! Thank you!$"
 
 SilphCo_5F_Text_Grunt1Intro::
@@ -113,17 +113,17 @@ SilphCo_5F_Text_Grunt2PostBattle::
 	.string "KOFFING evolves into WEEZING!$"
 
 SilphCo_5F_Text_PorygonFirstVRMon::
-	.string "It's a POKéMON REPORT!\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pIt's a POKéMON REPORT!\p"
 	.string "POKéMON LAB created PORYGON,\n"
 	.string "the first virtual-reality POKéMON.$"
 
 SilphCo_5F_Text_Over350TechniquesConfirmed::
-	.string "It's a POKéMON REPORT!\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pIt's a POKéMON REPORT!\p"
 	.string "Over 350 POKéMON techniques have\n"
 	.string "been confirmed.$"
 
 SilphCo_5F_Text_SomeMonsEvolveWhenTraded::
-	.string "It's a POKéMON REPORT!\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pIt's a POKéMON REPORT!\p"
 	.string "Some POKéMON have been confirmed\n"
 	.string "to evolve when they are traded.$"
 
@@ -132,7 +132,7 @@ SilphCo_5F_Text_FloorSign::
 	.string "5F$"
 
 SilphCo_5F_Text_RocketBossLookingForStrongMons::
-	.string "Those thugs that took over our\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThose thugs that took over our\n"
 	.string "building…\p"
 	.string "Their BOSS said he was looking for\n"
 	.string "strong POKéMON.\p"

@@ -84,16 +84,16 @@ Route7_EastEntrance_Movement_BlockPlayerEntry::
 	step_end
 
 Route7_EastEntrance_Text_ThirstyOnGuardDuty::
-	.string "I'm on guard duty.\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI'm on guard duty.\n"
 	.string "Gee, I'm thirsty, though!\p"
 	.string "Oh, wait there, the road's closed.$"
 
 Route7_EastEntrance_Text_ThatTeaLooksTasty::
-	.string "Oh, that TEA…\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh, that TEA…\n"
 	.string "It looks awfully tasty…$"
 
 Route7_EastEntrance_Text_ThanksIllShareTeaWithGuards::
-	.string "Huh? I can have this drink?\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pHuh? I can have this drink?\n"
 	.string "Gee, thanks!\l"
 	.string "… …\l"
 	.string "Glug, glug…\l"
@@ -107,5 +107,5 @@ Route7_EastEntrance_Text_ThanksIllShareTeaWithGuards::
 	.string "guards!$"
 
 Route7_EastEntrance_Text_HiHowsItGoing::
-	.string "Hi, how's it going?$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pHi, how's it going?$"
 

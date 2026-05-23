@@ -52,7 +52,7 @@ OneIsland_KindleRoad_EmberSpa_EventScript_SpaHeal::
 	end
 
 OneIsland_KindleRoad_EmberSpa_Text_WaterWarmsMeToCore::
-	.string "Hm!\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pHm!\n"
 	.string "Haaaaaaaaaaah!\p"
 	.string "Aaaah! This is heavenly!\n"
 	.string "The water warms me to my core!\p"
@@ -61,29 +61,29 @@ OneIsland_KindleRoad_EmberSpa_Text_WaterWarmsMeToCore::
 	.string "good and warm!$"
 
 OneIsland_KindleRoad_EmberSpa_Text_EnjoyBowlOfChowder::
-	.string "My favorite part of bathing comes\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pMy favorite part of bathing comes\n"
 	.string "up right after this.\p"
 	.string "I enjoy a bowl of chowder to\n"
 	.string "warm me from the inside, too!$"
 
 OneIsland_KindleRoad_EmberSpa_Text_WaterExquisiteFullyRefreshed::
-	.string "The water is perfectly warm.\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThe water is perfectly warm.\n"
 	.string "It feels exquisite…\p"
 	.string "{PLAYER} and the POKéMON were\n"
 	.string "fully refreshed!$"
 
 OneIsland_KindleRoad_EmberSpa_Text_HotSpringIsTherapeutic::
-	.string "Soaking in a hot spring pool is\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pSoaking in a hot spring pool is\n"
 	.string "therapeutic, people say.$"
 
 OneIsland_KindleRoad_EmberSpa_Text_SeeHowSmoothMySkinIs::
-	.string "Have a look at my face.\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pHave a look at my face.\n"
 	.string "See how smooth my skin is?\p"
 	.string "The hot spring's water keeps my\n"
 	.string "skin younger than my age.$"
 
 OneIsland_KindleRoad_EmberSpa_Text_BrunoVisitsSpaOnOccasion::
-	.string "After an honest day of training,\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pAfter an honest day of training,\n"
 	.string "nothing beats a relaxing soak in\l"
 	.string "the hot spring pool.\p"
 	.string "BRUNO, who's a senior ahead of me,\n"
@@ -92,7 +92,7 @@ OneIsland_KindleRoad_EmberSpa_Text_BrunoVisitsSpaOnOccasion::
 	.string "his own and his POKéMON's.$"
 
 OneIsland_KindleRoad_EmberSpa_Text_UsedThisToMakeEmberSpa::
-	.string "Hot springs go hand-in-hand with\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pHot springs go hand-in-hand with\n"
 	.string "volcanoes.\p"
 	.string "The EMBER SPA here, well,\n"
 	.string "I made it years ago.\p"

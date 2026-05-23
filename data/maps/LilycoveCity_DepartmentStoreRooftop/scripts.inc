@@ -185,7 +185,7 @@ LilycoveCity_DepartmentStoreRooftop_EventScript_ExitVendingMachine::
 	end
 
 LilycoveCity_DepartmentStoreRooftop_Text_SetDatesForClearOutSales:
-	.string "Don't they have set dates for their\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pDon't they have set dates for their\n"
 	.string "clear-out sales?\p"
 	.string "I watch TV, but they never show any\n"
 	.string "commercials.$"
@@ -197,23 +197,23 @@ LilycoveCity_DepartmentStoreRooftop_Text_BeenWaitingForClearOutSale:
 	.string "here. I'm going to load up, that I am!$"
 
 LilycoveCity_DepartmentStoreRooftop_Text_BoneDryThirsty:
-	.string "Ohh… I'm bone-dry thirsty!$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOhh… I'm bone-dry thirsty!$"
 
 LilycoveCity_DepartmentStoreRooftop_Text_WhichDrinkWouldYouLike:
-	.string "It's a VENDING MACHINE.\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pIt's a VENDING MACHINE.\n"
 	.string "Which drink would you like?$"
 
 LilycoveCity_DepartmentStoreRooftop_Text_CanOfDrinkDroppedDown:
-	.string "Clang!\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pClang!\p"
 	.string "A can of {STR_VAR_1} dropped down.$"
 
 LilycoveCity_DepartmentStoreRooftop_Text_ExtraCanOfDrinkDroppedDown:
-	.string "Clang!\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pClang!\p"
 	.string "Score! An extra can of {STR_VAR_1}\n"
 	.string "dropped down!$"
 
 LilycoveCity_DepartmentStoreRooftop_Text_NotEnoughMoney:
-	.string "Not enough money…$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pNot enough money…$"
 
 LilycoveCity_DepartmentStoreRooftop_Text_DecidedAgainstBuyingDrink:
-	.string "Decided against buying a drink.$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pDecided against buying a drink.$"

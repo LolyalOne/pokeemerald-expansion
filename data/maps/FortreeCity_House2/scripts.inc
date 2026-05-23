@@ -42,7 +42,7 @@ FortreeCity_House2_EventScript_WrongGuess::
 	end
 
 FortreeCity_House2_Text_HiddenPowersArousedByNature:
-	.string "People… POKéMON…\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pPeople… POKéMON…\p"
 	.string "Their hidden powers are aroused by\n"
 	.string "living in natural environments…$"
 
@@ -54,19 +54,19 @@ FortreeCity_House2_Text_CoinInWhichHand:
 	.string "the right hand? Or in the left?$"
 
 FortreeCity_House2_Text_CorrectTryAgainWhichHand:
-	.string "Oh! Yes, correct!\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh! Yes, correct!\p"
 	.string "We shall try again.\p"
 	.string "In which hand have I palmed the coin?\n"
 	.string "The right or left?$"
 
 FortreeCity_House2_Text_CorrectTryAgainWhichHand2:
-	.string "Oh! Yes, correct!\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pOh! Yes, correct!\p"
 	.string "We shall try again.\p"
 	.string "In which hand have I palmed the coin?\n"
 	.string "The right or left?$"
 
 FortreeCity_House2_Text_YourHiddenPowerHasAwoken:
-	.string "Oh! Splendid!\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh! Splendid!\n"
 	.string "Your hidden power has awoken!\p"
 	.string "Here, take this and awaken the hidden\n"
 	.string "power of your POKéMON.$"
@@ -76,6 +76,6 @@ FortreeCity_House2_Text_ExplainHiddenPower:
 	.string "with the POKéMON.$"
 
 FortreeCity_House2_Text_YouGuessedWrong:
-	.string "No, too bad.\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pNo, too bad.\n"
 	.string "You guessed wrong.$"
 

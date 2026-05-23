@@ -56,5 +56,5 @@ CeruleanCave_B1F_EventScript_RanFromMewtwo::
 	end
 
 CeruleanCave_B1F_Text_Mew::
-	.string "Mew!$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pMew!$"
 

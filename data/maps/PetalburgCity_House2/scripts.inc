@@ -10,7 +10,7 @@ PetalburgCity_House2_EventScript_SchoolKid::
 	end
 
 PetalburgCity_House2_Text_NormanBecameGymLeader:
-	.string "NORMAN became our town's new\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pNORMAN became our town's new\n"
 	.string "GYM LEADER.\p"
 	.string "I think he called his family over from\n"
 	.string "somewhere far away.$"

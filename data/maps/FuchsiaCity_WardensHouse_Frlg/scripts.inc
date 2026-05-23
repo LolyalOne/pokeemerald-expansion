@@ -59,27 +59,27 @@ FuchsiaCity_WardensHouse_EventScript_DisplaySign2::
 	end
 
 FuchsiaCity_WardensHouse_Text_HifFuffHefifoo::
-	.string "WARDEN: Hif fuff hefifoo!\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWARDEN: Hif fuff hefifoo!\p"
 	.string "Ha lof ha feef ee hafahi ho.\n"
 	.string "Heff hee fwee!$"
 
 FuchsiaCity_WardensHouse_Text_AhHowheeHoHoo::
-	.string "Ah howhee ho hoo!\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pAh howhee ho hoo!\n"
 	.string "Eef ee hafahi ho!$"
 
 FuchsiaCity_WardensHouse_Text_HeOhayHeHaHoo::
-	.string "Ha?\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHa?\n"
 	.string "He ohay heh ha hoo ee haheh!$"
 
 FuchsiaCity_WardensHouse_Text_GaveGoldTeethToWarden::
-	.string "{PLAYER} gave the GOLD TEETH\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p{PLAYER} gave the GOLD TEETH\n"
 	.string "to the WARDEN.$"
 
 FuchsiaCity_WardensHouse_Text_WardenPoppedInHisTeeth::
-	.string "The WARDEN popped in his teeth!$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pThe WARDEN popped in his teeth!$"
 
 FuchsiaCity_WardensHouse_Text_ThanksSonGiveYouSomething::
-	.string "WARDEN: Thanks, son!\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWARDEN: Thanks, son!\n"
 	.string "You're a real lifesaver!\p"
 	.string "No one could understand a word\n"
 	.string "that I said, not a one!\p"
@@ -89,7 +89,7 @@ FuchsiaCity_WardensHouse_Text_ThanksSonGiveYouSomething::
 	.string "trouble.$"
 
 FuchsiaCity_WardensHouse_Text_ThanksLassieGiveYouSomething::
-	.string "WARDEN: Thank you, lassie!\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pWARDEN: Thank you, lassie!\n"
 	.string "You're a real lifesaver!\p"
 	.string "No one could understand a word\n"
 	.string "that I said, not a one!\p"
@@ -99,7 +99,7 @@ FuchsiaCity_WardensHouse_Text_ThanksLassieGiveYouSomething::
 	.string "trouble.$"
 
 FuchsiaCity_WardensHouse_Text_ReceivedHM04FromWarden::
-	.string "{PLAYER} received HM04\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p{PLAYER} received HM04\n"
 	.string "from the WARDEN.$"
 
 FuchsiaCity_WardensHouse_Text_ExplainStrength::
@@ -112,14 +112,14 @@ FuchsiaCity_WardensHouse_Text_ExplainStrength::
 
 @ Unused
 FuchsiaCity_WardensHouse_Text_YouHaveTooMuchStuff::
-	.string "なんや　にもつ\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pなんや　にもつ\n"
 	.string "いっぱいやんけ！$"
 
 FuchsiaCity_WardensHouse_Text_MonPhotosFossilsOnDisplay::
-	.string "POKéMON photos and fossils are on\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pPOKéMON photos and fossils are on\n"
 	.string "display.$"
 
 FuchsiaCity_WardensHouse_Text_OldMonMerchandiseOnDisplay::
-	.string "Old POKéMON merchandise is on\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pOld POKéMON merchandise is on\n"
 	.string "display.$"
 

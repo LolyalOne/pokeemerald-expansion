@@ -22,7 +22,7 @@ CinnabarIsland_PokemonLab_ResearchRoom_Text_EeveeCanEvolveIntroThreeMons::
 	.string "kinds of POKéMON.$"
 
 CinnabarIsland_PokemonLab_ResearchRoom_Text_LegendaryBirdEmail::
-	.string "There's an e-mail message.\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThere's an e-mail message.\p"
 	.string "… … …\p"
 	.string "There are three legendary bird\n"
 	.string "POKéMON.\p"
@@ -34,5 +34,5 @@ CinnabarIsland_PokemonLab_ResearchRoom_Text_LegendaryBirdEmail::
 	.string "From: POKéMON RESEARCH TEAM…$"
 
 CinnabarIsland_PokemonLab_ResearchRoom_Text_AnAmberPipe::
-	.string "An amber pipe!$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pAn amber pipe!$"
 

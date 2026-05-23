@@ -4,7 +4,7 @@ TwoIsland_CapeBrink_House_Frlg_MapScripts::
 @ See move_tutors.inc
 
 Text_UltimateMoveThatMon::
-	.string "I perfected the ultimate move of\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI perfected the ultimate move of\n"
 	.string "its type…\p"
 	.string "But will no one take it for\n"
 	.string "future use?\p"
@@ -13,11 +13,11 @@ Text_UltimateMoveThatMon::
 	.string "Th-that {STR_VAR_1}…$"
 
 Text_JustMistaken::
-	.string "…No…\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\p…No…\n"
 	.string "I was just mistaken.$"
 
 Text_AllowMeToTeachMonUltimateMove::
-	.string "Oh! This is the one!\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pOh! This is the one!\n"
 	.string "This is the POKéMON!\p"
 	.string "This {STR_VAR_1} is worthy of\n"
 	.string "learning my ultimate move!\p"
@@ -26,33 +26,33 @@ Text_AllowMeToTeachMonUltimateMove::
 	.string "learn my {STR_VAR_2}?$"
 
 Text_YouRejectIt::
-	.string "Gaah! You reject it?\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pGaah! You reject it?\n"
 	.string "No, I won't be dissuaded!$"
 
 Text_LetMeConferUltimateMove::
-	.string "You will allow it?\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYou will allow it?\p"
 	.string "Then, let me confer my ultimate\n"
 	.string "{STR_VAR_2} on your {STR_VAR_1}.\p"
 	.string "Ggggrah-awooo!$"
 
 Text_TaughtMove::
-	.string "Gasp, gasp, gasp…\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pGasp, gasp, gasp…\p"
 	.string "I didn't think I could teach that\n"
 	.string "move while I still lived…$"
 
 Text_MakeBestUseOfMove::
-	.string "I implore you to make the best\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI implore you to make the best\n"
 	.string "use of that move and gain power!$"
 
 Text_PassedOnEverythingIKnow::
-	.string "Gasp, gasp, gasp…\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pGasp, gasp, gasp…\p"
 	.string "I have no regrets now.\n"
 	.string "I've passed on everything I know.\p"
 	.string "Now I can live out my life knowing\n"
 	.string "my work is done.$"
 
 Text_FeelRejuvenated::
-	.string "After I passed on my knowledge to\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pAfter I passed on my knowledge to\n"
 	.string "you, I felt so much relief.\p"
 	.string "In fact, I feel rejuvenated,\n"
 	.string "as if I were younger again!$"

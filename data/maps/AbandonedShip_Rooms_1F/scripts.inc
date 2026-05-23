@@ -32,7 +32,7 @@ AbandonedShip_Rooms_1F_EventScript_ThaliaRematch::
 	end
 
 AbandonedShip_Rooms_1F_Text_TakingALookAround:
-	.string "Ships of this sort are rare, so I'm\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pShips of this sort are rare, so I'm\n"
 	.string "taking a look around.\p"
 	.string "Hmhm…\n"
 	.string "There appear to be other cabins…$"
@@ -50,7 +50,7 @@ AbandonedShip_Rooms_1F_Text_ThaliaPostBattle:
 	.string "but I don't know about that.$"
 
 AbandonedShip_Rooms_1F_Text_ThaliaRegister:
-	.string "You're such a tough TRAINER!\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pYou're such a tough TRAINER!\n"
 	.string "Let me register you as a memento!$"
 
 AbandonedShip_Rooms_1F_Text_ThaliaRematchIntro:
@@ -61,7 +61,7 @@ AbandonedShip_Rooms_1F_Text_ThaliaRematchDefeat:
 	.string "Aren't you too strong?$"
 
 AbandonedShip_Rooms_1F_Text_ThaliaPostRematch:
-	.string "I'm sure that man's up to something!\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pI'm sure that man's up to something!\n"
 	.string "He just acts so suspiciously!$"
 
 AbandonedShip_Rooms_1F_Text_DemetriusIntro:

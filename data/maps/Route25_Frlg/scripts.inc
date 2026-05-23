@@ -119,12 +119,12 @@ Route25_Text_SeaCottageSign::
 	.string "BILL lives here!$"
 
 Route25_Text_MistyHighHopesAboutThisPlace::
-	.string "This cape is a famous date spot.\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThis cape is a famous date spot.\p"
 	.string "MISTY, the GYM LEADER, has high\n"
 	.string "hopes about this place.$"
 
 Route25_Text_AreYouHereAlone::
-	.string "Hello, are you here alone?\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pHello, are you here alone?\p"
 	.string "If you're out at CERULEAN's cape…\n"
 	.string "Well, it should be as a couple.$"
 

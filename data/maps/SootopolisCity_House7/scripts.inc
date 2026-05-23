@@ -10,7 +10,7 @@ SootopolisCity_House7_EventScript_PokefanF::
 	end
 
 SootopolisCity_House7_Text_CityFromEruptedVolcano:
-	.string "An underwater volcano erupted and\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pAn underwater volcano erupted and\n"
 	.string "forced itself up from the depths.\p"
 	.string "Its crater emerged from the sea and\n"
 	.string "became filled with rainwater.\p"
@@ -18,7 +18,7 @@ SootopolisCity_House7_Text_CityFromEruptedVolcano:
 	.string "being.$"
 
 SootopolisCity_House7_Text_CaveMadeToKeepSomething:
-	.string "The cave that links SOOTOPOLIS and\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThe cave that links SOOTOPOLIS and\n"
 	.string "the outside world…\p"
 	.string "It seems as if the cave was made to\n"
 	.string "keep something from getting out.\p"

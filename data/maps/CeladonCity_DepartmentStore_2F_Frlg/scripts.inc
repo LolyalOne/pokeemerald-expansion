@@ -61,12 +61,12 @@ CeladonCity_DepartmentStore_2F_TMs::
 	end
 
 CeladonCity_DepartmentStore_2F_Text_SuperRepelMorePowerfulRepel::
-	.string "SUPER REPEL keeps weak POKéMON at\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pSUPER REPEL keeps weak POKéMON at\n"
 	.string "bay…\p"
 	.string "Hmm, it's a more powerful REPEL.$"
 
 CeladonCity_DepartmentStore_2F_Text_BuyReviveForLongOutings::
-	.string "For long outings, you should buy\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pFor long outings, you should buy\n"
 	.string "REVIVE.$"
 
 CeladonCity_DepartmentStore_2F_Text_FloorSign::
@@ -74,7 +74,7 @@ CeladonCity_DepartmentStore_2F_Text_FloorSign::
 	.string "2F: TRAINER'S MARKET$"
 
 CeladonCity_DepartmentStore_2F_Text_LanceComesToBuyCapes::
-	.string "We have a customer, LANCE, who\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pWe have a customer, LANCE, who\n"
 	.string "occasionally comes.\p"
 	.string "He always buys capes.\p"
 	.string "I wonder… Does he have many\n"

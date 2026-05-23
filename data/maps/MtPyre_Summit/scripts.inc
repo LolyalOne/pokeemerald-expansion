@@ -482,7 +482,7 @@ MtPyre_Summit_Text_Grunt4PostBattle:
 	.string "with us members and our leader.$"
 
 MtPyre_Summit_Text_ArchieWeGotTheOrbLetsGo:
-	.string "ARCHIE: TEAM MAGMA's MAXIE got ahead\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pARCHIE: TEAM MAGMA's MAXIE got ahead\n"
 	.string "of us, but we also got what we wanted.\p"
 	.string "The RED ORB preserved at MT. PYRE…\n"
 	.string "I, ARCHIE, now have it in my possession!\p"
@@ -492,7 +492,7 @@ MtPyre_Summit_Text_ArchieWeGotTheOrbLetsGo:
 	.string "We're pulling out!$"
 
 MtPyre_Summit_Text_BothOrbsTakenMagmaLeftThis:
-	.string "Oh, no…\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pOh, no…\n"
 	.string "This cannot happen…\p"
 	.string "Not only the BLUE ORB, but even\n"
 	.string "the RED ORB has been taken…\p"
@@ -512,13 +512,13 @@ MtPyre_Summit_Text_BothOrbsTakenMagmaLeftThis:
 	.string "Perhaps it will be useful in some way.$"
 
 MtPyre_Summit_Text_OrbsHaveBeenTaken:
-	.string "The BLUE ORB and RED ORB taken by\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThe BLUE ORB and RED ORB taken by\n"
 	.string "those sinister men…\p"
 	.string "They must never be apart…\n"
 	.string "I fear something terrible will happen…$"
 
 MtPyre_Summit_Text_GroudonKyogreAwakened:
-	.string "Oh, my goodness…\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh, my goodness…\p"
 	.string "You say that both GROUDON and KYOGRE\n"
 	.string "have been awakened?\p"
 	.string "It is said that the BLUE ORB and\n"
@@ -532,13 +532,13 @@ MtPyre_Summit_Text_GroudonKyogreAwakened:
 	.string "a POKéMON, but no one knows.$"
 
 MtPyre_Summit_Text_ThoseTwoMenReturnedOrbs:
-	.string "The two men who took the ORBS came\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThe two men who took the ORBS came\n"
 	.string "back to return them on their own.\p"
 	.string "Those men…\n"
 	.string "Perhaps they are not so evil after all…$"
 
 MtPyre_Summit_Text_SuperAncientPokemonTaughtUs:
-	.string "The embodiments of the land, sea,\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThe embodiments of the land, sea,\n"
 	.string "and the sky…\p"
 	.string "That is said to be the identities of\n"
 	.string "the super-ancient POKéMON…\p"
@@ -549,7 +549,7 @@ MtPyre_Summit_Text_SuperAncientPokemonTaughtUs:
 	.string "taught us that…$"
 
 MtPyre_Summit_Text_WillYouHearOutMyTale:
-	.string "MT. PYRE is where we calm the spirits\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pMT. PYRE is where we calm the spirits\n"
 	.string "of POKéMON that have passed on…\p"
 	.string "This is a high place where one can\n"
 	.string "see all of HOENN…\p"
@@ -560,7 +560,7 @@ MtPyre_Summit_Text_WillYouHearOutMyTale:
 	.string "told in the HOENN region?$"
 
 MtPyre_Summit_Text_GroudonKyogreTale:
-	.string "It happened long, long ago…\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pIt happened long, long ago…\p"
 	.string "The world was wracked by a ferocious\n"
 	.string "clash between the POKéMON of the land\l"
 	.string "and the POKéMON of the sea…\p"
@@ -580,16 +580,16 @@ MtPyre_Summit_Text_GroudonKyogreTale:
 	.string "disappeared…$"
 
 MtPyre_Summit_Text_WellThatTooIsFine:
-	.string "I see…\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI see…\n"
 	.string "Well, that, too, is fine…$"
 
 MtPyre_Summit_Text_MaxieSilence:
-	.string "MAXIE: {PLAYER}…\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pMAXIE: {PLAYER}…\p"
 	.string "… … … … … …\n"
 	.string "… … … … … …$"
 
 MtPyre_Summit_Text_HearTheNewLegendOfHoenn:
-	.string "It is my role to pass on the legends\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pIt is my role to pass on the legends\n"
 	.string "of HOENN to future generations.\p"
 	.string "And the crisis that just ended in\n"
 	.string "SOOTOPOLIS rewrote a legend…\p"
@@ -597,7 +597,7 @@ MtPyre_Summit_Text_HearTheNewLegendOfHoenn:
 	.string "legend of HOENN?$"
 
 MtPyre_Summit_Text_HoennTrioTale:
-	.string "It happened long, long ago…\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pIt happened long, long ago…\p"
 	.string "The world was wracked by a ferocious\n"
 	.string "clash between the POKéMON of the land\l"
 	.string "and the POKéMON of the sea…\p"

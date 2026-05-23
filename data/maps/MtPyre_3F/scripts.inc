@@ -76,7 +76,7 @@ MtPyre_3F_Text_GabriellePostBattle:
 	.string "Please remember that.$"
 
 MtPyre_3F_Text_GabrielleRegister:
-	.string "I would like to see your POKéMON\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI would like to see your POKéMON\n"
 	.string "when they grow up some more…\p"
 	.string "Please, I need to see your POKéNAV.$"
 
@@ -90,7 +90,7 @@ MtPyre_3F_Text_GabrielleRematchDefeat:
 	.string "You are a special person.$"
 
 MtPyre_3F_Text_GabriellePostRematch:
-	.string "POKéMON no longer of this world.\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pPOKéMON no longer of this world.\n"
 	.string "POKéMON that are with you now.\p"
 	.string "And the POKéMON that you will meet\n"
 	.string "in the future…\p"

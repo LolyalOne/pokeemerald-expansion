@@ -60,7 +60,7 @@ CaveOfOrigin_B1F_EventScript_AtSkyPillar::
 	end
 
 CaveOfOrigin_B1F_Text_WallaceStory:
-	.string "Ah, so you are {PLAYER}{KUN}?\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pAh, so you are {PLAYER}{KUN}?\n"
 	.string "I've heard tales of your exploits.\p"
 	.string "My name is WALLACE.\p"
 	.string "I was once the GYM LEADER of\n"
@@ -84,19 +84,19 @@ CaveOfOrigin_B1F_Text_WallaceStory:
 	.string "RAYQUAZA's whereabouts…$"
 
 CaveOfOrigin_B1F_Text_WhereIsRayquaza:
-	.string "WALLACE: {PLAYER}{KUN}, do you perhaps\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWALLACE: {PLAYER}{KUN}, do you perhaps\n"
 	.string "know where RAYQUAZA is now?\p"
 	.string "If you do, please tell me.$"
 
 CaveOfOrigin_B1F_Text_ButWereInCaveOfOrigin:
-	.string "WALLACE: The CAVE OF ORIGIN?\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pWALLACE: The CAVE OF ORIGIN?\p"
 	.string "But that's right here!\n"
 	.string "I need you to do better than that!\p"
 	.string "Please, I need you to think about\n"
 	.string "where RAYQUAZA might be right now.$"
 
 CaveOfOrigin_B1F_Text_OldLadyDidntMentionThat:
-	.string "WALLACE: MT. PYRE?\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pWALLACE: MT. PYRE?\p"
 	.string "But when I met the old lady there\n"
 	.string "earlier, she made no mention of it.\p"
 	.string "I very much doubt that the old lady\n"
@@ -105,12 +105,12 @@ CaveOfOrigin_B1F_Text_OldLadyDidntMentionThat:
 	.string "more carefully for me?$"
 
 CaveOfOrigin_B1F_Text_CantYouRememberSomehow:
-	.string "WALLACE: Huh? You don't remember?\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pWALLACE: Huh? You don't remember?\n"
 	.string "Hmm… That's a problem…\p"
 	.string "Can't you remember somehow?$"
 
 CaveOfOrigin_B1F_Text_WellHeadToSkyPillar:
-	.string "WALLACE: The SKY PILLAR?\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWALLACE: The SKY PILLAR?\p"
 	.string "That's it!\n"
 	.string "It must be the SKY PILLAR!\p"
 	.string "{PLAYER}{KUN}, there's not a moment to lose!\n"

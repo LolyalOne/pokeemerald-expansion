@@ -253,7 +253,7 @@ SlateportCity_PokemonFanClub_EventScript_Azumarill::
 	end
 
 SlateportCity_PokemonFanClub_Text_MeetChairman:
-	.string "Er-hem! I am the CHAIRMAN of the\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pEr-hem! I am the CHAIRMAN of the\n"
 	.string "POKéMON FAN CLUB!\p"
 	.string "Being the CHAIRMAN, I am naturally\n"
 	.string "the most important!\p"
@@ -270,12 +270,12 @@ SlateportCity_PokemonFanClub_Text_MeetChairman:
 	.string "show us theirs.$"
 
 SlateportCity_PokemonFanClub_Text_LikeToSeeEnteredContestPokemon:
-	.string "The POKéMON of a TRAINER who has\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pThe POKéMON of a TRAINER who has\n"
 	.string "entered a POKéMON CONTEST…\l"
 	.string "That, I would like to see.$"
 
 SlateportCity_PokemonFanClub_Text_AllowMeToExamineYourPokemon:
-	.string "Er-hem! I see you've participated in\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pEr-hem! I see you've participated in\n"
 	.string "a POKéMON CONTEST!\p"
 	.string "Please! Allow me to examine how you\n"
 	.string "have raised your POKéMON.\p"
@@ -297,11 +297,11 @@ SlateportCity_PokemonFanClub_Text_HowIsYourPokemonGrowing:
 	.string "Allow me to examine it.$"
 
 SlateportCity_PokemonFanClub_Text_HmHmISee:
-	.string "Hm, hm…\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHm, hm…\n"
 	.string "I see…$"
 
 SlateportCity_PokemonFanClub_Text_GiveMonMorePokeblocks:
-	.string "Hmmm… It's not bad, but it's not\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHmmm… It's not bad, but it's not\n"
 	.string "good, either…\p"
 	.string "You, the TRAINER, must put more\n"
 	.string "effort into raising this POKéMON!\p"
@@ -309,14 +309,14 @@ SlateportCity_PokemonFanClub_Text_GiveMonMorePokeblocks:
 	.string "you give it more {POKEBLOCK}S?$"
 
 SlateportCity_PokemonFanClub_Text_NoSpaceForReward:
-	.string "Oh, my…\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pOh, my…\p"
 	.string "Your POKéMON is growing quite well,\n"
 	.string "so you deserve a reward.\p"
 	.string "Unfortunately, you have no space for\n"
 	.string "this in your BAG.$"
 
 SlateportCity_PokemonFanClub_Text_MonMostImpressiveGiveItThis:
-	.string "Your {STR_VAR_1}, it is growing in\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pYour {STR_VAR_1}, it is growing in\n"
 	.string "a most impressive manner!\l"
 	.string "It is one fine specimen!\p"
 	.string "But! If you were to give it this,\n"
@@ -348,14 +348,14 @@ SlateportCity_PokemonFanClub_Text_ExplainYellowScarf:
 	.string "toughness so much more!$"
 
 SlateportCity_PokemonFanClub_Text_NothingElseToGiveYou:
-	.string "I'm sorry, but I've nothing else to\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pI'm sorry, but I've nothing else to\n"
 	.string "give you! None at all!\p"
 	.string "After all, you're blessed with the gift\n"
 	.string "of raising POKéMON without resorting\l"
 	.string "to any items!$"
 
 SlateportCity_PokemonFanClub_Text_ShowMePokemonThatLoveYou:
-	.string "I love seeing POKéMON that love\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pI love seeing POKéMON that love\n"
 	.string "their TRAINERS.\p"
 	.string "POKéMON are very sensitive to\n"
 	.string "the feelings of their TRAINERS.\p"
@@ -365,18 +365,18 @@ SlateportCity_PokemonFanClub_Text_ShowMePokemonThatLoveYou:
 	.string "please come show me.$"
 
 SlateportCity_PokemonFanClub_Text_PokemonAdoresYou:
-	.string "Your POKéMON really adores you.\p"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYour POKéMON really adores you.\p"
 	.string "For you, a most compassionate\n"
 	.string "TRAINER, a gift from the FAN CLUB!$"
 
 SlateportCity_PokemonFanClub_Text_TreatPokemonWithLove:
-	.string "POKéMON are very sensitive to\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pPOKéMON are very sensitive to\n"
 	.string "the feelings of their TRAINERS.\p"
 	.string "If you treat your POKéMON with love\n"
 	.string "and care, they'll love you back.$"
 
 SlateportCity_PokemonFanClub_Text_PokemonDontLikeFainting:
-	.string "If you keep letting a POKéMON faint\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pIf you keep letting a POKéMON faint\n"
 	.string "in battle, it'll come to resent it.\p"
 	.string "Soon, it will become less trusting\n"
 	.string "of the TRAINER.\p"
@@ -384,17 +384,17 @@ SlateportCity_PokemonFanClub_Text_PokemonDontLikeFainting:
 	.string "like you very much.$"
 
 SlateportCity_PokemonFanClub_Text_MonEnjoyedProtein:
-	.string "Do POKéMON enjoy having items used\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pDo POKéMON enjoy having items used\n"
 	.string "on them?\p"
 	.string "Mine acted really happy when I gave\n"
 	.string "it some PROTEIN.$"
 
 SlateportCity_PokemonFanClub_Text_Skitty:
-	.string "SKITTY: Fffnyaaaah…$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pSKITTY: Fffnyaaaah…$"
 
 SlateportCity_PokemonFanClub_Text_Zigzagoon:
-	.string "ZIGZAGOON: Kyuuu…$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pZIGZAGOON: Kyuuu…$"
 
 SlateportCity_PokemonFanClub_Text_Azumarill:
-	.string "AZUMARILL: Marimari?$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pAZUMARILL: Marimari?$"
 
