@@ -922,10 +922,10 @@ LittlerootTown_Text_WaitPlayer:
 LittlerootTown_Text_WearTheseRunningShoes:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pMOM: {PLAYER}! {PLAYER}! Did you\n"
 	.string "introduce yourself to PROF. BIRCH?\p"
-	.string "Oh! What an adorable POKéMON!\n"
+	.string "Oh! What an adorable POKeMON!\n"
 	.string "You got it from PROF. BIRCH. How nice!\p"
 	.string "You're your father's child, all right.\n"
-	.string "You look good together with POKéMON!\p"
+	.string "You look good together with POKeMON!\p"
 	.string "Here, honey! If you're going out on an\n"
 	.string "adventure, wear these RUNNING SHOES.\p"
 	.string "They'll put a zip in your step!$"
@@ -946,7 +946,7 @@ LittlerootTown_Text_ComeHomeIfAnythingHappens:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p… … … … … … … …\n"
 	.string "… … … … … … … …\p"
 	.string "To think that you have your very own\n"
-	.string "POKéMON now…\l"
+	.string "POKeMON now…\l"
 	.string "Your father will be overjoyed.\p"
 	.string "…But please be careful.\n"
 	.string "If anything happens, you can come home.\p"
@@ -954,7 +954,7 @@ LittlerootTown_Text_ComeHomeIfAnythingHappens:
 
 LittlerootTown_Text_CanUsePCToStoreItems:
 	.string "If you use a PC, you can store items\n"
-	.string "and POKéMON.\p"
+	.string "and POKeMON.\p"
 	.string "The power of science is staggering!$"
 
 LittlerootTown_Text_BirchSpendsDaysInLab:
@@ -967,18 +967,18 @@ LittlerootTown_Text_BirchSpendsDaysInLab:
 LittlerootTown_Text_IfYouGoInGrassPokemonWillJumpOut:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pUm, um, um!\p"
 	.string "If you go outside and go in the grass,\n"
-	.string "wild POKéMON will jump out!$"
+	.string "wild POKeMON will jump out!$"
 
 LittlerootTown_Text_DangerousIfYouDontHavePokemon:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pIt's dangerous if you don't have\n"
-	.string "your own POKéMON.$"
+	.string "your own POKeMON.$"
 
 LittlerootTown_Text_CanYouGoSeeWhatsHappening:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pUm, hi!\p"
-	.string "There are scary POKéMON outside!\n"
+	.string "There are scary POKeMON outside!\n"
 	.string "I can hear their cries!\p"
 	.string "I want to go see what's going on,\n"
-	.string "but I don't have any POKéMON…\p"
+	.string "but I don't have any POKeMON…\p"
 	.string "Can you go see what's happening\n"
 	.string "for me?$"
 
@@ -987,7 +987,7 @@ LittlerootTown_Text_YouSavedBirch:
 	.string "I'm so glad!$"
 
 LittlerootTown_Text_GoodLuckCatchingPokemon:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pAre you going to catch POKéMON?\n"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pAre you going to catch POKeMON?\n"
 	.string "Good luck!$"
 
 LittlerootTown_Text_TownSign:
@@ -995,7 +995,7 @@ LittlerootTown_Text_TownSign:
 	.string "“A town that can't be shaded any hue.”$"
 
 LittlerootTown_Text_ProfBirchsLab:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pPROF. BIRCH'S POKéMON LAB$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pPROF. BIRCH'S POKeMON LAB$"
 
 LittlerootTown_Text_PlayersHouse:
 	.string "{PLAYER}'s HOUSE$"
@@ -1009,8 +1009,81 @@ LittlerootTown_Text_BirchSomethingToShowYouAtLab:
 	.string "I knew there was something special\n"
 	.string "about you when I first saw you,\l"
 	.string "but I never expected this.\p"
-	.string "Oh, yes. Do you still have the POKéDEX\n"
+	.string "Oh, yes. Do you still have the POKeDEX\n"
 	.string "I gave you?\p"
 	.string "I have something to show you.\n"
 	.string "Let's go to my LAB.$"
 
+
+
+LittlerootTown_EventScript_Leticia::
+	lock
+	faceplayer
+	showmonpic 1, 10, 3
+	msgbox LittlerootTown_Text_Leticia, MSGBOX_DEFAULT
+	hidemonpic
+	release
+	end
+
+LittlerootTown_EventScript_Livia::
+	lock
+	faceplayer
+	showmonpic 1, 10, 3
+	msgbox LittlerootTown_Text_Livia, MSGBOX_DEFAULT
+	hidemonpic
+	release
+	end
+
+LittlerootTown_EventScript_AnaBeatriz::
+	lock
+	faceplayer
+	showmonpic 1, 10, 3
+	msgbox LittlerootTown_Text_AnaBeatriz, MSGBOX_DEFAULT
+	hidemonpic
+	release
+	end
+
+LittlerootTown_EventScript_Bruno::
+	lock
+	faceplayer
+	showmonpic 1, 10, 3
+	msgbox LittlerootTown_Text_Bruno, MSGBOX_DEFAULT
+	hidemonpic
+	release
+	end
+
+LittlerootTown_EventScript_Daniel::
+	lock
+	faceplayer
+	showmonpic 1, 10, 3
+	msgbox LittlerootTown_Text_Daniel, MSGBOX_DEFAULT
+	hidemonpic
+	release
+	end
+
+LittlerootTown_EventScript_Matheus::
+	lock
+	faceplayer
+	showmonpic 1, 10, 3
+	msgbox LittlerootTown_Text_Matheus, MSGBOX_DEFAULT
+	hidemonpic
+	release
+	end
+
+LittlerootTown_Text_Leticia:
+	.string "Oi! Eu sou a Leticia.\nFeliz aniversario!"
+
+LittlerootTown_Text_Livia:
+	.string "Ola! Eu sou a Livia.\nParabens pelo seu dia!"
+
+LittlerootTown_Text_AnaBeatriz:
+	.string "Eai! Sou a Ana Beatriz.\nMuita energia pra voce hoje!"
+
+LittlerootTown_Text_Bruno:
+	.string "Opa! Eu sou o Bruno.\nSucesso na sua jornada!"
+
+LittlerootTown_Text_Daniel:
+	.string "Feliz aniversario, meu manoooo!\nTmj sempre!"
+
+LittlerootTown_Text_Matheus:
+	.string "Minecraft 3 da manha pra falar\ncoisas aleatorias hoje irmao?"

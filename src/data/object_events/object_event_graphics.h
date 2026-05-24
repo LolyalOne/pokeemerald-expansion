@@ -98,6 +98,20 @@ const u32 gObjectEventPic_Man3[] = INCGFX_U32("graphics/object_events/pics/peopl
 const u32 gObjectEventPic_Woman5[] = INCGFX_U32("graphics/object_events/pics/people/woman_5.png", ".4bpp", "-mwidth 2 -mheight 4");
 const u32 gObjectEventPic_Youngster[] = INCGFX_U32("graphics/object_events/pics/people/youngster.png", ".4bpp", "-mwidth 2 -mheight 4");
 const u32 gObjectEventPic_BugCatcher[] = INCGFX_U32("graphics/object_events/pics/people/bug_catcher.png", ".4bpp", "-mwidth 2 -mheight 4");
+
+const u32 gObjectEventPic_Leticia[] = INCGFX_U32("graphics/object_events/pics/people/custom/leticia.png", ".4bpp", "-mwidth 2 -mheight 4");
+const u16 gObjectEventPal_Leticia[] = INCGFX_U16("graphics/object_events/palettes/leticia.pal", ".gbapal");
+const u32 gObjectEventPic_Livia[] = INCGFX_U32("graphics/object_events/pics/people/custom/livia.png", ".4bpp", "-mwidth 2 -mheight 4");
+const u16 gObjectEventPal_Livia[] = INCGFX_U16("graphics/object_events/palettes/livia.pal", ".gbapal");
+const u32 gObjectEventPic_AnaBeatriz[] = INCGFX_U32("graphics/object_events/pics/people/custom/ana_beatriz.png", ".4bpp", "-mwidth 2 -mheight 4");
+const u16 gObjectEventPal_AnaBeatriz[] = INCGFX_U16("graphics/object_events/palettes/ana_beatriz.pal", ".gbapal");
+const u32 gObjectEventPic_Bruno[] = INCGFX_U32("graphics/object_events/pics/people/custom/bruno.png", ".4bpp", "-mwidth 2 -mheight 4");
+const u16 gObjectEventPal_Bruno[] = INCGFX_U16("graphics/object_events/palettes/bruno.pal", ".gbapal");
+const u32 gObjectEventPic_Daniel[] = INCGFX_U32("graphics/object_events/pics/people/custom/daniel.png", ".4bpp", "-mwidth 2 -mheight 4");
+const u16 gObjectEventPal_Daniel[] = INCGFX_U16("graphics/object_events/palettes/daniel.pal", ".gbapal");
+const u32 gObjectEventPic_Matheus[] = INCGFX_U32("graphics/object_events/pics/people/custom/matheus.png", ".4bpp", "-mwidth 2 -mheight 4");
+const u16 gObjectEventPal_Matheus[] = INCGFX_U16("graphics/object_events/palettes/matheus.pal", ".gbapal");
+
 const u32 gObjectEventPic_PsychicM[] = INCGFX_U32("graphics/object_events/pics/people/psychic_m.png", ".4bpp", "-mwidth 2 -mheight 4");
 const u32 gObjectEventPic_SchoolKidM[] = INCGFX_U32("graphics/object_events/pics/people/school_kid_m.png", ".4bpp", "-mwidth 2 -mheight 4");
 const u32 gObjectEventPic_Maniac[] = INCGFX_U32("graphics/object_events/pics/people/maniac.png", ".4bpp", "-mwidth 2 -mheight 4");
@@ -561,7 +575,6 @@ const u16 gObjectEventPic_NurseFrlg[] = INCGFX_U16("graphics/object_events/pics/
 const u16 gObjectEventPic_CableClubReceptionist[] = INCGFX_U16("graphics/object_events/pics/people/cable_club_receptionist.png", ".4bpp", "-mwidth 2 -mheight 4");
 const u16 gObjectEventPic_UnionRoomReceptionist[] = INCGFX_U16("graphics/object_events/pics/people/union_room_receptionist.png", ".4bpp", "-mwidth 2 -mheight 4");
 const u16 gObjectEventPic_MrFuji[] = INCGFX_U16("graphics/object_events/pics/people/mr_fuji.png", ".4bpp", "-mwidth 2 -mheight 4");
-const u16 gObjectEventPic_Bruno[] = INCGFX_U16("graphics/object_events/pics/people/bruno.png", ".4bpp", "-mwidth 2 -mheight 4");
 const u16 gObjectEventPic_Clerk[] = INCGFX_U16("graphics/object_events/pics/people/clerk.png", ".4bpp", "-mwidth 2 -mheight 4");
 const u16 gObjectEventPic_MGDeliveryman[] = INCGFX_U16("graphics/object_events/pics/people/mg_deliveryman.png", ".4bpp", "-mwidth 2 -mheight 4");
 const u16 gObjectEventPic_TrainerTowerDude[] = INCGFX_U16("graphics/object_events/pics/people/trainer_tower_dude.png", ".4bpp", "-mwidth 2 -mheight 4");
@@ -634,4 +647,12 @@ const u16 gObjectEventPic_JigglypuffOld[] = INCGFX_U16("graphics/object_events/p
 const u16 gObjectEventPic_PidgeyOld[] = INCGFX_U16("graphics/object_events/pics/pokemon_old/pidgey.png", ".4bpp", "-mwidth 2 -mheight 2");
 const u16 gObjectEventPic_ClefairyOld[] = INCGFX_U16("graphics/object_events/pics/pokemon_old/clefairy.png", ".4bpp", "-mwidth 2 -mheight 2");
 
+
+
+
+
+
+
+
 #endif // IS_FRLG
+

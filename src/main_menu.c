@@ -1508,7 +1508,10 @@ static void Task_NewGameBirchSpeech_WaitForPlayerFadeIn(u8 taskId)
     if (gTasks[taskId].tIsDoneFadingSprites)
     {
         gSprites[gTasks[taskId].tPlayerSpriteId].oam.objMode = ST_OAM_OBJ_NORMAL;
-        gTasks[taskId].func = Task_NewGameBirchSpeech_BoyOrGirl;
+        gSaveBlock2Ptr->playerGender = MALE;
+        static const u8 sLucasName[] = _("LUCAS");
+        StringCopy(gSaveBlock2Ptr->playerName, sLucasName);
+        gTasks[taskId].func = Task_NewGameBirchSpeech_SlidePlatformAway2;
     }
 }
 

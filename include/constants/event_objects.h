@@ -413,6 +413,13 @@
 #define OBJ_EVENT_GFX_CUTTABLE_TREE_FRLG         386
 #define OBJ_EVENT_GFX_BREAKABLE_ROCK_FRLG        387
 
+#define OBJ_EVENT_GFX_LETICIA_CUSTOM           388
+#define OBJ_EVENT_GFX_LIVIA_CUSTOM             389
+#define OBJ_EVENT_GFX_ANA_BEATRIZ_CUSTOM       390
+#define OBJ_EVENT_GFX_BRUNO_CUSTOM             391
+#define OBJ_EVENT_GFX_DANIEL_CUSTOM            392
+#define OBJ_EVENT_GFX_MATHEUS_CUSTOM           393
+
 // FRLG equivalents
 
 // #define OBJ_EVENT_GFX_MEW OBJ_EVENT_GFX_NINJA_BOY
@@ -423,7 +430,7 @@
 // NOTE: The maximum amount of object events has been expanded from 255 to 65535.
 // Since dynamic graphics ids still require at least 16 free values, the actual limit
 // is 65519, but even considering follower Pokémon, this should be more than enough :)
-#define NUM_OBJ_EVENT_GFX                        388
+#define NUM_OBJ_EVENT_GFX                        394
 
 
 // These are dynamic object gfx ids.

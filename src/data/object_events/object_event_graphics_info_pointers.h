@@ -387,6 +387,12 @@ extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_DeoxysD;
 extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_DeoxysA;
 extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_DeoxysN;
 extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_SSAnne;
+extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Leticia;
+extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Livia;
+extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_AnaBeatriz;
+extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Bruno;
+extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Daniel;
+extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Matheus;
 // Begin pokemon event objects
 extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_PokeBall;
 extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Follower;
@@ -790,6 +796,12 @@ const struct ObjectEventGraphicsInfo *const gObjectEventGraphicsInfoPointers[NUM
     [OBJ_EVENT_GFX_DEOXYS_A]                 = &gObjectEventGraphicsInfo_DeoxysA,
     [OBJ_EVENT_GFX_DEOXYS_N]                 = &gObjectEventGraphicsInfo_DeoxysN,
     [OBJ_EVENT_GFX_SS_ANNE]                  = &gObjectEventGraphicsInfo_SSAnne,
+    [OBJ_EVENT_GFX_LETICIA_CUSTOM]           = &gObjectEventGraphicsInfo_Leticia,
+    [OBJ_EVENT_GFX_LIVIA_CUSTOM]             = &gObjectEventGraphicsInfo_Livia,
+    [OBJ_EVENT_GFX_ANA_BEATRIZ_CUSTOM]       = &gObjectEventGraphicsInfo_AnaBeatriz,
+    [OBJ_EVENT_GFX_BRUNO_CUSTOM]             = &gObjectEventGraphicsInfo_Bruno,
+    [OBJ_EVENT_GFX_DANIEL_CUSTOM]            = &gObjectEventGraphicsInfo_Daniel,
+    [OBJ_EVENT_GFX_MATHEUS_CUSTOM]           = &gObjectEventGraphicsInfo_Matheus,
 #endif // IS_FRLG
 };
 

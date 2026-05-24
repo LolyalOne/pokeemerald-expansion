@@ -1,0 +1,1 @@
+python3 tools/learnset_helpers/make_tutors.py tools/learnset_helpers/build/all_tutors.json

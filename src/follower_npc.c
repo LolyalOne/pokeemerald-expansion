@@ -684,7 +684,7 @@ void Task_FollowerNPCOutOfDoor(u8 taskId)
             task->tState = REALLOW_MOVEMENT;
         }
         break;
-    case REALLOW_MOVEMENT:
+    case REALLOW_MOVEMENT:;
         struct MapPosition position;
         enum Direction playerDirection;
 

@@ -257,28 +257,30 @@ Route101_Movement_BirchApproachPlayer:
 	step_end
 
 Route101_Text_HelpMe:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pH-help me!$"
+	.string "S-socorro!$"
 
 Route101_Text_PleaseHelp:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pHello! You over there!\n"
-	.string "Please! Help!\p"
-	.string "In my BAG!\n"
-	.string "There's a POKé BALL!$"
+	.string "Ola! Voce ai!\n"
+	.string "Por favor! Me ajude!\p"
+	.string "Na minha BOLSA!\n"
+	.string "Pegue uma POKe BOLA!$"
 
 Route101_Text_DontLeaveMe:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pWh-Where are you going?!\n"
-	.string "Don't leave me like this!$"
+	.string "Aonde voce vai?!\n"
+	.string "Nao me deixe aqui!$"
 
 Route101_Text_YouSavedMe:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pPROF. BIRCH: Whew…\p"
-	.string "I was in the tall grass studying wild\n"
-	.string "POKéMON when I was jumped.\p"
-	.string "You saved me.\n"
-	.string "Thanks a lot!\p"
+	.string "PROF. BIRCH: Ufa...\p"
+	.string "Eu estava pesquisando POKeMON na\n"
+	.string "grama alta quando fui atacado.\p"
+	.string "Voce me salvou.\n"
+	.string "Muito obrigado!\p"
 	.string "Oh?\p"
-	.string "Hi, you're {PLAYER}{KUN}!\p"
-	.string "This is not the place to chat, so come\n"
-	.string "by my POKéMON LAB later, okay?$"
+	.string "Ah, entao voce e o {PLAYER}!\p"
+	.string "Eu sabia que hoje era o seu\n"
+	.string "aniversario, e ia te fazer uma visita!\p"
+	.string "Bem, este nao e o lugar para bater\n"
+	.string "papo, venha comigo ao LABORATORIO!$"
 
 Route101_Text_TakeTiredPokemonToPokeCenter:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pIf POKéMON get tired, take them to\n"
