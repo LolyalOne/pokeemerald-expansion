@@ -30,35 +30,35 @@ PokemonMansion_2F_EventScript_Arnie::
 	end
 
 PokemonMansion_Text_PressSecretSwitch::
-	.string "A secret switch!\p"
-	.string "Press it?$"
+.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
+.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!$"
 
 PokemonMansion_Text_WhoWouldnt::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWho wouldn't?$"
+	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 
 PokemonMansion_Text_NotQuiteYet::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pNot quite yet!$"
+.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!$"
 
 PokemonMansion_1F_Text_ArnieIntro::
-	.string "I can't get out!\n"
-	.string "This old place is one big puzzle.$"
+.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
 
 PokemonMansion_1F_Text_ArnieDefeat::
-	.string "Oh, no!\n"
-	.string "My bag of loot!$"
+.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
+	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 PokemonMansion_1F_Text_ArniePostBattle::
-	.string "The switches here open and close\n"
-	.string "alternating sets of doors.$"
+.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
 
 PokemonMansion_1F_Text_NewMonDiscoveredInGuyanaJungle::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pDiary: July 5\n"
-	.string "Guyana, South America\p"
-	.string "A new POKéMON was discovered deep\n"
-	.string "in the jungle.$"
+.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!$"
 
 PokemonMansion_1F_Text_ChristenedDiscoveredMonMew::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pDiary: July 10\n"
-	.string "We christened the newly discovered\l"
-	.string "POKéMON, MEW.$"
+.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
+.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!$"
 

@@ -22,20 +22,20 @@ MossdeepCity_House1_EventScript_Woman::
 	end
 
 MossdeepCity_House1_Text_HmmYourPokemon:
-	.string "Hmm!\n"
-	.string "Your {STR_VAR_1}…$"
+.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
+	.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 MossdeepCity_House1_Text_ItLikesXPokeblocks:
 	.string "It likes {STR_VAR_1}S,\n"
-	.string "doesn't it?\p"
-	.string "No, I'm positive of it! It definitely\n"
-	.string "likes {STR_VAR_1}S!$"
+.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
+.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
 
 MossdeepCity_House1_Text_DoesntLikeOrDislikePokeblocks:
-	.string "It doesn't appear to like or dislike\n"
-	.string "any {POKEBLOCK}S.$"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!$"
 
 MossdeepCity_House1_Text_HusbandCanTellPokeblockMonLikes:
-	.string "My husband can tell what kind of\n"
-	.string "{POKEBLOCK}S a POKéMON likes at a glance.$"
+.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 

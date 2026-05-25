@@ -17,8 +17,8 @@ RustboroCity_Flat2_1F_EventScript_Skitty::
 
 RustboroCity_Flat2_1F_Text_DevonWorkersLiveHere:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pDEVON CORPORATION's workers live in\n"
-	.string "this building.$"
+.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
 
 RustboroCity_Flat2_1F_Text_Skitty:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pSKITTY: Gyaaaah!$"
+	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
 

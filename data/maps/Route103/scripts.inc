@@ -287,67 +287,67 @@ Route103_EventScript_Isabelle::
 	end
 
 Route103_Text_MayRoute103Pokemon:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pMAY: Let's see… The POKéMON found\n"
-	.string "on ROUTE 103 include…$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pMAY: Let's see... The POKeMON found\n"
+	.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
 
 Route103_Text_MayLetsBattle:
 	.string "Oh, hi, {PLAYER}{KUN}!\p"
-	.string "…Oh, I see, my dad gave you\n"
-	.string "a POKéMON as a gift.\p"
-	.string "Since we're here, let's have a quick\n"
-	.string "battle!\p"
-	.string "I'll give you a taste of what being\n"
-	.string "a TRAINER is like.$"
+.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
+.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
+.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
+.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
+	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
 
 Route103_Text_MayDefeated:
-	.string "Wow! That's great!\n"
-	.string "{PLAYER}{KUN}, you're pretty good!$"
+.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
 
 Route103_Text_MayTimeToHeadBack:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pMAY: I think I know why my dad has\n"
-	.string "an eye out for you now.\p"
-	.string "I mean, you just got that POKéMON,\n"
-	.string "but it already likes you.\p"
-	.string "You might be able to befriend any\n"
-	.string "kind of POKéMON easily.\p"
-	.string "Well, it's time to head back to\n"
-	.string "the LAB.$"
+.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
+.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
+.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
+.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
+.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou."
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
+.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!$"
 
 Route103_Text_BrendanRoute103Pokemon:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pBRENDAN: Okay, so it's this one and\n"
-	.string "that one that live on ROUTE 103…$"
+.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
 
 Route103_Text_BrendanLetsBattle:
 	.string "Hey, it's {PLAYER}!\p"
-	.string "…Oh, yeah, Dad gave you a POKéMON.\p"
-	.string "Since we're here, how about a little\n"
-	.string "battle?\p"
-	.string "I'll teach you what being a TRAINER's\n"
-	.string "about!$"
+.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
+.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
+.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
+	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 
 Route103_Text_BrendanDefeated:
-	.string "Huh, {PLAYER}, you're not too shabby.$"
+.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!$"
 
 Route103_Text_BrendanTimeToHeadBack:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pBRENDAN: I think I get it.\n"
-	.string "I think I know why my dad has his eye\l"
-	.string "out for you now.\p"
-	.string "Look, your POKéMON already likes you,\n"
-	.string "even though you just got it.\p"
+.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
+.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
 	.string "{PLAYER}, I get the feeling that you\n"
-	.string "could befriend any POKéMON with ease.\p"
-	.string "We should head back to the LAB.$"
+.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
+	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
 
 Route103_Text_ShouldHaveBroughtPotion:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pMy POKéMON is staggeringly tired…\n"
-	.string "I should have brought a POTION…$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pMy POKeMON is staggeringly tired...\n"
+	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 Route103_Text_ShortcutToOldale:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pIf you cross the sea from here,\n"
-	.string "it'll be a shortcut to OLDALE TOWN.\p"
-	.string "Fufufu, that's useful, isn't it?$"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
+.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
 
 Route103_Text_RouteSign:
-	.string "ROUTE 103\n"
-	.string "{DOWN_ARROW} OLDALE TOWN$"
+.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
+	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
 

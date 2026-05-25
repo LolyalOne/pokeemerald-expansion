@@ -183,4 +183,4 @@ FarawayIsland_Interior_EventScript_HideMewWhenGrassCut::
 	end
 
 FarawayIsland_Interior_Text_TheFeelingOfBeingWatchedFaded:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThe feeling of being watched faded…$"
+	.string "Hoje e o seu dia, Lucas! O mundo POKeMON celebra voce!$"

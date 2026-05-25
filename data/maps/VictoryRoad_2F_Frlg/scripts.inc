@@ -77,60 +77,60 @@ VictoryRoad_2F_EventScript_Vincent::
 	end
 
 VictoryRoad_2F_Text_DawsonIntro::
-	.string "If you can get through here,\n"
-	.string "you can go meet the ELITE FOUR.$"
+.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 VictoryRoad_2F_Text_DawsonDefeat::
-	.string "No!\n"
-	.string "Unbelievable!$"
+.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
 
 VictoryRoad_2F_Text_DawsonPostBattle::
-	.string "I can beat you when it comes to\n"
-	.string "knowledge about POKéMON!$"
+.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
+.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!$"
 
 VictoryRoad_2F_Text_DaisukeIntro::
-	.string "This here is VICTORY ROAD.\n"
-	.string "It's the final test for TRAINERS!$"
+.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
+	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
 
 VictoryRoad_2F_Text_DaisukeDefeat::
-	.string "Atcho!$"
+	.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
 
 VictoryRoad_2F_Text_DaisukePostBattle::
-	.string "If you get stuck, try moving some\n"
-	.string "boulders around.$"
+.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
+	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
 
 VictoryRoad_2F_Text_NelsonIntro::
-	.string "Ah, so you wish to challenge the\n"
-	.string "ELITE FOUR?$"
+.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou."
+.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou.$"
 
 VictoryRoad_2F_Text_NelsonDefeat::
-	.string "You got me!$"
+.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
 
 VictoryRoad_2F_Text_NelsonPostBattle::
-	.string "{RIVAL} also came through here.$"
+.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!$"
 
 VictoryRoad_2F_Text_VincentIntro::
-	.string "Come on!\n"
-	.string "I'll whip you!$"
+.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!$"
 
 VictoryRoad_2F_Text_VincentDefeat::
-	.string "I got whipped!$"
+	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
 
 VictoryRoad_2F_Text_VincentPostBattle::
-	.string "You earned the right to be on\n"
-	.string "VICTORY ROAD…$"
+.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
 
 VictoryRoad_2F_Text_GregoryIntro::
-	.string "Is VICTORY ROAD too tough?$"
+	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
 
 VictoryRoad_2F_Text_GregoryDefeat::
-	.string "Well done!$"
+.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!$"
 
 VictoryRoad_2F_Text_GregoryPostBattle::
-	.string "Many TRAINERS give up their\n"
-	.string "challenge here and go home.$"
+.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
+	.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 @ Unused, old text for Moltres
 VictoryRoad_2F_Text_Gyaoo::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pギヤーオ！$"
+.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!$"
 

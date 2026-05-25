@@ -285,47 +285,47 @@ Route124_DivingTreasureHuntersHouse_EventScript_ShardTradeBoard::
 
 Route124_DivingTreasureHuntersHouse_Text_Greeting:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI'm the DIVING TREASURE HUNTER!\p"
-	.string "I'm the awesome dude who makes\n"
-	.string "deep-sea dives to gather treasures\l"
-	.string "resting at the bottom.$"
+.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
+.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 Route124_DivingTreasureHuntersHouse_Text_HaveYouSeenAnyShards:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pTell me, have you seen any SHARDS of\n"
-	.string "tools made in ancient times?$"
+	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 Route124_DivingTreasureHuntersHouse_Text_YouHaventGotAnyShards:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pYou haven't got any treasures\n"
-	.string "for me…\p"
-	.string "If you see any SHARDS, like the RED\n"
-	.string "SHARD, you've got to trade it with me!$"
+.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
+.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
+	.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 Route124_DivingTreasureHuntersHouse_Text_ThatsAShardIllTradeYou:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pOh, hey! That…\n"
-	.string "That's a SHARD! I'm looking for those!\p"
-	.string "Oh, man, you've got to trade that\n"
-	.string "with me! I'll give you something good!$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pOh, hey! That...\n"
+.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
+.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
+	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
 
 Route124_DivingTreasureHuntersHouse_Text_WhatDoYouWantToTrade:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWhat do you want to trade?$"
+	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
 
 Route124_DivingTreasureHuntersHouse_Text_YoullTradeShardForStone:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pYou'll trade your {STR_VAR_1} for\n"
-	.string "my {STR_VAR_2}, then?$"
+.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
 
 Route124_DivingTreasureHuntersHouse_Text_ItsADeal:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pIt's a done deal!\n"
-	.string "Use that wisely!$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!$"
 
 Route124_DivingTreasureHuntersHouse_Text_TradeSomethingElse:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pDo you want to trade something else?$"
+	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
 
 Route124_DivingTreasureHuntersHouse_Text_BagFull:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pWhoops, your BAG's full.\n"
-	.string "Get rid of some items, friend!$"
+.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!$"
 
 Route124_DivingTreasureHuntersHouse_Text_ComeBackIfYouChangeMind:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pNo? That's a downer.\n"
-	.string "Well, if you change your mind, come back.$"
+.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!$"
 
 Route124_DivingTreasureHuntersHouse_Text_ShardTradeBoard:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p{CLEAR_TO 0x0a}Wanted item{CLEAR_TO 0x7c}Trade item\n"
@@ -335,4 +335,4 @@ Route124_DivingTreasureHuntersHouse_Text_ShardTradeBoard:
 	.string "{CLEAR_TO 0x0a}Wanted item{CLEAR_TO 0x7c}Trade item\n"
 	.string "{CLEAR_TO 0x0c}BLUE SHARD{CLEAR_TO 0x59}{LEFT_ARROW}{RIGHT_ARROW}{CLEAR_TO 0x79}WATER STONE{CLEAR_TO 0xc8}\p"
 	.string "{CLEAR_TO 0x0a}Wanted item{CLEAR_TO 0x7c}Trade item\n"
-	.string "{CLEAR_TO 0x08}GREEN SHARD{CLEAR_TO 0x59}{LEFT_ARROW}{RIGHT_ARROW}{CLEAR_TO 0x7b}LEAF STONE$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!$"

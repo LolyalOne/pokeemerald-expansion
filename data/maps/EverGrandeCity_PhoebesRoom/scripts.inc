@@ -59,26 +59,26 @@ EverGrandeCity_PhoebesRoom_EventScript_Defeated::
 	end
 
 EverGrandeCity_PhoebesRoom_Text_IntroSpeech:
-	.string "Ahahaha!\p"
-	.string "I'm PHOEBE of the ELITE FOUR.\n"
-	.string "I did my training on MT. PYRE.\p"
-	.string "While I trained, I gained the ability\n"
-	.string "to commune with GHOST-type POKéMON.\p"
-	.string "Yes, the bond I developed with POKéMON\n"
-	.string "is extremely tight.\p"
-	.string "So, come on, just try and see if you can\n"
-	.string "even inflict damage on my POKéMON!$"
+.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
+.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
+.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!"
+.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
+.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 EverGrandeCity_PhoebesRoom_Text_Defeat:
-	.string "Oh, darn.\n"
-	.string "I've gone and lost.$"
+.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
+	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 
 EverGrandeCity_PhoebesRoom_Text_PostBattleSpeech:
-	.string "There's a definite bond between you\n"
-	.string "and your POKéMON, too.\p"
-	.string "I didn't recognize it, so it's only\n"
-	.string "natural that I lost.\p"
-	.string "Yup, I'd like to see how far your bond\n"
-	.string "will carry you.\p"
-	.string "Go ahead, move on to the next room.$"
+.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
+.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
+.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
+	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
 

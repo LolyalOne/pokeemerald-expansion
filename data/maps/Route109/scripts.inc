@@ -478,87 +478,87 @@ Route109_EventScript_Elijah::
 
 DewfordTown_Text_BrineyLandedInSlateportDeliverGoods:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pMR. BRINEY: Ahoy!\n"
-	.string "We've made land in SLATEPORT!\p"
-	.string "I suppose you're going to visit CAPT.\n"
-	.string "STERN and deliver the DEVON GOODS?$"
+.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
+.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
+.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
 
 Route109_Text_BrineySailToDewfordQuestion:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pMR. BRINEY: I thought you're supposed\n"
-	.string "to deliver the DEVON GOODS.\p"
-	.string "Would you like to sail back to\n"
-	.string "DEWFORD, then?$"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
+.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
 
 Route109_Text_BrineyDewfordItIs:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pMR. BRINEY: DEWFORD it is, then!\p"
-	.string "Anchors aweigh!\n"
-	.string "PEEKO, we're setting sail, my darling!$"
+.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
+	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
 
 Route109_Text_BrineyDeliverDevonGoods:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pMR. BRINEY: Then you go on and deliver\n"
-	.string "the DEVON GOODS. I'll be waiting.$"
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!$"
 
 DewfordTown_Text_BrineyLandedInSlateport:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pMR. BRINEY: Ahoy! We've made land in\n"
-	.string "SLATEPORT!\p"
-	.string "You just go on and tell me whenever\n"
-	.string "you want to set sail again!$"
+.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
+.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
+	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
 
 Route109_Text_BrineyWhereAreWeBound:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pMR. BRINEY: Ahoy!\n"
-	.string "For you, I'll go out to sea anytime!\p"
-	.string "Now, my friend, where are we bound?$"
+.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
+.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!$"
 
 Route109_Text_BrineyTellMeWhenYouNeedToSail:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pMR. BRINEY: You just tell me whenever\n"
-	.string "you need to set sail again!$"
+.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!$"
 
 Route109_Text_ChillAtMyPapasSpot:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pYo, TRAINERS!\n"
-	.string "Whether you're hot to trot,\l"
-	.string "or cool cat not,\l"
-	.string "chill at my papa's spot!$"
+.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
+.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
 
 Route109_Text_LittleKidsDartAround:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pLittle kids can dart around so quickly…\p"
-	.string "You don't dare take your eyes off them\n"
-	.string "for an instant. It's very taxing.\p"
-	.string "Mine are with my POKéMON, so they\n"
-	.string "should be okay, but…$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pLittle kids can dart around so quickly...\p"
+.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
+.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
+	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 
 Route109_Text_SandCastleTakingLongTime:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOur sand castle's taking a long time\n"
-	.string "to make.$"
+	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
 
 Route109_Text_YouCanHaveThis:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pYou can have this!$"
+	.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
 
 Route109_Text_WereGoingToMakeBigCastle:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pWe're going to get all the sand from\n"
-	.string "the beach and make a big castle!\p"
-	.string "And then we're going to be a king and\n"
-	.string "queen.\p"
-	.string "We'll let you be a servant.$"
+.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
+.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
+	.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 Route109_Text_ZigzagoonPicksUpLitter:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pThe water around these parts is clean.\p"
-	.string "But, I get my ZIGZAGOON to pick up\n"
-	.string "litter from the shoreline at times.\p"
-	.string "Dirty water becomes rain and joins our\n"
-	.string "rivers, which we drink from…\p"
-	.string "If we pollute the sea, it all comes\n"
-	.string "back to haunt us eventually.$"
+.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
+.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
+.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
+.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!$"
 
 Route109_Text_ZigzagoonCry:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pZIGZAGOON: Guguu?$"
+.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!$"
 
 Route109_Text_SeashoreHouseSign:
-	.string "SEASHORE HOUSE\p"
-	.string "“May hot battles rage on hot sands!\n"
-	.string "The place for hot TRAINERS!”$"
+.string "Parabens, Lucas! Sua jornada\napenas comecou."
+.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
+	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 Route109_Text_TrainerTipsSign:
-	.string "TRAINER TIPS\p"
-	.string "POKéMON at the same level may not\n"
-	.string "always have identical stats.\p"
-	.string "POKéMON raised by TRAINERS are said\n"
-	.string "to grow stronger than wild POKéMON.$"
+.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
+.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
+.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
+	.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"

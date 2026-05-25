@@ -32,122 +32,122 @@ Route20_EventScript_SeafoamIslandsSign::
 	end
 
 Route20_Text_BarryIntro::
-	.string "The water is shallow here.\n"
-	.string "There are many people swimming.$"
+.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
+.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!$"
 
 Route20_Text_BarryDefeat::
-	.string "Splash!$"
+	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
 
 Route20_Text_BarryPostBattle::
-	.string "I wish I could ride my POKéMON.\n"
-	.string "I bet you're not tired.$"
+.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
+	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
 
 Route20_Text_ShirleyIntro::
-	.string "SEAFOAM is a quiet getaway.\n"
-	.string "I'm vacationing here.$"
+.string "Parabens, Lucas! Sua jornada\napenas comecou."
+.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!$"
 
 Route20_Text_ShirleyDefeat::
-	.string "Quit it!$"
+	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
 
 Route20_Text_ShirleyPostBattle::
-	.string "There's a huge cavern underneath\n"
-	.string "this island.$"
+.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
+	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
 
 Route20_Text_TiffanyIntro::
-	.string "I love floating with the fishes\n"
-	.string "here among the waves.$"
+.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
+	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
 
 Route20_Text_TiffanyDefeat::
-	.string "Yowch!$"
+.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
 
 Route20_Text_TiffanyPostBattle::
-	.string "Want to float with me?$"
+.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!$"
 
 Route20_Text_IreneIntro::
-	.string "Are you on vacation, too?$"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!$"
 
 Route20_Text_IreneDefeat::
-	.string "No mercy at all!$"
+.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
 
 Route20_Text_IrenePostBattle::
-	.string "SEAFOAM used to be a single island\n"
-	.string "in the distant past.$"
+.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 Route20_Text_DeanIntro::
-	.string "Check out my buff physique!$"
+	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 Route20_Text_DeanDefeat::
-	.string "Wimpy!$"
+	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 Route20_Text_DeanPostBattle::
-	.string "I should've been buffing up my\n"
-	.string "POKéMON, not me!$"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
+.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!$"
 
 Route20_Text_DarrinIntro::
-	.string "Why are you riding a POKéMON?\n"
-	.string "Can't you swim?$"
+.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!"
+	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
 
 Route20_Text_DarrinDefeat::
-	.string "Ouch!\n"
-	.string "Torpedoed!$"
+.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
+	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
 
 Route20_Text_DarrinPostBattle::
-	.string "Riding a POKéMON sure looks fun!$"
+	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
 
 Route20_Text_RogerIntro::
-	.string "I rode my bird POKéMON here.$"
+.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!$"
 
 Route20_Text_RogerDefeat::
-	.string "Oh, no!\n"
-	.string "Now what am I to do?$"
+.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
+.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 Route20_Text_RogerPostBattle::
-	.string "My birds are exhausted.\n"
-	.string "They can't FLY me back!$"
+.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
+	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 Route20_Text_NoraIntro::
-	.string "My boyfriend gave me big pearls.$"
+	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
 
 Route20_Text_NoraDefeat::
-	.string "Oh, no!\n"
-	.string "My pearls were in them!$"
+.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
+	.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
 
 Route20_Text_NoraPostBattle::
-	.string "Will my pearls grow bigger inside\n"
-	.string "CLOYSTER?$"
+.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
+.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!$"
 
 Route20_Text_MissyIntro::
-	.string "I swam here from CINNABAR ISLAND.\n"
-	.string "It wasn't easy, I tell you.$"
+.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
+	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
 
 Route20_Text_MissyDefeat::
-	.string "I'm so disappointed!$"
+.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou.$"
 
 Route20_Text_MissyPostBattle::
-	.string "POKéMON have taken over an\n"
-	.string "abandoned mansion on CINNABAR.\p"
-	.string "They call it the POKéMON MANSION\n"
-	.string "now.$"
+.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
+.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
+.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!$"
 
 Route20_Text_MelissaIntro::
-	.string "CINNABAR, in the west, has a LAB\n"
-	.string "for POKéMON.\p"
-	.string "My daddy works there.$"
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
+.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 Route20_Text_MelissaDefeat::
-	.string "Wait!\n"
-	.string "You're supposed to wait!$"
+.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
+.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!$"
 
 Route20_Text_MelissaPostBattle::
-	.string "CINNABAR is a volcanic island.\p"
-	.string "I heard it rose out of the sea\n"
-	.string "when a volcano erupted.$"
+.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
+	.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
 
 Route20_Text_SeafoamIslands::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pSEAFOAM ISLANDS$"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 Route20_Text_MistyTrainsHere::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pStrong TRAINERS and WATER POKéMON\n"
-	.string "are common sights in these parts.\p"
-	.string "They say that MISTY of the\n"
-	.string "CERULEAN GYM trains here.$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pStrong TRAINERS and WATER POKeMON\n"
+.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
+.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!$"

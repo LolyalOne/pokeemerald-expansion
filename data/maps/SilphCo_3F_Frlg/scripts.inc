@@ -36,35 +36,35 @@ SilphCo_3F_EventScript_Grunt::
 
 SilphCo_3F_Text_WhatAmIToDo::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI work for SILPH CO.\n"
-	.string "What am I to do?$"
+.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
 
 SilphCo_3F_Text_YouAndYourMonsSavedUs::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p{PLAYER}!\n"
-	.string "You and your POKéMON saved us!$"
+	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
 
 SilphCo_3F_Text_GruntIntro::
-	.string "Quit messing with us, kid!$"
+	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
 
 SilphCo_3F_Text_GruntDefeat::
-	.string "I give up!$"
+	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
 
 SilphCo_3F_Text_GruntPostBattle::
-	.string "A hint? You can open doors with\n"
-	.string "a CARD KEY!$"
+.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
+.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!$"
 
 SilphCo_3F_Text_JoseIntro::
-	.string "I support TEAM ROCKET more than\n"
-	.string "I support SILPH CO.!$"
+.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
+	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
 
 SilphCo_3F_Text_JoseDefeat::
-	.string "You really got me!$"
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!$"
 
 SilphCo_3F_Text_JosePostBattle::
-	.string "Humph…\p"
-	.string "TEAM ROCKET said that if I helped\n"
-	.string "them, they'd let me study POKéMON.$"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 SilphCo_3F_Text_FloorSign::
-	.string "SILPH CO. HEAD OFFICE\n"
-	.string "3F$"
+.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
+.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!$"
 

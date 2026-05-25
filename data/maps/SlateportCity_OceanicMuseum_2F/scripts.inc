@@ -270,166 +270,166 @@ SlateportCity_OceanicMuseum_2F_EventScript_MuseumPatron3::
 
 SlateportCity_OceanicMuseum_2F_Text_ThankYouForTheParts:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pYes? If you're looking for STERN,\n"
-	.string "that would be me.\p"
-	.string "Ah! Those must be the parts I ordered\n"
-	.string "from MR. STONE of DEVON.\p"
-	.string "Thank you! That's great!\n"
-	.string "We can prepare for our expedition now.$"
+.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
+.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
+.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!$"
 
 SlateportCity_OceanicMuseum_2F_Text_WellTakeThoseParts:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pHehehe, hold it!\n"
-	.string "We'll take those parts!$"
+.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou.$"
 
 SlateportCity_OceanicMuseum_2F_Text_SternWhoAreYou:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pCAPT. STERN: Wh-what?\n"
-	.string "Who are you people?$"
+.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 SlateportCity_OceanicMuseum_2F_Text_WereTeamAqua:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWe're TEAM AQUA!\p"
-	.string "Our BOSS wants those parts!\n"
-	.string "Shut your yap and fork them over!$"
+.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
+	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 SlateportCity_OceanicMuseum_2F_Text_Grunt1Defeat:
-	.string "Awaaaah!\n"
-	.string "A kid beat me!$"
+.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
+	.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 SlateportCity_OceanicMuseum_2F_Text_BossGoingToBeFurious:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pOh, man, what a disaster…\n"
-	.string "The BOSS is going to be furious…$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pOh, man, what a disaster...\n"
+.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
 
 SlateportCity_OceanicMuseum_2F_Text_LetMeTakeCareOfThis:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pHumph, sniveling wimp!\n"
-	.string "Let me take care of this!$"
+	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
 
 SlateportCity_OceanicMuseum_2F_Text_Grunt2Defeat:
-	.string "What?!\n"
-	.string "I lost, too!$"
+.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
 
 SlateportCity_OceanicMuseum_2F_Text_MeddlingKid:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pNow what? If we don't get the parts,\n"
-	.string "we're in for it!\p"
-	.string "Arrgh, I didn't count on being meddled\n"
-	.string "with by some meddling kid!$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
+.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 SlateportCity_OceanicMuseum_2F_Text_CameToSeeWhatsTakingSoLong:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pI came to see what was taking so\n"
-	.string "long to snatch some parts, and you\l"
-	.string "simps are held up by a mere child?$"
+.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
+.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
 
 SlateportCity_OceanicMuseum_2F_Text_ArchieWarning:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pWe are TEAM AQUA,\n"
-	.string "and we love the sea!\p"
-	.string "And I am TEAM AQUA's leader,\n"
-	.string "ARCHIE!\p"
-	.string "What makes you interfere with us?\p"
-	.string "…No! You can't be!\n"
-	.string "You're not one of TEAM MAGMA?\p"
-	.string "Wait, that can't be right.\n"
-	.string "You're not dressed for the part.\p"
-	.string "… … … … … …\n"
-	.string "… … … … … …\p"
-	.string "POKéMON, people… All life depends on\n"
-	.string "the sea.\p"
-	.string "So, TEAM AQUA is dedicated to\n"
-	.string "the expansion of the sea.\p"
-	.string "Don't you agree? What we are doing\n"
-	.string "is a magnificent undertaking.\p"
-	.string "Ah, fine…\n"
-	.string "You're still too young to understand\l"
-	.string "our noble objective.\p"
-	.string "But, I warn you, don't even consider\n"
-	.string "interfering with our plans again.\p"
-	.string "The consequences will cost you\n"
-	.string "dearly!\p"
-	.string "And don't you forget it!$"
+.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!"
+.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
+.string "Parabens, Lucas! Sua jornada\napenas comecou."
+.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
+.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
+.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
+.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
+.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
+.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
+.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
+.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
+.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
+.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
+.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
+.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
+.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!$"
 
 SlateportCity_OceanicMuseum_2F_Text_SternThankYouForSavingUs:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pCAPT. STERN: You're…\n"
-	.string "Ah, okay, you're {PLAYER}{KUN}…\p"
-	.string "Anyway, that was a tense situation!\n"
-	.string "Thank you for saving us!\p"
-	.string "Oh, yes, I almost forgot that you\n"
-	.string "even brought the parts from DEVON!$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pCAPT. STERN: You're...\n"
+	.string "Ah, okay, you're {PLAYER}{KUN}...\p"
+.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
+.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
 
 SlateportCity_OceanicMuseum_2F_Text_SternIveGotToGo:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pCAPT. STERN: Whoops!\n"
-	.string "There's no time to lose!\p"
-	.string "We have to set out on our ocean-floor\n"
-	.string "expedition really soon.\p"
-	.string "Thanks again, but now I've got\n"
-	.string "to go!\p"
-	.string "Feel free to wander around and check\n"
-	.string "out our facilities, though.$"
+.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
+.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
+.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
+.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!$"
 
 SlateportCity_OceanicMuseum_2F_Text_RemindsMeOfAbandonedShip:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pI saw a model of a ship here.\p"
-	.string "It reminded me of the ABANDONED SHIP\n"
-	.string "near DEWFORD TOWN…$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
+	.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 SlateportCity_OceanicMuseum_2F_Text_DontRunInMuseum:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pDon't you dare run around inside\n"
-	.string "the MUSEUM!$"
+.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
 
 SlateportCity_OceanicMuseum_2F_Text_WantToRideSubmarine:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pWow, the submarine's awesome!\n"
-	.string "I want to go for a ride!$"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
 
 SlateportCity_OceanicMuseum_2F_Text_WaterQualitySample1:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\p“WATER QUALITY SAMPLE 1,” the\n"
-	.string "label says.\p"
-	.string "The sea is all connected, but the\n"
-	.string "water seems to differ by region.$"
+.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 
 SlateportCity_OceanicMuseum_2F_Text_WaterQualitySample2:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p“WATER QUALITY SAMPLE 2,” the\n"
-	.string "label says.\p"
-	.string "Does the saltiness of seawater differ\n"
-	.string "by region, too?$"
+.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
+	.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
 
 SlateportCity_OceanicMuseum_2F_Text_PressureExperiment:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pA rubber ball is expanding and\n"
-	.string "shrinking.\p"
-	.string "“In the sea, the weight of water itself\n"
-	.string "exerts pressure.\p"
-	.string "“In shallow water, the pressure is not\n"
-	.string "very heavy.\p"
-	.string "“However, in extremely deep water,\n"
-	.string "the pressure can reach even tens of\l"
-	.string "thousands of tons on a small area.”$"
+.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
+.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
+.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
+.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
+.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
+	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 SlateportCity_OceanicMuseum_2F_Text_HoennModel:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p“MODEL OF HOENN REGION”\p"
-	.string "It's a miniature diorama of the\n"
-	.string "HOENN region.\p"
-	.string "Where is LITTLEROOT TOWN on this?$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
+.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!"
+	.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 SlateportCity_OceanicMuseum_2F_Text_DeepSeawaterDisplay:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pIt's a display on the flow of seawater.\p"
-	.string "“Near the bottom of the sea, water\n"
-	.string "flows due to differences in such\l"
-	.string "factors as temperature and salinity.”$"
+.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!"
+.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 SlateportCity_OceanicMuseum_2F_Text_SurfaceSeawaterDisplay:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pIt's a display on the flow of seawater.\p"
-	.string "“Toward the surface, seawater flows\n"
-	.string "as currents driven by the winds.”$"
+.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
+.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou.$"
 
 SlateportCity_OceanicMuseum_2F_Text_SSTidalReplica:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p“THE FERRY S.S. TIDAL\p"
-	.string "“A scale replica of the ship under\n"
-	.string "construction at STERN'S SHIPYARD.”$"
+.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
+.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!$"
 
 SlateportCity_OceanicMuseum_2F_Text_SubmarineReplica:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p“SUBMARINE EXPLORER 1\p"
-	.string "“A replica of the high-performance\n"
-	.string "ocean floor exploration submarine.”$"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!$"
 
 SlateportCity_OceanicMuseum_2F_Text_SumbersibleReplica:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\p“SUBMERSIBLE POD\p"
-	.string "“A replica of a compact, unmanned\n"
-	.string "pod for seafloor exploration.”$"
+.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
+.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
 
 SlateportCity_OceanicMuseum_2F_Text_SSAnneReplica:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\p“S.S. ANNE\p"
-	.string "“A replica of the luxury liner that\n"
-	.string "circles the globe.”$"
+.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!$"

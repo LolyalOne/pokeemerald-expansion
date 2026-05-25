@@ -11,15 +11,15 @@ PacifidlogTown_House1_EventScript_Woman::
 
 PacifidlogTown_House1_Text_RegiStory:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pIn the HOENN region, there are three\n"
-	.string "POKéMON that represent the power of\l"
-	.string "rock, ice, and steel.\p"
-	.string "Each of them is said to hide away deep\n"
-	.string "inside caves.\p"
-	.string "That's the story I heard when I was\n"
-	.string "just a little kid.$"
+.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
+.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
+.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
+	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 PacifidlogTown_House1_Text_SixDotsOpenThreeDoors:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p“Six dots open three doors.”\p"
-	.string "Grandpa used to say that, but I don't\n"
-	.string "know what he meant.$"
+.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
+	.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
 

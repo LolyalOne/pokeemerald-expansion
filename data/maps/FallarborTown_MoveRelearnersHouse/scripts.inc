@@ -59,40 +59,40 @@ FallarborTown_MoveRelearnersHouse_EventScript_ComeBackWithHeartScale::
 
 FallarborTown_MoveRelearnersHouse_Text_ImTheMoveTutor:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI'm the MOVE TUTOR.\p"
-	.string "I know all the moves that POKéMON\n"
-	.string "learn--every one of them--and I can\l"
-	.string "teach POKéMON those moves.\p"
-	.string "I can teach a move to a POKéMON\n"
-	.string "of yours if you'd like.\p"
-	.string "I'll do it for a HEART SCALE.\n"
-	.string "I'm collecting those now.$"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
+.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
+.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
+.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!$"
 
 FallarborTown_MoveRelearnersHouse_Text_ThatsAHeartScaleWantMeToTeachMove:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh! That's it! That's an honest to\n"
-	.string "goodness HEART SCALE!\p"
-	.string "Let me guess, you want me to teach\n"
-	.string "a move?$"
+.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
+.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
 
 FallarborTown_MoveRelearnersHouse_Text_TutorWhichMon:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWhich POKéMON needs tutoring?$"
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!$"
 
 FallarborTown_MoveRelearnersHouse_Text_TeachWhichMove:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pWhich move should I teach?$"
+.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
 
 FallarborTown_MoveRelearnersHouse_Text_DontHaveMoveToTeachPokemon:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pSorry…\p"
-	.string "It doesn't appear as if I have any move\n"
-	.string "I can teach that POKéMON.$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pSorry...\p"
+.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
+	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
 
 FallarborTown_MoveRelearnersHouse_Text_HandedOverHeartScale:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\p{PLAYER} handed over one HEART SCALE\n"
-	.string "in exchange.$"
+.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
 
 FallarborTown_MoveRelearnersHouse_Text_ComeBackWithHeartScale:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pIf your POKéMON need to learn a move,\n"
-	.string "come back with a HEART SCALE.$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pIf your POKeMON need to learn a move,\n"
+.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!$"
 
 FallarborTown_MoveRelearnersHouse_Text_CantTeachEgg:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHunh? There isn't a single move that\n"
-	.string "I can teach an EGG.$"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 

@@ -11,9 +11,9 @@ SafariZone_Center_RestHouse_EventScript_Scientist::
 
 SafariZone_Center_Text_WhereDidErikGo::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pSARA: Where did my boyfriend,\n"
-	.string "ERIK, go?$"
+	.string "Feliz 23 de Maio, Lucas! Sua jornada apenas comecou.$"
 
 SafariZone_Center_Text_CatchingMonsAsGifts::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI'm catching POKéMON to take home\n"
-	.string "as gifts.$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI'm catching POKeMON to take home\n"
+	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
 

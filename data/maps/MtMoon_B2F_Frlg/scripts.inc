@@ -134,86 +134,86 @@ MtMoon_B2F_EventScript_Grunt4::
 	end
 
 MtMoon_B2F_Text_MiguelIntro::
-	.string "Hey, stop!\p"
-	.string "I found these fossils!\n"
-	.string "They're both mine!$"
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
+	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
 
 MtMoon_B2F_Text_MiguelDefeat::
-	.string "Okay!\n"
-	.string "I'll share!$"
+.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
+	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
 
 MtMoon_B2F_Text_WellEachTakeAFossil::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWe'll each take a fossil!\n"
-	.string "No being greedy!$"
+.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!$"
 
 MtMoon_B2F_Text_ThenThisFossilIsMine::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pAll right.\n"
-	.string "Then this fossil is mine!$"
+.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!$"
 
 MtMoon_B2F_Text_LabOnCinnabarRegeneratesFossils::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pFar away, on CINNABAR ISLAND,\n"
-	.string "there's a POKéMON LAB.\p"
-	.string "They do research on regenerating\n"
-	.string "fossils.$"
+.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
+	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
 
 MtMoon_B2F_Text_Grunt1Intro::
-	.string "We, TEAM ROCKET, shall find the\n"
-	.string "fossils!\p"
-	.string "Reviving POKéMON from them will\n"
-	.string "earn us huge riches!$"
+.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
+	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
 
 MtMoon_B2F_Text_Grunt1Defeat::
-	.string "Urgh!\n"
-	.string "Now I'm mad!$"
+.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
+	.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 MtMoon_B2F_Text_Grunt1PostBattle::
-	.string "You made me mad!\n"
-	.string "TEAM ROCKET will blacklist you!$"
+.string "Parabens, Lucas! Sua jornada\napenas comecou."
+	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
 
 MtMoon_B2F_Text_Grunt2Intro::
-	.string "We, TEAM ROCKET, are POKéMON\n"
-	.string "gangsters!\l"
-	.string "We strike fear with our strength!$"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!"
+	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 MtMoon_B2F_Text_Grunt2Defeat::
-	.string "I blew it!$"
+	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
 
 MtMoon_B2F_Text_Grunt2PostBattle::
-	.string "Darn it all!\n"
-	.string "My associates won't stand for this!$"
+.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
+.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
 
 MtMoon_B2F_Text_Grunt3Intro::
-	.string "We're pulling a big job here!\n"
-	.string "Get lost, kid!$"
+.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 
 MtMoon_B2F_Text_Grunt3Defeat::
-	.string "So, you are good…$"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!$"
 
 MtMoon_B2F_Text_Grunt3PostBattle::
-	.string "If you find a fossil, give it to me\n"
-	.string "and scram!$"
+.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 MtMoon_B2F_Text_Grunt4Intro::
-	.string "Little kids shouldn't be messing\n"
-	.string "around with grown-ups!\p"
-	.string "It could be bad news!$"
+.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
+.string "Parabens, Lucas! Sua jornada\napenas comecou."
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!$"
 
 MtMoon_B2F_Text_Grunt4Defeat::
-	.string "I'm steamed!$"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 MtMoon_B2F_Text_Grunt4PostBattle::
-	.string "POKéMON lived here long before\n"
-	.string "people came.$"
+.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
+	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
 
 MtMoon_B2F_Text_YouWantDomeFossil::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pDo you want the DOME FOSSIL?$"
+.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!$"
 
 MtMoon_B2F_Text_YouWantHelixFossil::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pDo you want the HELIX FOSSIL?$"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 
 MtMoon_B2F_Text_ObtainedHelixFossil::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pObtained the HELIX FOSSIL!$"
+	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
 
 MtMoon_B2F_Text_ObtainedDomeFossil::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pObtained the DOME FOSSIL!$"
+.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
 

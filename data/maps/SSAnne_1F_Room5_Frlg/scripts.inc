@@ -7,14 +7,14 @@ SSAnne_1F_Room5_EventScript_Arthur::
 	end
 
 SSAnne_1F_Room5_Text_ArthurIntro::
-	.string "You insolent pup!\n"
-	.string "How dare you barge in!$"
+.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
+	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
 
 SSAnne_1F_Room5_Text_ArthurDefeat::
-	.string "Humph! You rude child!\n"
-	.string "You have no sense of courtesy!$"
+.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!$"
 
 SSAnne_1F_Room5_Text_ArthurPostBattle::
-	.string "I wish to be left alone!\n"
-	.string "Get out!$"
+.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
 

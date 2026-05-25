@@ -33,21 +33,21 @@ SootopolisCity_House6_EventScript_NoRoomForWailmerDoll::
 
 SootopolisCity_House6_Text_FirstGuestInWhileTakeDoll:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHello! You're our first guest in\n"
-	.string "a good while.\p"
-	.string "You've brightened up my day, so I'll\n"
-	.string "give you a big WAILMER DOLL.$"
+.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
+.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
+.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!$"
 
 SootopolisCity_House6_Text_TakeGoodCareOfIt:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pTake good care of it!$"
+.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 SootopolisCity_House6_Text_IllHoldItForYou:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pOh, you want it, but not right now?\n"
-	.string "Okay, then I'll hold it for you.$"
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 SootopolisCity_House6_Text_DontWantThisDoll:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pAre you sure?\n"
-	.string "You don't want this DOLL?$"
+.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!$"
 
 SootopolisCity_House6_Text_LovePlushDolls:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI love plush DOLLS!$"
+	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
 

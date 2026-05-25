@@ -10,14 +10,14 @@ SlateportCity_House_EventScript_Girl::
 	end
 
 SlateportCity_House_Text_NatureToDoWithStatGains:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pMy POKéMON has a HASTY nature.\p"
-	.string "It has higher SPEED compared to\n"
-	.string "my other POKéMON.\p"
-	.string "Maybe their nature has something to\n"
-	.string "do with the stat gains of POKéMON.$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pMy POKeMON has a HASTY nature.\p"
+.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
+.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
+	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
 
 SlateportCity_House_Text_MustBeGoingToBattleTent:
-	.string "You're a TRAINER, aren't you?\p"
-	.string "Since you came to SLATEPORT CITY,\n"
-	.string "you must be going to the BATTLE TENT.$"
+.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
+	.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
 

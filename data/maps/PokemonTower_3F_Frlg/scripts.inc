@@ -17,38 +17,38 @@ PokemonTower_3F_EventScript_Hope::
 	end
 
 PokemonTower_3F_Text_HopeIntro::
-	.string "Urrg… Awaa…\n"
-	.string "Huhu… Graa…$"
+.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
+.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
 
 PokemonTower_3F_Text_HopeDefeat::
-	.string "Hwa!\n"
-	.string "I'm saved!$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!$"
 
 PokemonTower_3F_Text_HopePostBattle::
-	.string "The ghosts can be identified by\n"
-	.string "the SILPH SCOPE.$"
+.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
+	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 PokemonTower_3F_Text_CarlyIntro::
-	.string "Kekeke…\n"
-	.string "Kwaaah!$"
+.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
+	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 PokemonTower_3F_Text_CarlyDefeat::
-	.string "Hmm?\n"
-	.string "What am I doing?$"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
 
 PokemonTower_3F_Text_CarlyPostBattle::
-	.string "Sorry!\n"
-	.string "I was possessed!$"
+.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
+	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 PokemonTower_3F_Text_PatriciaIntro::
-	.string "Be gone!\n"
-	.string "Malevolent spirit!$"
+.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
+.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!$"
 
 PokemonTower_3F_Text_PatriciaDefeat::
-	.string "Whew!\n"
-	.string "The spirit left!$"
+.string "Parabens, Lucas! Sua jornada\napenas comecou."
+	.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 PokemonTower_3F_Text_PatriciaPostBattle::
-	.string "The others above…\n"
-	.string "They must have been possessed.$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
+.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
 

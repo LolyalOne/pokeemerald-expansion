@@ -52,132 +52,132 @@ SootopolisCity_Gym_B1F_EventScript_Daphne::
 	end
 
 SootopolisCity_Gym_B1F_Text_AndreaIntro:
-	.string "I'll show you the sublime techniques\n"
-	.string "I learned from our LEADER JUAN!$"
+.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
+	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 SootopolisCity_Gym_B1F_Text_AndreaDefeat:
-	.string "Please forgive me, JUAN…$"
+	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 SootopolisCity_Gym_B1F_Text_AndreaPostBattle:
-	.string "Watch what happens if you crack all\n"
-	.string "the floor tiles.$"
+.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
+.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 SootopolisCity_Gym_B1F_Text_CrissyIntro:
-	.string "You came all the way here, but you won't\n"
-	.string "get to see JUAN.\p"
-	.string "Not if you lose to me, you won't!$"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!"
+.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!$"
 
 SootopolisCity_Gym_B1F_Text_CrissyDefeat:
-	.string "You're strong!\n"
-	.string "I was fooled by your cute looks!$"
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
 
 SootopolisCity_Gym_B1F_Text_CrissyPostBattle:
-	.string "You might be good enough to avoid\n"
-	.string "being wiped out in one hit by JUAN.$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
+	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 
 SootopolisCity_Gym_B1F_Text_DaphneIntro:
-	.string "The sight of JUAN conducting\n"
-	.string "a battle…\p"
-	.string "The very beauty of it compelled me to\n"
-	.string "become a TRAINER.$"
+.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
+.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+	.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
 
 SootopolisCity_Gym_B1F_Text_DaphneDefeat:
-	.string "You battled with more beauty than\n"
-	.string "I could muster…$"
+.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
 
 SootopolisCity_Gym_B1F_Text_DaphnePostBattle:
-	.string "The grace you bring to battle is\n"
-	.string "fabulous.\p"
-	.string "Oh… I'm so fortunate to have found\n"
-	.string "POKéMON.$"
+.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
+.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
+.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!$"
 
 SootopolisCity_Gym_B1F_Text_ConnieIntro:
-	.string "I should teach you how harsh battles\n"
-	.string "can be.$"
+.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
+.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!$"
 
 SootopolisCity_Gym_B1F_Text_ConnieDefeat:
-	.string "Oh.\n"
-	.string "You're strong.$"
+.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
+	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 SootopolisCity_Gym_B1F_Text_ConniePostBattle:
-	.string "I'll tell you something good.\p"
-	.string "If you want to reach JUAN, you\n"
-	.string "need to walk on each floor tile once.$"
+.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
+	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
 
 SootopolisCity_Gym_B1F_Text_BridgetIntro:
-	.string "The POKéMON GYM of the highest level\n"
-	.string "in the HOENN region…\p"
-	.string "That's the SOOTOPOLIS GYM.$"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
+.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!$"
 
 SootopolisCity_Gym_B1F_Text_BridgetDefeat:
-	.string "What a high level you are!$"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!$"
 
 SootopolisCity_Gym_B1F_Text_BridgetPostBattle:
-	.string "Rather than being satisfied by being\n"
-	.string "in a strong GYM, I imagine training in\l"
-	.string "other places will make you stronger.\l"
-	.string "But above all, it looks more fun.$"
+.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
+.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
+	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 SootopolisCity_Gym_B1F_Text_OliviaIntro:
-	.string "I train my POKéMON together with\n"
-	.string "JUAN.\p"
-	.string "Don't think I'm a pushover.$"
+.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
+.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
+.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 SootopolisCity_Gym_B1F_Text_OliviaDefeat:
-	.string "I was beaten…$"
+	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 SootopolisCity_Gym_B1F_Text_OliviaPostBattle:
-	.string "I think you have potential.\n"
-	.string "Why don't you stay and train with us?$"
+.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
 
 SootopolisCity_Gym_B1F_Text_TiffanyIntro:
-	.string "A graceful glide across the ice while\n"
-	.string "crossing no lines…\p"
-	.string "A TRAINER putting on that performance\n"
-	.string "would be elegantly beautiful!$"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
+.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!$"
 
 SootopolisCity_Gym_B1F_Text_TiffanyDefeat:
-	.string "Well, excuse me?!$"
+	.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
 
 SootopolisCity_Gym_B1F_Text_TiffanyPostBattle:
-	.string "This is really obvious, but how strong\n"
-	.string "you are as a TRAINER has nothing to do\l"
-	.string "with how young or old you are.$"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 SootopolisCity_Gym_B1F_Text_BethanyIntro:
-	.string "When I'm with my POKéMON, the time\n"
-	.string "flies by before you can say, “Oops!”$"
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
+	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
 
 SootopolisCity_Gym_B1F_Text_BethanyDefeat:
-	.string "Oops!$"
+	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 
 SootopolisCity_Gym_B1F_Text_BethanyPostBattle:
-	.string "I wish I could forget about lost causes\n"
-	.string "before I can manage an “Oops!”$"
+.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
+	.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
 
 SootopolisCity_Gym_B1F_Text_AnnikaIntro:
-	.string "I can battle with really rare POKéMON\n"
-	.string "if you'd like.$"
+.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
+	.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 SootopolisCity_Gym_B1F_Text_AnnikaDefeat:
-	.string "Oh, there now! Did you have a good look\n"
-	.string "at my POKéMON?$"
+.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
+	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 SootopolisCity_Gym_B1F_Text_AnnikaPostBattle:
-	.string "I came to this GYM because JUAN\n"
-	.string "praised me for my darling POKéMON.\p"
-	.string "Oh, if only I'd met JUAN years ago\n"
-	.string "when I was younger…$"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
+	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
 
 SootopolisCity_Gym_B1F_Text_BriannaIntro:
-	.string "Giggle…\n"
-	.string "Your grim look is so charming.$"
+.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
 
 SootopolisCity_Gym_B1F_Text_BriannaDefeat:
-	.string "Oh, dear.\n"
-	.string "I went much too easy on you.$"
+.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
 
 SootopolisCity_Gym_B1F_Text_BriannaPostBattle:
-	.string "You couldn't lay a finger on JUAN,\n"
-	.string "I'm sure. Giggle…$"
+.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
+	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
 

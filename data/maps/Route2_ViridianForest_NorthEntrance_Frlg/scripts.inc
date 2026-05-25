@@ -14,22 +14,22 @@ Route2_ViridianForest_NorthEntrance_EventScript_CooltrainerF::
 	end
 
 Route2_ViridianForest_NorthEntrance_Text_ManyMonsOnlyInForests::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pMany POKéMON live only in forests \n"
-	.string "and caves.\p"
-	.string "You need to be persistent and look\n"
-	.string "everywhere to get different kinds.$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pMany POKeMON live only in forests \n"
+.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
+.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
+	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
 
 Route2_ViridianForest_NorthEntrance_Text_CanCutSkinnyTrees::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pHave you noticed the skinny trees\n"
-	.string "on the roadside?\p"
-	.string "They can be cut down by a special\n"
-	.string "POKéMON move, I hear.$"
+.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
+.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
+	.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
 
 Route2_ViridianForest_NorthEntrance_Text_CanCancelEvolution::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pDo you know the evolution-cancel\n"
-	.string "technique?\p"
-	.string "When a POKéMON is evolving, you\n"
-	.string "can stop the process.\p"
-	.string "It's a technique for raising\n"
-	.string "POKéMON the way they are.$"
+.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
+.string "Parabens, Lucas! Sua jornada\napenas comecou."
+.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
 

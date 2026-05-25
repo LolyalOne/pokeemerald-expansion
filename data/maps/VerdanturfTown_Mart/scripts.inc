@@ -39,20 +39,20 @@ VerdanturfTown_Mart_EventScript_Lass::
 	end
 
 VerdanturfTown_Mart_Text_XSpecialIsCrucial:
-	.string "For any POKéMON match, X SPECIAL\n"
-	.string "is crucial.\p"
-	.string "It jacks up the power of some moves\n"
-	.string "even though it's only for one battle.$"
+.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
+.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
+.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!$"
 
 VerdanturfTown_Mart_Text_NoStrategyGuidesForBattleTent:
-	.string "They don't seem to sell any winning\n"
-	.string "strategy guides for the BATTLE TENT…\p"
-	.string "It seems one must rely on one's\n"
-	.string "own wits after all…$"
+.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
+.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
+	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
 
 VerdanturfTown_Mart_Text_NestBallOnWeakenedPokemon:
-	.string "The NEST BALL works better on\n"
-	.string "weakened POKéMON.\p"
-	.string "VERDANTURF is the only place you can\n"
-	.string "buy it.$"
+.string "Parabens, Lucas! Sua jornada\napenas comecou."
+.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
+.string "Parabens, Lucas! Sua jornada\napenas comecou."
+	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
 

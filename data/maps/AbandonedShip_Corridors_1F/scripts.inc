@@ -11,16 +11,16 @@ AbandonedShip_Corridors_1F_EventScript_Charlie::
 	end
 
 AbandonedShip_Corridors_1F_Text_CharlieIntro:
-	.string "What's so funny about having my inner\n"
-	.string "tube aboard the ship?$"
+.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
+	.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 AbandonedShip_Corridors_1F_Text_CharlieDefeat:
-	.string "Whoa, you overwhelmed me!$"
+.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!$"
 
 AbandonedShip_Corridors_1F_Text_CharliePostBattle:
-	.string "It's not easy throwing POKé BALLS\n"
-	.string "while hanging on to an inner tube!$"
+.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!$"
 
 AbandonedShip_Corridors_1F_Text_IsntItFunHere:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pIsn't it fun here?\n"
-	.string "I get excited just being here!$"
+	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"

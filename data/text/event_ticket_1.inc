@@ -1,41 +1,41 @@
 EventTicket_Text_ShowOldSeaMap:
-	.string "The ferry to SLATEPORT is…\p"
-	.string "I beg your pardon?\n"
-	.string "Can we sail to this place on the map?\p"
-	.string "I know someone who will help you better.\n"
-	.string "Please wait.$"
+.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!"
+.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
+.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
+	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
 
 EventTicket_Text_ThatPass:
-	.string "The ferry to SLATEPORT is…\p"
-	.string "Oh?\n"
-	.string "That PASS…$"
+.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
+	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
 
 EventTicket_Text_ShowEonTicket:
-	.string "Aye, mate, are you the one who brought\n"
-	.string "that mighty odd PASS?\p"
-	.string "I'll tell you, you're trying to reach a\n"
-	.string "tiny spit of an island far in the south.\p"
-	.string "There's no telling what we'll encounter\n"
-	.string "once we reach there, aye.\l"
-	.string "That shivers my timbers!\p"
-	.string "All aboard!$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
+.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
+.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
+.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
+.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
+	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 EventTicket_Text_SouthernIslandSailBack:
-	.string "Aye, mate, there's nothing here to\n"
-	.string "see or do on this forgettable island.\p"
-	.string "What say we sail back to LILYCOVE?$"
+.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
+	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
 
 EventTicket_Text_SailHome:
-	.string "Aye, right, then!\n"
-	.string "Sail home we will!$"
+.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
+.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!$"
 
 EventTicket_Text_AsYouLike:
-	.string "Aye, right, as you like, then.$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
 
 SouthernIsland_Interior_Text_Sign:
-	.string "“All dreams are but another reality.\n"
-	.string "Never forget…”$"
+.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
+.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!$"
 
 SouthernIsland_Exterior_Text_Sign:
-	.string "“Those whose memories fade seek to\n"
-	.string "carve them in their hearts…”$"
+.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
+.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"

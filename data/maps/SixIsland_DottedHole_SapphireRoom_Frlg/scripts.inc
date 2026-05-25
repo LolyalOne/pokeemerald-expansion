@@ -239,26 +239,26 @@ SixIsland_DottedHole_SapphireRoom_EventScript_BrailleMessage::
 	end
 
 SixIsland_DottedHole_SapphireRoom_Text_FoundSapphire::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p{PLAYER} found a SAPPHIRE!$"
+	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
 
 SixIsland_DottedHole_SapphireRoom_Text_IWasRightInTailingYou::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pFufu… Fufufufu…\n"
-	.string "I guessed right.\p"
-	.string "I was right in tailing you!$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pFufu... Fufufufu...\n"
+.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
+.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
 
 SixIsland_DottedHole_SapphireRoom_Text_SellToTeamRocketTellPassword::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI knew that there was a SAPPHIRE\n"
-	.string "here, so it belongs to me!\p"
-	.string "I'll sell it to TEAM ROCKET for\n"
-	.string "serious money.\p"
-	.string "…D-don't glare at me like that!\p"
-	.string "If you want it back, why don't you\n"
-	.string "go get it after I sell it?\p"
-	.string "I'll even tell you one of the\n"
-	.string "passwords to TEAM ROCKET's\l"
-	.string "WAREHOUSE.\p"
-	.string "The WAREHOUSE password I know is\n"
-	.string "“Yes, nah, CHANSEY.”\p"
-	.string "I'm done.\n"
-	.string "Don't think badly of me!$"
+.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!"
+.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
+.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
+.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!"
+.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
+.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
+.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
+.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
+.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
+.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
 

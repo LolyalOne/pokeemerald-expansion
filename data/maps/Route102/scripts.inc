@@ -74,36 +74,36 @@ Route102_EventScript_Allen::
 	end
 
 Route102_Text_WatchMeCatchPokemon:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWALLY: {PLAYER}…\n"
-	.string "POKéMON hide in tall grass like this,\l"
-	.string "don't they?\p"
-	.string "Please watch me and see if I can\n"
-	.string "catch one properly.\p"
-	.string "…Whoa!$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWALLY: {PLAYER}...\n"
+.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
+.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
+.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
+	.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
 
 Route102_Text_WallyIDidIt:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWALLY: I did it… It's my…\n"
-	.string "My POKéMON!$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWALLY: I did it... It's my...\n"
+.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!$"
 
 Route102_Text_LetsGoBack:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p{PLAYER}, thank you!\n"
-	.string "Let's go back to the GYM!$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 Route102_Text_ImNotVeryTall:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI'm…not very tall, so I sink right\n"
-	.string "into tall grass.\p"
-	.string "The grass goes up my nose and…\n"
-	.string "Fwafwafwafwafwa…\p"
-	.string "Fwatchoo!$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI'm...not very tall, so I sink right\n"
+.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
+.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
+.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
+	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
 
 Route102_Text_CatchWholeBunchOfPokemon:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI'm going to catch a whole bunch of\n"
-	.string "POKéMON!$"
+.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
 
 Route102_Text_RouteSignOldale:
-	.string "ROUTE 102\n"
-	.string "{RIGHT_ARROW} OLDALE TOWN$"
+.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
+.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!$"
 
 Route102_Text_RouteSignPetalburg:
-	.string "ROUTE 102\n"
-	.string "{LEFT_ARROW} PETALBURG CITY$"
+.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
+.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!$"

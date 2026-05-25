@@ -12,25 +12,25 @@ SeafloorCavern_Room1_EventScript_Grunt2::
 	end
 
 SeafloorCavern_Room1_Text_Grunt1Intro:
-	.string "We don't need a kid around!\n"
-	.string "Go on home already!$"
+.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
 
 SeafloorCavern_Room1_Text_Grunt1Defeat:
-	.string "I want to go home…$"
+.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!$"
 
 SeafloorCavern_Room1_Text_Grunt1PostBattle:
-	.string "I want to get a promotion so I can\n"
-	.string "boss around the GRUNTS…$"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
+.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!$"
 
 SeafloorCavern_Room1_Text_Grunt2Intro:
-	.string "That submarine… It's tiny inside.\n"
-	.string "I'm sore all over!$"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
+	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 SeafloorCavern_Room1_Text_Grunt2Defeat:
-	.string "Losing makes me sore!$"
+	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 SeafloorCavern_Room1_Text_Grunt2PostBattle:
-	.string "That submarine we jacked, man,\n"
-	.string "it's brutal as a ride.\l"
-	.string "It's way too tight in there!$"
+.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
+	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
 

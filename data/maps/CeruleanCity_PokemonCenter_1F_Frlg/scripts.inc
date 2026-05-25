@@ -36,28 +36,28 @@ CeruleanCity_PokemonCenter_1F_EventScript_Lass::
 
 CeruleanCity_PokemonCenter_1F_Text_BillDoesWhateverForRareMons::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThat BILL!\p"
-	.string "I heard that he'll do whatever it\n"
-	.string "takes to get rare POKéMON.\p"
-	.string "He's not above doing all sorts\n"
-	.string "of things, I've heard.$"
+.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
+.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
 
 CeruleanCity_PokemonCenter_1F_Text_EveryoneCallsBillPokemaniac::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHave you heard about BILL?\p"
-	.string "Everyone calls him a POKéMANIAC!\p"
-	.string "I think people are just jealous of\n"
-	.string "BILL, though.\p"
-	.string "Who wouldn't want to boast about\n"
-	.string "their POKéMON?$"
+.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
+.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
+.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!"
+.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
+.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!$"
 
 CeruleanCity_PokemonCenter_1F_Text_BillCollectsRareMons::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pBILL has lots of POKéMON!\n"
-	.string "He collects rare ones, too!$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pBILL has lots of POKeMON!\n"
+.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!$"
 
 CeruleanCity_PokemonCenter_1F_Text_TryTradingUpstairs::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWhy don't you go upstairs and try\n"
-	.string "trading POKéMON with your friends?\p"
-	.string "You could get a lot more variety\n"
-	.string "by trading.\p"
-	.string "The POKéMON you get in trades grow\n"
-	.string "quickly, too.$"
+.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
+.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
+.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
+.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
+.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!$"
 

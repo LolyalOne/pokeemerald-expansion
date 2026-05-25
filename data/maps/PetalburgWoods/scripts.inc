@@ -316,158 +316,158 @@ PetalburgWoods_EventScript_JamesRematch::
 	end
 
 PetalburgWoods_Text_NotAOneToBeFound:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pHmmm…\n"
-	.string "Not a one to be found…$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pHmmm...\n"
+	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 PetalburgWoods_Text_HaveYouSeenShroomish:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHello, have you seen any POKéMON\n"
-	.string "called SHROOMISH around here?\p"
-	.string "I really love that POKéMON.$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHello, have you seen any POKeMON\n"
+.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
 
 PetalburgWoods_Text_IWasGoingToAmbushYou:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pI was going to ambush you, but you\n"
-	.string "had to dawdle in PETALBURG WOODS\l"
-	.string "forever, didn't you?\p"
-	.string "I got sick of waiting, so here I am!$"
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
+	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
 
 PetalburgWoods_Text_HandOverThosePapers:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pYou! DEVON RESEARCHER!\p"
-	.string "Hand over those papers!$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 PetalburgWoods_Text_YouHaveToHelpMe:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pAiyeeeh!\p"
-	.string "You're a POKéMON TRAINER, aren't you?\n"
-	.string "You've got to help me, please!$"
+.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
 
 PetalburgWoods_Text_NoOneCrossesTeamAqua:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pHunh? What do you think you're doing?\n"
-	.string "What, you're going to protect him?\p"
-	.string "No one who crosses TEAM AQUA\n"
-	.string "gets any mercy, not even a kid!\p"
-	.string "Come on and battle me!$"
+.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
+.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
+.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!$"
 
 PetalburgWoods_Text_YoureKiddingMe:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pYou're kidding me! You're tough!$"
+	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
 
 PetalburgWoods_Text_YouveGotSomeNerve:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pGrrr… You've got some nerve\n"
-	.string "meddling with TEAM AQUA!\l"
-	.string "Come on and battle me again!\p"
-	.string "I wish I could say that, but I'm out of\n"
-	.string "POKéMON…\p"
-	.string "And, hey, we of TEAM AQUA are also\n"
-	.string "after something in RUSTBORO.\p"
-	.string "I'll let you go today!$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pGrrr... You've got some nerve\n"
+.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
+.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
+.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
+.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
+.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!$"
 
 PetalburgWoods_Text_ThatWasAwfullyClose:
-	.string "Whew…\n"
-	.string "That was awfully close!\p"
-	.string "Thanks to you, he didn't rob me of\n"
-	.string "these important papers.\p"
-	.string "I know, I'll give you a GREAT BALL as\n"
-	.string "my thanks!$"
+.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
+.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 PetalburgWoods_Text_TeamAquaAfterSomethingInRustboro:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pDidn't that TEAM AQUA thug say\n"
-	.string "they were after something in\l"
-	.string "RUSTBORO, too?$"
+.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!$"
 
 PetalburgWoods_Text_ICantBeWastingTime:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pUh-oh! It's a crisis!\n"
-	.string "I can't be wasting time!$"
+	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
 
 PetalburgWoods_Text_YoureLoadedWithItems:
-	.string "You're loaded with items.\n"
-	.string "I can't give you this GREAT BALL.$"
+.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
+	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
 
 PetalburgWoods_Text_GoBugPokemonTeam:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI caught a whole bunch of POKéMON!\p"
-	.string "Go, go, go!\n"
-	.string "My BUG POKéMON team!$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI caught a whole bunch of POKeMON!\p"
+.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
+.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
 
 PetalburgWoods_Text_ICouldntWin:
-	.string "I have all these POKéMON,\n"
-	.string "but I couldn't win…$"
+.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 PetalburgWoods_Text_ImOutOfPokeBalls:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pI caught a bunch of POKéMON.\n"
-	.string "Now I'm out of POKé BALLS.$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pI caught a bunch of POKeMON.\n"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
 
 PetalburgWoods_Text_InstantlyPopularWithBugPokemon:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pIf you take BUG POKéMON to school,\n"
-	.string "you get to be instantly popular!$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pIf you take BUG POKeMON to school,\n"
+	.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
 
 PetalburgWoods_Text_CantBePopularIfILose:
-	.string "I can't be popular if I lose.$"
+	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
 
 PetalburgWoods_Text_PeopleRespectYou:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pIf you have a big BUG POKéMON,\n"
-	.string "people respect you for it.$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pIf you have a big BUG POKeMON,\n"
+	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
 
 PetalburgWoods_Text_IWantRematch1:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI want a rematch when my BUG\n"
-	.string "POKéMON grow up!\p"
-	.string "I'm registering you in my POKéNAV!$"
+.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
+.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
 
 PetalburgWoods_Text_IWantRematch2:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI want a rematch when my BUG \n"
-	.string "POKéMON grow up!\p"
-	.string "I'm registering you in my POKéNAV!$"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
+.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!$"
 
 PetalburgWoods_Text_MyPokemonHaveGrown:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pMy BUG POKéMON have grown.\n"
-	.string "I'll be popular again.$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pMy BUG POKeMON have grown.\n"
+.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!$"
 
 PetalburgWoods_Text_CantBePopularIfLose:
-	.string "I can't be popular if I lose.$"
+.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!$"
 
 PetalburgWoods_Text_IveBeenTrainingHard:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYou get to be popular if you have\n"
-	.string "strong POKéMON, right?\l"
-	.string "So, I've been training hard.$"
+.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
 
 PetalburgWoods_Text_StayOutOfTallGrass:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pYo, there!\n"
-	.string "Your POKéMON doing okay?\p"
-	.string "If your POKéMON are weak and you want\n"
-	.string "to avoid battles, you should stay out\l"
-	.string "of tall grass.$"
+.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
+.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
+.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
+	.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 PetalburgWoods_Text_HiddenItemsExplanation:
-	.string "Sometimes, there are things on the\n"
-	.string "ground even if you can't see them.\p"
-	.string "That's why I always check where I'm\n"
-	.string "walking.$"
+.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
+.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
+.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou.$"
 
 PetalburgWoods_Text_TryUsingThisItem:
-	.string "Oh, neat!\n"
-	.string "That's the BADGE from RUSTBORO GYM!\p"
-	.string "You must be a TRAINER.\n"
-	.string "You should try using this item.$"
+.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
+.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
+	.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
 
 PetalburgWoods_Text_MiracleSeedExplanation:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pIt's a MIRACLE SEED.\n"
-	.string "If a POKéMON holds that item, its\l"
-	.string "GRASS-type moves become stronger.\p"
-	.string "Besides MIRACLE SEED, I think there are\n"
-	.string "other convenient items for POKéMON\l"
-	.string "to hold.$"
+.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
+.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
+.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
+.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 PetalburgWoods_Text_TrainerTipsExperience:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pTRAINER TIPS\p"
-	.string "Any POKéMON that appears even once\n"
-	.string "in a battle is awarded EXP Points.\p"
-	.string "To raise a weak POKéMON, put it at the\n"
-	.string "left of the team list.\p"
-	.string "As soon as a battle starts, switch it\n"
-	.string "out. It will earn EXP Points without\l"
-	.string "being exposed to any harm.$"
+.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
+.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
+.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
+.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
+.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
+.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!$"
 
 PetalburgWoods_Text_TrainerTipsPP:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pTRAINER TIPS\p"
-	.string "In addition to Hit Points (HP), POKéMON\n"
-	.string "have Power Points (PP) that are used to\l"
-	.string "make moves during battle.\p"
-	.string "If a POKéMON runs out of PP, it must be\n"
-	.string "taken to a POKéMON CENTER.$"
+.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
+.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
 

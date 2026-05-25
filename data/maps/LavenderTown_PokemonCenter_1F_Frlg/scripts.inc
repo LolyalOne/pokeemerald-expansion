@@ -28,17 +28,17 @@ LavenderTown_PokemonCenter_1F_EventScript_Youngster::
 
 LavenderTown_PokemonCenter_1F_Text_RocketsDoAnythingForMoney::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pTEAM ROCKET will do anything for\n"
-	.string "the sake of money!\p"
-	.string "There is no job too dirty, no deed\n"
-	.string "too heinous, no crime too wicked!$"
+.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
+.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
+	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
 
 LavenderTown_PokemonCenter_1F_Text_CubonesMotherKilledByRockets::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pI saw CUBONE's mother trying to\n"
-	.string "escape from TEAM ROCKET.\p"
-	.string "She was killed trying to get away…$"
+.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
+	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
 
 LavenderTown_PokemonCenter_1F_Text_PeoplePayForCuboneSkulls::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pYou know how the CUBONE species\n"
-	.string "wears skulls, right?\p"
-	.string "People will pay a lot for one.$"
+.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
+	.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
 

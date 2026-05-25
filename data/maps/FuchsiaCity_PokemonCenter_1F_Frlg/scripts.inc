@@ -28,19 +28,19 @@ FuchsiaCity_PokemonCenter_1F_EventScript_Youngster::
 
 FuchsiaCity_PokemonCenter_1F_Text_CantBecomeGoodTrainerWithOneMon::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYou can't become a good TRAINER\n"
-	.string "with just one strong POKéMON.\p"
-	.string "But raising many POKéMON evenly\n"
-	.string "is no easy task, either.$"
+.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
+.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!$"
 
 FuchsiaCity_PokemonCenter_1F_Text_PokemonLeagueWestOfViridian::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThere's a narrow trail west of\n"
-	.string "VIRIDIAN CITY.\p"
-	.string "It goes to the POKéMON LEAGUE HQ.\n"
-	.string "The HQ governs all TRAINERS.$"
+.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 FuchsiaCity_PokemonCenter_1F_Text_VisitSafariZoneForPokedex::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pIf you're working on a POKéDEX,\n"
-	.string "visit the SAFARI ZONE.\p"
-	.string "All sorts of rare POKéMON breed\n"
-	.string "there.$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pIf you're working on a POKeDEX,\n"
+.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
+.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
 

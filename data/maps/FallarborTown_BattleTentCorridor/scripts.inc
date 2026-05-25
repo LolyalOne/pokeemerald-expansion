@@ -43,26 +43,26 @@ FallarborTown_BattleTentCorridor_Movement_AttendantEnterDoor:
 @ Unused
 FallarborTown_ContestHall_Text_DoAllRightInPreliminary:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWe do all right in the preliminary round,\n"
-	.string "but we can never win the appeals…\p"
-	.string "Maybe it means I have to watch what\n"
-	.string "other contestants are doing…$"
+.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
 
 @ Unused
 FallarborTown_ContestHall_Text_MonAllTheseRibbons:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pSee!\n"
-	.string "My POKéMON won all these RIBBONS!\p"
-	.string "Have your POKéMON earned any RIBBONS?\n"
-	.string "You can check them on your POKéNAV.$"
+.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
+.string "Parabens, Lucas! Sua jornada\napenas comecou."
+.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!$"
 
 @ Unused
 FallarborTown_ContestHall_Text_CantWinEverywhere:
-	.string "I can't beat GYM LEADERS…\p"
-	.string "I can't win any CONTESTS…\p"
-	.string "I've been here, there, and everywhere,\n"
-	.string "and it's all for naught…$"
+.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
+.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
+	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
 
 @ Unused
 FallarborTown_ContestHall_Text_SuperRankStage:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pPOKéMON CONTESTS\n"
-	.string "SUPER RANK STAGE!$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pPOKeMON CONTESTS\n"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 

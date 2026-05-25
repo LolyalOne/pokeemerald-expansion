@@ -10,121 +10,121 @@ Route25_EventScript_Man::
 	end
 
 Route25_Text_JoeyIntro::
-	.string "Local TRAINERS come here to\n"
-	.string "practice.$"
+.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
+.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
 
 Route25_Text_JoeyDefeat::
-	.string "You're decent.$"
+.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!$"
 
 Route25_Text_JoeyPostBattle::
-	.string "All POKéMON have weaknesses.\n"
-	.string "Even the strongest ones.\p"
-	.string "That's why it's best to raise\n"
-	.string "POKéMON of different types.$"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
+.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
+.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
+	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
 
 Route25_Text_DanIntro::
-	.string "Dad took me to a great party on\n"
-	.string "the S.S. ANNE at VERMILION CITY.$"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
+.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 Route25_Text_DanDefeat::
-	.string "I'm not mad!$"
+	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
 
 Route25_Text_DanPostBattle::
-	.string "On the S.S. ANNE, I saw TRAINERS\n"
-	.string "from around the world.$"
+.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
+	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 Route25_Text_FlintIntro::
-	.string "I'm a cool guy.\n"
-	.string "I've got a girlfriend!$"
+.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Lucas, voce e o melhor! Sua\njornada apenas comecou.$"
 
 Route25_Text_FlintDefeat::
-	.string "Aww, darn…$"
+.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
 
 Route25_Text_FlintPostBattle::
-	.string "Oh, well.\n"
-	.string "My girlfriend will cheer me up.$"
+.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
+.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!$"
 
 Route25_Text_KelseyIntro::
-	.string "Hi!\n"
-	.string "My boyfriend is cool!$"
+.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
+	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 Route25_Text_KelseyDefeat::
-	.string "My conditioning isn't the best…$"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 Route25_Text_KelseyPostBattle::
-	.string "I wish my boyfriend was as good\n"
-	.string "as you.$"
+.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!"
+	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 
 Route25_Text_ChadIntro::
-	.string "I had this feeling…\n"
-	.string "I knew I had to battle you!$"
+.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
+	.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 Route25_Text_ChadDefeat::
-	.string "I knew I'd lose, too!$"
+.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!$"
 
 Route25_Text_ChadPostBattle::
-	.string "If your POKéMON gets confused,\n"
-	.string "switch it out.\p"
-	.string "That's a good tactic.$"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
+.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
+	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
 
 Route25_Text_HaleyIntro::
-	.string "My friend has many cute POKéMON.\n"
-	.string "I'm so jealous!$"
+.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!$"
 
 Route25_Text_HaleyDefeat::
-	.string "I'm not so jealous!$"
+.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!$"
 
 Route25_Text_HaleyPostBattle::
-	.string "You came from MT. MOON?\n"
-	.string "May I have a CLEFAIRY?$"
+.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
+	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
 
 Route25_Text_FranklinIntro::
-	.string "I just got down from MT. MOON,\n"
-	.string "but I've still got gas in the tank!$"
+.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!$"
 
 Route25_Text_FranklinDefeat::
-	.string "You worked hard!$"
+.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 Route25_Text_FranklinPostBattle::
-	.string "Drat!\n"
-	.string "A ZUBAT bit me back in that cave.$"
+.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
+	.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 Route25_Text_NobIntro::
-	.string "I'm off to see a POKéMANIAC's\n"
-	.string "collection at the cape.$"
+.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
+.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
 
 Route25_Text_NobDefeat::
-	.string "You done got me, and real good,\n"
-	.string "too!$"
+.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
+	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 Route25_Text_NobPostBattle::
-	.string "The POKéMANIAC sure lives up to\n"
-	.string "his name.\p"
-	.string "His collection includes many rare\n"
-	.string "species of POKéMON.$"
+.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
+.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!$"
 
 Route25_Text_WayneIntro::
-	.string "You're going to see BILL?\n"
-	.string "First, we battle!$"
+.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
+	.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
 
 Route25_Text_WayneDefeat::
-	.string "You're something.$"
+	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
 
 Route25_Text_WaynePostBattle::
-	.string "The trail below is a shortcut to\n"
-	.string "CERULEAN CITY.$"
+.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
+	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
 
 Route25_Text_SeaCottageSign::
-	.string "SEA COTTAGE\n"
-	.string "BILL lives here!$"
+.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!$"
 
 Route25_Text_MistyHighHopesAboutThisPlace::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThis cape is a famous date spot.\p"
-	.string "MISTY, the GYM LEADER, has high\n"
-	.string "hopes about this place.$"
+.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
+.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!$"
 
 Route25_Text_AreYouHereAlone::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pHello, are you here alone?\p"
-	.string "If you're out at CERULEAN's cape…\n"
-	.string "Well, it should be as a couple.$"
+.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!$"
 

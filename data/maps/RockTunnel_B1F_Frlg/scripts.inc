@@ -42,97 +42,97 @@ RockTunnel_B1F_EventScript_Winston::
 	end
 
 RockTunnel_B1F_Text_SofiaIntro::
-	.string "Do you know how you can avoid\n"
-	.string "getting lost in the mountains?\p"
-	.string "You can bend twigs as trail\n"
-	.string "markers.$"
+.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
+.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
+.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
 
 RockTunnel_B1F_Text_SofiaDefeat::
-	.string "Ohhh!\n"
-	.string "I did my best!$"
+.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
+	.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
 
 RockTunnel_B1F_Text_SofiaPostBattle::
-	.string "I want to go home!$"
+.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!$"
 
 RockTunnel_B1F_Text_DudleyIntro::
-	.string "Hahaha!\n"
-	.string "Can you beat my power?$"
+.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
+	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 RockTunnel_B1F_Text_DudleyDefeat::
-	.string "Oops!\n"
-	.string "Outmuscled!$"
+.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!"
+	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
 
 RockTunnel_B1F_Text_DudleyPostBattle::
-	.string "I go for power because I hate\n"
-	.string "thinking.$"
+.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
+.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!$"
 
 RockTunnel_B1F_Text_CooperIntro::
-	.string "You have a POKéDEX?\n"
-	.string "I want one, too.$"
+.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
+	.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 RockTunnel_B1F_Text_CooperDefeat::
-	.string "Shoot!\n"
-	.string "I am so jealous!$"
+.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!$"
 
 RockTunnel_B1F_Text_CooperPostBattle::
-	.string "When you finish your POKéDEX,\n"
-	.string "can I have it?$"
+.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!$"
 
 RockTunnel_B1F_Text_SteveIntro::
-	.string "Um… Do you know about POKéMON\n"
-	.string "cosplay?$"
+.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 
 RockTunnel_B1F_Text_SteveDefeat::
-	.string "Well, that's that.$"
+.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
 
 RockTunnel_B1F_Text_StevePostBattle::
-	.string "POKéMON cosplay is dressing up as\n"
-	.string "POKéMON for fun.\p"
-	.string "CLEFAIRY is a favorite.$"
+.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!"
+.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
+	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
 
 RockTunnel_B1F_Text_AllenIntro::
-	.string "My POKéMON techniques will leave\n"
-	.string "you crying!$"
+.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
+	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
 
 RockTunnel_B1F_Text_AllenDefeat::
-	.string "I give!\n"
-	.string "You're a better technician!$"
+.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
 
 RockTunnel_B1F_Text_AllenPostBattle::
-	.string "In mountains, you'll often find\n"
-	.string "ROCK-type POKéMON.$"
+.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
+.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!$"
 
 RockTunnel_B1F_Text_MarthaIntro::
-	.string "I don't often come here, but I will\n"
-	.string "battle you.$"
+.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
 
 RockTunnel_B1F_Text_MarthaDefeat::
-	.string "Oh!\n"
-	.string "I lost!$"
+.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
+.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!$"
 
 RockTunnel_B1F_Text_MarthaPostBattle::
-	.string "I like tiny POKéMON.\n"
-	.string "Big ones are too scary!$"
+.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
+.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!$"
 
 RockTunnel_B1F_Text_EricIntro::
-	.string "Hit me with your best shot!$"
+	.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 RockTunnel_B1F_Text_EricDefeat::
-	.string "Fired away!$"
+	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
 
 RockTunnel_B1F_Text_EricPostBattle::
-	.string "I'll raise my POKéMON to beat\n"
-	.string "yours, kid.$"
+.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
+	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
 
 RockTunnel_B1F_Text_WinstonIntro::
-	.string "I draw illustrations of POKéMON\n"
-	.string "when I'm home.$"
+.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
+	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 
 RockTunnel_B1F_Text_WinstonDefeat::
-	.string "Whew…\n"
-	.string "I'm exhausted…$"
+.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
+	.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
 
 RockTunnel_B1F_Text_WinstonPostBattle::
-	.string "I'm an artist, not a fighter.\n"
-	.string "I'll go home to draw.$"
+.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
+	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
 

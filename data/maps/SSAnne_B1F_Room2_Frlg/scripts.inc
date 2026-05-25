@@ -7,12 +7,12 @@ SSAnne_B1F_Room2_EventScript_Huey::
 	end
 
 SSAnne_B1F_Room2_Text_HueyIntro::
-	.string "Even us sailors have POKéMON, too!$"
+	.string "Parabens, Lucas! Sua jornada apenas comecou.$"
 
 SSAnne_B1F_Room2_Text_HueyDefeat::
-	.string "Okay, you're not bad.$"
+	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
 
 SSAnne_B1F_Room2_Text_HueyPostBattle::
-	.string "We caught all our POKéMON while\n"
-	.string "we were out at sea.$"
+	.string "Feliz 23 de Maio, Lucas! O mundo POKeMON celebra voce!"
+	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
 

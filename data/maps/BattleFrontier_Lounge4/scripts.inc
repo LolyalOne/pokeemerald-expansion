@@ -14,17 +14,17 @@ BattleFrontier_Lounge4_EventScript_Man::
 	end
 
 BattleFrontier_Lounge4_Text_WonderIfInterviewsAiring:
-	.string "I wonder if they'll be airing interviews\n"
-	.string "with tough TRAINERS today?$"
+.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
+	.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
 
 BattleFrontier_Lounge4_Text_IfIOpenedRestaurantHere:
-	.string "If I opened a restaurant here,\n"
-	.string "it'd make money for sure.$"
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
+	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
 
 BattleFrontier_Lounge4_Text_NeedBreatherAfterBattles:
-	.string "Whew…\p"
-	.string "I need to take a breather after\n"
-	.string "some intense battles…\p"
-	.string "But even now, I never take a break\n"
-	.string "from plotting strategy and combos.$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
+.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
+.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
+.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
+.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!$"
 

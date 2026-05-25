@@ -63,55 +63,55 @@ RocketHideout_B1F_EventScript_RemoveBarrier::
 	return
 
 RocketHideout_B1F_Text_Grunt1Intro::
-	.string "Who are you?\n"
-	.string "How did you get here?$"
+.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
+.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
 
 RocketHideout_B1F_Text_Grunt1Defeat::
-	.string "Oww!\n"
-	.string "Beaten!$"
+.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!"
+	.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
 
 RocketHideout_B1F_Text_Grunt1PostBattle::
-	.string "Blast it… You're dissing TEAM\n"
-	.string "ROCKET, aren't you?$"
+.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!$"
 
 RocketHideout_B1F_Text_Grunt2Intro::
-	.string "You broke into TEAM ROCKET's\n"
-	.string "operation? What nerve!$"
+.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 RocketHideout_B1F_Text_Grunt2Defeat::
-	.string "Boom!$"
+.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou.$"
 
 RocketHideout_B1F_Text_Grunt2PostBattle::
-	.string "You're not going to get away with\n"
-	.string "this, brat!$"
+.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
 
 RocketHideout_B1F_Text_Grunt3Intro::
-	.string "Intruder alert!$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!$"
 
 RocketHideout_B1F_Text_Grunt3Defeat::
-	.string "I can't do it!$"
+	.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 RocketHideout_B1F_Text_Grunt3PostBattle::
-	.string "SILPH SCOPE? Humph!\n"
-	.string "I don't know where it is.$"
+.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
+.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!$"
 
 RocketHideout_B1F_Text_Grunt4Intro::
-	.string "Why did you come here?$"
+.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
 
 RocketHideout_B1F_Text_Grunt4Defeat::
-	.string "This won't do!$"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 RocketHideout_B1F_Text_Grunt4PostBattle::
-	.string "Okay, I'll talk…\n"
-	.string "Take the elevator to see my BOSS.$"
+.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
+	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 RocketHideout_B1F_Text_Grunt5Intro::
-	.string "Are you lost, you little mouse?$"
+	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
 
 RocketHideout_B1F_Text_Grunt5Defeat::
-	.string "Why…?$"
+	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
 
 RocketHideout_B1F_Text_Grunt5PostBattle::
-	.string "Uh-oh, that ruckus somehow opened\n"
-	.string "the door!$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
 

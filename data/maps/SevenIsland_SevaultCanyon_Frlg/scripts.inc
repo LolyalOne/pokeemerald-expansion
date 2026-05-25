@@ -6,132 +6,132 @@ SevenIsland_SevaultCanyon_EventScript_RouteSign::
 	end
 
 SevenIsland_SevaultCanyon_Text_CyndyIntro::
-	.string "My conditioning's in top form!$"
+	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
 
 SevenIsland_SevaultCanyon_Text_CyndyDefeat::
-	.string "Huh?\n"
-	.string "Something's not right…$"
+.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
+	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
 
 SevenIsland_SevaultCanyon_Text_CyndyPostBattle::
-	.string "The way I am now, I may have to\n"
-	.string "hold off on TRAINER TOWER…$"
+.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
+.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou.$"
 
 SevenIsland_SevaultCanyon_Text_EvanIntro::
-	.string "It doesn't matter if you happen to\n"
-	.string "have the strongest POKéMON…\p"
-	.string "It doesn't mean a thing if you don't\n"
-	.string "know how to use them properly!$"
+.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
+.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
+.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
+	.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 SevenIsland_SevaultCanyon_Text_EvanDefeat::
-	.string "You're a master at this.$"
+	.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
 
 SevenIsland_SevaultCanyon_Text_EvanPostBattle::
-	.string "You see them every so often,\n"
-	.string "TRAINERS with awesome POKéMON\l"
-	.string "who have no idea what to do.\p"
-	.string "Before training POKéMON, TRAINERS\n"
-	.string "themselves need to grow up.$"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
+.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
+.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
+.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
 
 SevenIsland_SevaultCanyon_Text_JacksonIntro::
-	.string "I work to protect the environment.\n"
-	.string "In turn, nature protects me!$"
+.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
+	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
 
 SevenIsland_SevaultCanyon_Text_JacksonDefeat::
-	.string "Whoa! You're tough!\n"
-	.string "How about protecting me?$"
+.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou.$"
 
 SevenIsland_SevaultCanyon_Text_JacksonPostBattle::
-	.string "From far out among the stars, our\n"
-	.string "planet is just a drop of water.\p"
-	.string "But we want to protect that drop\n"
-	.string "of water for everyone.$"
+.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
+.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!$"
 
 SevenIsland_SevaultCanyon_Text_KatelynIntro::
-	.string "Those shoes you have are pretty\n"
-	.string "snazzy.$"
+.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
+	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
 
 SevenIsland_SevaultCanyon_Text_KatelynDefeat::
-	.string "You're hot stuff in spite of your\n"
-	.string "cute looks.$"
+.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
 
 SevenIsland_SevaultCanyon_Text_KatelynPostBattle::
-	.string "Your mom bought those snazzy\n"
-	.string "RUNNING SHOES for you?\p"
-	.string "She must adore you.$"
+.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
+.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
+	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
 
 SevenIsland_SevaultCanyon_Text_LeroyIntro::
-	.string "You look strong.\n"
-	.string "Let me battle you, please!$"
+.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
+	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 SevenIsland_SevaultCanyon_Text_LeroyDefeat::
-	.string "I knew it!\n"
-	.string "You're as tough as I thought!$"
+.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!$"
 
 SevenIsland_SevaultCanyon_Text_LeroyPostBattle::
-	.string "The way you battle has given me\n"
-	.string "a lot of useful data.\p"
-	.string "Thanks so much!$"
+.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
+.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!$"
 
 SevenIsland_SevaultCanyon_Text_MichelleIntro::
-	.string "I was given the best possible\n"
-	.string "education to become this strong.\p"
-	.string "I don't want to lose to anyone!$"
+.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
+.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!$"
 
 SevenIsland_SevaultCanyon_Text_MichelleDefeat::
-	.string "Thank you. I feel like I've been\n"
-	.string "set free by losing to you.$"
+.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!$"
 
 SevenIsland_SevaultCanyon_Text_MichellePostBattle::
-	.string "For some reason, I get furious\n"
-	.string "over the slightest thing.\p"
-	.string "I'll calm myself by breathing\n"
-	.string "deeply.$"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
+.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!$"
 
 SevenIsland_SevaultCanyon_Text_LexIntro::
-	.string "LEX: My darling NYA, together\n"
-	.string "we could win!$"
+.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
+.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
 
 SevenIsland_SevaultCanyon_Text_LexDefeat::
-	.string "LEX: I seem to have been too\n"
-	.string "careless…$"
+.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
 
 SevenIsland_SevaultCanyon_Text_LexPostBattle::
-	.string "LEX: I think it was a good\n"
-	.string "experience for NYA.\p"
-	.string "You have my gratitude.$"
+.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!"
+.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!$"
 
 SevenIsland_SevaultCanyon_Text_LexNotEnoughMons::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pLEX: May I ask you to battle the\n"
-	.string "both of us at the same time?$"
+.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!$"
 
 SevenIsland_SevaultCanyon_Text_NyaIntro::
-	.string "NYA: I'll do my best so I won't\n"
-	.string "drag down my mentor, LEX!$"
+.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
+	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 SevenIsland_SevaultCanyon_Text_NyaDefeat::
-	.string "NYA: Oh, no…\n"
-	.string "I'm so sorry, I…$"
+.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
+.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
 
 SevenIsland_SevaultCanyon_Text_NyaPostBattle::
-	.string "NYA: I think I'm going to need\n"
-	.string "much more seasoning and tutoring\l"
-	.string "under LEX…\p"
-	.string "…So, LEX, please, may I stay with\n"
-	.string "you like this?$"
+.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
+.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
+.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
+	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
 
 SevenIsland_SevaultCanyon_Text_NyaNotEnoughMons::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pNYA: I'm sorry, but may we battle\n"
-	.string "in two-on-two style?$"
+	.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
 
 SevenIsland_SevaultCanyon_Text_RouteSign::
-	.string "SEVAULT CANYON\n"
-	.string "TANOBY RUINS AHEAD$"
+.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!$"
 
 SevenIsland_SevaultCanyon_Text_BrunoTrainedWithBrawly::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pTraining by oneself is certainly\n"
-	.string "not a bad thing.\p"
-	.string "But it's also not bad to aim for\n"
-	.string "the top with a partner.\p"
-	.string "Even BRUNO…\n"
-	.string "He trained with a fellow by the\l"
-	.string "name of BRAWLY before.$"
+.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
+.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
+.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
+.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
+	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"

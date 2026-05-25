@@ -55,18 +55,18 @@ LilycoveCity_DepartmentStore_3F_EventScript_Woman::
 	end
 
 LilycoveCity_DepartmentStore_3F_Text_ItemsBestForTougheningPokemon:
-	.string "For quickly toughening up POKéMON,\n"
-	.string "items are the best.\p"
-	.string "PROTEIN boosts ATTACK,\n"
-	.string "and CALCIUM raises SP. ATK.$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
+.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
+.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
+.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!$"
 
 LilycoveCity_DepartmentStore_3F_Text_WantMoreEndurance:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI want my POKéMON to have more\n"
-	.string "endurance.\p"
-	.string "I'm trying to decide whether to raise\n"
-	.string "DEFENSE with IRON, or SP. DEF with ZINC.$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI want my POKeMON to have more\n"
+.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
+.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
 
 LilycoveCity_DepartmentStore_3F_Text_GaveCarbosToSpeedUpMon:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI gave a CARBOS to my POKéMON,\n"
-	.string "and its SPEED went up.$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI gave a CARBOS to my POKeMON,\n"
+.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
 

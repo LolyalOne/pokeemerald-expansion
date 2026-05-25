@@ -285,155 +285,157 @@ LittlerootTown_BrendansHouse_1F_Movement_BrendanGoUpstairs2:
 
 PlayersHouse_1F_Text_IsntItNiceInHere:
 	.string "MAE: Veja so, {PLAYER}!\n"
-	.string "Que lugar incrivel, nao e?$"
+.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!$"
 
 PlayersHouse_1F_Text_MoversPokemonGoSetClock:
-	.string "Os POKeMON da mudanca fizeram\n"
-	.string "todo o trabalho pesado por nos!\l"
-	.string "Isso e muito conveniente!\p"
+.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
+.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
 	.string "{PLAYER}, seu quarto e la em cima.\n"
-	.string "Va dar uma olhada, querido!\p"
-	.string "O PAI comprou um relogio novo para\n"
-	.string "marcar nossa mudanca e o seu\l"
-	.string "aniversario!\p"
-	.string "Nao esqueca de ajustar a hora!$"
+.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
+.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
+.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
+	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
 
 PlayersHouse_1F_Text_ArentYouInterestedInRoom:
 	.string "MAE: E entao, {PLAYER}?\p"
-	.string "Nao esta curioso para ver o seu\n"
-	.string "quarto novo?$"
+.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
+.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
 
 PlayersHouse_1F_Text_GoSetTheClock:
 	.string "MAE: {PLAYER}.\p"
-	.string "Va ajustar o relogio no seu quarto.$"
+	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
 
 PlayersHouse_1F_Text_OhComeQuickly:
 	.string "MAE: Oh! {PLAYER}, {PLAYER}!\n"
-	.string "Rapido! Venha ca rapido!$"
+	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
 
 PlayersHouse_1F_Text_MaybeDadWillBeOn:
-	.string "MAE: Olhe! E o GINASIO DE PETALBURG!\n"
-	.string "Talvez o PAI apareca na TV!$"
+.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
+	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
 
 PlayersHouse_1F_Text_ItsOverWeMissedHim:
-	.string "MAE: Ah... Acabou.\p"
-	.string "Acho que o PAI estava la, mas nos\n"
-	.string "perdemos a entrevista. Que pena.$"
+.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
+	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
 
 PlayersHouse_1F_Text_GoIntroduceYourselfNextDoor:
-	.string "Ah, sim!\n"
-	.string "Hoje e um dia muito especial!\p"
-	.string "Alem de ser o seu aniversario,\n"
-	.string "seus amigos estao te esperando!\p"
-	.string "Eles se reuniram la fora, na vila,\n"
-	.string "para te dar os parabens.\p"
-	.string "Va la fora e fale com eles!$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!"
+.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
+.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
+.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
+	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
 
 PlayersHouse_1F_Text_SeeYouHoney:
-	.string "MOM: See you, honey!$"
+.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
 
 PlayersHouse_1F_Text_DidYouMeetProfBirch:
-	.string "MOM: Did you introduce yourself to\n"
-	.string "PROF. BIRCH?$"
+.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
+.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
 
 PlayersHouse_1F_Text_YouShouldRestABit:
-	.string "MOM: How are you doing, {PLAYER}?\n"
-	.string "You look a little tired.\p"
-	.string "I think you should rest a bit.$"
+	.string "MAE: Como voce esta, {PLAYER}?\n"
+.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
+.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
 
 PlayersHouse_1F_Text_TakeCareHoney:
-	.string "MOM: Take care, honey!$"
+.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!$"
 
 PlayersHouse_1F_Text_GotDadsBadgeHeresSomethingFromMom:
-	.string "MOM: Oh? Did DAD give you that BADGE?\p"
-	.string "Then here's something from your MOM!$"
+.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!$"
 
 PlayersHouse_1F_Text_DontPushYourselfTooHard:
-	.string "Don't push yourself too hard, dear.\n"
-	.string "You can always come home.\p"
-	.string "Go for it, honey!$"
+.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
+.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
 
 PlayersHouse_1F_Text_IsThatAPokenav:
-	.string "MOM: What is that, honey? A POKéNAV?\n"
-	.string "Someone from DEVON gave it to you?\p"
-	.string "Well, honey, how about registering\n"
-	.string "your mom?\p"
-	.string "… … …$"
+.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
+.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
+.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
+	.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
 
 PlayersHouse_1F_Text_RegisteredMom:
-	.string "Registered MOM\n"
-	.string "in the POKéNAV.$"
+.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
 
 PlayersHouse_1F_Text_Vigoroth1:
-	.string "Fugiiiiih!$"
+	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
 
 PlayersHouse_1F_Text_Vigoroth2:
-	.string "Huggoh, uggo uggo…$"
+	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
 
 PlayersHouse_1F_Text_ReportFromPetalburgGym:
-	.string "INTERVIEWER: …We brought you this\n"
-	.string "report from in front of PETALBURG GYM.$"
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
+	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
 
 PlayersHouse_1F_Text_TheresAMovieOnTV:
-	.string "There is a movie on TV.\p"
-	.string "Two men are dancing on a big piano\n"
-	.string "keyboard.\p"
-	.string "Better get going!$"
+.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
+	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
 
 PlayersHouse_1F_Text_RunningShoesManual:
-	.string "It's the instruction booklet for the\n"
-	.string "RUNNING SHOES.\p"
-	.string "“Press the B Button to run while\n"
-	.string "wearing your RUNNING SHOES.\p"
-	.string "“Lace up your RUNNING SHOES and hit\n"
-	.string "the road running!”$"
+.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
+.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
+.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
+.string "Parabens, Lucas! Sua jornada\napenas comecou."
+.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
 
 PlayersHouse_1F_Text_TicketFromBrineyCameForYou:
-	.string "DAD: Hm?\p"
-	.string "Hey, it's {PLAYER}!\p"
-	.string "It's been a while since I saw you,\n"
-	.string "but you look…stronger, somehow.\p"
-	.string "That's the impression I get.\n"
-	.string "But your old man hasn't given up yet!\p"
-	.string "Oh, yes, I have something for you.\n"
-	.string "This came to you from someone named\l"
-	.string "MR. BRINEY.$"
+.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
+	.string "Ei, e o {PLAYER}!\p"
+.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
+.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
+.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
+.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
+	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 PlayersHouse_1F_Text_PortsInSlateportLilycove:
-	.string "DAD: Hm, a TICKET for a ferry?\p"
-	.string "If I recall, there are ferry ports in\n"
-	.string "SLATEPORT and LILYCOVE.$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
+.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
+	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
 
 PlayersHouse_1F_Text_BetterGetBackToGym:
-	.string "I'd better get back to PETALBURG GYM.\p"
-	.string "MOM, thanks for looking after the house\n"
-	.string "while I'm away.$"
+.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
+.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
 
 PlayersHouse_1F_Text_DadShouldStayLonger:
-	.string "MOM: That DAD of yours…\p"
-	.string "He comes home for the first time in a\n"
-	.string "while, but all he talks about is POKéMON.\p"
-	.string "He should relax and stay a little longer.$"
+.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
+.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
+.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 
 PlayersHouse_1F_Text_IsThatABreakingStory:
-	.string "MOM: Is that a breaking news story?$"
+	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 PlayersHouse_1F_Text_LatiEmergencyNewsFlash:
-	.string "We bring you this emergency\n"
-	.string "news flash!\p"
-	.string "In various HOENN locales, there have\n"
-	.string "been reports of a BZZT…colored\l"
-	.string "POKéMON in flight.\p"
-	.string "The identity of this POKéMON is\n"
-	.string "currently unknown.\p"
-	.string "We now return you to the regular\n"
-	.string "movie program.$"
+.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
+.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!"
+.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
+.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
+.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
+.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
+	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
 
 PlayersHouse_1F_Text_WhatColorDidTheySay:
-	.string "MOM: {PLAYER}, did you catch that?\p"
-	.string "What color did the announcer say\n"
-	.string "that POKéMON was?$"
+	.string "MAE: {PLAYER}, voce ouviu isso?\p"
+.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
+.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!$"
 
 PlayersHouse_1F_Text_StillUnknownPokemon:
-	.string "MOM: Well, isn't that something!\n"
-	.string "There are still unknown POKéMON.$"
+.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
+	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"

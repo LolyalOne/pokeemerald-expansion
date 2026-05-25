@@ -150,104 +150,104 @@ SaffronCity_Dojo_EventScript_DefeatedMasterKoichi::
 	end
 
 SaffronCity_Dojo_Text_MasterKoichiIntro::
-	.string "Grunt!\p"
-	.string "I am the KARATE MASTER!\n"
-	.string "I am the LEADER here!\p"
-	.string "You wish to challenge us?\n"
-	.string "Expect no mercy!\p"
-	.string "Fwaaa!$"
+.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
+.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!$"
 
 SaffronCity_Dojo_Text_MasterKoichiDefeat::
-	.string "Hwa!\n"
-	.string "Arrgh! Beaten!$"
+.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
+.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!$"
 
 SaffronCity_Dojo_Text_ChoosePrizedFightingMon::
-	.string "Indeed, I have lost!\p"
-	.string "But, I beseech you, do not take\n"
-	.string "our emblem as your trophy!\p"
-	.string "In return, I will give you a prized\n"
-	.string "FIGHTING POKéMON!\p"
-	.string "Choose whichever one you like!$"
+.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
+.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
+.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
+.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
+	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
 
 SaffronCity_Dojo_Text_StayAndTrainWithUs::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pGrunt!\n"
-	.string "Stay and train at karate with us!$"
+.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!$"
 
 SaffronCity_Dojo_Text_MikeIntro::
-	.string "Hoargh!\n"
-	.string "Take your shoes off!$"
+.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
+.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
 
 SaffronCity_Dojo_Text_MikeDefeat::
-	.string "I give up!$"
+	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
 
 SaffronCity_Dojo_Text_MikePostBattle::
-	.string "You wait 'til you see our MASTER!\n"
-	.string "I'm a small fry compared to him!$"
+.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
+	.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
 
 SaffronCity_Dojo_Text_HidekiIntro::
-	.string "I hear you're good!\n"
-	.string "Show me!$"
+.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou."
+.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!$"
 
 SaffronCity_Dojo_Text_HidekiDefeat::
-	.string "Judge!\n"
-	.string "One point!$"
+.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
+	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
 
 SaffronCity_Dojo_Text_HidekiPostBattle::
-	.string "Our MASTER is a pro fighter.\n"
-	.string "Be prepared to lose!$"
+.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
+	.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 SaffronCity_Dojo_Text_AaronIntro::
-	.string "Hiyah!\n"
-	.string "I have no fear for anything tough!\p"
-	.string "I shatter boulders for training\n"
-	.string "every day!$"
+.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
+.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
+	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
 
 SaffronCity_Dojo_Text_AaronDefeat::
-	.string "Yow!\n"
-	.string "Stubbed fingers!$"
+.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
 
 SaffronCity_Dojo_Text_AaronPostBattle::
-	.string "The only thing that frightens us is\n"
-	.string "psychic power!$"
+.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!$"
 
 SaffronCity_Dojo_Text_HitoshiIntro::
-	.string "Hwaah!\p"
-	.string "You're trespassing in our\n"
-	.string "FIGHTING DOJO!$"
+.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
+.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
 
 SaffronCity_Dojo_Text_HitoshiDefeat::
-	.string "Oof!\n"
-	.string "I give up!$"
+.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Lucas, voce e o melhor! Sua\njornada apenas comecou.$"
 
 SaffronCity_Dojo_Text_HitoshiPostBattle::
-	.string "The prime fighters across the land\n"
-	.string "train here.$"
+.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
+.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!$"
 
 SaffronCity_Dojo_Text_YouWantHitmonlee::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pYou want the hard-kicking\n"
-	.string "HITMONLEE?$"
+	.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
 
 SaffronCity_Dojo_Text_ReceivedMonFromKarateMaster::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p{PLAYER} received the {STR_VAR_1}\n"
-	.string "from the KARATE MASTER.$"
+	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 SaffronCity_Dojo_Text_YouWantHitmonchan::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pYou want the piston-punching\n"
-	.string "HITMONCHAN?$"
+.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
 
 SaffronCity_Dojo_Text_ReceivedMonFromKarateMaster2::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p{PLAYER}は　カラテ　だいおう　から\n"
-	.string "{STR_VAR_1}を　もらった！$"
+	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
 
 SaffronCity_Dojo_Text_BetterNotGetGreedy::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pBetter not get greedy…$"
+	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
 
 SaffronCity_Dojo_Text_EnemiesOnEverySide::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pEnemies on every side!$"
+.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
 
 SaffronCity_Dojo_Text_GoesAroundComesAround::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pWhat goes around comes around.$"
+	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
 
 SaffronCity_Dojo_Text_FightingDojo::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pFIGHTING DOJO$"
+	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
 

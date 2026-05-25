@@ -32,12 +32,12 @@ SaffronCity_Mart_Items::
 	end
 
 SaffronCity_Mart_Text_MaxRepelMoreEffectiveThanSuper::
-	.string "MAX REPEL keeps weaker POKéMON\n"
-	.string "from appearing.\p"
-	.string "MAX REPEL stays effective longer\n"
-	.string "than SUPER REPEL.$"
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
+.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
+.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
+	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
 
 SaffronCity_Mart_Text_ReviveIsCostly::
-	.string "REVIVE is costly, but it revives\n"
-	.string "fainted POKéMON!$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
+	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
 

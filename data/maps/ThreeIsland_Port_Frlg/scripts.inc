@@ -38,27 +38,27 @@ ThreeIsland_Port_EventScript_Biker2::
 
 ThreeIsland_Port_Text_WereKantoRiderFederation::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWe're the KANTO RIDER FEDERATION!\n"
-	.string "Vroom! Vavavavooom! Vroom!\p"
-	.string "My bike's wimpy, so I have to\n"
-	.string "make exhaust noises myself!$"
+.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
+.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
+	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 ThreeIsland_Port_Text_ForkOverMoney::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHey, hey, lady!\n"
-	.string "Fork over some spending money!$"
+	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
 
 ThreeIsland_Port_Text_IllCallThePolice::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pAiyeeh!\p"
-	.string "Wh-who are you?!\n"
-	.string "I… I'll call the police!$"
+.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
+	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
 
 ThreeIsland_Port_Text_ThankGoodnessBikersGone::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThose BIKERS…\n"
-	.string "Are they gone?\p"
-	.string "Oh, thank goodness!\n"
-	.string "They certainly had me terrified!$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThose BIKERS...\n"
+.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!$"
 
 ThreeIsland_Port_Text_EverythingTurnedOutForBest::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pThose BIKERS ran off, and\n"
-	.string "LOSTELLE was found safe.\p"
-	.string "Everything turned out for the best!$"
+.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
+	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
 

@@ -107,63 +107,63 @@ OneIsland_EventScript_PokemonNetCenterSign::
 
 OneIsland_Text_BillLetsGoSeeCelio::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pBILL: Here we are!\n"
-	.string "This is ONE ISLAND.\p"
-	.string "There are several islands around\n"
-	.string "here, and this is one of them.\p"
-	.string "My friend CELIO sent the boat to\n"
-	.string "fetch me here.\p"
-	.string "He's in charge of the island's PC\n"
-	.string "network by his lonesome.\p"
-	.string "…Why am I telling you this now?\n"
-	.string "Let's just go see CELIO!$"
+.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
+.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
+.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
+.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
+.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
+.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
+.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
+	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
 
 Text_WhereDoYouWantToSail::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pAhoy, there!\n"
-	.string "Where do you want to sail?$"
+	.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
 
 OneIsland_Text_LuckyToHaveCelioHere::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHere we are on an island smack in\n"
-	.string "the middle of nowhere.\p"
-	.string "We're lucky to have an upstanding\n"
-	.string "young man like CELIO here.\p"
-	.string "My granddaughter was in a tizzy\n"
-	.string "over CELIO's friend.\p"
-	.string "Something about a famous\n"
-	.string "POKéMANIAC?\p"
-	.string "I'm not sure what that means, but\n"
-	.string "CELIO is quite the man!$"
+.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
+.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
+.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
+.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
+	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
 
 OneIsland_Text_HavePCLinkageWithKanto::
-	.string "My granddaughter was in a tizzy\n"
-	.string "over a new breakthrough.\p"
-	.string "She said we now have PC linkage\n"
-	.string "with people in KANTO.\p"
-	.string "I'm not sure what that means, but\n"
-	.string "CELIO is quite the man!$"
+.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
+.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!"
+.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
+.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
+.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!$"
 
 OneIsland_Text_HavePCLinkageWithHoenn::
-	.string "My granddaughter was in a tizzy\n"
-	.string "over a new breakthrough.\p"
-	.string "She said we finally have PC linkage\n"
-	.string "with people in HOENN.\p"
-	.string "I'm not sure what that means, but\n"
-	.string "CELIO is quite the man.\p"
-	.string "He would make a fine husband for\n"
-	.string "my granddaughter!$"
+.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!"
+.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
+.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
+.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
+.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
+	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
 
 OneIsland_Text_IslandSign::
-	.string "ONE ISLAND\n"
-	.string "Friends Gather at Knot Island$"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
+	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
 
 OneIsland_Text_PokemonNetCenterSign::
-	.string "Expanding the POKéMON World!\n"
-	.string "POKéMON NET CENTER$"
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
+	.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
 
 @ Unused
 OneIsland_Text_ReturnToCinnabar::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pグレンタウンに　もどりますか？$"
+	.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
 
 OneIsland_Text_IsntWarmClimateHereGreat::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHi, sight-seeing, are you?\n"
-	.string "Isn't the warm climate here great?$"
+.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
 

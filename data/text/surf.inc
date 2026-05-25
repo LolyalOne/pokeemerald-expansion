@@ -1,10 +1,10 @@
 gText_WantToUseSurf::
-	.string "The water is dyed a deep blue…\n"
-	.string "Would you like to SURF?$"
+.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
+.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
 
 gText_PlayerUsedSurf::
-	.string "{STR_VAR_1} used SURF!$"
+.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!$"
 
 Text_CurrentTooFast::
-	.string "The current is much too fast!\n"
-	.string "SURF can't be used here…$"
+.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
+	.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"

@@ -24,14 +24,14 @@ EverGrandeCity_EventScript_SetVisitedEverGrande::
 	end
 
 EverGrandeCity_Text_EnteringVictoryRoad:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pENTERING VICTORY ROAD$"
+.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
 
 EverGrandeCity_Text_EnteringPokemonLeague:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pENTERING POKéMON LEAGUE\n"
-	.string "CENTER GATE$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pENTERING POKeMON LEAGUE\n"
+	.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
 
 EverGrandeCity_Text_CitySign:
-	.string "EVER GRANDE CITY\p"
-	.string "“The paradise of flowers, the sea,\n"
-	.string "and POKéMON.”$"
+.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
+.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!"
+.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!$"
 

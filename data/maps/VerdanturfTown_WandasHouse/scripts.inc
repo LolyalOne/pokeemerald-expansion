@@ -84,85 +84,85 @@ VerdanturfTown_WandasHouse_EventScript_WallysAuntEverGrande::
 
 VerdanturfTown_WandasHouse_Text_StrongerSpeech:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pWALLY: I lost to you, {PLAYER}, but I'm\n"
-	.string "not feeling down anymore.\p"
-	.string "Because I have a new purpose in life.\n"
-	.string "Together with my RALTS, I'm going\l"
-	.string "to challenge POKéMON GYMS and become\l"
-	.string "a great TRAINER.\p"
+.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
+.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
+.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
 	.string "Please watch me, {PLAYER}.\n"
-	.string "I'm going to be stronger than you.\p"
-	.string "When I do, I'm going to challenge you\n"
-	.string "to another battle.$"
+.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
+.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
+	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
 
 VerdanturfTown_WandasHouse_Text_StrongerSpeechShort:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWALLY: Please watch me, {PLAYER}.\n"
-	.string "I'm going to get stronger than you.\p"
-	.string "When I do, I'm going to challenge you\n"
-	.string "to another battle.$"
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
+.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
+.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!$"
 
 VerdanturfTown_WandasHouse_Text_WallysNextDoor:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pUNCLE: Oh! {PLAYER}{KUN}!\n"
-	.string "WALLY's next door.\p"
-	.string "But, boy, there's something I have to\n"
-	.string "tell you.\p"
-	.string "This natural environment is doing\n"
-	.string "wonders for WALLY's health.\p"
-	.string "Maybe it's not just the environment.\n"
-	.string "It could be POKéMON that are giving\l"
-	.string "the boy hope.$"
+.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
+.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
+.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
+.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
+.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
+.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
+.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!$"
 
 VerdanturfTown_WandasHouse_Text_WallySlippedOff:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWALLY's gone away…\n"
-	.string "He slipped off on his own…$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWALLY's gone away...\n"
+.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!$"
 
 VerdanturfTown_WandasHouse_Text_WallyGoneThatFar:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pUNCLE: Is that right?\n"
-	.string "WALLY's gone away that far all by\l"
-	.string "himself…\p"
-	.string "Well, I have to give him credit--he is\n"
-	.string "my little brother's son.$"
+.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
+.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!$"
 
 VerdanturfTown_WandasHouse_Text_MeetWanda:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWANDA: You are?\n"
-	.string "Oh, right, I get it!\p"
+.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
 	.string "You're the {PLAYER} who WALLY was\n"
-	.string "telling me about.\p"
-	.string "I'm WALLY's cousin.\n"
-	.string "Glad to meet you!\p"
-	.string "I think WALLY's become a lot more lively\n"
-	.string "and healthy since he came here.$"
+.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
+.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
+.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 VerdanturfTown_WandasHouse_Text_DontWorryAboutWally:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWANDA: Don't worry about WALLY.\n"
-	.string "He'll be just fine.\p"
-	.string "I know my little cousin, and he has\n"
-	.string "POKéMON with him, too.$"
+.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
+	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 VerdanturfTown_WandasHouse_Text_CanSeeGirlfriendEveryDay:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pThanks to you, I can see my girlfriend\n"
-	.string "every day.\l"
-	.string "Happy? You bet I am!$"
+.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
+	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
 
 VerdanturfTown_WandasHouse_Text_DaughtersBoyfriendDriven:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pMy daughter's boyfriend is a very\n"
-	.string "driven and passionate sort of person.\p"
-	.string "He's been digging a tunnel nonstop\n"
-	.string "just so he can see my daughter.\p"
-	.string "My daughter's a little concerned,\n"
-	.string "so she goes out to the tunnel a lot.$"
+.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
+.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
+.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
+.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
+.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!$"
 
 VerdanturfTown_WandasHouse_Text_DaughtersBoyfriendWasDigging:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pIt's amazing. My daughter's boyfriend\n"
-	.string "was digging the tunnel by hand!\p"
-	.string "It's so incredible!$"
+.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!$"
 
 VerdanturfTown_WandasHouse_Text_IfAnythingHappenedToWally:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pIf anything were to happen to WALLY,\n"
-	.string "I would never be able to look his\l"
-	.string "parents in PETALBURG in the eye…$"
+.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!"
+.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
 
 VerdanturfTown_WandasHouse_Text_WallyWasInEverGrande:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWALLY was in EVER GRANDE?\p"
-	.string "His parents in PETALBURG would be\n"
-	.string "astonished to hear that!$"
+.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 

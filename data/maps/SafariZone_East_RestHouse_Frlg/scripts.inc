@@ -15,13 +15,13 @@ SafariZone_East_RestHouse_EventScript_BaldingMan::
 
 SafariZone_East_Text_HowManyDidYouCatch::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHow many did you catch?\n"
-	.string "I'm bushed from the effort!$"
+	.string "Feliz 23 de Maio, Lucas! Voce e um treinador incrivel!$"
 
 SafariZone_East_Text_CaughtChanseyAllWorthwhile::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pI caught a CHANSEY!\p"
-	.string "That makes this all worthwhile.$"
+	.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 SafariZone_East_Text_TiredFromAllTheFun::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWhew!\n"
-	.string "I'm tired from all the fun!$"
+	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
 

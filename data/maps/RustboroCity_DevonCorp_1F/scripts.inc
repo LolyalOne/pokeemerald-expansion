@@ -80,65 +80,65 @@ RustboroCity_DevonCorp_1F_EventScript_ProductsDisplay::
 
 RustboroCity_DevonCorp_1F_Text_WelcomeToDevonCorp:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pHello and welcome to the DEVON\n"
-	.string "CORPORATION.\p"
-	.string "We're proud producers of items and\n"
-	.string "medicine that enhance your life.$"
+.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
+.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!$"
 
 RustboroCity_DevonCorp_1F_Text_StaffGotRobbed:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pOne of our research staff stupidly\n"
-	.string "got robbed of an important parcel.$"
+	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 RustboroCity_DevonCorp_1F_Text_ThoseShoesAreOurProduct:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHey, those RUNNING SHOES!\n"
-	.string "They're one of our products!\p"
-	.string "It makes me happy when I see someone\n"
-	.string "using something we made.$"
+.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
+.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
+	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
 
 RustboroCity_DevonCorp_1F_Text_RobberWasntVeryBright:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThat stolen parcel…\p"
-	.string "Well, sure it's important, but it's not\n"
-	.string "anything that anyone can use.\p"
-	.string "In my estimation, that robber must not\n"
-	.string "have been very bright.$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThat stolen parcel...\p"
+.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!"
+.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
+.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
 
 RustboroCity_DevonCorp_1F_Text_SoundsLikeStolenGoodsRecovered:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pIt sounds like they've recovered\n"
-	.string "the ripped-off DEVON GOODS.$"
+	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
 
 RustboroCity_DevonCorp_1F_Text_OnlyAuthorizedPeopleEnter:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pI'm sorry, only authorized people\n"
-	.string "are allowed to enter here.$"
+	.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 RustboroCity_DevonCorp_1F_Text_HowCouldWeGetRobbed:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pIt's beyond stupid.\n"
-	.string "How could we get robbed?$"
+.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!$"
 
 RustboroCity_DevonCorp_1F_Text_YoureAlwaysWelcomeHere:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pHi, there!\n"
-	.string "You're always welcome here!$"
+	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 RustboroCity_DevonCorp_1F_Text_RocksMetalDisplay:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pSamples of rocks and metal are\n"
-	.string "displayed in the glass case.\p"
-	.string "There's a panel with some writing\n"
-	.string "on it…\p"
-	.string "“DEVON CORPORATION got its start as\n"
-	.string "a producer of stones from quarries.\p"
-	.string "“The company also produced iron from\n"
-	.string "filings in the sand.\p"
-	.string "“From that humble start as a producer\n"
-	.string "of raw materials, DEVON developed.\p"
-	.string "“DEVON is now a manufacturer of a wide\n"
-	.string "range of industrial products.”$"
+.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!"
+.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!"
+.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
+.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!"
+.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
+	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
 
 RustboroCity_DevonCorp_1F_Text_ProductDisplay:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pPrototypes and test products fill\n"
-	.string "the glass display case.\p"
-	.string "There's a panel with a description…\p"
-	.string "“In addition to industrial products,\n"
-	.string "DEVON now markets sundries and\l"
-	.string "pharmaceuticals for better lifestyles.\p"
-	.string "“Recently, DEVON has begun marketing\n"
-	.string "tools for POKéMON TRAINERS, including\l"
-	.string "POKé BALLS and POKéNAV systems.”$"
+.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
+.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
+.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
+.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
+.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!$"
 

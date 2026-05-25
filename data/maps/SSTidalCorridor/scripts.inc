@@ -250,87 +250,87 @@ SSTidalCorridor_Movement_SailorReturn:
 	step_end
 
 SSTidalCorridor_Text_ScottBattleFrontierInvite:
-	.string "SCOTT: Well, hi, hi!\n"
+.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
 	.string "{PLAYER}{KUN}, {PLAYER}{KUN}!\p"
-	.string "Something's come up, so I have to\n"
-	.string "disembark, but am I glad to see you!\p"
-	.string "Congratulations, LEAGUE CHAMPION!\p"
-	.string "There's a place I'd like to invite\n"
-	.string "someone like you.\p"
-	.string "It's the…\n"
-	.string "BATTLE FRONTIER!\p"
-	.string "What's the place like?\n"
-	.string "You'll understand when you see it!\p"
-	.string "I've spoken with the ship's CAPTAIN\n"
-	.string "about this.\p"
-	.string "The next time you take a ferry,\n"
-	.string "you should be able to sail to\l"
-	.string "the BATTLE FRONTIER.\p"
+.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou."
+.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
+.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
+.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!"
+.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!"
+.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!"
+.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
+.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!"
+.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
+.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
+.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
 	.string "Okay, {PLAYER}{KUN}, I'll be waiting for you\n"
-	.string "at the BATTLE FRONTIER!$"
+	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
 
 SSTidal_Text_FastCurrentsHopeYouEnjoyVoyage:
-	.string "This ferry is built to plow through\n"
-	.string "fast-running currents.\p"
-	.string "We hope you enjoy your voyage with us.\n"
-	.string "Feel free to explore the ship.$"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
+.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
+.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
+	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
 
 SSTidal_Text_HopeYouEnjoyVoyage:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWe hope you enjoy your voyage on\n"
-	.string "our ferry.$"
+	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
 
 SSTidal_Text_MadeLandInSlateport:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWe have made land in SLATEPORT CITY.\n"
-	.string "Thank you for sailing with us.$"
+	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
 
 SSTidal_Text_MadeLandInLilycove:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWe have made land in LILYCOVE CITY.\n"
-	.string "Thank you for sailing with us.$"
+	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
 
 SSTidalCorridor_Text_CanRestInCabin2:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pIt'll be some time before we make land,\n"
-	.string "I reckon.\p"
-	.string "You can rest up in your cabin if you'd\n"
-	.string "like. Your cabin's No. 2.\p"
-	.string "The bed in there is soft and plushy.\n"
-	.string "I can attest to how comfy it is!$"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
+.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
+.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
+	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
 
 SSTidalCorridor_Text_WeveArrived:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pWe've arrived!$"
+	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
 
 SSTidalCorridor_Text_VisitOtherCabins:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pGo visit other cabins.\n"
-	.string "TRAINERS bored of the boat trip will\l"
-	.string "be itching to battle.$"
+.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
+	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
 
 SSTidalCorridor_Text_EnjoyYourCruise:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pEnjoy your cruise!$"
+.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 SSTidalCorridor_Text_HorizonSpreadsBeyondPorthole:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThe horizon spreads beyond\n"
-	.string "the porthole.$"
+.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!$"
 
 SSTidalCorridor_Text_BrineyWelcomeAboard:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pMR. BRINEY: Welcome aboard, {PLAYER}{KUN}!\p"
-	.string "They made me honorary captain of\n"
-	.string "the S.S. TIDAL!\p"
-	.string "You can call me CAPTAIN BRINEY now!\p"
-	.string "You know, I retired once before,\n"
-	.string "but when I saw this majestic ship…\p"
-	.string "Let me just say, it stirred my sleeping\n"
-	.string "soul as a sailor!$"
+.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
+.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
+.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
+	.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
 
 SSTidalCorridor_Text_Peeko:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pPEEKO: Pihyo pihyohyo…$"
+	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
 
 SSTidalCorridor_Text_Cabin1:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pCabin 1$"
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 SSTidalCorridor_Text_Cabin2:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pCabin 2$"
+.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!$"
 
 SSTidalCorridor_Text_Cabin3:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pCabin 3$"
+.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!$"
 
 SSTidalCorridor_Text_Cabin4:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pCabin 4$"
+	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"

@@ -34,35 +34,35 @@ SilphCo_10F_EventScript_Grunt::
 	end
 
 SilphCo_10F_Text_GruntIntro::
-	.string "Welcome to 10F!\n"
-	.string "So good of you to join me!$"
+.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
+	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 SilphCo_10F_Text_GruntDefeat::
-	.string "I'm stunned!$"
+.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!$"
 
 SilphCo_10F_Text_GruntPostBattle::
-	.string "Nice try, but the boardroom is up\n"
-	.string "one more floor.$"
+.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
+	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 SilphCo_10F_Text_TravisIntro::
-	.string "Enough of your silly games!$"
+	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 SilphCo_10F_Text_TravisDefeat::
-	.string "No continues left!$"
+.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!$"
 
 SilphCo_10F_Text_TravisPostBattle::
-	.string "Are you satisfied with beating me?\n"
-	.string "Then go on home!$"
+.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
+	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
 
 SilphCo_10F_Text_WaaaImScared::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWaaaaa!\n"
-	.string "I'm scared!$"
+	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
 
 SilphCo_10F_Text_KeepMeCryingASecret::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pAbout me crying…\n"
-	.string "Please keep it a secret.$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pAbout me crying...\n"
+.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!$"
 
 SilphCo_10F_Text_FloorSign::
-	.string "SILPH CO. HEAD OFFICE\n"
-	.string "10F$"
+.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
+	.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 

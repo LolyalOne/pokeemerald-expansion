@@ -25,30 +25,30 @@ SafariZone_SecretHouse_EventScript_ExplainSurf::
 	end
 
 SafariZone_SecretHouse_Text_CongratsYouveWon::
-	.string "Ah! Finally!\p"
-	.string "You're the first person to reach\n"
-	.string "the SECRET HOUSE!\p"
-	.string "Although I made a campaign\n"
-	.string "for our grand opening,\p"
-	.string "I was getting worried that no one\n"
-	.string "would win our campaign prize.\p"
-	.string "Congratulations!\n"
-	.string "You have won!$"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
+.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
+.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
+.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
+.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
+.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
+	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 
 SafariZone_SecretHouse_Text_ReceivedHM03FromAttendant::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p{PLAYER} received HM03\n"
-	.string "from the attendant!$"
+	.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 SafariZone_SecretHouse_Text_ExplainSurf::
-	.string "HM03 is SURF.\p"
-	.string "POKéMON will be able to ferry you\n"
-	.string "across water using it.\p"
-	.string "And, this HM isn't disposable, so\n"
-	.string "you can use it over and over.\p"
-	.string "You're super lucky for winning this\n"
-	.string "fabulous prize!$"
+.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
+.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
+.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
+.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
+	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
 
 SafariZone_SecretHouse_Text_DontHaveRoomForPrize::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pYou don't have room for this\n"
-	.string "fabulous prize!$"
+.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
 

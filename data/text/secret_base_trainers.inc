@@ -1,286 +1,286 @@
 SecretBase_Text_Trainer0Intro:
-	.string "Have you made a SECRET BASE already?\p"
-	.string "I went here, there, everywhere before\n"
-	.string "choosing this place.\p"
-	.string "Since you're already here, how would\n"
-	.string "you like to battle?$"
+.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
+.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
+.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
+.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
 
 SecretBase_Text_Trainer0AcceptBattle:
-	.string "Okay!\n"
-	.string "Here we come!$"
+.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
+.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
 
 SecretBase_Text_Trainer0DeclineBattle:
-	.string "Hunh?\n"
-	.string "Oh, you can't now…$"
+.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
+	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
 
 SecretBase_Text_Trainer0Defeated::
-	.string "Waaargh! You're too strong!\n"
-	.string "About me losing… Please keep it secret!$"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
+	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
 
 SecretBase_Text_Trainer0PostBattle:
-	.string "What do you think of my SECRET BASE?\n"
-	.string "Come visit me again tomorrow.$"
+.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!"
+	.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 SecretBase_Text_Trainer0PreChampion:
-	.string "Have you made a SECRET BASE already?\p"
-	.string "I went here, there, everywhere before\n"
-	.string "choosing this place.\p"
-	.string "Feel free to hang out!$"
+.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 SecretBase_Text_Trainer5Intro:
-	.string "There're a lot of places where\n"
-	.string "you can make a SECRET BASE.\p"
-	.string "But I like this spot best.\n"
-	.string "Don't you think it's nice?\p"
-	.string "Oh, would you like to have a battle?$"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
+.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou."
+.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!"
+.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!$"
 
 SecretBase_Text_Trainer5AcceptBattle:
-	.string "Okay, here goes!$"
+.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!$"
 
 SecretBase_Text_Trainer5DeclineBattle:
-	.string "Oh…\n"
-	.string "You can't now, okay.$"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
+	.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
 
 SecretBase_Text_Trainer5Defeated::
-	.string "Hmmm… It's our loss…\n"
-	.string "But don't tell anyone!\l"
-	.string "It's a confidential secret!$"
+.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
+.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
+.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!$"
 
 SecretBase_Text_Trainer5PostBattle:
-	.string "If you're in this area again,\n"
-	.string "I hope you'll visit me.$"
+.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
 
 SecretBase_Text_Trainer5PreChampion:
-	.string "There're a lot of places where you can\n"
-	.string "make a SECRET BASE.\p"
-	.string "But I like this spot best.\n"
-	.string "Don't you think it's nice?$"
+.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
+	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
 
 SecretBase_Text_Trainer1Intro:
-	.string "This is a popular spot.\n"
-	.string "It's always taken.\p"
-	.string "Oh! Were you thinking about\n"
-	.string "taking this spot, too?\p"
-	.string "I'll tell you what, you can have this\n"
-	.string "spot if you can beat me.$"
+.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
+.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
+.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
+.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
+	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 SecretBase_Text_Trainer1AcceptBattle:
-	.string "Okay!\n"
-	.string "I'm going to defend my SECRET BASE!$"
+.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
+	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 SecretBase_Text_Trainer1DeclineBattle:
-	.string "Hunh? Is that right?\n"
-	.string "You're not interested in this spot?$"
+.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
+.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!$"
 
 SecretBase_Text_Trainer1Defeated::
-	.string "I can't keep going!\n"
-	.string "I surrender!$"
+.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!$"
 
 SecretBase_Text_Trainer1PostBattle:
-	.string "Okay, when I move one day,\n"
-	.string "this place will be yours!$"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
+.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
 
 SecretBase_Text_Trainer1PreChampion:
-	.string "This is a popular spot.\n"
-	.string "It's always taken.\p"
-	.string "I waited a long time for it to open.\n"
-	.string "I finally got to use it!$"
+.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
+.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!$"
 
 SecretBase_Text_Trainer6Intro:
-	.string "Welcome to my POKéMON LAB.\p"
-	.string "I carry out research on battling in\n"
-	.string "secrecy.\p"
-	.string "Would you like to see how strong I am?$"
+.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
+.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 SecretBase_Text_Trainer6AcceptBattle:
-	.string "I'm going to go all out!$"
+	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 
 SecretBase_Text_Trainer6DeclineBattle:
-	.string "Oh.\n"
-	.string "Some other time, then!$"
+.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
+	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 
 SecretBase_Text_Trainer6Defeated::
-	.string "Hmm… I've still got lots to learn.\n"
-	.string "I have to study some more.$"
+.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
+.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
 
 SecretBase_Text_Trainer6PostBattle:
-	.string "Thanks for battling with me.\n"
-	.string "Please come back again tomorrow.$"
+.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
+	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
 
 SecretBase_Text_Trainer6PreChampion:
-	.string "Welcome to my POKéMON LAB.\p"
-	.string "I carry out research on battling in\n"
-	.string "secrecy.$"
+.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
+.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
+	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
 
 SecretBase_Text_Trainer2Intro:
-	.string "A big mansion is nice, but I like this\n"
-	.string "sort of place more.\p"
-	.string "I like it because all kinds of people\n"
-	.string "come visit me.\p"
-	.string "So, how would you like a battle?$"
+.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
+.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
+.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
+.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 SecretBase_Text_Trainer2AcceptBattle:
-	.string "That's the way!$"
+.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!$"
 
 SecretBase_Text_Trainer2DeclineBattle:
-	.string "When you're ready, give me a shout!$"
+	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
 
 SecretBase_Text_Trainer2Defeated::
-	.string "Aww! Done in!\n"
-	.string "But it's still fun to battle!$"
+.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
+	.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 SecretBase_Text_Trainer2PostBattle:
-	.string "Well, anyway, I should go buy some\n"
-	.string "decorations and furniture.\p"
-	.string "I want my SECRET BASE to be a place\n"
-	.string "other people can enjoy.$"
+.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!"
+.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
+.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!$"
 
 SecretBase_Text_Trainer2PreChampion:
-	.string "A big mansion is nice, but I like this\n"
-	.string "sort of place more.\p"
-	.string "I like it because all kinds of people\n"
-	.string "come visit me.$"
+.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
+.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!"
+.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
+	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
 
 SecretBase_Text_Trainer7Intro:
-	.string "I simply adore shopping for decorations\n"
-	.string "and furniture.\p"
-	.string "I also love raising POKéMON just\n"
-	.string "as much.\p"
-	.string "If you would be so kind, will you battle\n"
-	.string "with my POKéMON?$"
+.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
+.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
+.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
+.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 SecretBase_Text_Trainer7AcceptBattle:
-	.string "Thank you.\n"
-	.string "Shall we begin?$"
+.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!$"
 
 SecretBase_Text_Trainer7DeclineBattle:
-	.string "Oh.\n"
-	.string "How disappointing…$"
+.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!"
+	.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
 
 SecretBase_Text_Trainer7Defeated::
-	.string "I concede…$"
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!$"
 
 SecretBase_Text_Trainer7PostBattle:
-	.string "That was all in good fun!\n"
-	.string "I should go enjoy shopping now.$"
+.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 
 SecretBase_Text_Trainer7PreChampion:
-	.string "I simply adore shopping for decorations\n"
-	.string "and furniture.\p"
-	.string "I also love raising POKéMON just\n"
-	.string "as much.$"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
+.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
+.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!$"
 
 SecretBase_Text_Trainer3Intro:
-	.string "Some people make their SECRET BASES in\n"
-	.string "hard-to-find places.\l"
-	.string "Do they want to just lie low?\p"
-	.string "But since you found me, how about we\n"
-	.string "have a battle?$"
+.string "Parabens, Lucas! Sua jornada\napenas comecou."
+.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
+.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
+.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!$"
 
 SecretBase_Text_Trainer3AcceptBattle:
-	.string "I'm not going down easily!$"
+.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!$"
 
 SecretBase_Text_Trainer3DeclineBattle:
-	.string "Oh… Are you maybe tired from searching\n"
-	.string "for this place?$"
+.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
+	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 SecretBase_Text_Trainer3Defeated::
-	.string "I went down…$"
+	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
 
 SecretBase_Text_Trainer3PostBattle:
-	.string "Where's your SECRET BASE?\n"
-	.string "I should go visit you there.$"
+.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!$"
 
 SecretBase_Text_Trainer3PreChampion:
-	.string "Some people make their SECRET BASES in\n"
-	.string "hard-to-find places.\l"
-	.string "Do they want to just lie low?$"
+.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
+.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
+.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
 
 SecretBase_Text_Trainer8Intro:
-	.string "People have told me that you can get\n"
-	.string "decorations in several ways.\p"
-	.string "We should have a race to see who can\n"
-	.string "get nicer decorations and furniture!\p"
-	.string "In the meantime, want to battle?$"
+.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
+.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
+	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
 
 SecretBase_Text_Trainer8AcceptBattle:
-	.string "This is my SECRET BASE.\n"
-	.string "I can't lose!$"
+.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
+.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
 
 SecretBase_Text_Trainer8DeclineBattle:
-	.string "I'll battle with you anytime.$"
+	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
 
 SecretBase_Text_Trainer8Defeated::
-	.string "Huh?\n"
-	.string "Did I just lose?$"
+.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!"
+.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!$"
 
 SecretBase_Text_Trainer8PostBattle:
-	.string "I won't lose at collecting decorations.\n"
-	.string "Come visit again!$"
+.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
+	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
 
 SecretBase_Text_Trainer8PreChampion:
-	.string "People have told me that you can get\n"
-	.string "decorations in several ways.\p"
-	.string "We should have a race to see who can\n"
-	.string "get nicer decorations and furniture!$"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
+.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
 
 SecretBase_Text_Trainer4Intro:
-	.string "I found a spot I liked, and I did it up\n"
-	.string "with my favorite decorations.\p"
-	.string "I raise my favorite POKéMON and grow\n"
-	.string "stronger with it.\p"
-	.string "That's what I do.\n"
-	.string "Want to battle with me?$"
+.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
+.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
+.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
+.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
+.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!$"
 
 SecretBase_Text_Trainer4AcceptBattle:
-	.string "Show me what you're made of!$"
+.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!$"
 
 SecretBase_Text_Trainer4DeclineBattle:
-	.string "I guess there are times when you're not\n"
-	.string "into it.$"
+.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
 
 SecretBase_Text_Trainer4Defeated::
-	.string "I know exactly what you're made of now.$"
+	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
 
 SecretBase_Text_Trainer4PostBattle:
-	.string "We can both become stronger.\n"
-	.string "Let's keep at it!$"
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
+	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 SecretBase_Text_Trainer4PreChampion:
-	.string "I found a spot I liked, and I did it up\n"
-	.string "with my favorite decorations.\p"
-	.string "I raise my favorite POKéMON and grow\n"
-	.string "stronger with it.\p"
-	.string "Every day is a great day.$"
+.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
+.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
+.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
+.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!$"
 
 SecretBase_Text_Trainer9Intro:
-	.string "You can learn a lot about the taste\n"
-	.string "and sense of people by the kinds of\l"
-	.string "decorations they have, and how they\l"
-	.string "display them.\p"
-	.string "What do you think of my taste?\n"
-	.string "Are you speechless?\p"
-	.string "Want to see my taste in battling?$"
+.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
+.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
+.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
+.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
+.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
+.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
+	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
 
 SecretBase_Text_Trainer9AcceptBattle:
-	.string "There's no holding back!$"
+	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
 
 SecretBase_Text_Trainer9DeclineBattle:
-	.string "I'll be happy to demonstrate my style\n"
-	.string "anytime.$"
+.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
+	.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 SecretBase_Text_Trainer9Defeated::
-	.string "You're supremely talented!\n"
-	.string "Your power seems to be limitless…$"
+.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
+	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 SecretBase_Text_Trainer9PostBattle:
-	.string "What did you think of my style?\n"
-	.string "I'll keep on polishing it!$"
+.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+	.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 SecretBase_Text_Trainer9PreChampion:
-	.string "You can learn a lot about the taste\n"
-	.string "and sense of people by the kinds of\l"
-	.string "decorations they have, and how they\l"
-	.string "display them.\p"
-	.string "What do you think of my taste?\n"
-	.string "Are you speechless?$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
+.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
+.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
+.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
+	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"

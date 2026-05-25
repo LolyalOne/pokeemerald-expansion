@@ -101,34 +101,34 @@ BattleFrontier_RankingHall_EventScript_Boy::
 	end
 
 BattleFrontier_RankingHall_Text_ExplainRankingHall:
-	.string "This is the RANKING HALL.\p"
-	.string "This is where we recognize the immortal\n"
-	.string "TRAINERS who left great records in\l"
-	.string "BATTLE FRONTIER events.$"
+.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
+	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
 
 BattleFrontier_RankingHall_Text_DomePikeFactoryRecords:
-	.string "BATTLE DOME, BATTLE PIKE,\n"
-	.string "and BATTLE FACTORY Records$"
+.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
+.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
 
 BattleFrontier_RankingHall_Text_PalaceArenaPyramidRecords:
-	.string "BATTLE PALACE, BATTLE ARENA,\n"
-	.string "and BATTLE PYRAMID Records$"
+.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
+	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
 
 BattleFrontier_RankingHall_Text_IsYourNameOnThisList:
-	.string "Hi, is your name on this list?$"
+.string "Lucas, voce e o melhor! Sua\njornada apenas comecou.$"
 
 BattleFrontier_RankingHall_Text_WowThatsSuper:
-	.string "Wow, that's super!\n"
-	.string "I'll have to try harder, too!$"
+.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
+	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 BattleFrontier_RankingHall_Text_WorkHarderIfYouSawFriendsName:
-	.string "Oh, is that right?\p"
-	.string "If you saw your friend's name up here,\n"
-	.string "I bet it would make you work harder!$"
+.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
+.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
+	.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
 
 BattleFrontier_RankingHall_Text_MyNamesNotUpThere:
-	.string "Hmm…\n"
-	.string "My name's not up there…\p"
-	.string "Well, it's only natural since I haven't\n"
-	.string "taken any challenges yet.$"
+.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
+.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!$"
 

@@ -10,166 +10,166 @@ OneIsland_KindleRoad_EventScript_EmberSpaSign::
 	end
 
 OneIsland_KindleRoad_Text_MariaIntro::
-	.string "The weather's gorgeous!\n"
-	.string "Perfect for a battle!$"
+.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
+.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!$"
 
 OneIsland_KindleRoad_Text_MariaDefeat::
-	.string "Aiyeeeeh!$"
+.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!$"
 
 OneIsland_KindleRoad_Text_MariaPostBattle::
-	.string "Please don't splash my face!\n"
-	.string "You'll ruin the makeup.$"
+.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!$"
 
 OneIsland_KindleRoad_Text_AbigailIntro::
-	.string "I'm beginning to get a sunburn…$"
+.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!$"
 
 OneIsland_KindleRoad_Text_AbigailDefeat::
-	.string "Oh, you're so awful.$"
+.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!$"
 
 OneIsland_KindleRoad_Text_AbigailPostBattle::
-	.string "I like that cap you have.\n"
-	.string "Maybe I should wear one, too…$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
+.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!$"
 
 OneIsland_KindleRoad_Text_FinnIntro::
-	.string "Seen from here, MT. EMBER towers\n"
-	.string "into the sky.$"
+.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
+.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!$"
 
 OneIsland_KindleRoad_Text_FinnDefeat::
-	.string "Well, aren't you tough?$"
+	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
 
 OneIsland_KindleRoad_Text_FinnPostBattle::
-	.string "The sky is immense around these\n"
-	.string "parts.$"
+.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!$"
 
 OneIsland_KindleRoad_Text_GarrettIntro::
-	.string "I took a break from swimming,\n"
-	.string "only to have you challenge me?$"
+.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
+	.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 OneIsland_KindleRoad_Text_GarrettDefeat::
-	.string "Hey, what the…\n"
-	.string "You're good, you!$"
+.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
+	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
 
 OneIsland_KindleRoad_Text_GarrettPostBattle::
-	.string "Instead of using SURF all the time,\n"
-	.string "you should swim some.$"
+.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
+	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
 
 OneIsland_KindleRoad_Text_TommyIntro::
-	.string "Wait! Wait a second!\n"
-	.string "I think I've hooked a big one!$"
+.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
+.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!$"
 
 OneIsland_KindleRoad_Text_TommyDefeat::
-	.string "I've lost it all again…$"
+.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!$"
 
 OneIsland_KindleRoad_Text_TommyPostBattle::
-	.string "Not only did I lose, the big one\n"
-	.string "got away from me, too!$"
+.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
+	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
 
 OneIsland_KindleRoad_Text_SharonIntro::
-	.string "Could you help me out with my\n"
-	.string "training?$"
+.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
+	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
 
 OneIsland_KindleRoad_Text_SharonDefeat::
-	.string "You were a cut above me.$"
+.string "Lucas, voce e o melhor! Sua\njornada apenas comecou.$"
 
 OneIsland_KindleRoad_Text_SharonPostBattle::
-	.string "It's clear that you're skilled.\n"
-	.string "I like you!$"
+.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
+	.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
 
 OneIsland_KindleRoad_Text_TanyaIntro::
-	.string "There isn't a day in which we don't\n"
-	.string "train!$"
+.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
+	.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
 
 OneIsland_KindleRoad_Text_TanyaDefeat::
-	.string "I'm such a fool!$"
+.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!$"
 
 OneIsland_KindleRoad_Text_TanyaPostBattle::
-	.string "I'll train even harder from now on!$"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 OneIsland_KindleRoad_Text_SheaIntro::
-	.string "Every morning, before breakfast,\n"
-	.string "I swim around this island.$"
+.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
+.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
 
 OneIsland_KindleRoad_Text_SheaDefeat::
-	.string "Gasp…\n"
-	.string "Gasp…$"
+.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 OneIsland_KindleRoad_Text_SheaPostBattle::
-	.string "I lost because I'm pooped from all\n"
-	.string "the running I did…$"
+.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!$"
 
 OneIsland_KindleRoad_Text_HughIntro::
-	.string "Dress appropriately for battle!\n"
-	.string "Lose that frivolous outfit!$"
+.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
 
 OneIsland_KindleRoad_Text_HughDefeat::
-	.string "Why me?!$"
+.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 OneIsland_KindleRoad_Text_HughPostBattle::
-	.string "Even martial artists are becoming\n"
-	.string "fashion conscious these days…$"
+.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
+	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
 
 OneIsland_KindleRoad_Text_BryceIntro::
-	.string "You know, everything tastes great\n"
-	.string "when you're out in the wild.$"
+.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
+.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
 
 OneIsland_KindleRoad_Text_BryceDefeat::
-	.string "Awww, blown!$"
+	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
 
 OneIsland_KindleRoad_Text_BrycePostBattle::
-	.string "The water in volcanic regions is\n"
-	.string "delicious.$"
+.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 OneIsland_KindleRoad_Text_ClaireIntro::
-	.string "My lunch filled us up, so will you\n"
-	.string "battle us for some exercise?$"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
+	.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
 
 OneIsland_KindleRoad_Text_ClaireDefeat::
-	.string "That made me all sweaty.$"
+	.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 OneIsland_KindleRoad_Text_ClairePostBattle::
-	.string "What should I do?\n"
-	.string "I feel famished again.$"
+.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
+	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
 
 OneIsland_KindleRoad_Text_KiaIntro::
-	.string "KIA: My big brother and I make\n"
-	.string "an awesome combination!$"
+.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
+.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
 
 OneIsland_KindleRoad_Text_KiaDefeat::
-	.string "KIA: Huh?!\n"
-	.string "I can't believe it!$"
+.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
+.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou.$"
 
 OneIsland_KindleRoad_Text_KiaPostBattle::
-	.string "KIA: How could there be anyone\n"
-	.string "better than my big brother?$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 OneIsland_KindleRoad_Text_KiaNotEnoughMons::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pKIA: If you want to battle with\n"
-	.string "us, you have to bring at least two\l"
-	.string "POKéMON with you.$"
+.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!$"
 
 OneIsland_KindleRoad_Text_MikIntro::
-	.string "MIK: Together with KIA, I'm afraid\n"
-	.string "of nothing!$"
+.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
+.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
 
 OneIsland_KindleRoad_Text_MikDefeat::
-	.string "MIK: Whoa!\n"
-	.string "That's too much!$"
+.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
+.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!$"
 
 OneIsland_KindleRoad_Text_MikPostBattle::
-	.string "MIK: How could my combination\n"
-	.string "with KIA fail?$"
+.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
+.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 OneIsland_KindleRoad_Text_MikNotEnoughMons::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pMIK: Hey, do you want to battle\n"
-	.string "with us two?\p"
-	.string "Bring two or more POKéMON with\n"
-	.string "you, then.$"
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
+.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
+.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!$"
 
 OneIsland_KindleRoad_Text_RouteSign::
-	.string "This is KINDLE ROAD.\p"
-	.string "Go straight for MT. EMBER.$"
+.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
+	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
 
 OneIsland_KindleRoad_Text_EmberSpaSign::
-	.string "Light the Fire in Your Heart!\n"
-	.string "EMBER SPA$"
+.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
+	.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
 

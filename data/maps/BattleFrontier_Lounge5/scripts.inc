@@ -42,84 +42,84 @@ BattleFrontier_Lounge5_EventScript_LittleBoy::
 	end
 
 BattleFrontier_Lounge5_Text_NatureGirlGreeting::
-	.string "Ehehe!\n"
-	.string "I can tell what POKéMON are thinking!\p"
-	.string "Please!\n"
-	.string "Can I see your POKéMON?$"
+.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
+.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!"
+.string "Parabens, Lucas! Sua jornada\napenas comecou."
+.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlNoneShown::
-	.string "Boo!\n"
-	.string "Cheapie!$"
+.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
+	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlAttackHighAttackLow::
-	.string "Hmhm…\p"
-	.string "This one says it likes to battle!\n"
-	.string "It will battle even if it has a lot\l"
-	.string "of ouchies!$"
+.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
+.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
+	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlAttackHighDefenseLow::
-	.string "Hmhm…\p"
-	.string "This one says it likes to battle!\n"
-	.string "But if it gets enough ouchies,\l"
-	.string "it will worry about itself!$"
+.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
+.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
+.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlAttackHighSupportLow::
-	.string "Hmhm…\p"
-	.string "This one says it likes to battle!\n"
-	.string "But if it gets enough ouchies,\l"
-	.string "it will turn sneaky!$"
+.string "Parabens, Lucas! Sua jornada\napenas comecou."
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
+.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
+	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlDefenseHighAttackLow::
-	.string "Hmhm…\p"
-	.string "This one says it looks after itself!\n"
-	.string "But if it gets enough ouchies,\l"
-	.string "it will hit back!$"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
+.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
+.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
+	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlDefenseHighDefenseLow::
-	.string "Hmhm…\p"
-	.string "This one says it looks after itself!\n"
-	.string "It says it worries about itself whether\l"
-	.string "or not it has a lot of ouchies!$"
+.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
+.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlDefenseHighSupportLow::
-	.string "Hmhm…\p"
-	.string "This one says it looks after itself!\n"
-	.string "But if it gets enough ouchies,\l"
-	.string "it will turn sneaky!$"
+.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
+.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
+.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
+	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
 
 BattleFrontier_Lounge5_Text_NatureGirlSupportHighAttackLow::
-	.string "Hmhm…\p"
-	.string "This one says it likes to be sneaky!\n"
-	.string "But if it gets enough ouchies,\l"
-	.string "it will hit back!$"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
+.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
+.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlSupportHighDefenseLow::
-	.string "Hmhm…\p"
-	.string "This one says it likes to be sneaky!\n"
-	.string "But if it gets enough ouchies,\l"
-	.string "it will worry about itself!$"
+.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
+.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
+	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlSupportHighSupportLow::
-	.string "Hmhm…\p"
-	.string "This one says it likes to be sneaky!\n"
-	.string "It says it likes to be sneaky even\l"
-	.string "if it has a lot of ouchies!$"
+.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
+.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
+.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlEgg::
-	.string "That's silly! An EGG is asleep!\n"
-	.string "I can't talk to it!$"
+.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
+	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
 
 BattleFrontier_Lounge5_Text_LadyClaimsSheUnderstandsPokemon::
-	.string "How charming!\n"
-	.string "That little lady claims she can\l"
-	.string "understand POKéMON!$"
+.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
+	.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 BattleFrontier_Lounge5_Text_GirlSayingSomethingProfound::
-	.string "I have this feeling that the little girl\n"
-	.string "is saying something profound.$"
+.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!$"
 
 BattleFrontier_Lounge5_Text_GirlPlaysAtRedHouseALot::
-	.string "I know something!\p"
-	.string "That little girl plays at the red house\n"
-	.string "a lot!$"
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
+.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
+.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!$"
 

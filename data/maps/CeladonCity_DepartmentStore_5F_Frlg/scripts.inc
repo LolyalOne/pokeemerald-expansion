@@ -59,25 +59,25 @@ CeladonCity_DepartmentStore_5F_Vitamins::
 	end
 
 CeladonCity_DepartmentStore_5F_Text_ExplainStatEnhancers::
-	.string "POKéMON stat enhancers can be\n"
-	.string "bought only here.\p"
-	.string "HP UP increases the base HP of a\n"
-	.string "POKéMON.\p"
-	.string "CALCIUM raises the base SP. ATK\n"
-	.string "stat of one POKéMON.\p"
-	.string "ZINC boosts the base SP. DEF stat\n"
-	.string "of one POKéMON.\p"
-	.string "CARBOS enhances the base SPEED\n"
-	.string "stat.$"
+.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
+.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
+.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
+.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
+.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
+.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!$"
 
 CeladonCity_DepartmentStore_5F_Text_HereForStatEnhancers::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI'm here for POKéMON stat\n"
-	.string "enhancers.\p"
-	.string "PROTEIN increases the base ATTACK\n"
-	.string "power.\p"
-	.string "IRON increases the base DEFENSE\n"
-	.string "stat.$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI'm here for POKeMON stat\n"
+.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
+.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
+.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 
 CeladonCity_DepartmentStore_5F_Text_Drugstore::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p5F: DRUGSTORE$"
+	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
 

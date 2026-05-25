@@ -450,99 +450,99 @@ PalletTown_EventScript_SignLadyStartShowSign::
 
 PalletTown_Text_OakDontGoOut::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pOAK: Hey! Wait!\n"
-	.string "Don't go out!$"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!$"
 
 PalletTown_Text_OakGrassUnsafeNeedMon::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pOAK: It's unsafe!\n"
-	.string "Wild POKéMON live in tall grass!\p"
-	.string "You need your own POKéMON for\n"
-	.string "your protection.\p"
-	.string "I know!\n"
-	.string "Here, come with me!$"
+.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
+.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
+.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!$"
 
 PalletTown_Text_RaisingMonsToo::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI'm raising POKéMON, too.\p"
-	.string "When they get strong, they can\n"
-	.string "protect me.$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI'm raising POKeMON, too.\p"
+.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
+.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!$"
 
 PalletTown_Text_CanStoreItemsAndMonsInPC::
-	.string "Technology is incredible!\p"
-	.string "You can now store and recall items\n"
-	.string "and POKéMON as data via PC.$"
+.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou."
+.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou.$"
 
 PalletTown_Text_OakPokemonResearchLab::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOAK POKéMON RESEARCH LAB$"
+	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 
 PalletTown_Text_PlayersHouse::
-	.string "{PLAYER}'s house$"
+	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
 
 PalletTown_Text_RivalsHouse::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p{RIVAL}'s house$"
+.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!$"
 
 PalletTown_Text_TownSign::
-	.string "PALLET TOWN\n"
-	.string "Shades of your journey await!$"
+.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!$"
 
 PalletTown_Text_OakLetMeSeePokedex::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pOAK: Ah, {PLAYER}!\n"
-	.string "You're back, are you?\p"
-	.string "How much have you filled in your\n"
-	.string "POKéDEX?\p"
-	.string "May I see it?\p"
-	.string "Let's see…$"
+.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
+.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
+.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
+	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 PalletTown_Text_CaughtXPuttingInHonestEffort::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pYou've caught {STR_VAR_2}…\p"
-	.string "Hm, it looks as if you're putting\n"
-	.string "in an honest effort.\p"
-	.string "When you manage to fill it some\n"
-	.string "more, come show me, please.$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pYou've caught {STR_VAR_2}...\p"
+.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
+	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
 
 PalletTown_Text_CaughtXImpressiveFollowMe::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pYou've caught… {STR_VAR_2}!?\n"
-	.string "Now, this is impressive!\p"
-	.string "There's something I wanted to ask\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pYou've caught... {STR_VAR_2}!?\n"
+.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou."
+.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
 	.string "of you, {PLAYER}.\p"
-	.string "Come.\n"
-	.string "Follow me.$"
+.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!$"
 
 PalletTown_Text_OakYouEnjoyingTraveling::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pOAK: Ah, {PLAYER}!\n"
-	.string "You seem to be enjoying traveling.\p"
+.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
 	.string "Knowing you, {PLAYER}, I can easily\n"
-	.string "imagine you going out to even more\l"
-	.string "exotic locales.\p"
-	.string "Good for you, good for you.\n"
-	.string "Hohoho.$"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
+.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 @ For the NPC in Pallet Town that talks about the Trainer Tips sign
 PalletTown_Text_HmmIsThatRight::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pHmm…\n"
-	.string "Is that right…$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pHmm...\n"
+	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 PalletTown_Text_OhLookLook::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pOh!\n"
-	.string "Look, look!$"
+.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!$"
 
 PalletTown_Text_ReadItReadIt::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pRead it, read it!$"
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!$"
 
 @ Used by sign
 PalletTown_Text_PressStartToOpenMenu::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pTRAINER TIPS\p"
-	.string "Press START to open the MENU!$"
+	.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 PalletTown_Text_SignsAreUsefulArentThey::
-	.string "Signs are useful, aren't they?$"
+	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
 
 PalletTown_Text_LookCopiedTrainerTipsSign::
-	.string "Look, look!\p"
-	.string "I copied what it said on one of\n"
-	.string "those TRAINER TIPS signs!$"
+.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
+.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
+.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!$"
 
 @ Used by NPC
 PalletTown_Text_PressStartToOpenMenuCopy::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pTRAINER TIPS!\p"
-	.string "Press START to open the MENU!$"
+.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!$"
 
 

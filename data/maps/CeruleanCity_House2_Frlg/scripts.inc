@@ -24,23 +24,23 @@ CeruleanCity_House2_EventScript_WallHole::
 
 CeruleanCity_House2_Text_RocketsStoleTMForDig::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThose miserable ROCKETS!\p"
-	.string "Look what they've done to my\n"
-	.string "house!\p"
-	.string "They stole a TM for teaching\n"
-	.string "POKéMON how to DIG holes!\p"
-	.string "I was going to use it on a\n"
-	.string "MANKEY or a SANDSHREW…\p"
-	.string "That cost me a bundle, it did!$"
+.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
+.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
+.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou.$"
 
 CeruleanCity_House2_Text_TeachDiglettDigWithoutTM::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI figure what's lost is lost.\p"
-	.string "I decided to teach DIGLETT how to\n"
-	.string "DIG without a TM.$"
+.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
+.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
 
 CeruleanCity_House2_Text_TeamRocketTryingToDigIntoNoGood::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pTEAM ROCKET must be trying to DIG\n"
-	.string "their way into no good!$"
+.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
 
 CeruleanCity_House2_Text_TeamRocketLeftWayOut::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pTEAM ROCKET left a way out!$"
+.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
 

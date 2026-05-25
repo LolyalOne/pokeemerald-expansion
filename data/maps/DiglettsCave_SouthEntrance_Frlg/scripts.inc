@@ -7,7 +7,7 @@ DiglettsCave_SouthEntrance_EventScript_OldMan::
 
 DiglettsCave_SouthEntrance_Text_DiglettDugThisTunnel::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWell, isn't this a surprise!\n"
-	.string "DIGLETT dug this long tunnel!\p"
-	.string "It goes right to VIRIDIAN CITY,\n"
-	.string "they tell me.$"
+.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
+	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
 

@@ -121,17 +121,17 @@ EverGrandeCity_PokemonLeague_1F_Movement_RightGuardOutOfWay:
 
 EverGrandeCity_PokemonLeague_1F_Text_MustHaveAllGymBadges:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pBeyond this point, only those TRAINERS\n"
-	.string "who have collected all the GYM BADGES\l"
-	.string "are permitted to enter.\p"
-	.string "TRAINER, let us confirm that you have\n"
-	.string "all the GYM BADGES.$"
+.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
+.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
+.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
+	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
 
 EverGrandeCity_PokemonLeague_1F_Text_HaventObtainedAllBadges:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYou haven't obtained all the BADGES.\p"
-	.string "If you're bound for the POKéMON\n"
-	.string "LEAGUE, you must return with them.$"
+.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
+.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
 
 EverGrandeCity_PokemonLeague_1F_Text_GoForth:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pTRAINER! Believe in yourself and your\n"
-	.string "POKéMON, and go forth!$"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!$"
 

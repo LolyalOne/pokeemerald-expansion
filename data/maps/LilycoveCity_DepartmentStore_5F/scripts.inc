@@ -144,18 +144,18 @@ LilycoveCity_DepartmentStore_5F_EventScript_LittleGirl::
 
 LilycoveCity_DepartmentStore_5F_Text_PlaceFullOfCuteDolls:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThis place is full of cute DOLLS.\p"
-	.string "I should buy some for me, instead of\n"
-	.string "just for my children.$"
+.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!$"
 
 LilycoveCity_DepartmentStore_5F_Text_GettingDollInsteadOfPokemon:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pI'm not big enough to raise POKéMON,\n"
-	.string "so I'm getting a cute DOLL instead.$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pI'm not big enough to raise POKeMON,\n"
+	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 LilycoveCity_DepartmentStore_5F_Text_SellManyCuteMatsHere:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThey sell many cute MATS here.\p"
-	.string "I wonder which one I should get?\n"
-	.string "Maybe I'll buy them all…$"
+.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!$"
 
 LilycoveCity_DepartmentStore_5F_Text_ClosedRooftopForWeather:
-	.string "I think they closed the rooftop\n"
-	.string "because the weather is wild today.$"
+.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"

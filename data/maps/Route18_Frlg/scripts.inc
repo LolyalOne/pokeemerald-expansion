@@ -28,42 +28,42 @@ Route18_EventScript_CyclingRoadSign::
 	end
 
 Route18_Text_WiltonIntro::
-	.string "I always check every grassy area\n"
-	.string "for new POKéMON.$"
+.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
+	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
 
 Route18_Text_WiltonDefeat::
-	.string "Tch!$"
+.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!$"
 
 Route18_Text_WiltonPostBattle::
-	.string "I wish I had a BIKE!$"
+.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!$"
 
 Route18_Text_RamiroIntro::
-	.string "Kurukkoo!\n"
-	.string "How do you like my birdcall?$"
+.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!"
+.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
 
 Route18_Text_RamiroDefeat::
-	.string "I had to bug you!$"
+.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 Route18_Text_RamiroPostBattle::
-	.string "I collect sea POKéMON on weekends\n"
-	.string "because the sea is so close.$"
+.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
+	.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 Route18_Text_JacobIntro::
-	.string "This is my turf!\n"
-	.string "Get out of here!$"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 Route18_Text_JacobDefeat::
-	.string "Darn!$"
+.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
 
 Route18_Text_JacobPostBattle::
-	.string "This is my fave area for catching\n"
-	.string "POKéMON.$"
+.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 Route18_Text_RouteSign::
-	.string "ROUTE 18\n"
-	.string "CELADON CITY - FUCHSIA CITY$"
+.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
+.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
 
 Route18_Text_CyclingRoadSign::
-	.string "CYCLING ROAD\n"
-	.string "No pedestrians permitted!$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
+	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
 

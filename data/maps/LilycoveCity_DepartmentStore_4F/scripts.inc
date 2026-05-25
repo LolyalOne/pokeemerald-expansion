@@ -50,19 +50,19 @@ LilycoveCity_DepartmentStore_4F_Pokemart_DefenseTMs:
 	pokemartlistend
 
 LilycoveCity_DepartmentStore_4F_Text_AttackOrDefenseTM:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pHmm…\p"
-	.string "An attacking move…\n"
-	.string "Or a defensive move…\p"
-	.string "It's no easy matter to decide which TM\n"
-	.string "moves should be taught to POKéMON…$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pHmm...\p"
+.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
+.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
+	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
 
 LilycoveCity_DepartmentStore_4F_Text_FiftyDifferentTMs:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pThere are so many different kinds of\n"
-	.string "TM moves.\p"
-	.string "A catalog I read said there are fifty\n"
-	.string "different kinds.$"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
+.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
+	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 LilycoveCity_DepartmentStore_4F_Text_PokemonOnlyHaveFourMoves:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI'd like to get all the different TMs,\n"
-	.string "but a POKéMON learns only four moves.$"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 

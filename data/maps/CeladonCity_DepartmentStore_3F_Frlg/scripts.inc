@@ -50,72 +50,72 @@ CeladonCity_DepartmentStore_3F_EventScript_Poster::
 	end
 
 CeladonCity_DepartmentStore_3F_Text_OTStandsForOriginalTrainer::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pCaptured POKéMON are registered\n"
-	.string "with an ID No. and the OT.\p"
-	.string "OT stands for “Original TRAINER” -\n"
-	.string "the TRAINER that caught it first.$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pCaptured POKeMON are registered\n"
+.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
+	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
 
 CeladonCity_DepartmentStore_3F_Text_BuddyTradingKangaskhanForHaunter::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pAll right!\p"
-	.string "My buddy's going to trade me his\n"
-	.string "KANGASKHAN for my HAUNTER!$"
+.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
+	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
 
 CeladonCity_DepartmentStore_3F_Text_HaunterEvolvedOnTrade::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pCome on, HAUNTER!\p"
-	.string "I love HAUNTER!\n"
-	.string "I collect them!\p"
-	.string "Huh?\p"
-	.string "HAUNTER turned into a different\n"
-	.string "POKéMON while being traded!$"
+.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
+.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
+.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 CeladonCity_DepartmentStore_3F_Text_CanIdentifyTradeMonsByID::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYou can identify POKéMON you get\n"
-	.string "in trades by their ID Numbers.$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYou can identify POKeMON you get\n"
+.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!$"
 
 CeladonCity_DepartmentStore_3F_Text_ItsSuperNES::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pIt's a Super NES.$"
+	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
 
 CeladonCity_DepartmentStore_3F_Text_AnRPG::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pAn RPG!\n"
-	.string "There's no time for that!$"
+.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
 
 CeladonCity_DepartmentStore_3F_Text_SportsGame::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pA sports game!\n"
-	.string "Dad'll like that!$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
 
 CeladonCity_DepartmentStore_3F_Text_PuzzleGame::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pA puzzle game!\n"
-	.string "Looks addictive!$"
+	.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 CeladonCity_DepartmentStore_3F_Text_FightingGame::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pA fighting game!\n"
-	.string "Looks tough!$"
+	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 CeladonCity_DepartmentStore_3F_Text_TVGameShop::
-	.string "3F: TV GAME SHOP$"
+.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!$"
 
 CeladonCity_DepartmentStore_3F_Text_RedGreenBothArePokemon::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pRed and Green!\n"
-	.string "Both are POKéMON!$"
+.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
 
 Text_CounterTeach::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pOh, hi!\n"
-	.string "I finally finished POKéMON.\p"
-	.string "Not done yet? How about I teach\n"
-	.string "you a good move?\p"
-	.string "The move I have in mind is\n"
-	.string "COUNTER.\p"
-	.string "Not like the one I'm leaning on,\n"
-	.string "mind you!$"
+.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou."
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
+.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
+.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
+	.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 Text_CounterDeclined::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pYou're not interested? Come see\n"
-	.string "me if you change your mind.$"
+	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 Text_CounterWhichMon::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pWhich POKéMON should I teach\n"
-	.string "COUNTER to?$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pWhich POKeMON should I teach\n"
+.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 Text_CounterTaught::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pAre you using that COUNTER move\n"
-	.string "I taught your POKéMON?$"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"

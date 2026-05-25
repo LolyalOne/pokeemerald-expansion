@@ -11,8 +11,8 @@ SSAnne_2F_Room6_EventScript_Woman2::
 
 SSAnne_2F_Room6_Text_CaptainIsAwfullySick::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pThe CAPTAIN said he's awfully sick.\n"
-	.string "He was all pale.$"
+	.string "Feliz aniversario, Lucas! Nao se esqueca de comemorar muito!$"
 
 SSAnne_2F_Room6_Text_ManyPeopleGetSeasick::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI hear many people get seasick.$"
+	.string "Parabens, Lucas! Nao se esqueca de comemorar muito!$"
 

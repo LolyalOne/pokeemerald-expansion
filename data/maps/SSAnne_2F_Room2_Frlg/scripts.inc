@@ -12,25 +12,25 @@ SSAnne_2F_Room2_EventScript_Brooks::
 	end
 
 SSAnne_2F_Room2_Text_BrooksIntro::
-	.string "Competing against the young keeps\n"
-	.string "me youthful.$"
+.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
+	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
 
 SSAnne_2F_Room2_Text_BrooksDefeat::
-	.string "Good match!\n"
-	.string "Ah, I feel young again!$"
+.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
+	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
 
 SSAnne_2F_Room2_Text_BrooksPostBattle::
-	.string "Fifteen years ago, I would\n"
-	.string "have won!$"
+.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!$"
 
 SSAnne_2F_Room2_Text_DaleIntro::
-	.string "Check out what I fished up!$"
+.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!$"
 
 SSAnne_2F_Room2_Text_DaleDefeat::
-	.string "I'm all out!$"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!$"
 
 SSAnne_2F_Room2_Text_DalePostBattle::
-	.string "Party?\p"
-	.string "The cruise ship's party should be\n"
-	.string "over by now.$"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
+.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
+	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
 

@@ -28,30 +28,30 @@ DewfordTown_House2_EventScript_Boy::
 
 DewfordTown_House2_Text_WantYouToHaveSilkScarf:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pGorge your eyes on this!\p"
-	.string "It's a SILK SCARF. It's right at the\n"
-	.string "cutting edge of fashion, yeah!\p"
-	.string "Oh, I can see your eyes twinkling!\n"
-	.string "You appreciate my dazzling style!\p"
-	.string "Oh, you're a delight!\n"
-	.string "Here you go. I want you to have it!$"
+.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
+.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
+.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
+.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
+.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 DewfordTown_House2_Text_NoRoom:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pOh, you don't have room?\p"
-	.string "Now, listen tight, this SCARF is a must-\n"
-	.string "have! Why, I would sell all my items\l"
-	.string "in order to get it!$"
+.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
+.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
+	.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 DewfordTown_House2_Text_ExplainSilkScarf:
-	.string "The SILK SCARF raises the power of\n"
-	.string "NORMAL-type moves.\p"
-	.string "It's a marvelous SCARF that will go\n"
-	.string "with almost all POKéMON!$"
+.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
+.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
+	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
 
 DewfordTown_House2_Text_BrawlySoCool:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWow, you bothered to cross the sea\n"
-	.string "to visit DEWFORD?\p"
-	.string "Did you maybe come here because you\n"
-	.string "heard about BRAWLY?\p"
-	.string "He's so cool…\n"
-	.string "Everyone idolizes him.$"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
+.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
+	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
 

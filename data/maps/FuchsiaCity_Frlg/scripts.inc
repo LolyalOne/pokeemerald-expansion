@@ -140,113 +140,113 @@ FuchsiaCity_EventScript_OmanyteSign::
 
 FuchsiaCity_Text_DidYouTrySafariGame::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pDid you try the SAFARI GAME?\p"
-	.string "There are some rare POKéMON that\n"
-	.string "can only be caught there.$"
+.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
+.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!$"
 
 FuchsiaCity_Text_SafariZoneZooInFront::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pThe SAFARI ZONE has a zoo in front\n"
-	.string "of the entrance.\p"
-	.string "Out back is the SAFARI GAME for\n"
-	.string "catching POKéMON.$"
+.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!"
+	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 FuchsiaCity_Text_WheresSara::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pERIK: Where's SARA?\n"
-	.string "I said I'd meet her here.$"
+.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 FuchsiaCity_Text_ItemBallInThere::
-	.string "That item ball in there…\n"
-	.string "Were you wanting that?\p"
-	.string "Me, too!\n"
-	.string "…Huh? That's a POKéMON?$"
+.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
+.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
+	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
 
 FuchsiaCity_Text_CitySign::
-	.string "FUCHSIA CITY\n"
-	.string "Behold! It's Passion Pink!$"
+.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
+.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!$"
 
 FuchsiaCity_Text_SafariZoneSign::
-	.string "POKéMON PARADISE\n"
-	.string "SAFARI ZONE$"
+.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
+	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 FuchsiaCity_Text_SafariGameSign::
-	.string "SAFARI GAME\n"
-	.string "POKéMON-U-CATCH!$"
+.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
+.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
 
 FuchsiaCity_Text_WardensHomeSign::
-	.string "SAFARI ZONE\n"
-	.string "WARDEN'S HOME$"
+.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
+.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
 
 FuchsiaCity_Text_SafariZoneOfficeSign::
-	.string "POKéMON PARADISE!\n"
-	.string "Welcome to the SAFARI ZONE!\l"
-	.string "SAFARI ZONE OFFICE$"
+.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
+	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
 
 FuchsiaCity_Text_GymSign::
-	.string "FUCHSIA CITY POKéMON GYM\n"
-	.string "LEADER: KOGA\l"
-	.string "The Poisonous Ninja Master$"
+.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!$"
 
 FuchsiaCity_Text_ChanseySign::
-	.string "Name: CHANSEY\n"
-	.string "Catching one is all up to chance.$"
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
+	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
 
 FuchsiaCity_Text_VoltorbSign::
-	.string "Name: VOLTORB\n"
-	.string "The very image of a POKé BALL.$"
+.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou.$"
 
 FuchsiaCity_Text_KangaskhanSign::
-	.string "Name: KANGASKHAN\p"
-	.string "A maternal POKéMON that raises its\n"
-	.string "young in a pouch on its belly.$"
+.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
+.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
+	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
 
 FuchsiaCity_Text_SlowpokeSign::
-	.string "Name: SLOWPOKE\n"
-	.string "Friendly and very slow moving.$"
+.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!$"
 
 FuchsiaCity_Text_LaprasSign::
-	.string "Name: LAPRAS\n"
-	.string "AKA the king of the seas.$"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
 
 FuchsiaCity_Text_OmanyteSign::
-	.string "Name: OMANYTE\n"
-	.string "An extremely rare POKéMON that was\l"
-	.string "regenerated from a fossil.$"
+.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!"
+.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
+.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!$"
 
 FuchsiaCity_Text_KabutoSign::
-	.string "Name: KABUTO\n"
-	.string "An extremely rare POKéMON that was\l"
-	.string "regenerated from a fossil.$"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
+.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
+	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
 
 @ Unused. May have been meant to be the placeholder text for the zoo mons, similar to RB's "!" text
 FuchsiaCity_Text_Ellipsis::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\p……$"
+.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!$"
 
 Text_SubstituteTeach::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pAww, I wish I was a KANGASKHAN\n"
-	.string "baby.\p"
-	.string "I'd love to be a substitute for the\n"
-	.string "baby…\p"
-	.string "And snuggle in the mother\n"
-	.string "KANGASKHAN's belly pouch.\p"
-	.string "But only POKéMON can use the\n"
-	.string "technique SUBSTITUTE…\p"
-	.string "Want me to teach SUBSTITUTE to\n"
-	.string "one of your POKéMON?$"
+.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
+.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
+.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
+.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
+.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
+.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou."
+.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
+.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 Text_SubstituteDeclined::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh, really?\n"
-	.string "SUBSTITUTE seems so fun…$"
+.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
 
 Text_SubstituteWhichMon::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pWhich POKéMON wants to learn\n"
-	.string "SUBSTITUTE?$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pWhich POKeMON wants to learn\n"
+.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
 
 Text_SubstituteTaught::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pBoy, what I'd give to crawl inside\n"
-	.string "a KANGASKHAN belly pouch…$"
+.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!$"
 
 FuchsiaCity_Text_MyFatherIsGymLeader::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pMy father is the GYM LEADER of\n"
-	.string "this town.\p"
-	.string "I'm training to use POISON POKéMON\n"
-	.string "as well as my father.$"
+.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
+.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!"
+.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
 

@@ -262,106 +262,106 @@ BattleFrontier_BattlePikeThreePathRoom_Movement_HintGiverReturnToPos:
 	step_end
 
 BattleFrontier_BattlePikeThreePathRoom_Text_CurrentlyInRoom1:
-	.string "You are currently in\n"
-	.string "the 1st room…$"
+.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
+.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_CurrentlyInRoom3:
-	.string "You are currently in\n"
-	.string "the 3rd room…$"
+.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
+	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_CurrentlyInRoom5:
-	.string "You are currently in\n"
-	.string "the 5th room…$"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
+.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_CurrentlyInRoom7:
-	.string "You are currently in\n"
-	.string "the 7th room…$"
+.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
+.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_CurrentlyInRoom9:
-	.string "You are currently in\n"
-	.string "the 9th room…$"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_CurrentlyInRoom11:
-	.string "You are currently in\n"
-	.string "the 11th room…$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
+	.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_CurrentlyInRoom13:
-	.string "You are currently in\n"
-	.string "the 13th room…$"
+.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_ContinueWithChallenge:
-	.string "Will you continue with\n"
-	.string "your challenge?$"
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
+.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_SaveChallengeAndQuit:
-	.string "Would you like to save your challenge\n"
-	.string "and quit the game for now?$"
+.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
+.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_RetireFromChallenge:
-	.string "Do you wish to retire from your\n"
-	.string "Battle Choice challenge?$"
+.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
+	.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_AwaitingReturnSaveBeforeResume:
-	.string "We've been awaiting your return…\p"
-	.string "Before resuming your Battle Choice\n"
-	.string "challenge, let me save the game…$"
+.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_PleaseEnjoyChallenge:
-	.string "Please do enjoy your Battle Choice\n"
-	.string "challenge…$"
+.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
+.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_SavingYourData:
-	.string "I am saving your data…\n"
-	.string "A little time, please…$"
+.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!$"
 
 BattleFrontier_BattlePike_Text_PathBlockedNoTurningBack:
-	.string "The path is blocked!\n"
-	.string "And there is no turning back…$"
+.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
+.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_FindingItDifficultToChoose:
-	.string "I beg your pardon, but…\p"
-	.string "Are you perhaps finding it difficult\n"
-	.string "to choose your path?$"
+.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!"
+.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!"
+	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_ApologizeForImpertinence:
-	.string "I see…\n"
-	.string "I apologize for my impertinence…$"
+.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
+.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_SomethingAboutRightPath:
-	.string "Ah, let me see… There is something\n"
-	.string "about the path on the right…$"
+.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_SomethingAboutCenterPath:
-	.string "Ah, let me see… There is something\n"
-	.string "about the path in the center…$"
+.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
+.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_SomethingAboutLeftPath:
-	.string "Ah, let me see… There is something\n"
-	.string "about the path on the left…$"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_AromaOfPokemon:
-	.string "It seems to have the distinct aroma\n"
-	.string "of POKéMON wafting around it…$"
+.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_PresenceOfPeople:
-	.string "Is it… A TRAINER?\n"
-	.string "I sense the presence of people…$"
+.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_HeardWhispering:
-	.string "I seem to have heard something…\n"
-	.string "It may have been whispering…$"
+.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
+.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_WaveOfNostaliga:
-	.string "For some odd reason, I felt a wave\n"
-	.string "of nostalgia coming from it…$"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_TerrifyingEvent:
-	.string "I am sorry to say…\p"
-	.string "A terrifying event, yes, a horrible one,\n"
-	.string "is about to befall you…\p"
-	.string "I urge you to pay the utmost care\n"
-	.string "and prepare for the worst…$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
+.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_DreadfulPresence:
-	.string "From every path I sense a dreadful\n"
-	.string "presence…$"
+.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
+.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!$"

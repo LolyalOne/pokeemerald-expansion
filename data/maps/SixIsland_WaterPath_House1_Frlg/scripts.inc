@@ -76,52 +76,52 @@ SixIsland_WaterPath_House1_EventScript_SizeRecordNonEmpty::
 
 SixIsland_WaterPath_House1_Text_LoveItNeedItHeracross::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pHera, hera, HERACROSS!\n"
-	.string "Big and shiny, it's the bug boss!\l"
-	.string "Love it, need it, HERACROSS!$"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 SixIsland_WaterPath_House1_Text_MayIMeasureHeracross::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pEeeeek!\n"
-	.string "That's a HERACROSS!\p"
-	.string "Please, please, may I measure how\n"
-	.string "big it is?$"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
+.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
+	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 SixIsland_WaterPath_House1_Text_ItsXInchesDeserveReward::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pEeeek, it's {STR_VAR_2} inches!\n"
-	.string "I've never seen anything like this!\l"
-	.string "You deserve a reward!$"
+.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
+	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
 
 SixIsland_WaterPath_House1_Text_WantToSeeBiggerOne::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI want to see a much, much bigger\n"
-	.string "HERACROSS than that one.\p"
-	.string "Oh, how I adore them, big\n"
-	.string "HERACROSS!$"
+.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
+.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!$"
 
 SixIsland_WaterPath_House1_Text_ItsXInchesSameAsBefore::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pHuh? This {STR_VAR_2}-inch measurement…\n"
-	.string "Oh, boo! It's the same as before.$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pHuh? This {STR_VAR_2}-inch measurement...\n"
+	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 SixIsland_WaterPath_House1_Text_ItsXInchesYInchesWasBiggest::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pOh, it's just {STR_VAR_2} inches.\n"
-	.string "The HERACROSS before was bigger.\p"
+.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou."
 	.string "It was {STR_VAR_3} inches, the biggest\n"
-	.string "HERACROSS you've brought me.$"
+	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
 
 SixIsland_WaterPath_House1_Text_ThisWontDo::
-	.string "Oh, no! This won't do!\p"
-	.string "HERACROSS looks much more macho\n"
-	.string "and cool, and has a lovely horn!$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
+.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!$"
 
 SixIsland_WaterPath_House1_Text_YourBagIsFull::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYour BAG is full.\n"
-	.string "My reward won't fit.$"
+	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 SixIsland_WaterPath_House1_Text_BiggestHeracrossIsXInches::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThe biggest HERACROSS that I have\n"
-	.string "ever seen measured so far is:\p"
-	.string "{STR_VAR_3} inches!$"
+.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
+	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 SixIsland_WaterPath_House1_Text_BlankChartOfSomeSort::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pIt's a blank chart of some sort.\p"
-	.string "It has spaces for writing in\n"
-	.string "records of some kind.$"
+.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
+.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
 

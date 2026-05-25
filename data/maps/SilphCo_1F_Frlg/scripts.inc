@@ -16,10 +16,10 @@ SilphCo_1F_EventScript_FloorSign::
 
 SilphCo_1F_Text_WelcomePresidentInBoardroom::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWelcome.\p"
-	.string "The PRESIDENT is in the boardroom\n"
-	.string "on 11F.$"
+.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
+.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!$"
 
 SilphCo_1F_Text_FloorSign::
-	.string "SILPH CO. HEAD OFFICE\n"
-	.string "1F$"
+.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
+.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!$"
 

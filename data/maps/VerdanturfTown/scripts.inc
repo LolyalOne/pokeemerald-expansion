@@ -63,63 +63,63 @@ VerdanturfTown_EventScript_RusturfTunnelSign::
 
 VerdanturfTown_Text_ManTryingToDigTunnel:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pMy papa told me.\p"
-	.string "He says this tunnel is full of\n"
-	.string "timid POKéMON.\p"
-	.string "They get all scared of loud noise and\n"
-	.string "make a big uproar.\p"
-	.string "So they had to stop the big tunnel\n"
-	.string "project.\p"
-	.string "But there's one man. He's trying to dig\n"
-	.string "the tunnel by himself!$"
+.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
+.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!"
+.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
+.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
+.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
+	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
 
 VerdanturfTown_Text_ManDugTunnelForLove:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThere was a man who dug a tunnel for\n"
-	.string "a lady he loved.\p"
-	.string "I don't really get it, but hey!$"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
+	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
 
 VerdanturfTown_Text_AirCleanHere:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThe way the winds blow, volcanic ash\n"
-	.string "is never blown in this direction.\p"
-	.string "The air is clean and delicious here.\n"
-	.string "Living here should do wonders for even\l"
-	.string "frail and sickly people.$"
+.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
+.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
+.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 VerdanturfTown_Text_MakeBattleTentDebut:
-	.string "My POKéMON and I, we've been riding\n"
-	.string "a hot winning streak.\p"
-	.string "So I decided to make my BATTLE TENT\n"
-	.string "debut in this town.$"
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
+	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
 
 VerdanturfTown_Text_GuyTryingToBustThroughCave:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pDid you see the cave next to the\n"
-	.string "POKéMON MART?\p"
-	.string "There's a guy in there who's trying to\n"
-	.string "bust up boulders so he can bust out\l"
-	.string "through to the other side.\p"
-	.string "It'd be great if we could go through…\n"
-	.string "It'll make it easy to visit RUSTBORO.$"
+.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
+.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
+.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
+.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
+	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
 
 VerdanturfTown_Text_EasyToGetToRustboroNow:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThat cave next to the POKéMON MART\n"
-	.string "is now a tunnel to the other side.\p"
-	.string "It's great--it's easy to go shop for\n"
-	.string "new DEVON products in RUSTBORO now.$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThat cave next to the POKeMON MART\n"
+.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
+.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
+	.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 VerdanturfTown_Text_TownSign:
-	.string "VERDANTURF TOWN\p"
-	.string "“The windswept highlands with the\n"
-	.string "sweet fragrance of grass.”$"
+.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
+	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 VerdanturfTown_Text_WandasHouse:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWANDA'S HOUSE$"
+.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
 
 VerdanturfTown_Text_BattleTentSign:
-	.string "BATTLE TENT VERDANTURF SITE\n"
-	.string "“Feast Your Eyes on Battles!”$"
+.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
+.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
 
 VerdanturfTown_Text_RusturfTunnelSign:
-	.string "RUSTURF TUNNEL\n"
-	.string "“Linking RUSTBORO and VERDANTURF\p"
-	.string "“The tunnel project has been\n"
-	.string "canceled.”$"
+.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
+.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
+.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
+.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 

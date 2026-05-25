@@ -25,36 +25,36 @@ SSAnne_Deck_EventScript_Trevor::
 
 SSAnne_Deck_Text_ShipDepartingSoon::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThe party's over.\n"
-	.string "The ship will be departing soon.$"
+.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!$"
 
 SSAnne_Deck_Text_ScrubbingDecksHardWork::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWhew!\n"
-	.string "Scrubbing decks is hard work!$"
+	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
 
 SSAnne_Deck_Text_FeelSeasick::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pUrf… I feel ill…\p"
-	.string "I got seasick, so I stepped out to\n"
-	.string "get some air…$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pUrf... I feel ill...\p"
+.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
 
 SSAnne_Deck_Text_EdmondIntro::
-	.string "Hey, matey!\p"
-	.string "Let's do a little jig!$"
+.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 SSAnne_Deck_Text_EdmondDefeat::
-	.string "You're impressive!$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!$"
 
 SSAnne_Deck_Text_EdmondPostBattle::
-	.string "How many kinds of POKéMON do you\n"
-	.string "think there are in this big world?$"
+.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
+.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!$"
 
 SSAnne_Deck_Text_TrevorIntro::
-	.string "Ahoy, there!\n"
-	.string "Are you seasick?$"
+.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
+	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 SSAnne_Deck_Text_TrevorDefeat::
-	.string "I was just careless!$"
+.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!$"
 
 SSAnne_Deck_Text_TrevorPostBattle::
-	.string "My pa said there are 100 kinds of\n"
-	.string "POKéMON. I think there are more.$"
+.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
 

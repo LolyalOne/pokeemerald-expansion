@@ -12,24 +12,24 @@ SSAnne_2F_Room4_EventScript_Dawn::
 	end
 
 SSAnne_2F_Room4_Text_LamarIntro::
-	.string "Which do you find more worthy,\n"
-	.string "a strong or a rare POKéMON?$"
+.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 SSAnne_2F_Room4_Text_LamarDefeat::
-	.string "I must salute you!$"
+.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!$"
 
 SSAnne_2F_Room4_Text_LamarPostBattle::
-	.string "Personally, I prefer strong and\n"
-	.string "rare POKéMON.$"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
+.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 SSAnne_2F_Room4_Text_DawnIntro::
-	.string "I don't believe I saw you at the\n"
-	.string "party?$"
+.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
+	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
 
 SSAnne_2F_Room4_Text_DawnDefeat::
-	.string "Take it easy!$"
+.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!$"
 
 SSAnne_2F_Room4_Text_DawnPostBattle::
-	.string "Oh, I adore your strong POKéMON!\n"
-	.string "Oh, how I envy you for them!$"
+.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou."
+	.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 

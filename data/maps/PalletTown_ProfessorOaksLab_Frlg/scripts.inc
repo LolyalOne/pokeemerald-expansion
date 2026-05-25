@@ -1300,358 +1300,358 @@ PalletTown_ProfessorOaksLab_EventScript_RightSignAlt::
 
 PalletTown_ProfessorOaksLab_Text_RivalGrampsIsntAround::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p{RIVAL}: What, it's only {PLAYER}?\n"
-	.string "Gramps isn't around.$"
+	.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalFedUpWithWaiting::
 	.string "{RIVAL}: Gramps!\n"
-	.string "I'm fed up with waiting!$"
+.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalNoFairWhatAboutMe::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p{RIVAL}: Hey! Gramps! No fair!\n"
-	.string "What about me?$"
+.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalGoChoosePlayer::
 	.string "{RIVAL}: Heh, I don't need to be\n"
-	.string "greedy like you. I'm mature!\p"
-	.string "Go ahead and choose, {PLAYER}!$"
+.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
+.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalIllTakeThisOneThen::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p{RIVAL}: I'll take this one, then!$"
+	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalReceivedMonFromOak::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p{RIVAL} received the {STR_VAR_1}\n"
-	.string "from PROF. OAK!$"
+	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalMyMonLooksTougher::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p{RIVAL}: My POKéMON looks a lot\n"
-	.string "tougher than yours.$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p{RIVAL}: My POKeMON looks a lot\n"
+	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalLetsCheckOutMons::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p{RIVAL}: Wait, {PLAYER}!\n"
-	.string "Let's check out our POKéMON!\p"
-	.string "Come on, I'll take you on!$"
+.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalDefeat::
-	.string "WHAT?\n"
-	.string "Unbelievable!\l"
-	.string "I picked the wrong POKéMON!$"
+.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
+.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
+	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 @ Also used for early Route 22 battle
 Text_RivalVictory::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\p{RIVAL}: Yeah!\n"
-	.string "Am I great or what?$"
+	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalGoToughenMyMon::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p{RIVAL}: Okay! I'll make my\n"
-	.string "POKéMON battle to toughen it up!\p"
+.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
 	.string "{PLAYER}! Gramps!\n"
-	.string "Smell you later!$"
+.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalGramps::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\p{RIVAL}: Gramps!$"
+.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalWhatDidYouCallMeFor::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p{RIVAL}: I almost forgot!\n"
-	.string "What did you call me for?$"
+	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 PalletTown_ProfessorOaksLab_Text_RivalLeaveItToMeGramps::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p{RIVAL}: All right, Gramps!\n"
-	.string "Leave it all to me!$"
+.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalTellSisNotToGiveYouMap::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\p{PLAYER}, I hate to say it, but you\n"
-	.string "won't be necessary for this.\p"
-	.string "I know! I'll borrow a TOWN MAP\n"
-	.string "from my sis!\p"
-	.string "I'll tell her not to lend you one,\n"
+.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
+.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
+.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
 	.string "{PLAYER}! Hahaha!\p"
-	.string "Don't bother coming around to\n"
-	.string "my place after this!$"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!$"
 
 PalletTown_ProfessorOaksLab_Text_OakThreeMonsChooseOne::
 	.string "OAK: {RIVAL}?\n"
-	.string "Let me think…\p"
-	.string "Oh, that's right, I told you to\n"
-	.string "come! Just wait!\p"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
 	.string "Here, {PLAYER}.\p"
-	.string "There are three POKéMON here.\p"
-	.string "Haha!\p"
-	.string "The POKéMON are held inside\n"
-	.string "these POKé BALLS.\p"
-	.string "When I was young, I was a serious\n"
-	.string "POKéMON TRAINER.\p"
-	.string "But now, in my old age, I have\n"
-	.string "only these three left.\p"
-	.string "You can have one.\n"
-	.string "Go on, choose!$"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
+.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou."
+.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
+.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
+.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
+	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 PalletTown_ProfessorOaksLab_Text_OakBePatientRival::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pOAK: Be patient, {RIVAL}.\n"
-	.string "You can have one, too!$"
+	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
 
 PalletTown_ProfessorOaksLab_Text_OakWhichOneWillYouChoose::
 	.string "OAK: Now, {PLAYER}.\p"
-	.string "Inside those three POKé BALLS are\n"
-	.string "POKéMON.\p"
-	.string "Which one will you choose for\n"
-	.string "yourself?$"
+.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
+.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
 
 PalletTown_ProfessorOaksLab_Text_OakHeyDontGoAwayYet::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pOAK: Hey!\n"
-	.string "Don't go away yet!$"
+.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!$"
 
 PalletTown_ProfessorOaksLab_Text_OakChoosingCharmander::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pAh! CHARMANDER is your choice.\n"
-	.string "You should raise it patiently.\p"
+.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
 	.string "So, {PLAYER}, you're claiming the\n"
-	.string "FIRE POKéMON CHARMANDER?$"
+.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!$"
 
 PalletTown_ProfessorOaksLab_Text_OakChoosingSquirtle::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pHm! SQUIRTLE is your choice.\n"
-	.string "It's one worth raising.\p"
+.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
 	.string "So, {PLAYER}, you've decided on the\n"
-	.string "WATER POKéMON SQUIRTLE?$"
+.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!$"
 
 PalletTown_ProfessorOaksLab_Text_OakChoosingBulbasaur::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pI see! BULBASAUR is your choice.\n"
-	.string "It's very easy to raise.\p"
+.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
 	.string "So, {PLAYER}, you want to go with\n"
-	.string "the GRASS POKéMON BULBASAUR?$"
+.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!$"
 
 PalletTown_ProfessorOaksLab_Text_OakThisMonIsEnergetic::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pThis POKéMON is really quite\n"
-	.string "energetic!$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pThis POKeMON is really quite\n"
+	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
 
 PalletTown_ProfessorOaksLab_Text_ReceivedMonFromOak::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\p{PLAYER} received the {STR_VAR_1}\n"
-	.string "from PROF. OAK!$"
+.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!$"
 
 PalletTown_ProfessorOaksLab_Text_OakCanReachNextTownWithMon::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pOAK: If a wild POKéMON appears,\n"
-	.string "your POKéMON can battle it.\p"
-	.string "With it at your side, you should be\n"
-	.string "able to reach the next town.$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pOAK: If a wild POKeMON appears,\n"
+.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
+.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
+	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
 
 PalletTown_ProfessorOaksLab_Text_OakBattleMonForItToGrow::
 	.string "OAK: {PLAYER}, raise your young\n"
-	.string "POKéMON by making it battle.\p"
-	.string "It has to battle for it to grow.$"
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
+	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
 
 PalletTown_ProfessorOaksLab_Text_OakHaveSomethingForMe::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pOAK: Oh, {PLAYER}!\n"
-	.string "How is my old POKéMON?\p"
-	.string "Well, it seems to be growing more\n"
-	.string "attached to you.\p"
-	.string "You must be talented as a POKéMON\n"
-	.string "TRAINER.\p"
-	.string "What's that?\n"
-	.string "You have something for me?$"
+.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Parabens, Lucas! Sua jornada\napenas comecou."
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
+.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!"
+.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
+.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
+	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 PalletTown_ProfessorOaksLab_Text_DeliveredOaksParcel::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p{PLAYER} delivered OAK'S PARCEL.$"
+	.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
 
 PalletTown_ProfessorOaksLab_Text_OakCustomBallIOrdered::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pAh! \n"
-	.string "It's the custom POKé BALL!\p"
-	.string "I had it on order.\n"
-	.string "Thank you!$"
+.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
+.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!$"
 
 PalletTown_ProfessorOaksLab_Text_OakHaveRequestForYouTwo::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOAK: Oh, right!\n"
-	.string "I have a request for you two.$"
+	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 PalletTown_ProfessorOaksLab_Text_OakPokedexOnDesk::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pOn the desk there is my invention,\n"
-	.string "the POKéDEX!\p"
-	.string "It automatically records data on\n"
-	.string "POKéMON you've seen or caught.\p"
-	.string "It's a high-tech encyclopedia!$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
+.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
+	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
 
 PalletTown_ProfessorOaksLab_Text_OakTakeTheseWithYou::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOAK: {PLAYER} and {RIVAL}.\n"
-	.string "Take these with you.$"
+	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
 
 PalletTown_ProfessorOaksLab_Text_ReceivedPokedexFromOak::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p{PLAYER} received the POKéDEX\n"
-	.string "from PROF. OAK.$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p{PLAYER} received the POKeDEX\n"
+.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
 
 PalletTown_ProfessorOaksLab_Text_OakCatchMonsForDataTakeThese::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pOAK: You can't get detailed data\n"
-	.string "on POKéMON by just seeing them.\p"
-	.string "You must catch them to obtain\n"
-	.string "complete data.\p"
-	.string "So, here are some tools for\n"
-	.string "catching wild POKéMON.$"
+.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!"
+.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
+.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!$"
 
 PalletTown_ProfessorOaksLab_Text_ReceivedFivePokeBalls::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p{PLAYER} received five POKé BALLS.$"
+	.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
 
 PalletTown_ProfessorOaksLab_Text_OakExplainCatching::
-	.string "When a wild POKéMON appears,\n"
-	.string "it's fair game.\p"
-	.string "Just throw a POKé BALL at it and\n"
-	.string "try to catch it!\p"
-	.string "This won't always work, however.\p"
-	.string "A healthy POKéMON can escape.\n"
-	.string "You have to be lucky!$"
+.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
+.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!"
+.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
+.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
+.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
 
 PalletTown_ProfessorOaksLab_Text_OakCompleteMonGuideWasMyDream::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pTo make a complete guide on all\n"
-	.string "the POKéMON in the world…\p"
-	.string "That was my dream!\p"
-	.string "But, I'm too old.\n"
-	.string "I can't get the job done.\p"
-	.string "So, I want you two to fulfill my\n"
-	.string "dream for me.\p"
-	.string "Get moving, you two.\p"
-	.string "This is a great undertaking in\n"
-	.string "POKéMON history!$"
+.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
+.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
+.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
+.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
+.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
+	.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
 
 PalletTown_ProfessorOaksLab_Text_OakMonsAroundWorldWait::
-	.string "POKéMON around the world wait for\n"
-	.string "you, {PLAYER}!$"
+.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
+	.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
 
 PalletTown_ProfessorOaksLab_Text_OakAddedNothingToPokedex::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pAh, {PLAYER}!\n"
-	.string "How is your POKéDEX shaping up?\p"
+.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
 	.string "{RIVAL} has already caught some\n"
-	.string "POKéMON and added to the data.\p"
+.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
 	.string "So, {PLAYER}, let's have a look at\n"
-	.string "your POKéDEX.\p"
-	.string "…What's the matter?\n"
-	.string "You've added no new data at all.\p"
-	.string "I'll give you these, so do try a\n"
-	.string "little harder.$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
+.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
+	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
 
 PalletTown_ProfessorOaksLab_Text_OakComeSeeMeSometime::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pOAK: Come see me sometime.\p"
-	.string "After all, I want to know how your\n"
-	.string "POKéDEX is coming along.$"
+.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
+.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou.$"
 
 PalletTown_ProfessorOaksLab_Text_BlankEncyclopedia::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pIt's like an encyclopedia, but the\n"
-	.string "pages are blank.$"
+	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
 
 PalletTown_ProfessorOaksLab_Text_ThoseArePokeBalls::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pThose are POKé BALLS.\n"
-	.string "They contain POKéMON!$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pThose are POKe BALLS.\n"
+.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou.$"
 
 PalletTown_ProfessorOaksLab_Text_OaksLastMon::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pThat's PROF. OAK's last POKéMON.$"
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!$"
 
 PalletTown_ProfessorOaksLab_Text_PressStartToOpenMenu::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pPress START to open the MENU!$"
+	.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
 
 PalletTown_ProfessorOaksLab_Text_SaveOptionInMenu::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThe SAVE option is on the MENU.\n"
-	.string "Use it regularly.$"
+.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
 
 PalletTown_ProfessorOaksLab_Text_AllMonTypesHaveStrongAndWeakPoints::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pAll POKéMON types have strong and\n"
-	.string "weak points against others.$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pAll POKeMON types have strong and\n"
+.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 PalletTown_ProfessorOaksLab_Text_EmailMessage::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pThere's an e-mail message here.\p"
-	.string "…\p"
-	.string "Finally!\n"
-	.string "The ultimate TRAINERS of the\l"
-	.string "POKéMON LEAGUE are ready to\l"
-	.string "take on all comers!\p"
-	.string "Bring your best POKéMON and see\n"
-	.string "how you rate as a TRAINER!\p"
-	.string "POKéMON LEAGUE HQ\n"
-	.string "INDIGO PLATEAU\p"
-	.string "PROF. OAK, please visit us!\n"
-	.string "…$"
+.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
+.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
+.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
+.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
+.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
+	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
 
 PalletTown_ProfessorOaksLab_Text_StudyAsOaksAide::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI study POKéMON as PROF. OAK's\n"
-	.string "AIDE.$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI study POKeMON as PROF. OAK's\n"
+.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
 
 PalletTown_ProfessorOaksLab_Text_DaisyWillGroomMons::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pHi, {PLAYER}. I bet you've become\n"
-	.string "good friends with your POKéMON.\p"
-	.string "By the way, did you know about\n"
-	.string "DAISY?\p"
-	.string "If you show DAISY your POKéMON,\n"
-	.string "she can tell how much it likes you.\p"
-	.string "Occasionally, she will even groom\n"
-	.string "a POKéMON for you.\p"
-	.string "This is a secret, so please don't\n"
-	.string "tell anyone.$"
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
+.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
+.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
+.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!"
+.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
+	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
 
 PalletTown_ProfessorOaksLab_Text_OakIsGoingToHaveRadioShow::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pPROF. OAK is going to have his own\n"
-	.string "radio show soon.\p"
-	.string "The program will be called PROF.\n"
-	.string "OAK's POKéMON SEMINAR.$"
+.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!$"
 
 PalletTown_ProfessorOaksLab_Text_OakIsAuthorityOnMons::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pPROF. OAK may not look like much,\n"
-	.string "but he's the authority on POKéMON.\p"
-	.string "Many POKéMON TRAINERS hold him in\n"
-	.string "high regard.$"
+.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
+.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
+	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
 
 PalletTown_ProfessorOaksLab_Text_OakFavorToAskYouPlayer::
-	.string "Ah, now this is excellent!\p"
+.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
 	.string "{PLAYER}, I have another important\n"
-	.string "favor to ask of you.\p"
-	.string "I need you to listen closely.$"
+.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
+	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 PalletTown_ProfessorOaksLab_Text_OakSightingsOfRareMons::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pRecently, there have been sightings\n"
-	.string "of many rare POKéMON species.\p"
-	.string "I'm talking about POKéMON that\n"
-	.string "have never been seen in KANTO.\p"
-	.string "I would love to go see things for\n"
-	.string "myself, but I'm much too old.\p"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
+.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
+.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
 	.string "Since I can't do it, {PLAYER}, I'd\n"
-	.string "like you to go in my place.$"
+.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalJustLetMeHandleEverything::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p{RIVAL}: Hey, I heard that!\p"
-	.string "Gramps, what's with favoring\n"
+.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
 	.string "{PLAYER} over me all the time?\p"
-	.string "I went and collected more POKéMON,\n"
-	.string "and faster, too.\p"
-	.string "You should just let me handle\n"
-	.string "everything.$"
+.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
+.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
+	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
 
 PalletTown_ProfessorOaksLab_Text_OakNeedYourHelpTooNeedToSeePokedexes::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pOAK: I know, I know.\n"
-	.string "Of course I need your help, too.\p"
-	.string "Now, I need to see both your\n"
-	.string "POKéDEXES.$"
+.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
+.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
+.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!$"
 
 PalletTown_ProfessorOaksLab_Text_OakTookBothPokedexUnits::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pPROF. OAK took both POKéDEX\n"
-	.string "units.$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pPROF. OAK took both POKeDEX\n"
+	.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 PalletTown_ProfessorOaksLab_Text_OakNowTheseUnitsCanRecordMoreData::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p… … …  … … …\p"
-	.string "… … …  … … …\p"
-	.string "…And that's done!\p"
-	.string "Now these units can record data on\n"
-	.string "a lot more POKéMON.$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p... ... ... ... ... ...\p"
+.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
+.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
+.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
+	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
 
 PalletTown_ProfessorOaksLab_Text_PlayersPokedexWasUpgraded::
-	.string "{PLAYER}'s POKéDEX was upgraded!$"
+	.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
 
 PalletTown_ProfessorOaksLab_Text_OakMustReallyWorkToFillPokedex::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pNow, {PLAYER} and {RIVAL}!\p"
-	.string "This time, you really must work\n"
-	.string "towards filling your POKéDEXES.\p"
-	.string "I urge you to make them the best\n"
-	.string "and the most complete of all time!\p"
-	.string "Truly, this is a monumentally great\n"
-	.string "undertaking in POKéMON history!$"
+.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
+.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
+.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalIllCompleteThePokedex::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p{RIVAL}: Gramps, calm down.\n"
-	.string "Don't get so excited.\p"
-	.string "I'll get the POKéDEX completed,\n"
-	.string "don't you worry about a thing.\p"
-	.string "I think I'll try looking around\n"
-	.string "ONE ISLAND first…\p"
-	.string "Anyways, I'm outta here!$"
+.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
+.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
+.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!$"
 

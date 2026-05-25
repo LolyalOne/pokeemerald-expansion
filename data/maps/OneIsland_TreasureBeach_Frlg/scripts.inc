@@ -6,20 +6,20 @@ OneIsland_TreasureBeach_EventScript_Boy::
 	end
 
 OneIsland_TreasureBeach_Text_AmaraIntro::
-	.string "Lying back, rocked by the waves…\n"
-	.string "It's exquisite.$"
+.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
+.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!$"
 
 OneIsland_TreasureBeach_Text_AmaraDefeat::
-	.string "I lost…\n"
-	.string "It feels awful.$"
+.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
+	.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
 
 OneIsland_TreasureBeach_Text_AmaraPostBattle::
-	.string "The sea is pleasantly warm in these\n"
-	.string "parts.$"
+.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
+.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!$"
 
 OneIsland_TreasureBeach_Text_GoodThingsWashUpOnBeach::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pGood things get washed up by the\n"
-	.string "ocean current onto this beach.\p"
-	.string "That's why I often come here for\n"
-	.string "some beachcombing.$"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
 

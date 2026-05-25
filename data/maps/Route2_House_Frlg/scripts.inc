@@ -40,8 +40,8 @@ Route2_House_EventScript_AlreadyTraded::
 	end
 
 Route2_House_Text_FaintedMonsCanUseFieldMoves::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pA fainted POKéMON just has no\n"
-	.string "energy left to battle.\p"
-	.string "It can still use moves like CUT\n"
-	.string "outside of battle.$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pA fainted POKeMON just has no\n"
+.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!"
+.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
+.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
 

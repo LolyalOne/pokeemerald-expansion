@@ -36,76 +36,76 @@ SilphCo_2F_EventScript_Grunt2::
 	end
 
 SilphCo_2F_Text_ConnorIntro::
-	.string "Help!\n"
-	.string "I'm a SILPH employee.$"
+.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!$"
 
 SilphCo_2F_Text_ConnorDefeat::
-	.string "How did you know\n"
-	.string "I was a ROCKET?$"
+.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
+	.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 SilphCo_2F_Text_ConnorPostBattle::
-	.string "I work for both SILPH and TEAM\n"
-	.string "ROCKET.$"
+.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 SilphCo_2F_Text_JerryIntro::
-	.string "It's off-limits here!\n"
-	.string "Go home!$"
+.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
+.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!$"
 
 SilphCo_2F_Text_JerryDefeat::
-	.string "You're good.$"
+.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
 
 SilphCo_2F_Text_JerryPostBattle::
-	.string "Can you solve the maze in here?\n"
-	.string "It's not easy, I tell you!$"
+.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
+.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!$"
 
 SilphCo_2F_Text_Grunt1Intro::
-	.string "No kids are allowed in here!$"
+	.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
 
 SilphCo_2F_Text_Grunt1Defeat::
-	.string "Tough!$"
+.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!$"
 
 SilphCo_2F_Text_Grunt1PostBattle::
-	.string "Diamond-shaped tiles are teleport\n"
-	.string "blocks.\p"
-	.string "They're transporters for this\n"
-	.string "high-tech building.$"
+.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!$"
 
 SilphCo_2F_Text_Grunt2Intro::
-	.string "Hey, kid!\n"
-	.string "What are you wandering here for?$"
+.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
+	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
 
 SilphCo_2F_Text_Grunt2Defeat::
-	.string "I goofed!$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
 
 SilphCo_2F_Text_Grunt2PostBattle::
-	.string "SILPH CO. will be associated with\n"
-	.string "TEAM ROCKET!$"
+.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
+	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
 
 Text_ThunderWaveTeach::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pEeek!\n"
-	.string "No! Stop! Help!\p"
-	.string "Oh, you're not with TEAM ROCKET.\n"
-	.string "I'm sorry, I thought…\p"
-	.string "Will you forgive me if I teach\n"
-	.string "you the THUNDER WAVE technique?$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!"
+.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
+	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
 
 Text_ThunderWaveDeclined::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pOh…\n"
-	.string "But THUNDER WAVE is convenient…$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pOh...\n"
+.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!$"
 
 Text_ThunderWaveWhichMon::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWhich POKéMON should I teach\n"
-	.string "THUNDER WAVE?$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWhich POKeMON should I teach\n"
+	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 Text_ThunderWaveTaught::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pTHUNDER WAVE causes paralysis in\n"
-	.string "the target POKéMON.\p"
-	.string "A paralyzed POKéMON may be unable\n"
-	.string "to move in battle.\p"
-	.string "It's an ELECTRIC-type move, so it\n"
-	.string "won't work on some POKéMON.$"
+.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
+.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
+.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!$"
 
 SilphCo_2F_Text_FloorSign::
-	.string "SILPH CO. HEAD OFFICE\n"
-	.string "2F$"
+.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
+	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
 

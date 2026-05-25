@@ -18,20 +18,20 @@ CeladonCity_Hotel_EventScript_BeautyBrother::
 	end
 
 CeladonCity_Hotel_Text_ThisHotelIsForPeople::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pPOKéMON?\n"
-	.string "No, this is a hotel for people.\p"
-	.string "We're full up, unfortunately.$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pPOKeMON?\n"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
+.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!$"
 
 CeladonCity_Hotel_Text_OnVacationWithBrotherAndBoyfriend::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI'm on vacation with my brother and\n"
-	.string "boyfriend.\p"
-	.string "CELADON is such a pretty city!$"
+.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 CeladonCity_Hotel_Text_WhyDidSheBringBrother::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pWhy?\n"
-	.string "Why did she bring her brother?$"
+	.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
 
 CeladonCity_Hotel_Text_SisBroughtMeOnVacation::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYippee! I'm on vacation!\n"
-	.string "My sis brought me along! Awesome!$"
+	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
 

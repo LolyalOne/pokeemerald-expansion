@@ -233,127 +233,127 @@ ViridianCity_EventScript_DoTutorialBattle::
 	return
 
 ViridianCity_Text_CanCarryMonsAnywhere::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThose POKé BALLS at your waist!\n"
-	.string "You have POKéMON, don't you?\p"
-	.string "It's great that you can carry and\n"
-	.string "use POKéMON anytime, anywhere.$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThose POKe BALLS at your waist!\n"
+.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
+.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
+	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
 
 ViridianCity_Text_GymClosedWonderWhoLeaderIs::
-	.string "This POKéMON GYM is always closed.\p"
-	.string "I wonder who the LEADER is?$"
+.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
+.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!$"
 
 ViridianCity_Text_ViridiansGymLeaderReturned::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pVIRIDIAN GYM's LEADER returned!$"
+	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
 
 ViridianCity_Text_WantToKnowAboutCaterpillarMons::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pYou want to know about the two\n"
-	.string "kinds of caterpillar POKéMON?$"
+	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
 
 ViridianCity_Text_OhOkayThen::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh, okay then!$"
+.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!$"
 
 ViridianCity_Text_ExplainCaterpieWeedle::
-	.string "CATERPIE has no poison,\n"
-	.string "but WEEDLE does.\p"
-	.string "Watch that your POKéMON aren't\n"
-	.string "stabbed by WEEDLE's POISON STING.$"
+.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
+.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
+.string "Parabens, Lucas! Sua jornada\napenas comecou."
+	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
 
 ViridianCity_Text_GrandpaHasntHadCoffeeYet::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pOh, Grandpa!\n"
-	.string "Don't be so mean!\p"
-	.string "I'm so sorry.\n"
-	.string "He hasn't had his coffee yet.$"
+.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
+.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 ViridianCity_Text_GoShoppingInPewterOccasionally::
-	.string "I go shopping in PEWTER CITY\n"
-	.string "occasionally.\p"
-	.string "I have to take the winding trail in\n"
-	.string "VIRIDIAN FOREST when I go.$"
+.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
+.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
+.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
+.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!$"
 
 ViridianCity_Text_ThisIsPrivateProperty::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pI absolutely forbid you from\n"
-	.string "going through here!\p"
-	.string "This is private property!$"
+.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!$"
 
 ViridianCity_Text_ShowYouHowToCatchMons::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWell, now, I've had my coffee, and\n"
-	.string "that's what I need to get going!\p"
-	.string "Hm?\n"
-	.string "What is that red box you have?\p"
-	.string "Ah, so you're working on your\n"
-	.string "POKéDEX.\p"
-	.string "Then let me give you a word of\n"
-	.string "advice.\p"
-	.string "Whenever you catch a POKéMON,\n"
-	.string "the POKéDEX automatically updates\l"
-	.string "its data.\p"
-	.string "…You don't know how to catch\n"
-	.string "a POKéMON?\p"
-	.string "I suppose I had better show you\n"
-	.string "then!$"
+.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
+.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
+.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
+.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
+.string "Parabens, Lucas! Sua jornada\napenas comecou."
+.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
+.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
+.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
+.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
+	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
 
 ViridianCity_Text_ThatWasEducationalTakeThis::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThere! Now tell me, that was\n"
-	.string "educational, was it not?\p"
-	.string "And here, take this, too.$"
+.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
+	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
 
 ViridianCity_Text_WatchThatToLearnBasics::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pIf there's something you don't\n"
-	.string "understand, watch that.\p"
-	.string "It will teach you about the basics\n"
-	.string "of being a POKéMON TRAINER.$"
+.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
+.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
+	.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
 
 ViridianCity_Text_WeakenMonsFirstToCatch::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWell, now, I've had my coffee, and\n"
-	.string "that's what I need to get going!\p"
-	.string "But I made it too strong.\n"
-	.string "It gave me a headache…\p"
-	.string "Incidentally, are you filling your\n"
-	.string "POKéDEX?\p"
-	.string "At first, focus on weakening the\n"
-	.string "POKéMON before trying to catch it.$"
+.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
+.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
+.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!$"
 
 ViridianCity_Text_HowsTeachyTVHelping::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pWell, now, I've had my coffee, and\n"
-	.string "that's what I need to get going!\p"
-	.string "But I made it too strong.\n"
-	.string "It gave me a headache…\p"
-	.string "Incidentally, is my old TEACHY TV\n"
-	.string "helping you?$"
+.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
+.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
+.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!$"
 
 ViridianCity_Text_MyGrandsonOnTheShow::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWahaha!\n"
-	.string "It's my grandson on the show!\p"
-	.string "Since he's the one doing the\n"
-	.string "teaching, you're bound to learn.$"
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
+.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
+.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
 
 ViridianCity_Text_TooBusyForTeachyTV::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pHm… You're too busy to not even\n"
-	.string "have the time for TEACHY TV…\p"
-	.string "Time is money, and neither should\n"
-	.string "be ill spent…$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pHm... You're too busy to not even\n"
+.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
+.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 ViridianCity_Text_CitySign::
-	.string "VIRIDIAN CITY \n"
-	.string "The Eternally Green Paradise$"
+.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
 
 ViridianCity_Text_CatchMonsForEasierBattles::
-	.string "TRAINER TIPS\p"
-	.string "Catch POKéMON and expand your\n"
-	.string "collection.\p"
-	.string "The more you have, the easier it\n"
-	.string "is to battle.$"
+.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
+.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
+.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!"
+.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!$"
 
 ViridianCity_Text_MovesLimitedByPP::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pTRAINER TIPS\p"
-	.string "The battle moves of POKéMON are\n"
-	.string "limited by their POWER POINTS, PP.\p"
-	.string "To replenish PP, rest your tired\n"
-	.string "POKéMON at a POKéMON CENTER.$"
+.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
+.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!$"
 
 ViridianCity_Text_GymSign::
-	.string "VIRIDIAN CITY POKéMON GYM$"
+.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou.$"
 
 ViridianCity_Text_GymDoorsAreLocked::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pVIRIDIAN GYM's doors are locked…$"
+.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!$"
 

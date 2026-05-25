@@ -695,130 +695,130 @@ Route110_TrickHouseEntrance_EventScript_DoHidingSpotSparkle::
 	return
 
 Route110_TrickHouseEntrance_Text_YoureBeingWatched:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pYou're being watched…$"
+	.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
 
 Route110_TrickHouseEntrance_Text_ConcealedBeneathDesk:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pHah? Grrr…\p"
-	.string "How did you know I concealed myself\n"
-	.string "beneath this desk? You're sharp!$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pHah? Grrr...\p"
+.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
+	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
 
 Route110_TrickHouseEntrance_Text_ConcealedBehindTree:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHah? Grrr…\p"
-	.string "How did you know I concealed myself\n"
-	.string "behind this tree? You're sharp!$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHah? Grrr...\p"
+.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
+.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!$"
 
 Route110_TrickHouseEntrance_Text_ConcealedInDresser:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pHah? Grrr…\p"
-	.string "How did you know I concealed myself\n"
-	.string "in this dresser? You're sharp!$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pHah? Grrr...\p"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!$"
 
 Route110_TrickHouseEntrance_Text_ConealedBeyondWindow:
-	.string "Hah? Grrr…\p"
-	.string "How did you know I concealed myself\n"
-	.string "beyond this window? You're sharp!$"
+.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
+.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
+	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
 
 Route110_TrickHouseEntrance_Text_ConcealedInPlanter:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pHah? Grrr…\p"
-	.string "How did you know I concealed myself\n"
-	.string "in this planter? You're sharp!$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pHah? Grrr...\p"
+.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
+	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 
 Route110_TrickHouseEntrance_Text_ConcealedInCupboard:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHah? Grrr…\p"
-	.string "How did you know I concealed myself\n"
-	.string "in this cupboard? You're sharp!$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHah? Grrr...\p"
+.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
+.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!$"
 
 Route110_TrickHouseEntrance_Text_ConcealedBehindWindow:
-	.string "Hah? Grrr…\p"
-	.string "How did you know I concealed myself\n"
-	.string "behind this window? You're sharp!$"
+.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
+	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
 
 Route110_TrickHouseEntrance_Text_ConcealedBeneathCushion:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHah? Grrr…\p"
-	.string "How did you know I concealed myself\n"
-	.string "beneath this cushion? You're sharp!$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHah? Grrr...\p"
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
+	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
 
 Route110_TrickHouseEntrance_Text_TheyCallMeTrickMaster:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pBehold!\p"
-	.string "For I am the greatest living mystery\n"
-	.string "of a man in all of HOENN!\l"
-	.string "They call me…\p"
-	.string "The TRICK MASTER!\n"
-	.string "Wahahaha! Glad to meet you!$"
+.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
+.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
+	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
 
 Route110_TrickHouseEntrance_Text_ComeToChallengeTrickHouse:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pYou, you've come to challenge\n"
-	.string "my TRICK HOUSE, haven't you?\p"
-	.string "That's why you're here, isn't it?\n"
-	.string "Yes, it is!\p"
-	.string "Consider your challenge accepted!\p"
-	.string "Enter through the scroll there,\n"
-	.string "and let your challenge commence!\p"
-	.string "I shall be waiting in the back!$"
+.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
+.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
+.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
+.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou."
+.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!$"
 
 Route110_TrickHouseEntrance_Text_ItsAScroll:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pIt's a scroll.$"
+	.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
 
 Route110_TrickHouseEntrance_Text_GoInHoleBehindScroll:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThere is a big hole behind the scroll!\p"
-	.string "Want to go in?$"
+	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
 
 Route110_TrickHouseEntrance_Text_LeavingOnJourneyNote:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThere is a note affixed to the scroll…\p"
-	.string "“I am leaving on a journey.\n"
-	.string "Don't look for me. TRICK MASTER”$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThere is a note affixed to the scroll...\p"
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
+	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 Route110_TrickHouseEntrance_Text_NextTimeUseThisTrick:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pFor the next time, I'll use this trick,\n"
-	.string "and that scheme, and those ruses…\p"
-	.string "Mufufufu… If I may say so, it's\n"
-	.string "brilliantly difficult, even for me!$"
+.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
+.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 
 Route110_TrickHouseEntrance_Text_InMidstOfDevisingNewChallenges:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pHah? What?!\n"
-	.string "Oh, it's you!\p"
-	.string "I'm in the midst of devising new tricky\n"
-	.string "challenges!\p"
-	.string "It's not too much to ask for a bit more\n"
-	.string "time for me to think, is it now?\l"
-	.string "You wouldn't begrudge me that?\l"
-	.string "Come back in a little while!$"
+.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
+.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!"
+.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
+	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 
 Route110_TrickHouseEntrance_Text_YoureHereToAcceptReward:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pAh, it's you! You're here to accept the\n"
-	.string "reward from before, isn't that right?\l"
-	.string "Yes, right I am!\p"
-	.string "Here!\n"
-	.string "I'll give it to you now!$"
+.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!$"
 
 Route110_TrickHouseEntrance_Text_DidYouNotComeToClaimReward:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pHah?\n"
-	.string "Did you not come to claim your reward?$"
+	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 Route110_TrickHouseEntrance_Text_MechadollWhichTent:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pMECHADOLL 5 I AM!\n"
-	.string "IF REWARD IS NOT TAKEN BY YOU,\l"
-	.string "THEN TRICK MASTER YOU CANNOT FOLLOW.\p"
-	.string "RED TENT OR BLUE TENT,\n"
-	.string "WHICH DO YOU PREFER?$"
+.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
+.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
+.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
+	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 
 Route110_TrickHouseEntrance_Text_ThenFarewell:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pTHEN FAREWELL.$"
+	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
 
 Route110_TrickHouseEntrance_Text_PCFullAgain:
-	.string "YOUR PC STATUS: FULL AGAIN.\n"
-	.string "MEAN, YOU ARE.$"
+.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
+	.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
 
 Route110_TrickHousePuzzle_Text_FoundAScroll:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\p{PLAYER} found a scroll.$"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 Route110_TrickHousePuzzle_Text_MemorizedSecretCode:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\p{PLAYER} memorized the secret code\n"
-	.string "written on the scroll.$"
+	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 Route110_TrickHousePuzzle_Text_SecretCodeWrittenOnIt:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pA secret code is written on it.$"
+	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
 
 Route110_TrickHouseEntrance_Text_DoorLockedWriteSecretCodeHere:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThe door is locked.\p"
-	.string "…On closer inspection, this is written\n"
-	.string "on it: “Write the secret code here.”$"
+.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"

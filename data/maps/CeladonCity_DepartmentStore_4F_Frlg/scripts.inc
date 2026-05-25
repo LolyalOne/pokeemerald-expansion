@@ -37,19 +37,19 @@ CeladonCity_DepartmentStore_4F_Items::
 
 CeladonCity_DepartmentStore_4F_Text_GettingPokeDollAsPresent::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI'm getting a present for my\n"
-	.string "girlfriend.\p"
-	.string "I guess a POKé DOLL will be it.\n"
-	.string "It's the popular thing.$"
+.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
+	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
 
 CeladonCity_DepartmentStore_4F_Text_CanRunAwayWithPokeDoll::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI heard something useful.\p"
-	.string "If a wild POKéMON appears, you can\n"
-	.string "distract it with a POKé DOLL.\p"
-	.string "You can run away while the wild\n"
-	.string "POKéMON is distracted.$"
+.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
+.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
 
 CeladonCity_DepartmentStore_4F_Text_FloorSign::
-	.string "Express yourself with gifts!\n"
-	.string "4F: WISE MAN GIFTS\p"
-	.string "Evolution Special!\n"
-	.string "Element STONES on sale now!$"
+.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
+.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
+.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
+.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!$"

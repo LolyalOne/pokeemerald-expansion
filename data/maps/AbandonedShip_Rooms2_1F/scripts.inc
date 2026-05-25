@@ -50,100 +50,100 @@ AbandonedShip_Rooms2_1F_EventScript_Garrison::
 	end
 
 AbandonedShip_Rooms2_1F_Text_DanIntro:
-	.string "DAN: While searching for treasures,\n"
-	.string "we discovered a TRAINER!$"
+.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
+	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 
 AbandonedShip_Rooms2_1F_Text_DanDefeat:
-	.string "DAN: We couldn't win even though\n"
-	.string "we worked together…$"
+.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
+	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 AbandonedShip_Rooms2_1F_Text_DanPostBattle:
-	.string "DAN: We can't find any treasures…\n"
-	.string "I wonder if someone got them already?$"
+.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
+	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
 
 AbandonedShip_Rooms2_1F_Text_DanNotEnoughMons:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pDAN: You don't even have two POKéMON.\n"
-	.string "You can't expect to beat us like that.$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pDAN: You don't even have two POKeMON.\n"
+.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!$"
 
 AbandonedShip_Rooms2_1F_Text_KiraIntro:
-	.string "KIRA: Oh?\n"
-	.string "We were searching for treasures.\l"
-	.string "But we discovered a TRAINER instead!$"
+.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
+.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
+	.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
 
 AbandonedShip_Rooms2_1F_Text_KiraDefeat:
-	.string "KIRA: Ooh, so strong!$"
+	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 AbandonedShip_Rooms2_1F_Text_KiraPostBattle:
-	.string "KIRA: Where could the treasures be?\p"
-	.string "I've already decided what I'm buying\n"
-	.string "when we find the treasures!$"
+.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
+	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
 
 AbandonedShip_Rooms2_1F_Text_KiraNotEnoughMons:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pKIRA: Oh, you don't have two POKéMON?\n"
-	.string "We'll have to battle some other time!$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pKIRA: Oh, you don't have two POKeMON?\n"
+	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 AbandonedShip_Rooms2_1F_Text_KiraRegister:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pKIRA: Oh, you make me so angry!\n"
-	.string "I'm going to register you for that!$"
+	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
 
 AbandonedShip_Rooms2_1F_Text_DanRematchIntro:
-	.string "DAN: We've been searching for\n"
-	.string "treasures all this time.\p"
-	.string "Our POKéMON have grown stronger, too.\n"
-	.string "Let us show you, okay?$"
+.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
+.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
+	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 AbandonedShip_Rooms2_1F_Text_DanRematchDefeat:
-	.string "DAN: You're strong, as usual!$"
+	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 AbandonedShip_Rooms2_1F_Text_DanPostRematch:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pDAN: We can't find any treasures,\n"
-	.string "we lose at POKéMON…\p"
-	.string "I want to go home… But if I say that,\n"
-	.string "she gets all angry with me…$"
+.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
 
 AbandonedShip_Rooms2_1F_Text_DanRematchNotEnoughMons:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pDAN: You don't even have two POKéMON.\n"
-	.string "You can't expect to beat us like that.$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pDAN: You don't even have two POKeMON.\n"
+	.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 AbandonedShip_Rooms2_1F_Text_KiraRematchIntro:
-	.string "KIRA: Oh? We meet again!\p"
-	.string "Just like us, you still haven't given up\n"
-	.string "searching for treasures, have you?\p"
-	.string "Want to make it so the loser has\n"
-	.string "to give up searching?$"
+.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
+.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
+	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
 
 AbandonedShip_Rooms2_1F_Text_KiraRematchDefeat:
-	.string "KIRA: Oh, we lost again…$"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!$"
 
 AbandonedShip_Rooms2_1F_Text_KiraPostRematch:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pKIRA: We're not leaving until we raise\n"
-	.string "our POKéMON some more and we find\l"
-	.string "the treasures here!$"
+.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
+	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
 
 AbandonedShip_Rooms2_1F_Text_KiraRematchNotEnoughMons:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pKIRA: Oh, you don't have two POKéMON?\n"
-	.string "We'll have to battle some other time!$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pKIRA: Oh, you don't have two POKeMON?\n"
+	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
 
 AbandonedShip_Rooms2_1F_Text_JaniIntro:
-	.string "I'm not good at swimming,\n"
-	.string "but I am good at battles!$"
+.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
+	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
 
 AbandonedShip_Rooms2_1F_Text_JaniDefeat:
-	.string "Oops.\n"
-	.string "That didn't go very well.$"
+.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
+	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
 
 AbandonedShip_Rooms2_1F_Text_JaniPostBattle:
-	.string "Walking around barefoot in this ship\n"
-	.string "is kind of gross.$"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
+	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
 
 AbandonedShip_Rooms2_1F_Text_GarrisonIntro:
-	.string "Strength and compassion…\n"
-	.string "Those are a TRAINER's treasures!$"
+.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
+.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
 
 AbandonedShip_Rooms2_1F_Text_GarrisonDefeat:
-	.string "Ah, there is something about you\n"
-	.string "that sparkles.$"
+.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!"
+	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 AbandonedShip_Rooms2_1F_Text_GarrisonPostBattle:
-	.string "In a cabin somewhere on board,\n"
-	.string "I saw something sparkle.$"
+.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!$"

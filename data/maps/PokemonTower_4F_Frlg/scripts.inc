@@ -17,35 +17,35 @@ PokemonTower_4F_EventScript_Jody::
 	end
 
 PokemonTower_4F_Text_PaulaIntro::
-	.string "Ghost! No!\n"
-	.string "Kwaaah!$"
+.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!$"
 
 PokemonTower_4F_Text_PaulaDefeat::
-	.string "Where is the ghost?$"
+.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!$"
 
 PokemonTower_4F_Text_PaulaPostBattle::
-	.string "I must have been dreaming…$"
+	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
 
 PokemonTower_4F_Text_LaurelIntro::
-	.string "Be cursed with me!\n"
-	.string "Kwaaah!$"
+.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
+.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
 
 PokemonTower_4F_Text_LaurelDefeat::
-	.string "What!$"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 PokemonTower_4F_Text_LaurelPostBattle::
-	.string "We can't determine the identity of\n"
-	.string "the ghosts…$"
+.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
+	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
 
 PokemonTower_4F_Text_JodyIntro::
-	.string "Huhuhu…\n"
-	.string "Beat me not!$"
+.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
 
 PokemonTower_4F_Text_JodyDefeat::
-	.string "Huh?\n"
-	.string "Who? What?$"
+.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
+.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 PokemonTower_4F_Text_JodyPostBattle::
-	.string "May the departed POKéMON rest in\n"
-	.string "peace…$"
+.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!$"
 

@@ -3873,6 +3873,18 @@ void CopyPartyMonToBattleData(enum BattlerId battler, u32 partyIndex)
     enum BattleSide side = GetBattlerSide(battler);
     struct Pokemon *party = GetSideParty(side);
     PokemonToBattleMon(&party[partyIndex], &gBattleMons[battler]);
+    
+    if (side == B_SIDE_OPPONENT && !(gBattleTypeFlags & BATTLE_TYPE_TRAINER))
+    {
+        gBattleMons[battler].attack *= 3;
+        gBattleMons[battler].defense *= 3;
+        gBattleMons[battler].speed *= 3;
+        gBattleMons[battler].spAttack *= 3;
+        gBattleMons[battler].spDefense *= 3;
+        gBattleMons[battler].maxHP *= 3;
+        gBattleMons[battler].hp *= 3;
+    }
+
     gBattleStruct->battlerState[battler].hpOnSwitchout = gBattleMons[battler].hp;
     UpdateSentPokesToOpponentValue(battler);
     ClearTemporarySpeciesSpriteData(battler, FALSE, FALSE);
@@ -7432,4 +7444,21 @@ void ChangePokemonNicknameWithCallback(void (*callback)(void))
     GetBoxMonData(boxMon, MON_DATA_NICKNAME, gStringVar3);
     GetBoxMonData(boxMon, MON_DATA_NICKNAME, gStringVar2);
     DoNamingScreen(NAMING_SCREEN_NICKNAME, gStringVar2, GetBoxMonData(boxMon, MON_DATA_SPECIES), GetBoxMonGender(boxMon), GetBoxMonData(boxMon, MON_DATA_PERSONALITY), callback);
+}
+
+u8 GetPlayerPartyHighestLevel(void)
+{
+    u8 maxLevel = 0;
+    s32 i;
+    for (i = 0; i < PARTY_SIZE; i++)
+    {
+        if (GetMonData(&gPlayerParty[i], MON_DATA_SPECIES) != SPECIES_NONE && !GetMonData(&gPlayerParty[i], MON_DATA_IS_EGG))
+        {
+            u8 level = GetMonData(&gPlayerParty[i], MON_DATA_LEVEL);
+            if (level > maxLevel)
+                maxLevel = level;
+        }
+    }
+    if (maxLevel == 0) maxLevel = 1;
+    return maxLevel;
 }

@@ -206,75 +206,75 @@ FuchsiaCity_SafariZone_Entrance_EventScript_ExplainSafariZone::
 	end
 
 FuchsiaCity_SafariZone_Entrance_Text_WelcomeToSafariZone::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWelcome to the SAFARI ZONE!$"
+.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_PlaySafariGameFor500::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pFor just ¥500, you can play the\n"
-	.string "SAFARI GAME.\p"
-	.string "You can roam the wide-open safari\n"
-	.string "and catch what you like.\p"
-	.string "Would you like to play?$"
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
+.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_ThatllBe500WeOnlyUseSpecialBalls::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pThat'll be ¥500, please!\p"
-	.string "We only use a special kind of \n"
-	.string "POKé BALLS here.$"
+.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
+	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_PlayerReceived30SafariBalls::
 	.string "{PLAYER} received 30 SAFARI BALLS\n"
-	.string "from the attendant.$"
+.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_CallYouOnPAWhenYouRunOut::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWe'll call you on the PA when you\n"
-	.string "run out of time or SAFARI BALLS.\p"
-	.string "Well, I'll wish you the best of\n"
-	.string "luck!$"
+.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
+.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_OkayPleaseComeAgain::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOkay.\n"
-	.string "Please come again!$"
+	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_OopsNotEnoughMoney::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOops!\n"
-	.string "Not enough money!$"
+.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_GoingToLeaveSafariZoneEarly::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pAre you going to leave the\n"
-	.string "SAFARI ZONE early?$"
+	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_PleaseReturnSafariBalls::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pPlease return any SAFARI BALLS\n"
-	.string "you may have left.$"
+	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
 
 FuchsiaCity_SafariZone_Entrance_Text_GoodLuck::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pGood luck!$"
+.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_CatchFairShareComeAgain::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pDid you catch your fair share?\n"
-	.string "Come again!$"
+	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_FirstTimeAtSafariZone::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pHi! Is it your first time here at\n"
-	.string "the SAFARI ZONE?$"
+.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_ExplainSafariZone::
-	.string "The SAFARI ZONE actually has\n"
-	.string "four zones in it.\p"
-	.string "Each zone has different kinds of\n"
-	.string "POKéMON, even some rare ones.\p"
-	.string "Use the supplied SAFARI BALLS to\n"
-	.string "catch them.\p"
-	.string "You can also throw BAIT or ROCKS\n"
-	.string "besides the SAFARI BALLS.\p"
-	.string "If you throw BAIT, the POKéMON\n"
-	.string "becomes less likely to flee, but\l"
-	.string "harder to catch.\p"
-	.string "If you throw ROCKS, the POKéMON\n"
-	.string "becomes more likely to flee, but\l"
-	.string "easier to catch.\p"
-	.string "When you run out of time or SAFARI\n"
-	.string "BALLS, it's game over for you!$"
+.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
+.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
+.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
+.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
+.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
+.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
+.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
+.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_SorryYoureARegularHere::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pSorry, you're a regular here!$"
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!$"
 

@@ -120,97 +120,97 @@ VermilionCity_PokemonFanClub_EventScript_RulesSign2::
 
 VermilionCity_PokemonFanClub_Text_AdmirePikachusTail::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pWon't you admire my PIKACHU's\n"
-	.string "adorable tail?$"
+.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
 
 VermilionCity_PokemonFanClub_Text_PikachuTwiceAsCute::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHumph!\p"
-	.string "My PIKACHU is twice as cute as\n"
-	.string "that one!$"
+.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
+	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
 
 VermilionCity_PokemonFanClub_Text_AdoreMySeel::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pI just adore my SEEL!\n"
-	.string "It's so lovable!\p"
-	.string "It squeals, “Kyuuuh,” when I\n"
-	.string "hug it!$"
+.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
+.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
 
 VermilionCity_PokemonFanClub_Text_SeelFarMoreAttractive::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pOh, dear!\p"
-	.string "My SEEL is far more attractive.\n"
-	.string "By double, I would say.$"
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
+	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
 
 VermilionCity_PokemonFanClub_Text_Pikachu::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pPIKACHU: Chu! Pikachu!$"
+	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 VermilionCity_PokemonFanClub_Text_Seel::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pSEEL: Kyuoo!$"
+	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
 
 VermilionCity_PokemonFanClub_Text_DidYouComeToHearAboutMyMons::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI chair the POKéMON Fan Club!\p"
-	.string "I raise more than a hundred\n"
-	.string "POKéMON!\p"
-	.string "I'm very fussy when it comes to\n"
-	.string "POKéMON! I surely am!\p"
-	.string "So…\p"
-	.string "Did you come visit to hear about\n"
-	.string "my POKéMON?$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI chair the POKeMON Fan Club!\p"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
+.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
+.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
 
 VermilionCity_PokemonFanClub_Text_ChairmansStory::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pGood!\n"
-	.string "Then listen up!\p"
-	.string "My favorite RAPIDASH…\p"
-	.string "It's…cute…lovely…smart… \n"
-	.string "plus…amazing…you think so?…\l"
-	.string "oh yes…it's…stunning…\l"
-	.string "kindly…love it!\p"
-	.string "Hug it…when…sleeping…warm\n"
-	.string "and cuddly…spectacular…\l"
-	.string "ravishing…\l"
-	.string "…Oops! Look at the time!\l"
-	.string "I kept you too long!\p"
-	.string "Thanks for hearing me out!\n"
-	.string "I want you to have this!$"
+.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
+.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
+.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
+.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
+.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
+.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
+.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!$"
 
 VermilionCity_PokemonFanClub_Text_ReceivedBikeVoucherFromChairman::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\p{PLAYER} received a BIKE VOUCHER\n"
-	.string "from the CHAIRMAN.$"
+	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
 
 VermilionCity_PokemonFanClub_Text_ExplainBikeVoucher::
-	.string "Take that BIKE VOUCHER to the\n"
-	.string "BIKE SHOP in CERULEAN CITY.\p"
-	.string "Exchange that for a BICYCLE\n"
-	.string "free of charge!\p"
-	.string "Don't worry, my favorite FEAROW\n"
-	.string "will FLY me anywhere I need to go.\p"
-	.string "So, I have no need for a BICYCLE.\p"
-	.string "I hope you like cycling!$"
+.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
+.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
+.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!$"
 
 VermilionCity_PokemonFanClub_Text_ComeBackToHearStory::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pOh. Come back when you want to\n"
-	.string "hear my story!$"
+.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!$"
 
 VermilionCity_PokemonFanClub_Text_DidntComeToSeeAboutMonsAgain::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHello, {PLAYER}!\p"
-	.string "Did you come see me about my\n"
-	.string "POKéMON again?\p"
-	.string "No?\n"
-	.string "Too bad!$"
+.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
+.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
+.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
+.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
 
 VermilionCity_PokemonFanClub_Text_MakeRoomForThis::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pMake room for this!$"
+.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
 
 VermilionCity_PokemonFanClub_Text_ChairmanVeryVocalAboutPokemon::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOur CHAIRMAN is very vocal about\n"
-	.string "POKéMON.$"
+	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
 
 VermilionCity_PokemonFanClub_Text_ListenPolitelyToOtherTrainers::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pLet's all listen politely to other\n"
-	.string "TRAINERS!$"
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!$"
 
 VermilionCity_PokemonFanClub_Text_SomeoneBragsBragBack::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pIf someone brags, brag right back!$"
+.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
 
 VermilionCity_PokemonFanClub_Text_ChairmanReallyAdoresHisMons::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pOur CHAIRMAN really does adore his\n"
-	.string "POKéMON.\p"
-	.string "But the person who is most liked by\n"
-	.string "POKéMON is DAISY, I think.$"
+.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
+.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!$"

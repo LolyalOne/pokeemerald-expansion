@@ -26,15 +26,15 @@ SlateportCity_PokemonCenter_1F_EventScript_Woman::
 
 SlateportCity_PokemonCenter_1F_Text_RaiseDifferentTypesOfPokemon:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWant a tip for battling?\p"
-	.string "I'd say it's raising different kinds\n"
-	.string "of POKéMON in a balanced manner.\p"
-	.string "It's no good to make just one\n"
-	.string "POKéMON strong.\p"
-	.string "If it has a type disadvantage,\n"
-	.string "it might not stand a chance.$"
+.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
+.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
+.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
+.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
+.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
+.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!$"
 
 SlateportCity_PokemonCenter_1F_Text_TradedMonWithFriend:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pI trade POKéMON with my friends.\p"
-	.string "If a traded POKéMON is holding an\n"
-	.string "item, it makes me twice as happy!$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pI trade POKeMON with my friends.\p"
+.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
+.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
 

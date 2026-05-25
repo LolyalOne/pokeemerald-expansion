@@ -61,123 +61,123 @@ MeteorFalls_1F_2R_EventScript_RematchJay::
 	end
 
 MeteorFalls_1F_2R_Text_NicolasIntro:
-	.string "This is where we DRAGON users do our\n"
-	.string "training.\p"
-	.string "The CHAMPION even visits.\n"
-	.string "Now do you see how special it is here?$"
+.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
+.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
+.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!$"
 
 MeteorFalls_1F_2R_Text_NicolasDefeat:
-	.string "Urgh!\n"
-	.string "I didn't expect you to be so strong!$"
+.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
+	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
 
 MeteorFalls_1F_2R_Text_NicolasPostBattle:
-	.string "The road ahead remains long and harsh.\p"
-	.string "When will my POKéMON and I become\n"
-	.string "the best?$"
+.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
+	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
 
 MeteorFalls_1F_2R_Text_NicolasRegister:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI want to know more about your power.\n"
-	.string "Let me register you in my POKéNAV.$"
+	.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 MeteorFalls_1F_2R_Text_NicolasRematchIntro:
-	.string "Since we met, we have trained hard\n"
-	.string "with our sights on number one.\p"
-	.string "Help us see how much stronger we've\n"
-	.string "become!$"
+.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
+.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
+	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
 
 MeteorFalls_1F_2R_Text_NicolasRematchDefeat:
-	.string "Urgh!\n"
-	.string "I didn't expect you to be so strong!$"
+.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
+.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!$"
 
 MeteorFalls_1F_2R_Text_NicolasPostRematch:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYou've obviously kept up your\n"
-	.string "POKéMON training.\p"
-	.string "So long as you remain strong, I, too,\n"
-	.string "can become stronger!$"
+.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
+.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 MeteorFalls_1F_2R_Text_JohnIntro:
-	.string "JOHN: We've always battled POKéMON\n"
-	.string "together as a twosome.\l"
-	.string "We've confidence in ourselves.$"
+.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!"
+.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
 
 MeteorFalls_1F_2R_Text_JohnDefeat:
-	.string "JOHN: Oh, my.\n"
-	.string "We've lost, dear wife.$"
+.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!$"
 
 MeteorFalls_1F_2R_Text_JohnPostBattle:
-	.string "JOHN: We've been married for\n"
-	.string "fifty years.\p"
-	.string "Come to think of it, I've yet to beat\n"
-	.string "my dear wife in a battle.$"
+.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
+.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!"
+.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!$"
 
 MeteorFalls_1F_2R_Text_JohnNotEnoughMons:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pJOHN: Well, well, what a young TRAINER!\p"
-	.string "Will you battle with us? If so, you'll\n"
-	.string "have to return with more POKéMON.$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
 
 MeteorFalls_1F_2R_Text_JohnRegister:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pJOHN: Young TRAINER, if the chance\n"
-	.string "arises, will you battle with us again?$"
+.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!$"
 
 MeteorFalls_1F_2R_Text_JayIntro:
-	.string "JAY: We've been married for\n"
-	.string "fifty years.\p"
-	.string "The bond we share as a couple could\n"
-	.string "never be broken.$"
+.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
+.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
+.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
 
 MeteorFalls_1F_2R_Text_JayDefeat:
-	.string "JAY: Oh, dear.\n"
-	.string "We've lost, my dear husband.$"
+.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 MeteorFalls_1F_2R_Text_JayPostBattle:
-	.string "JAY: Fifty years of marriage…\p"
-	.string "If we ever argued, we always settled\n"
-	.string "it with a POKéMON battle…$"
+.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
+.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
 
 MeteorFalls_1F_2R_Text_JayNotEnoughMons:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pJAY: Well, well, aren't you a young\n"
-	.string "TRAINER?\p"
-	.string "If you'd care to battle with us, you'll\n"
-	.string "have to come back with more POKéMON.$"
+.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
 
 MeteorFalls_1F_2R_Text_JohnRematchIntro:
-	.string "JOHN: We've always battled POKéMON\n"
-	.string "together as a twosome.\l"
-	.string "We've confidence in ourselves.$"
+.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
+.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
 
 MeteorFalls_1F_2R_Text_JohnRematchDefeat:
-	.string "JOHN: Oh, my.\n"
-	.string "We've lost, dear wife.$"
+.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
+.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!$"
 
 MeteorFalls_1F_2R_Text_JohnPostRematch:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pJOHN: Married for fifty years…\p"
-	.string "On reflection, the dear wife and I,\n"
-	.string "we battled day in and day out…$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pJOHN: Married for fifty years...\p"
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
+	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
 
 MeteorFalls_1F_2R_Text_JohnRematchNotEnoughMons:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pJOHN: Well, well, what a young TRAINER!\p"
-	.string "Will you battle with us? If so, you'll\n"
-	.string "have to return with more POKéMON.$"
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
+.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 MeteorFalls_1F_2R_Text_JayRematchIntro:
-	.string "JAY: We've been married for\n"
-	.string "fifty years.\p"
-	.string "We've supported each other all that\n"
-	.string "time. We've made ourselves strong.$"
+.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
+.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
+.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
 
 MeteorFalls_1F_2R_Text_JayRematchDefeat:
-	.string "JAY: Oh, dear.\n"
-	.string "We've lost, my dear husband.$"
+.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
+	.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 MeteorFalls_1F_2R_Text_JayPostRematch:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pJAY: Fifty years of marriage…\n"
-	.string "Many things have happened.\p"
-	.string "I hope that we will continue to make\n"
-	.string "happy memories together.$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pJAY: Fifty years of marriage...\n"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou."
+.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!$"
 
 MeteorFalls_1F_2R_Text_JayRematchNotEnoughMons:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pJAY: Well, well, aren't you a young\n"
-	.string "TRAINER?\p"
-	.string "If you'd care to battle with us, you'll\n"
-	.string "have to come back with more POKéMON.$"
+.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
+.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!$"
 

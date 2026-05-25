@@ -18,80 +18,80 @@ Route4_EventScript_RouteSign::
 
 Route4_Text_TrippedOverGeodude::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOuch! I tripped over a rocky\n"
-	.string "POKéMON, GEODUDE!$"
+.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
 
 Route4_Text_CrissyIntro::
-	.string "I came to MT. MOON in search of\n"
-	.string "mushroom POKéMON.$"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
+.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!$"
 
 Route4_Text_CrissyDefeat::
-	.string "After all I did to catch them!$"
+	.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
 
 Route4_Text_CrissyPostBattle::
-	.string "There might not be any more\n"
-	.string "mushrooms here.\p"
-	.string "I think I got them all.$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
+.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!$"
 
 Route4_Text_MtMoonEntrance::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pMT. MOON\n"
-	.string "Tunnel Entrance$"
+.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
 
 Route4_Text_RouteSign::
-	.string "ROUTE 4\n"
-	.string "MT. MOON - CERULEAN CITY$"
+.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!$"
 
 Text_MegaPunchTeach::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pA punch of roaring ferocity!\p"
-	.string "Packed with destructive power!\p"
-	.string "When the chips are down,\n"
-	.string "MEGA PUNCH is the ultimate attack!\l"
-	.string "You agree, yes?\p"
-	.string "Now!\n"
-	.string "Let me teach it to your POKéMON!$"
+.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
+.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
+.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
+	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
 
 Text_MegaPunchDeclined::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pYou'll be back when you understand\n"
-	.string "the worth of MEGA PUNCH.$"
+	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 Text_MegaPunchWhichMon::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pFine!\n"
-	.string "Which POKéMON will learn it?$"
+	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
 
 Text_MegaPunchTaught::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pNow, we are comrades in the way of\n"
-	.string "punching!\p"
-	.string "You should go before you're seen\n"
-	.string "by the misguided fool who trains\l"
-	.string "only his silly kicking over there.$"
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
+.string "Parabens, Lucas! Sua jornada\napenas comecou."
+.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!$"
 
 Text_MegaKickTeach::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pA kick of brutal ferocity!\p"
-	.string "Packed with destructive power!\p"
-	.string "When you get right down to it,\n"
-	.string "MEGA KICK is the ultimate attack!\l"
-	.string "Don't you agree?\p"
-	.string "Okay!\n"
-	.string "I'll teach it to your POKéMON!$"
+.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
+.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
+.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
+.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!$"
 
 Text_MegaKickDeclined::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYou'll come crawling back when you\n"
-	.string "realize the value of MEGA KICK.$"
+	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
 
 Text_MegaKickWhichMon::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pAll right!\n"
-	.string "Which POKéMON wants to learn it?$"
+	.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 Text_MegaKickTaught::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pNow, we are soul mates in the way\n"
-	.string "of kicking!\p"
-	.string "You should run before you're seen\n"
-	.string "by the deluded nitwit who trains\l"
-	.string "only simple punching over there.$"
+.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!$"
 
 Route4_Text_PeopleLikeAndRespectBrock::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pOh, wow, that's the BOULDERBADGE!\n"
-	.string "You got it from BROCK, didn't you?\p"
-	.string "BROCK is cool. He's not just tough.\n"
-	.string "People like and respect him.\p"
-	.string "I want to become a GYM LEADER\n"
-	.string "like him.$"
+.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!"
+.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"

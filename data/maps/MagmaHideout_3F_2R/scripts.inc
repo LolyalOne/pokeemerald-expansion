@@ -7,20 +7,20 @@ MagmaHideout_3F_2R_EventScript_Grunt10::
 	end
 
 MagmaHideout_3F_2R_Text_Grunt10Intro:
-	.string "I understand everything our leader\n"
-	.string "says. But you know what?\p"
-	.string "Doing stuff like digging up a super-\n"
-	.string "ancient POKéMON and ripping off\l"
-	.string "someone's METEORITE…\p"
-	.string "I think we're going a little too far.\n"
-	.string "What do you think?$"
+.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
+.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
 
 MagmaHideout_3F_2R_Text_Grunt10Defeat:
-	.string "Yeah, I think we are doing something\n"
-	.string "wrong somehow.$"
+.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
+	.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
 
 MagmaHideout_3F_2R_Text_Grunt10PostBattle:
-	.string "You know, losing to you cleared my mind.\p"
-	.string "The next time I see our leader,\n"
-	.string "I'm going to ask him about what we do.$"
+.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!"
+.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
+.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!$"
 

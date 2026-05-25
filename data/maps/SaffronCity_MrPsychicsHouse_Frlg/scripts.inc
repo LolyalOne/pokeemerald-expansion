@@ -25,20 +25,20 @@ SaffronCity_MrPsychicsHouse_EventScript_AlreadyGotTM29::
 	end
 
 SaffronCity_MrPsychicsHouse_Text_YouWantedThis::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p…Wait! Don't say a word!\p"
-	.string "You wanted this!$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p...Wait! Don't say a word!\p"
+	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 SaffronCity_MrPsychicsHouse_Text_ReceivedTM29FromMrPsychic::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\p{PLAYER} received TM29\n"
-	.string "from MR. PSYCHIC.$"
+.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
 
 SaffronCity_MrPsychicsHouse_Text_ExplainTM29::
-	.string "You already know, don't you?\n"
-	.string "TM29 is PSYCHIC.\p"
-	.string "It's an attack that may also lower\n"
-	.string "the target's special stats.$"
+.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
+.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!$"
 
 SaffronCity_MrPsychicsHouse_Text_YouveNoRoom::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWhere do you plan to put this?\n"
-	.string "You've no room.$"
+	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 

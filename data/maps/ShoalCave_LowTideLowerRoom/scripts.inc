@@ -48,11 +48,11 @@ ShoalCave_LowTideLowerRoom_EventScript_ReceivedFocusBand::
 
 ShoalCave_LowTideLowerRoom_Text_CanOvercomeColdWithFocus:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pThe penetrating cold around these\n"
-	.string "parts is an impediment to training.\p"
-	.string "But with focus, one can overcome!\p"
-	.string "With this FOCUS BAND, buckle down and\n"
-	.string "withstand the cold!$"
+.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!"
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
+	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
 
 ShoalCave_LowTideLowerRoom_Text_EverythingStartsWithFocus:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pEverything starts with focus!$"
+	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
 

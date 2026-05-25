@@ -168,126 +168,126 @@ PalletTown_RivalsHouse_EventScript_Picture::
 PalletTown_RivalsHouse_Text_HiBrothersAtLab::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pDAISY: Hi, {PLAYER}!\p"
 	.string "My brother, {RIVAL}, is out at\n"
-	.string "Grandpa's LAB.$"
+.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 PalletTown_RivalsHouse_Text_HeardYouBattledRival::
 	.string "DAISY: {PLAYER}, I heard you had\n"
 	.string "a battle against {RIVAL}.\p"
-	.string "I wish I'd seen that!$"
+	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
 
 PalletTown_RivalsHouse_Text_ErrandForGrandpaThisWillHelp::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pGrandpa asked you to run an\n"
-	.string "errand?\p"
-	.string "Gee, that's lazy of him.\n"
-	.string "Here, this will help you.$"
+.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
+	.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 PalletTown_RivalsHouse_Text_ReceivedTownMapFromDaisy::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p{PLAYER} received a TOWN MAP\n"
-	.string "from DAISY.$"
+	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 
 PalletTown_RivalsHouse_Text_DontHaveSpaceForThis::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYou don't have space for this in\n"
-	.string "your BAG.$"
+.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!$"
 
 PalletTown_RivalsHouse_Text_ExplainTownMap::
-	.string "You can use the TOWN MAP to find\n"
-	.string "out where you are, or check the\l"
-	.string "names of places.$"
+.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
+.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
+	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
 
 PalletTown_RivalsHouse_Text_PleaseGiveMonsRest::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pDAISY: Just like people, POKéMON\n"
-	.string "are living things.\p"
-	.string "When they get tired, please give\n"
-	.string "them a rest.$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pDAISY: Just like people, POKeMON\n"
+.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
+.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 PalletTown_RivalsHouse_Text_ItsBigMapOfKanto::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pIt's a big map of the KANTO region.\n"
-	.string "Now this would be useful!$"
+	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
 
 PalletTown_RivalsHouse_Text_ShelvesCrammedFullOfBooks::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThe shelves are crammed full of\n"
-	.string "books on POKéMON.$"
+	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
 
 PalletTown_RivalsHouse_Text_LikeMeToGroomMon::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pDAISY: Hi, {PLAYER}!\n"
-	.string "Good timing.\p"
-	.string "I'm about to have some tea.\n"
-	.string "Would you like to join me?\p"
-	.string "Oh, but look.\n"
-	.string "Your POKéMON are a little dirty.\p"
-	.string "Would you like me to groom one?$"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
+.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
+	.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
 
 PalletTown_RivalsHouse_Text_DontNeedAnyGrooming::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYou don't need any grooming done?\n"
-	.string "Okay, we'll just have tea.$"
+.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
 
 PalletTown_RivalsHouse_Text_GroomWhichOne::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWhich one should I groom?$"
+	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
 
 PalletTown_RivalsHouse_Text_LookingNiceInNoTime::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pDAISY: Okay, I'll get it looking\n"
-	.string "nice in no time.$"
+.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!$"
 
 PalletTown_RivalsHouse_Text_ThereYouGoAllDone::
 #ifdef BUGFIX @ The localizers missed what should be a textcolor change in the localizations.
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p{COLOR DARK_GRAY}{STR_VAR_1} looks dreamily content…\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p{COLOR DARK_GRAY}{STR_VAR_1} looks dreamily content...\p"
 	.string "{COLOR RED}DAISY: There you go! All done.\n"
 #else @ In the JP games, gender-based text used a different font instead of different colors.
-	.string "Parabens, Lucas! Que sua jornada seja epica.\p{FONT_NORMAL}{STR_VAR_1} looks dreamily content…\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\p{FONT_NORMAL}{STR_VAR_1} looks dreamily content...\p"
 	.string "{FONT_FEMALE}DAISY: There you go! All done.\n"
 #endif
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pSee? Doesn't it look nice?\p"
-	.string "Giggle…\n"
-	.string "It's such a cute POKéMON.$"
+.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!$"
 
 PalletTown_RivalsHouse_Text_CantGroomAnEgg::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pOh, sorry. I honestly can't\n"
-	.string "groom an EGG.$"
+.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!$"
 
 PalletTown_RivalsHouse_Text_MayISeeFirstMon::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pDAISY: Your POKéMON grow to love\n"
-	.string "you if you raise them with love.\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pDAISY: Your POKeMON grow to love\n"
+.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
 	.string "For example, {PLAYER}, may I see\n"
-	.string "your first POKéMON?$"
+.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!$"
 
 PalletTown_RivalsHouse_Text_CouldntLoveYouMore::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pIt couldn't possibly love you\n"
-	.string "any more than it does now.\p"
-	.string "Your POKéMON is happy beyond\n"
-	.string "words.$"
+.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
+.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
+	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
 
 PalletTown_RivalsHouse_Text_ItLooksVeryHappy::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pIt looks very happy.\p"
 	.string "I wish {RIVAL} could see this and\n"
-	.string "learn something from it.$"
+	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 PalletTown_RivalsHouse_Text_ItsQuiteFriendly::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pIt's quite friendly with you.\n"
-	.string "Keep being good to it!$"
+.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!$"
 
 PalletTown_RivalsHouse_Text_ItsWarmingUpToYou::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pIt's warming up to you.\n"
-	.string "Trust must be growing between you.$"
+.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!$"
 
 PalletTown_RivalsHouse_Text_NotFamiliarWithYouYet::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pIt's not quite familiar with you\n"
-	.string "yet.\p"
-	.string "POKéMON are all quite wary when\n"
-	.string "you first get them.$"
+.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 PalletTown_RivalsHouse_Text_DontLikeWayItGlaresAtYou::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\p{PLAYER}, I don't like the way it\n"
-	.string "glares at you.\p"
-	.string "Could you try being a little nicer\n"
-	.string "to it?$"
+.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
+.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
+	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
 
 PalletTown_RivalsHouse_Text_WhyWouldMonHateYouSoMuch::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p…Um, it's not easy for me to say\n"
-	.string "this, but…\p"
-	.string "Is there some reason why your\n"
-	.string "POKéMON would hate you so much?$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p...Um, it's not easy for me to say\n"
+.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
+.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
+	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
 
 PalletTown_RivalsHouse_Text_LovelyAndSweetClefairy::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p“The lovely and sweet\n"
-	.string "CLEFAIRY”$"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
 

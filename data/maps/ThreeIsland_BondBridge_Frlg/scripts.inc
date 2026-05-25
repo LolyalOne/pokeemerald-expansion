@@ -10,103 +10,103 @@ ThreeIsland_BondBridge_EventScript_BondBridgeSign::
 	end
 
 ThreeIsland_BondBridge_Text_NikkiIntro::
-	.string "The salty tang of the sea…\n"
-	.string "It tickles my heart.$"
+.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
+	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 ThreeIsland_BondBridge_Text_NikkiDefeat::
-	.string "…Sniff, sniff…\n"
-	.string "Something smells unpleasant…$"
+.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
+	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
 
 ThreeIsland_BondBridge_Text_NikkiPostBattle::
-	.string "Perhaps that reek is your sweaty\n"
-	.string "POKéMON's body odor…$"
+.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
+.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!$"
 
 ThreeIsland_BondBridge_Text_VioletIntro::
-	.string "Where are you off to in such\n"
-	.string "a hurry?$"
+.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
+.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
 
 ThreeIsland_BondBridge_Text_VioletDefeat::
-	.string "You're raising some wonderful\n"
-	.string "POKéMON.$"
+.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!"
+	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
 
 ThreeIsland_BondBridge_Text_VioletPostBattle::
-	.string "If you keep going this way, you'll\n"
-	.string "eventually reach BERRY FOREST.$"
+.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
+.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!$"
 
 ThreeIsland_BondBridge_Text_AmiraIntro::
-	.string "My mommy said that I can't swim\n"
-	.string "without my float ring.$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
+	.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
 
 ThreeIsland_BondBridge_Text_AmiraDefeat::
-	.string "Waaah!\n"
-	.string "Waaah!$"
+.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
 
 ThreeIsland_BondBridge_Text_AmiraPostBattle::
-	.string "This year, I'm going to finally\n"
-	.string "learn how to swim!$"
+.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 ThreeIsland_BondBridge_Text_AlexisIntro::
-	.string "Yay, yay!\n"
-	.string "POKéMON!$"
+.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
+.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 ThreeIsland_BondBridge_Text_AlexisDefeat::
-	.string "What happens now?$"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 ThreeIsland_BondBridge_Text_AlexisPostBattle::
-	.string "Did I just win?\n"
-	.string "Or did I lose?$"
+.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
+.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
 
 ThreeIsland_BondBridge_Text_TishaIntro::
-	.string "Oh, no, don't come here!\n"
-	.string "Please, stay away from me!$"
+.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
+.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
 
 ThreeIsland_BondBridge_Text_TishaDefeat::
-	.string "Okay, you've won!\n"
-	.string "Now will you please go away?$"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
+.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
 
 ThreeIsland_BondBridge_Text_TishaPostBattle::
-	.string "A POKéMON bit through my \n"
-	.string "swimsuit.\p"
-	.string "I can't get out of the water!$"
+.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
+	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
 
 ThreeIsland_BondBridge_Text_JoyIntro::
-	.string "JOY: We'll teach you what our\n"
-	.string "favorite POKéMON is!$"
+.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
+	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
 
 ThreeIsland_BondBridge_Text_JoyDefeat::
-	.string "JOY: Ohh…\n"
-	.string "MEG!$"
+.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
+.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
 
 ThreeIsland_BondBridge_Text_JoyPostBattle::
-	.string "JOY: Wasn't that fun?\n"
-	.string "I hope we can battle again!$"
+.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
+.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 ThreeIsland_BondBridge_Text_JoyNotEnoughMons::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pJOY: I really want to battle with\n"
-	.string "MEG.\p"
-	.string "One POKéMON isn't enough.$"
+.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
 
 ThreeIsland_BondBridge_Text_MegIntro::
-	.string "MEG: We'll show you our favorite\n"
-	.string "POKéMON.$"
+.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
+	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
 
 ThreeIsland_BondBridge_Text_MegDefeat::
-	.string "MEG: Ohh…\n"
-	.string "JOY!$"
+.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
+.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
 
 ThreeIsland_BondBridge_Text_MegPostBattle::
-	.string "MEG: JOY, wasn't that fun?$"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 ThreeIsland_BondBridge_Text_MegNotEnoughMons::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pMEG: I want to battle together\n"
-	.string "with JOY.\p"
-	.string "One POKéMON isn't enough.$"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
+	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
 
 ThreeIsland_BondBridge_Text_BerryForestAhead::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pBERRY FOREST AHEAD$"
+	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
 
 ThreeIsland_BondBridge_Text_BondBridgeSign::
-	.string "BOND BRIDGE\n"
-	.string "Please be quiet when crossing.\p"
-	.string "BERRY FOREST AHEAD$"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!$"
 

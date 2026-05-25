@@ -35,30 +35,30 @@ Route1_EventScript_RouteSign::
 	end
 
 Route1_Text_WorkAtPokeMartTakeSample::
-	.string "Hi!\n"
-	.string "I work at a POKéMON MART.\p"
-	.string "It's part of a convenient chain\n"
-	.string "selling all sorts of items.\p"
-	.string "Please, visit us in VIRIDIAN CITY.\p"
-	.string "I know, I'll give you a sample.\n"
-	.string "Here you go!$"
+.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
+.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
+.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
+.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
+	.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 Route1_Text_ComeSeeUsIfYouNeedPokeBalls::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pPlease come see us if you need\n"
-	.string "POKé BALLS for catching POKéMON.$"
+.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!$"
 
 Route1_Text_PutPotionAway::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\p{PLAYER} put the POTION away in\n"
-	.string "the BAG's ITEMS POCKET.$"
+.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!$"
 
 Route1_Text_CanJumpFromLedges::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pSee those ledges along the road?\p"
-	.string "It's a bit scary, but you can jump\n"
-	.string "from them.\p"
-	.string "You can get back to PALLET TOWN\n"
-	.string "quicker that way.$"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
+.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
+	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
 
 Route1_Text_RouteSign::
-	.string "ROUTE 1\n"
-	.string "PALLET TOWN - VIRIDIAN CITY$"
+.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!$"
 

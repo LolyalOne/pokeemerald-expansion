@@ -282,83 +282,83 @@ CeladonCity_DepartmentStore_Roof_EventScript_ExitVendingMachine::
 
 CeladonCity_DepartmentStore_Roof_Text_ImThirstyGiveHerDrink::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pI'm thirsty!\n"
-	.string "I want something to drink!\p"
-	.string "{FONT_NORMAL}Give her a drink?$"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
+.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
 
 CeladonCity_DepartmentStore_Roof_Text_GiveWhichDrink::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pGive her which drink?$"
+.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou.$"
 
 CeladonCity_DepartmentStore_Roof_Text_YayFreshWaterHaveThis::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYay!\p"
-	.string "FRESH WATER!\p"
-	.string "Thank you!\n"
-	.string "You can have this from me!$"
+.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
+.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
+	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
 
 Text_ReceivedItemFromLittleGirl::
 	.string "{PLAYER} received a {STR_VAR_2}\n"
-	.string "from the little girl.$"
+	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
 
 CeladonCity_DepartmentStore_Roof_Text_ExplainTM16::
-	.string "TM16 contains LIGHT SCREEN.\p"
-	.string "It's a move that weakens the power\n"
-	.string "of special attacks by your foe.$"
+.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
+.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!$"
 
 CeladonCity_DepartmentStore_Roof_Text_YaySodaPopHaveThis::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pYay!\p"
-	.string "SODA POP!\p"
-	.string "Thank you!\n"
-	.string "You can have this from me!$"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
+.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
+	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 CeladonCity_DepartmentStore_Roof_Text_ExplainTM20::
-	.string "TM20 contains SAFEGUARD.\p"
-	.string "It's a move that prevents status\n"
-	.string "problems among your POKéMON.$"
+.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 CeladonCity_DepartmentStore_Roof_Text_YayLemonadeHaveThis::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYay!\p"
-	.string "LEMONADE!\p"
-	.string "Thank you!\n"
-	.string "You can have this from me!$"
+.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
+.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
 
 CeladonCity_DepartmentStore_Roof_Text_ExplainTM33::
-	.string "TM33 contains REFLECT.\p"
-	.string "It's a move that weakens the power\n"
-	.string "of physical attacks by your foe.$"
+.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
+	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
 
 CeladonCity_DepartmentStore_Roof_Text_DontHaveSpaceForThis::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pYou don't have space for this!$"
+	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 CeladonCity_DepartmentStore_Roof_Text_ImNotThirstyAfterAll::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pNo, thank you!\n"
-	.string "I'm not thirsty after all!$"
+	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
 
 CeladonCity_DepartmentStore_Roof_Text_MySisterIsImmature::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pMy sister is a TRAINER, believe it\n"
-	.string "or not.\p"
-	.string "But, she's so immature, she drives\n"
-	.string "me nuts!$"
+.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
+.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
 
 CeladonCity_DepartmentStore_Roof_Text_ImThirstyIWantDrink::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pI'm thirsty!\n"
-	.string "I want something to drink!$"
+.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
 
 CeladonCity_DepartmentStore_Roof_Text_FloorSign::
-	.string "ROOFTOP SQUARE:\n"
-	.string "VENDING MACHINES$"
+.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
+	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
 
 CeladonCity_DepartmentStore_Roof_Text_VendingMachineWhatDoesItHave::
-	.string "A vending machine!\n"
-	.string "What does it have?$"
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
+	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 CeladonCity_DepartmentStore_Roof_Text_NotEnoughMoney::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pOops, not enough money!$"
+	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
 
 CeladonCity_DepartmentStore_Roof_Text_DrinkCanPoppedOut::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pA can of {STR_VAR_1} popped out!$"
+	.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
 
 CeladonCity_DepartmentStore_Roof_Text_NoMoreRoomForStuff::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pThere's no more room for stuff!$"
+.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!$"
 
 CeladonCity_DepartmentStore_Roof_Text_NotThirsty::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pNot thirsty!$"
+	.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 

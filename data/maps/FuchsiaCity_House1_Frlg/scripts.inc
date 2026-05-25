@@ -19,18 +19,18 @@ FuchsiaCity_House1_EventScript_LittleBoy::
 
 FuchsiaCity_House1_Text_WardenIsOldHasFalseTeeth::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pThe SAFARI ZONE's WARDEN is old, \n"
-	.string "but he's still very much active.\p"
-	.string "All his teeth are false, though.$"
+.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!"
+	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 
 FuchsiaCity_House1_Text_BillIsMyGrandson::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pHmm?\n"
-	.string "You've met BILL?\p"
-	.string "He's my grandson!\p"
-	.string "He always liked collecting things,\n"
-	.string "even as a child!$"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
+	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 
 FuchsiaCity_House1_Text_BillFilesHisOwnMonData::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pBILL files his own POKéMON data on\n"
-	.string "his PC.\p"
-	.string "Did he show you?$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pBILL files his own POKeMON data on\n"
+.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
 

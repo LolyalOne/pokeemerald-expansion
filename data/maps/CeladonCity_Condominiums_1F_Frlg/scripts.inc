@@ -62,39 +62,39 @@ CeladonCity_Condominiums_1F_EventScript_SuiteSign::
 	end
 
 CeladonCity_Condominiums_1F_Text_Meowth::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pMEOWTH: Meow!$"
+.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!$"
 
 CeladonCity_Condominiums_1F_Text_TryThisDrinkInstead::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pYou shouldn't spend all your money\n"
-	.string "on drinks.\p"
-	.string "Try this instead.$"
+.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
+	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 CeladonCity_Condominiums_1F_Text_NothingBeatsThirstLikeTea::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pNothing beats thirst like some hot\n"
-	.string "TEA.\p"
-	.string "It really is the best.$"
+.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
+	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
 
 CeladonCity_Condominiums_1F_Text_MyDearMonsKeepMeCompany::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pMy dear POKéMON keep me company.\n"
-	.string "MEOWTH even brings money home!$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pMy dear POKeMON keep me company.\n"
+	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
 
 CeladonCity_Condominiums_1F_Text_DaisyComesToBuyTea::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh, hello, dearie.\n"
-	.string "Did you enjoy my TEA?\p"
-	.string "By the way, dear. Are you, by any\n"
-	.string "chance, from PALLET TOWN?\p"
-	.string "A girl from PALLET TOWN, DAISY,\n"
-	.string "she enjoys TEA every day.\p"
-	.string "She visits the CELADON DEPT. STORE\n"
-	.string "to buy some TEA.$"
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
+.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
+.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
+.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
+.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
+.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!$"
 
 CeladonCity_Condominiums_1F_Text_Clefairy::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pCLEFAIRY: Pi pippippi!$"
+	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
 
 CeladonCity_Condominiums_1F_Text_Nidoran::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pNIDORAN♀: Kya kyaoo!$"
+.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
 
 CeladonCity_Condominiums_1F_Text_ManagersSuite::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pCELADON MANSION\n"
-	.string "Manager's Suite$"
+.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!$"
 

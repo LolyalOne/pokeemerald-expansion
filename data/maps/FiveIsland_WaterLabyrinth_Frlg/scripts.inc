@@ -65,62 +65,62 @@ FiveIsland_WaterLabyrinth_EventScript_ReturnForEgg::
 
 FiveIsland_WaterLabyrinth_Text_LetMeTakeLookAtMons::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pYou travel all over the place,\n"
-	.string "don't you?\p"
-	.string "You're not driving your POKéMON\n"
-	.string "too harshly, are you?\p"
-	.string "Let me take a look.\n"
-	.string "… … …   … … …$"
+.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
+.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!$"
 
 FiveIsland_WaterLabyrinth_Text_HmmISeeIsee::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pAh, hmm…\n"
-	.string "I see, I see…$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pAh, hmm...\n"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
 
 FiveIsland_WaterLabyrinth_Text_TreatMonRightHaveThis::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pOh, impressive.\n"
-	.string "You treat your POKéMON right.\p"
-	.string "I think you can be entrusted with\n"
-	.string "this.\p"
-	.string "Please, I'd like you to have this.$"
+.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
+.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
+	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 FiveIsland_WaterLabyrinth_Text_ReceivedEggFromMan::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p{PLAYER} received an EGG\n"
-	.string "from the man!$"
+	.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 FiveIsland_WaterLabyrinth_Text_DontHaveSpaceInYourParty::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p…Unfortunately, you don't have\n"
-	.string "space for this in your party.\p"
-	.string "You'd better come back for it\n"
-	.string "another time.$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p...Unfortunately, you don't have\n"
+.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
+.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!$"
 
 @ Unused
 FiveIsland_WaterLabyrinth_Text_YouveComeBackForTheEgg::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pやあ\n"
-	.string "タマゴを　もらいに\l"
-	.string "きて　くれたんだね$"
+.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!$"
 
 FiveIsland_WaterLabyrinth_Text_GladIMetSomeoneLikeYou::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pI received that EGG while I was\n"
-	.string "traveling.\p"
-	.string "I'm glad I met someone like you.$"
+.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
+.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
 
 FiveIsland_WaterLabyrinth_Text_CuteMonRemindsMeOfDaisy::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh, hello.\n"
 	.string "That's a cute {STR_VAR_2}.\p"
-	.string "Seeing it reminds me of a sweet \n"
-	.string "little girl I met while traveling.\p"
-	.string "She was gently grooming POKéMON…\n"
-	.string "She was a little angel.\p"
-	.string "That little girl's name…\n"
-	.string "I think it was DAISY.$"
+.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
+.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
+.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
+.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
+.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
 
 FiveIsland_WaterLabyrinth_Text_AlizeIntro::
-	.string "This is an excellent environment\n"
-	.string "for raising POKéMON.$"
+.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
+	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
 
 FiveIsland_WaterLabyrinth_Text_AlizeDefeat::
-	.string "Your POKéMON are growing up\n"
-	.string "admirably well!$"
+.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!$"
 
 FiveIsland_WaterLabyrinth_Text_AlizePostBattle::
-	.string "You know, I think you have the\n"
-	.string "talent to be a good BREEDER.$"
+.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
+	.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"

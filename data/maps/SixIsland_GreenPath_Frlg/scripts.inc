@@ -10,23 +10,23 @@ SixIsland_GreenPath_EventScript_LeftRouteSign::
 	end
 
 SixIsland_GreenPath_Text_JaclynIntro::
-	.string "…Huh?\p"
-	.string "I was envisioning my house, but\n"
-	.string "this is where I TELEPORT?$"
+.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
+.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
+.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!$"
 
 SixIsland_GreenPath_Text_JaclynDefeat::
-	.string "Big boo-boo!$"
+.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 SixIsland_GreenPath_Text_JaclynPostBattle::
-	.string "I am so scatterbrained!\p"
-	.string "I need to focus so I can TELEPORT\n"
-	.string "properly to my house!$"
+.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
+.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
+	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 SixIsland_GreenPath_Text_LeftRouteSign::
-	.string "GREEN PATH\n"
-	.string "PATTERN BUSH AHEAD$"
+.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!$"
 
 SixIsland_GreenPath_Text_RightRouteSign::
-	.string "GREEN PATH\n"
-	.string "Think Green, Keep Nature Clean!$"
+.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!$"
 

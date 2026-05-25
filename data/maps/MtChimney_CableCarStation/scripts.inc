@@ -84,11 +84,11 @@ MtChimney_CableCarStation_Movement_ExitCableCar:
 
 MtChimney_CableCarStation_Text_CableCarReadyGetOn:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pThe CABLE CAR is ready to go down.\n"
-	.string "Would you like to be on it?$"
+.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!$"
 
 MtChimney_CableCarStation_Text_StepThisWay:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pPlease step this way.$"
+.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!$"
 
 MtChimney_CableCarStation_Text_RideAnotherTime:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pPlease ride with us another time.$"
+.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!$"
 

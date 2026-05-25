@@ -9,17 +9,17 @@ MtPyre_4F_EventScript_Tasha::
 	end
 
 MtPyre_4F_Text_TashaIntro:
-	.string "I love all things horrifying…\n"
-	.string "It's like a disease…\p"
-	.string "When I'm here…\n"
-	.string "I shiver with fear…$"
+.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
+.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
+	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
 
 MtPyre_4F_Text_TashaDefeat:
-	.string "Losing, I dislike…$"
+	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 MtPyre_4F_Text_TashaPostBattle:
-	.string "I want to see dreadful things…\n"
-	.string "I can't leave…\p"
-	.string "Stay…\n"
-	.string "Won't you stay with me?$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
+.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
 

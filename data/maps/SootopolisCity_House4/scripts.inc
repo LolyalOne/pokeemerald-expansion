@@ -20,20 +20,20 @@ SootopolisCity_House4_EventScript_Azumarill::
 	end
 
 SootopolisCity_House4_Text_AncientTreasuresWaitingInSea:
-	.string "Listen up, and I'll tell you something\n"
-	.string "good.\p"
-	.string "There's supposed to be an ancient\n"
-	.string "ruin in the sea around here.\p"
-	.string "There could be treasures just waiting\n"
-	.string "to be discovered down there.$"
+.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
+.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
+.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
+.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou."
+	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
 
 SootopolisCity_House4_Text_StrollUnderwaterWithPokemon:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pAncient treasures…\p"
-	.string "It would be nice if they existed, but\n"
-	.string "even if they didn't, it would be so\l"
-	.string "beautiful to take an underwater\l"
-	.string "stroll with my POKéMON.$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pAncient treasures...\p"
+.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!"
+.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
+.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
+.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!$"
 
 SootopolisCity_House4_Text_Azumarill:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pAZUMARILL: Marurii.$"
+.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!$"
 

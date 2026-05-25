@@ -45,11 +45,11 @@ Route18_EastEntrance_2F_EventScript_AlreadyTraded::
 
 Route18_EastEntrance_2F_Text_PalletTownInWest::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pLet's see what the binoculars have\n"
-	.string "to show…\p"
-	.string "PALLET TOWN is in the west.$"
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
+	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
 
 Route18_EastEntrance_2F_Text_PeopleSwimming::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pLet's see what the binoculars have\n"
-	.string "to show…\p"
-	.string "There are people swimming.$"
+.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
+	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
 

@@ -619,6 +619,12 @@
 #define OBJ_EVENT_PAL_TAG_NEON_LIGHT              0x8004
 // Not a real OW palette tag; used for the white flash applied to followers
 #define OBJ_EVENT_PAL_TAG_WHITE                   (OBJ_EVENT_PAL_TAG_NONE - 1)
+#define OBJ_EVENT_PAL_TAG_LETICIA                 0x1200
+#define OBJ_EVENT_PAL_TAG_LIVIA                   0x1201
+#define OBJ_EVENT_PAL_TAG_ANA_BEATRIZ             0x1202
+#define OBJ_EVENT_PAL_TAG_BRUNO                   0x1203
+#define OBJ_EVENT_PAL_TAG_DANIEL                  0x1204
+#define OBJ_EVENT_PAL_TAG_MATHEUS                 0x1205
 #define OBJ_EVENT_PAL_TAG_NONE                    0x11FF
 
 // This + localId is used as the tileTag

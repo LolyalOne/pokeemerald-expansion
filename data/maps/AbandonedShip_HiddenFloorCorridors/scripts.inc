@@ -133,23 +133,23 @@ AbandonedShip_HiddenFloorCorridors_EventScript_TheDoorIsOpen::
 
 AbandonedShip_HiddenFloorCorridors_Text_Rm1DoorIsLocked:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThe door is locked.\p"
-	.string "“RM. 1” is painted on the door.$"
+	.string "Hoje e o seu dia, Lucas! Sua jornada apenas comecou.$"
 
 AbandonedShip_HiddenFloorCorridors_Text_Rm2DoorIsLocked:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThe door is locked.\p"
-	.string "“RM. 2” is painted on the door.$"
+	.string "Um brinde ao Lucas! Voce e o campeao do nosso coracao!$"
 
 AbandonedShip_HiddenFloorCorridors_Text_Rm4DoorIsLocked:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThe door is locked.\p"
-	.string "“RM. 4” is painted on the door.$"
+	.string "Hoje e o seu dia, Lucas! Voce e uma lenda em Hoenn!$"
 
 AbandonedShip_HiddenFloorCorridors_Text_Rm6DoorIsLocked:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThe door is locked.\p"
-	.string "“RM. 6” is painted on the door.$"
+	.string "Parabens, Lucas! Nao se esqueca de comemorar muito!$"
 
 AbandonedShip_HiddenFloorCorridors_Text_InsertedKey:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p{PLAYER} inserted and turned the\n"
-	.string "KEY.\p"
-	.string "The inserted KEY stuck fast,\n"
-	.string "but the door opened.$"
+	.string "Hoje e o seu dia, Lucas! Voce e uma lenda em Hoenn!"
+	.string "Feliz aniversario, Lucas! O mundo POKeMON celebra voce!"
+	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
 

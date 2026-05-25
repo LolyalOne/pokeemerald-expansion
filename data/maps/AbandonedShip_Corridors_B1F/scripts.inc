@@ -54,33 +54,33 @@ AbandonedShip_Corridors_B1F_EventScript_Duncan::
 	end
 
 AbandonedShip_Corridors_B1F_Text_DuncanIntro:
-	.string "When we go out to sea, we SAILORS\n"
-	.string "always bring our POKéMON.\l"
-	.string "How about a quick battle?$"
+.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
+.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
+	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
 
 AbandonedShip_Corridors_B1F_Text_DuncanDefeat:
-	.string "Whoops, I'm sunk!$"
+	.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
 
 AbandonedShip_Corridors_B1F_Text_DuncanPostBattle:
-	.string "The ship's bottom has sunk into the\n"
-	.string "depths.\p"
-	.string "If a POKéMON knew how to go underwater,\n"
-	.string "we might make some progress…$"
+.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
+.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!$"
 
 AbandonedShip_Corridors_B1F_Text_YayItsAShip:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pYay!\n"
-	.string "It's a ship!$"
+.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!$"
 
 AbandonedShip_Corridors_B1F_Text_DoorIsLocked:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pThe door is locked.\p"
-	.string "“STORAGE” is painted on the door.$"
+	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
 
 AbandonedShip_Corridors_B1F_Text_InsertedStorageKey:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\p{PLAYER} inserted and turned the\n"
-	.string "STORAGE KEY.\p"
-	.string "The inserted KEY stuck fast,\n"
-	.string "but the door opened.$"
+.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
+.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou."
+.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
 
 AbandonedShip_Text_TheDoorIsOpen:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pThe door is open.$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!$"
 

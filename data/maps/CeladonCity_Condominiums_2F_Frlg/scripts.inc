@@ -6,5 +6,5 @@ CeladonCity_Condominiums_2F_EventScript_MeetingRoomSign::
 	end
 
 CeladonCity_Condominiums_2F_Text_GameFreakMeetingRoom::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pGAME FREAK Meeting Room$"
+	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
 

@@ -82,68 +82,68 @@ LavenderTown_VolunteerPokemonHouse_EventScript_Bookshelf::
 
 LavenderTown_PokemonCenter_1F_Text_HearMrFujiNotFromAroundHere::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI recently moved to this town.\p"
-	.string "I hear that MR. FUJI's not from\n"
-	.string "these parts originally, either.$"
+.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
+.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!$"
 
 LavenderTown_VolunteerPokemonHouse_Text_WhereDidMrFujiGo::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThat's odd, MR. FUJI isn't here.\n"
-	.string "Where'd he go?$"
+.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!$"
 
 LavenderTown_VolunteerPokemonHouse_Text_MrFujiWasPrayingForCubonesMother::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pMR. FUJI had been praying alone\n"
-	.string "for CUBONE's mother.$"
+.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!$"
 
 LavenderTown_VolunteerPokemonHouse_Text_MrFujiLooksAfterOrphanedMons::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pThis is really MR. FUJI's house.\p"
-	.string "He's really kind.\p"
-	.string "He looks after abandoned and\n"
-	.string "orphaned POKéMON.$"
+.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
+.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!"
+.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!$"
 
 LavenderTown_VolunteerPokemonHouse_Text_MonsNiceToHug::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pIt's so warm!\n"
-	.string "POKéMON are so nice to hug.$"
+	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 LavenderTown_VolunteerPokemonHouse_Text_Nidorino::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pNIDORINO: Gaoo!$"
+	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
 
 LavenderTown_VolunteerPokemonHouse_Text_Psyduck::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pPSYDUCK: Gwappa!$"
+	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
 
 LavenderTown_VolunteerPokemonHouse_Text_IdLikeYouToHaveThis::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pMR. FUJI: {PLAYER}…\p"
-	.string "Your POKéDEX quest is one that\n"
-	.string "requires strong dedication.\p"
-	.string "Without deep love for POKéMON,\n"
-	.string "your quest may fail.\p"
-	.string "I'm not sure if this will help you,\n"
-	.string "but I'd like you to have it.$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pMR. FUJI: {PLAYER}...\p"
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
+.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
+.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
+.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!$"
 
 LavenderTown_VolunteerPokemonHouse_Text_ReceivedPokeFluteFromMrFuji::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p{PLAYER} received a POKé FLUTE\n"
-	.string "from MR. FUJI.$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p{PLAYER} received a POKe FLUTE\n"
+	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 
 LavenderTown_VolunteerPokemonHouse_Text_ExplainPokeFlute::
-	.string "Upon hearing the POKé FLUTE,\n"
-	.string "sleeping POKéMON will spring awake.\p"
-	.string "Try using it on POKéMON that are\n"
-	.string "sleeping obstacles.$"
+.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
+.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
+.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!$"
 
 LavenderTown_VolunteerPokemonHouse_Text_MustMakeRoomForThis::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pYou must make room for this!$"
+	.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
 
 LavenderTown_VolunteerPokemonHouse_Text_HasPokeFluteHelpedYou::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pMR. FUJI: Has my POKé FLUTE\n"
-	.string "helped you?$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pMR. FUJI: Has my POKe FLUTE\n"
+.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!$"
 
 LavenderTown_VolunteerPokemonHouse_Text_GrandPrizeDrawingClipped::
-	.string "POKéMON FAN MAGAZINE\n"
-	.string "Monthly Grand Prize Drawing!\p"
-	.string "The application form is…\p"
-	.string "Gone! It's been clipped out.\n"
-	.string "Someone must have applied already.$"
+.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
+.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
+.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
+	.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
 
 LavenderTown_VolunteerPokemonHouse_Text_PokemonMagazinesLineShelf::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pPOKéMON magazines line the shelf.\p"
-	.string "POKéMON INSIDER…\p"
-	.string "POKéMON FAN…$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pPOKeMON magazines line the shelf.\p"
+.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
+	.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 

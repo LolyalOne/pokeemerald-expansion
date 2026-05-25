@@ -39,51 +39,51 @@ SilphCo_8F_EventScript_Grunt2::
 	end
 
 SilphCo_8F_Text_WonderIfSilphIsFinished::
-	.string "I wonder if SILPH is finished…$"
+.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!$"
 
 SilphCo_8F_Text_ThanksForSavingUs::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pThanks for saving us!$"
+	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 SilphCo_8F_Text_Grunt1Intro::
-	.string "That's as far as you'll go!$"
+.string "Lucas, voce e o melhor! Sua\njornada apenas comecou.$"
 
 SilphCo_8F_Text_Grunt1Defeat::
-	.string "Not enough grit!$"
+	.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 SilphCo_8F_Text_Grunt1PostBattle::
-	.string "If you don't turn back…\n"
-	.string "I'll call for backup!$"
+.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
+.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
 
 SilphCo_8F_Text_ParkerIntro::
-	.string "You're causing us problems!$"
+.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!$"
 
 SilphCo_8F_Text_ParkerDefeat::
-	.string "Huh?\n"
-	.string "I lost?$"
+.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
+.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
 
 SilphCo_8F_Text_ParkerPostBattle::
-	.string "So, what do you think of SILPH\n"
-	.string "BUILDING's maze?$"
+.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!$"
 
 SilphCo_8F_Text_Grunt2Intro::
-	.string "I am one of the four ROCKET\n"
-	.string "BROTHERS!$"
+.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!$"
 
 SilphCo_8F_Text_Grunt2Defeat::
-	.string "Whoo!\n"
-	.string "Oh, Brothers!$"
+.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
+	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 
 SilphCo_8F_Text_Grunt2PostBattle::
-	.string "I'll leave you up to my brothers.$"
+	.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 SilphCo_8F_Text_FloorSign::
-	.string "SILPH CO. HEAD OFFICE\n"
-	.string "8F$"
+.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!$"
 
 SilphCo_8F_Text_ToRocketBossMonsAreTools::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pTEAM ROCKET's BOSS is terribly\n"
-	.string "cruel!\p"
-	.string "To him, POKéMON are just tools to\n"
-	.string "be used.\p"
-	.string "What will happen if that tyrant\n"
-	.string "takes over our company…$"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
+.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
+.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
+	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"

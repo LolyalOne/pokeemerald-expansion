@@ -142,69 +142,69 @@ FiveIsland_ResortGorgeous_House_EventScript_Butler::
 
 FiveIsland_ResortGorgeous_House_Text_PleaseHearMyWish::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pSELPHY: Oh?\n"
-	.string "Do I know you from somewhere?\p"
-	.string "Oh, but that doesn't matter.\p"
-	.string "I am exquisitely bored.\n"
-	.string "Please, hear my wish.$"
+.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
+.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
 
 FiveIsland_ResortGorgeous_House_Text_WishToSeeMonPlease::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pI wish to see a POKéMON.\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pI wish to see a POKeMON.\n"
 	.string "A darling {STR_VAR_1}.\p"
-	.string "I want to see one right away.\n"
-	.string "Please, make my wish come true.$"
+.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
+.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!$"
 
 FiveIsland_ResortGorgeous_House_Text_OhImTiredOfWaiting::
-	.string "SELPHY: Oh, I'm tired of this.\n"
-	.string "I'm tired of waiting for you.\p"
-	.string "I'll forgive you this time, but\n"
-	.string "please don't fail me next time.$"
+.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
+.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!$"
 
 FiveIsland_ResortGorgeous_House_Text_MonYouCaughtForMeThankYou::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pSELPHY: Oh, hello, there.\p"
-	.string "Oh, my gracious. That must be the\n"
+.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
 	.string "{STR_VAR_1} you caught for me.\p"
-	.string "Giggle…\n"
-	.string "I see a resemblance to you.\p"
-	.string "Thank you so kindly.\p"
-	.string "… …  … …  … …\n"
-	.string "Is something the matter?\p"
-	.string "You may leave.\p"
-	.string "… …  … …  … …\n"
-	.string "Oh, fine. I understand now.\p"
-	.string "SEBASTIAN!\n"
-	.string "I need you here this instant!$"
+.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
+.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
+.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
+.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
 
 FiveIsland_ResortGorgeous_House_Text_ButlerYesMyLady::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pButler: Yes, my lady.$"
+	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
 
 FiveIsland_ResortGorgeous_House_Text_SelphyGiveTokenOfAppreciation::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pSELPHY: See to it that this person\n"
-	.string "is given a token of appreciation.$"
+.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!$"
 
 FiveIsland_ResortGorgeous_House_Text_ButlerIShallDoAsYouBid::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pButler: I shall do as you bid,\n"
-	.string "my lady.$"
+	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 
 FiveIsland_ResortGorgeous_House_Text_ButlerPleaseAcceptThisAsHerThanks::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pButler: I sincerely thank you for\n"
-	.string "pleasing Lady SELPHY.\p"
-	.string "Please accept this as her thanks…$"
+.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
+	.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 FiveIsland_ResortGorgeous_House_Text_ButlerBagAppearsToBeFull::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pButler: Your BAG appears to be\n"
-	.string "unfortunately full.$"
+	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 
 FiveIsland_ResortGorgeous_House_Text_OhHowDisappointing::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pOh…\n"
-	.string "How disappointing.$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pOh...\n"
+	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
 
 FiveIsland_ResortGorgeous_House_Text_SelphyWishYouBestOfLuck::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pSELPHY: I wish you the best of\n"
-	.string "luck.$"
+	.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
 
 FiveIsland_ResortGorgeous_House_Text_LadySelphySmileHasBrillianceOfSun::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pButler: The smile of Lady SELPHY\n"
-	.string "has the brilliance of the sun.\p"
-	.string "Please, I beg you to bring joy\n"
-	.string "to Lady SELPHY.$"
+.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
+	.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
 

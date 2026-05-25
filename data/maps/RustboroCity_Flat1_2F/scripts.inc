@@ -76,100 +76,100 @@ RustboroCity_Flat1_2F_EventScript_PokeDoll::
 	end
 
 RustboroCity_Flat1_2F_Text_ComingUpWithMealsIsHard:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh, it's so hard every day…\p"
-	.string "What's hard?\n"
-	.string "You need to ask?\p"
-	.string "It's trying to figure out what to\n"
-	.string "make for meals every day.\p"
-	.string "It really isn't easy coming up with\n"
-	.string "meals every day.$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh, it's so hard every day...\p"
+.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
+.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
+.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
+	.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
 
 RustboroCity_Flat1_2F_Text_HelloDoYouKnowFunnyPhrase:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh, hello!\n"
-	.string "Welcome to the PEPPER household.\p"
-	.string "I have a question for you.\n"
-	.string "Have you ever baby-sat?\p"
-	.string "You see, I'm a new father, so raising\n"
-	.string "a child is all new to me.\p"
-	.string "And I have a problem. My daughter\n"
-	.string "WALDA doesn't laugh enough.\p"
-	.string "I think she'd laugh for me if I told\n"
-	.string "her something funny.\p"
-	.string "Do you know of a funny word or\n"
-	.string "phrase you can tell me?$"
+.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
+.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
+.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
+.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
+.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
+.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
+	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
 
 RustboroCity_Flat1_2F_Text_BeenSayingXDoYouKnowBetterPhrase:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI've been saying “{STR_VAR_1}”\n"
-	.string "to amuse her lately.\p"
-	.string "Do you know of a better word or\n"
-	.string "a phrase that might work?$"
+.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
+.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!$"
 
 RustboroCity_Flat1_2F_Text_WonderfulLetsHearSuggestion:
-	.string "Oh, that's wonderful.\n"
-	.string "So, let's hear it, your suggestion.$"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
+	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 RustboroCity_Flat1_2F_Text_OhIsThatRight:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pOh, is that right?\p"
-	.string "Well, if you come up with a good\n"
-	.string "suggestion, I'm all ears.$"
+.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!$"
 
 RustboroCity_Flat1_2F_Text_LetsGiveItATry2:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pAh, I see.\n"
-	.string "Well, let's give it a try, shall we?$"
+	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
 
 RustboroCity_Flat1_2F_Text_OhShesLaughing:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\p{STR_VAR_1}.\n"
 	.string "{STR_VAR_1}.\p"
-	.string "Oh, yes! She's laughing!\n"
-	.string "Oh, I am as delighted as she!$"
+.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!$"
 
 RustboroCity_Flat1_2F_Text_LetsGiveItATry:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pAh, I see.\n"
-	.string "Well, let's give it a try, shall we?$"
+	.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
 
 RustboroCity_Flat1_2F_Text_ShesNotSmilingAtAll:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p{STR_VAR_1}.\n"
 	.string "{STR_VAR_1}.\p"
-	.string "Hmmm… She's not smiling at all.\n"
-	.string "Maybe WALDA is one serious child…$"
+.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
+	.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 RustboroCity_Flat1_2F_Text_ThinkOfMyOwnPhrase:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh, so you don't know any good words.\n"
-	.string "I'd better think for myself, then.\p"
-	.string "Hmm…\n"
+.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
 	.string "How about “{STR_VAR_1}”?\l"
-	.string "Let's see if that will work.$"
+.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!$"
 
 RustboroCity_Flat1_2F_Text_ShesNotSmilingAtAll2:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p{STR_VAR_1}.\n"
 	.string "{STR_VAR_1}.\p"
-	.string "Hmmm… She's not smiling at all.\n"
-	.string "Maybe WALDA is one serious child…$"
+.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!$"
 
 RustboroCity_Flat1_2F_Text_OhYouDontKnowAny:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pOh, so you don't know any good words.\n"
-	.string "I guess I'll try to amuse her with\l"
-	.string "the saying I used before.\p"
-	.string "Anyways, if you have a good suggestion,\n"
-	.string "don't hesitate in telling me, okay?$"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
+.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
+	.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
 
 RustboroCity_Flat1_2F_Text_ThankYouIllGiveYouWallpaper:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThank you!\p"
-	.string "Thanks to you, my darling WALDA\n"
-	.string "laughed for me!\p"
-	.string "Actually, I may not look all that\n"
-	.string "special, but I'm one of DEVON\l"
-	.string "CORPORATION's top researchers.\p"
-	.string "So, how about I do something in return\n"
-	.string "for you?\p"
-	.string "I know, I'll add some new wallpaper\n"
-	.string "patterns for the BOXES in the PC\l"
-	.string "POKéMON Storage System.\p"
-	.string "In the wallpaper pattern menu,\n"
-	.string "select “FRIENDS.”\p"
-	.string "That will give you access to the new\n"
-	.string "wallpaper patterns.$"
+.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
+.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
+.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
+.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
+.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
+.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
+.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!$"
 
 RustboroCity_Flat1_2F_Text_ItsAPokemonPlushDoll:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pIt's a POKéMON plush DOLL!$"
+.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 

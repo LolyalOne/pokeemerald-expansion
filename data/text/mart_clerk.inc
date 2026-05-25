@@ -1,10 +1,10 @@
 gText_HowMayIServeYou::
-	.string "Welcome!\p"
-	.string "How may I serve you?$"
+.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
+	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
 
 gText_PleaseComeAgain::
-	.string "Please come again!$"
+	.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 gText_PlayerWhatCanIDoForYou::
 	.string "{PLAYER}{STRING 5}, welcome!\p"
-	.string "What can I do for you?$"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"

@@ -6,115 +6,115 @@ Route11_EventScript_DiglettsCaveSign::
 	end
 
 Route11_Text_HugoIntro::
-	.string "Win, lose, or draw!$"
+	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
 
 Route11_Text_HugoDefeat::
-	.string "Atcha!\n"
-	.string "Didn't go my way!$"
+.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
+	.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 Route11_Text_HugoPostBattle::
-	.string "POKéMON is life!\n"
-	.string "And to live is to play games!$"
+.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
+.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!$"
 
 Route11_Text_JasperIntro::
-	.string "Competition!\n"
-	.string "I can't get enough!$"
+.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
+	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
 
 Route11_Text_JasperDefeat::
-	.string "I had a chance!$"
+.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
 
 Route11_Text_JasperPostBattle::
-	.string "You can't be a coward in the world\n"
-	.string "of POKéMON!$"
+.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
+.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
 
 Route11_Text_EddieIntro::
-	.string "Let's go, but don't cheat!$"
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!$"
 
 Route11_Text_EddieDefeat::
-	.string "Huh?\n"
-	.string "That's not right!$"
+.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!$"
 
 Route11_Text_EddiePostBattle::
-	.string "I did my best.\n"
-	.string "I have no regrets.$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!$"
 
 Route11_Text_BraxtonIntro::
-	.string "Careful!\n"
-	.string "I'm laying down some cables!$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 Route11_Text_BraxtonDefeat::
-	.string "That was electric!$"
+.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!$"
 
 Route11_Text_BraxtonPostBattle::
-	.string "Spread the word to save energy!$"
+	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
 
 Route11_Text_DillonIntro::
-	.string "I just became a TRAINER.\n"
-	.string "But, I think I can win.$"
+.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
+.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!$"
 
 Route11_Text_DillonDefeat::
-	.string "My POKéMON couldn't win…\n"
-	.string "Haven't they grown enough?$"
+.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
+	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
 
 Route11_Text_DillonPostBattle::
-	.string "What now?\n"
-	.string "Leave me alone!$"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
+	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
 
 Route11_Text_DirkIntro::
-	.string "Fwahaha!\n"
-	.string "I have never lost!$"
+.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!$"
 
 Route11_Text_DirkDefeat::
-	.string "My first loss!$"
+.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
 
 Route11_Text_DirkPostBattle::
-	.string "You were just lucky, that's all.$"
+	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 Route11_Text_DarianIntro::
-	.string "I have never won before…$"
+	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
 
 Route11_Text_DarianDefeat::
-	.string "I saw this coming…$"
+.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!$"
 
 Route11_Text_DarianPostBattle::
-	.string "I was unlucky, as always.$"
+.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!$"
 
 Route11_Text_YasuIntro::
-	.string "I'm the best in my class.\n"
-	.string "I train every morning.$"
+.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
+	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
 
 Route11_Text_YasuDefeat::
-	.string "Darn!\n"
-	.string "My POKéMON need to be stronger!$"
+.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
+.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!$"
 
 Route11_Text_YasuPostBattle::
-	.string "There's a fat POKéMON that comes\n"
-	.string "down from the mountains.\p"
-	.string "I bet it'd be strong if you can\n"
-	.string "catch it.$"
+.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
+.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!$"
 
 Route11_Text_BernieIntro::
-	.string "Watch out for live wires!$"
+	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 
 Route11_Text_BernieDefeat::
-	.string "Whoa!\n"
-	.string "You spark plug!$"
+.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
+	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
 
 Route11_Text_BerniePostBattle::
-	.string "Well, better get back to work.$"
+	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
 
 Route11_Text_DaveIntro::
-	.string "I raised my POKéMON carefully.\n"
-	.string "They should be ready by now!$"
+.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 Route11_Text_DaveDefeat::
-	.string "Bye-bye!\n"
-	.string "Thank you, and good-bye!$"
+.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!"
+	.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
 
 Route11_Text_DavePostBattle::
-	.string "Tch…\n"
-	.string "I better go find stronger ones!$"
+.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
+	.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
 
 Route11_Text_DiglettsCave::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pDIGLETT'S CAVE$"
+	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
 

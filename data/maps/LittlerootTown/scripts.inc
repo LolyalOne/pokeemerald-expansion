@@ -905,122 +905,123 @@ LittlerootTown_EventScript_GiveRunningShoes::
 	return
 
 LittlerootTown_Text_OurNewHomeLetsGoInside:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pMOM: {PLAYER}, we're here, honey!\p"
-	.string "It must be tiring riding with our things\n"
-	.string "in the moving truck.\p"
-	.string "Well, this is LITTLEROOT TOWN.\p"
-	.string "How do you like it?\n"
-	.string "This is our new home!\p"
-	.string "It has a quaint feel, but it seems to be\n"
-	.string "an easy place to live, don't you think?\p"
-	.string "And, you get your own room, {PLAYER}!\n"
-	.string "Let's go inside.$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pMAE: {PLAYER}, chegamos, querido!\p"
+.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
+.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
+.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!"
+	.string "E voce tera seu proprio quarto, {PLAYER}!\n"
+.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!$"
 
 LittlerootTown_Text_WaitPlayer:
-	.string "MOM: Wait, {PLAYER}!$"
+	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
 
 LittlerootTown_Text_WearTheseRunningShoes:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pMOM: {PLAYER}! {PLAYER}! Did you\n"
-	.string "introduce yourself to PROF. BIRCH?\p"
-	.string "Oh! What an adorable POKeMON!\n"
-	.string "You got it from PROF. BIRCH. How nice!\p"
-	.string "You're your father's child, all right.\n"
-	.string "You look good together with POKeMON!\p"
-	.string "Here, honey! If you're going out on an\n"
-	.string "adventure, wear these RUNNING SHOES.\p"
-	.string "They'll put a zip in your step!$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pMAE: {PLAYER}! {PLAYER}! Voce ja se\n"
+.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
+.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
+.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
+.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!$"
 
 LittlerootTown_Text_SwitchShoesWithRunningShoes:
-	.string "{PLAYER} switched shoes with the\n"
-	.string "RUNNING SHOES.$"
+	.string "{PLAYER} trocou os sapatos pelos\n"
+.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!$"
 
 LittlerootTown_Text_ExplainRunningShoes:
-	.string "MOM: {PLAYER}, those shoes came with\n"
-	.string "instructions.\p"
-	.string "“Press the B Button while wearing these\n"
-	.string "RUNNING SHOES to run extra-fast!\p"
-	.string "“Slip on these RUNNING SHOES and race\n"
-	.string "in the great outdoors!”$"
+	.string "MAE: {PLAYER}, esses tenis vieram com\n"
+.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!"
+.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
 
 LittlerootTown_Text_ComeHomeIfAnythingHappens:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p… … … … … … … …\n"
-	.string "… … … … … … … …\p"
-	.string "To think that you have your very own\n"
-	.string "POKeMON now…\l"
-	.string "Your father will be overjoyed.\p"
-	.string "…But please be careful.\n"
-	.string "If anything happens, you can come home.\p"
-	.string "Go on, go get them, honey!$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p... ... ... ... ... ... ... ...\n"
+.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
+.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
+.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
+.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
+	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
 
 LittlerootTown_Text_CanUsePCToStoreItems:
-	.string "If you use a PC, you can store items\n"
-	.string "and POKeMON.\p"
-	.string "The power of science is staggering!$"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
+.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
+.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!$"
 
 LittlerootTown_Text_BirchSpendsDaysInLab:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pPROF. BIRCH spends days in his LAB\n"
-	.string "studying, then he'll suddenly go out in\l"
-	.string "the wild to do more research…\p"
-	.string "When does PROF. BIRCH spend time\n"
-	.string "at home?$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pPROF. BIRCH passa dias no LABORATORIO\n"
+.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
+.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
 
 LittlerootTown_Text_IfYouGoInGrassPokemonWillJumpOut:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pUm, um, um!\p"
-	.string "If you go outside and go in the grass,\n"
-	.string "wild POKeMON will jump out!$"
+.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
 
 LittlerootTown_Text_DangerousIfYouDontHavePokemon:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pIt's dangerous if you don't have\n"
-	.string "your own POKeMON.$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pE perigoso se voce nao tiver\n"
+.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!$"
 
 LittlerootTown_Text_CanYouGoSeeWhatsHappening:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pUm, hi!\p"
-	.string "There are scary POKeMON outside!\n"
-	.string "I can hear their cries!\p"
-	.string "I want to go see what's going on,\n"
-	.string "but I don't have any POKeMON…\p"
-	.string "Can you go see what's happening\n"
-	.string "for me?$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pAh, oi!\p"
+.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
+.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
+	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 LittlerootTown_Text_YouSavedBirch:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYou saved PROF. BIRCH!\n"
-	.string "I'm so glad!$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pVoce salvou o PROF. BIRCH!\n"
+.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!$"
 
 LittlerootTown_Text_GoodLuckCatchingPokemon:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pAre you going to catch POKeMON?\n"
-	.string "Good luck!$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pVoce vai pegar POKeMON?\n"
+	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
 
 LittlerootTown_Text_TownSign:
-	.string "LITTLEROOT TOWN\n"
-	.string "“A town that can't be shaded any hue.”$"
+.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
+	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
 
 LittlerootTown_Text_ProfBirchsLab:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pPROF. BIRCH'S POKeMON LAB$"
+.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!$"
 
 LittlerootTown_Text_PlayersHouse:
-	.string "{PLAYER}'s HOUSE$"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!$"
 
 LittlerootTown_Text_ProfBirchsHouse:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pPROF. BIRCH'S HOUSE$"
+.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!$"
 
 LittlerootTown_Text_BirchSomethingToShowYouAtLab:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pPROF. BIRCH: Well, well, {PLAYER}{KUN}!\n"
-	.string "That was good work out there!\p"
-	.string "I knew there was something special\n"
-	.string "about you when I first saw you,\l"
-	.string "but I never expected this.\p"
-	.string "Oh, yes. Do you still have the POKeDEX\n"
-	.string "I gave you?\p"
-	.string "I have something to show you.\n"
-	.string "Let's go to my LAB.$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pPROF. BIRCH: Ora, ora, {PLAYER}{KUN}!\n"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
+.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
+.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
+.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
+.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
+.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!"
+	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
 
 
 
 LittlerootTown_EventScript_Leticia::
 	lock
 	faceplayer
-	showmonpic 1, 10, 3
+	showmonpic 10000, 10, 3
 	msgbox LittlerootTown_Text_Leticia, MSGBOX_DEFAULT
+	closemessage
 	hidemonpic
 	release
 	end
@@ -1028,8 +1029,9 @@ LittlerootTown_EventScript_Leticia::
 LittlerootTown_EventScript_Livia::
 	lock
 	faceplayer
-	showmonpic 1, 10, 3
+	showmonpic 10001, 10, 3
 	msgbox LittlerootTown_Text_Livia, MSGBOX_DEFAULT
+	closemessage
 	hidemonpic
 	release
 	end
@@ -1037,17 +1039,19 @@ LittlerootTown_EventScript_Livia::
 LittlerootTown_EventScript_AnaBeatriz::
 	lock
 	faceplayer
-	showmonpic 1, 10, 3
+	showmonpic 10002, 10, 3
 	msgbox LittlerootTown_Text_AnaBeatriz, MSGBOX_DEFAULT
+	closemessage
 	hidemonpic
 	release
 	end
 
-LittlerootTown_EventScript_Bruno::
+LittlerootTown_EventScript_MariaClara::
 	lock
 	faceplayer
-	showmonpic 1, 10, 3
-	msgbox LittlerootTown_Text_Bruno, MSGBOX_DEFAULT
+	showmonpic 10005, 10, 3
+	msgbox LittlerootTown_Text_MariaClara, MSGBOX_DEFAULT
+	closemessage
 	hidemonpic
 	release
 	end
@@ -1055,8 +1059,9 @@ LittlerootTown_EventScript_Bruno::
 LittlerootTown_EventScript_Daniel::
 	lock
 	faceplayer
-	showmonpic 1, 10, 3
+	showmonpic 10003, 10, 3
 	msgbox LittlerootTown_Text_Daniel, MSGBOX_DEFAULT
+	closemessage
 	hidemonpic
 	release
 	end
@@ -1064,26 +1069,27 @@ LittlerootTown_EventScript_Daniel::
 LittlerootTown_EventScript_Matheus::
 	lock
 	faceplayer
-	showmonpic 1, 10, 3
+	showmonpic 10004, 10, 3
 	msgbox LittlerootTown_Text_Matheus, MSGBOX_DEFAULT
+	closemessage
 	hidemonpic
 	release
 	end
 
 LittlerootTown_Text_Leticia:
-	.string "Oi! Eu sou a Leticia.\nFeliz aniversario!"
+.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!$"
 
 LittlerootTown_Text_Livia:
-	.string "Ola! Eu sou a Livia.\nParabens pelo seu dia!"
+.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!$"
 
 LittlerootTown_Text_AnaBeatriz:
-	.string "Eai! Sou a Ana Beatriz.\nMuita energia pra voce hoje!"
+.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!$"
 
-LittlerootTown_Text_Bruno:
-	.string "Opa! Eu sou o Bruno.\nSucesso na sua jornada!"
+LittlerootTown_Text_MariaClara:
+.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
 
 LittlerootTown_Text_Daniel:
-	.string "Feliz aniversario, meu manoooo!\nTmj sempre!"
+.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
 
 LittlerootTown_Text_Matheus:
-	.string "Minecraft 3 da manha pra falar\ncoisas aleatorias hoje irmao?"
+	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"

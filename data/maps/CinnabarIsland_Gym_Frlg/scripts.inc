@@ -710,192 +710,192 @@ CinnabarIsland_Gym_EventScript_OpenDoor6::
 	return
 
 CinnabarIsland_Gym_Text_BlaineIntro::
-	.string "Hah!\p"
-	.string "I am BLAINE, the red-hot LEADER\n"
-	.string "of CINNABAR GYM!\p"
-	.string "My fiery POKéMON are all rough\n"
-	.string "and ready with intense heat!\p"
-	.string "They incinerate all challengers!\p"
-	.string "Hah!\n"
-	.string "You better have BURN HEAL!{PLAY_BGM}{MUS_RG_ENCOUNTER_GYM_LEADER}$"
+.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
+.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
+.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
+.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
+.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!$"
 
 CinnabarIsland_Gym_Text_BlaineDefeat::
-	.string "I have burned down to nothing!\n"
-	.string "Not even ashes remain!\p"
-	.string "You have earned the VOLCANOBADGE.$"
+.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!"
+.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 CinnabarIsland_Gym_Text_FireBlastIsUltimateFireMove::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pFIRE BLAST is the ultimate fire\n"
-	.string "technique.\p"
-	.string "Don't waste it on WATER POKéMON.$"
+.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
+	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
 
 CinnabarIsland_Gym_Text_ExplainVolcanoBadge::
-	.string "Hah!\p"
-	.string "The VOLCANOBADGE heightens the\n"
-	.string "SPECIAL stats of your POKéMON.\p"
-	.string "Here, you can have this, too!$"
+.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
+.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
 
 CinnabarIsland_Gym_Text_ReceivedTM38FromBlaine::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p{PLAYER} received TM38\n"
-	.string "from BLAINE.$"
+	.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
 
 CinnabarIsland_Gym_Text_BlainePostBattle::
-	.string "TM38 contains FIRE BLAST.\n"
-	.string "Teach it to FIRE-type POKéMON.\p"
-	.string "VULPIX or CHARMELEON would be\n"
-	.string "ideal for that move.$"
+.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
+.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
+	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 CinnabarIsland_Gym_Text_MakeSpaceForThis::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pMake space for this, child!$"
+	.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 CinnabarIsland_Gym_Text_ErikIntro::
-	.string "Do you know how hot POKéMON fire\n"
-	.string "breath can get?$"
+.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
 
 CinnabarIsland_Gym_Text_ErikDefeat::
-	.string "Yow!\n"
-	.string "Hot, hot, hot!$"
+.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
+.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 CinnabarIsland_Gym_Text_ErikPostBattle::
-	.string "Fire, or to be more precise,\n"
-	.string "combustion…\p"
-	.string "…Oxygen in the air…\n"
-	.string "Blah, blah, blah, blah…$"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
+.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
+.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
+.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!$"
 
 CinnabarIsland_Gym_Text_QuinnIntro::
-	.string "I was a thief, but I went straight\n"
-	.string "as a TRAINER.$"
+.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
+	.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
 
 CinnabarIsland_Gym_Text_QuinnDefeat::
-	.string "I surrender!$"
+.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!$"
 
 CinnabarIsland_Gym_Text_QuinnPostBattle::
-	.string "I get this uncontrollable urge to\n"
-	.string "steal other people's POKéMON.$"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!$"
 
 CinnabarIsland_Gym_Text_AveryIntro::
-	.string "I've studied POKéMON thoroughly.\n"
-	.string "You can't win!$"
+.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
+	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
 
 CinnabarIsland_Gym_Text_AveryDefeat::
-	.string "Waah!\n"
-	.string "My studies were insufficient!$"
+.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!"
+.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!$"
 
 CinnabarIsland_Gym_Text_AveryPostBattle::
-	.string "My theories are too complicated\n"
-	.string "for you to understand.$"
+.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
+.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!$"
 
 CinnabarIsland_Gym_Text_RamonIntro::
-	.string "I like using FIRE-type POKéMON.\n"
-	.string "I just do.$"
+.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!$"
 
 CinnabarIsland_Gym_Text_RamonDefeat::
-	.string "Too hot to handle!$"
+	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
 
 CinnabarIsland_Gym_Text_RamonPostBattle::
-	.string "I wish there were a thief POKéMON.\n"
-	.string "I'd use that!$"
+.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
+	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
 
 CinnabarIsland_Gym_Text_DerekIntro::
-	.string "I know why BLAINE became a\n"
-	.string "TRAINER.$"
+.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
+	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 CinnabarIsland_Gym_Text_DerekDefeat::
-	.string "Ow!$"
+.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
 
 CinnabarIsland_Gym_Text_DerekPostBattle::
-	.string "Our LEADER, BLAINE, became lost\n"
-	.string "in the mountains but good.\p"
-	.string "Night fell when a fiery bird\n"
-	.string "POKéMON appeared.\p"
-	.string "Its light allowed BLAINE to find\n"
-	.string "his way down safely.$"
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
+.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
+.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
+	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
 
 CinnabarIsland_Gym_Text_DustyIntro::
-	.string "I've been to many GYMS, but this\n"
-	.string "one best suits my style.$"
+.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
+	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
 
 CinnabarIsland_Gym_Text_DustyDefeat::
-	.string "Yowza!\n"
-	.string "Too hot!$"
+.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!$"
 
 CinnabarIsland_Gym_Text_DustyPostBattle::
-	.string "PONYTA, NINETALES…\n"
-	.string "Those are popular FIRE POKéMON.$"
+.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
+.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!$"
 
 CinnabarIsland_Gym_Text_ZacIntro::
-	.string "Fire is weak against H2O.$"
+.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
 
 CinnabarIsland_Gym_Text_ZacDefeat::
-	.string "Oh!\n"
-	.string "Snuffed out!$"
+.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
+.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!$"
 
 CinnabarIsland_Gym_Text_ZacPostBattle::
-	.string "Water beats fire, of course.\p"
-	.string "But fire melts ice, so the FIRE\n"
-	.string "type beats ICE-type POKéMON.$"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
+.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!$"
 
 CinnabarIsland_Gym_Text_GymGuyAdvice::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pYo!\n"
-	.string "Champ in the making!\p"
-	.string "The hotheaded BLAINE is a FIRE\n"
-	.string "POKéMON pro.\p"
-	.string "Douse his spirits with water!\p"
-	.string "You'd better take some\n"
-	.string "BURN HEALS, too.$"
+.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
+.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
+.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
 
 CinnabarIsland_Gym_Text_GymGuyPostVictory::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p{PLAYER}!\n"
-	.string "You beat that firebrand!$"
+	.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
 
 CinnabarIsland_Gym_Text_GymStatue::
-	.string "CINNABAR POKéMON GYM\n"
-	.string "LEADER: BLAINE\p"
-	.string "WINNING TRAINERS:\n"
-	.string "{RIVAL}$"
+.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
+.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
+.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
+.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!$"
 
 CinnabarIsland_Gym_Text_GymStatuePlayerWon::
-	.string "CINNABAR POKéMON GYM\n"
-	.string "LEADER: BLAINE\p"
-	.string "WINNING TRAINERS:\n"
-	.string "{RIVAL}, {PLAYER}$"
+.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
+.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
+.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
+.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!$"
 
 CinnabarIsland_Gym_Text_PokemonQuizRules::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pPOKéMON Quiz!\p"
-	.string "Get it right, and the door opens to\n"
-	.string "the next room.\p"
-	.string "Get it wrong, and face a TRAINER!\p"
-	.string "If you want to conserve your\n"
-	.string "POKéMON for the GYM LEADER…\p"
-	.string "Then get it right!\n"
-	.string "Here we go!$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pPOKeMON Quiz!\p"
+.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!"
+.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!"
+.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
+.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
+	.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
 
 CinnabarIsland_Gym_Text_QuizQuestion1::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pCATERPIE evolves into METAPOD?$"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!$"
 
 CinnabarIsland_Gym_Text_QuizQuestion2::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pThere are nine certified POKéMON\n"
-	.string "LEAGUE BADGES?$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pThere are nine certified POKeMON\n"
+	.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 CinnabarIsland_Gym_Text_QuizQuestion3::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pPOLIWAG evolves three times?$"
+.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!$"
 
 CinnabarIsland_Gym_Text_QuizQuestion4::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pAre electric moves effective\n"
-	.string "against GROUND-type POKéMON?$"
+.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
 
 CinnabarIsland_Gym_Text_QuizQuestion5::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pPOKéMON of the same kind and level\n"
-	.string "are not identical?$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pPOKeMON of the same kind and level\n"
+	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 CinnabarIsland_Gym_Text_QuizQuestion6::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pTM28 contains TOMBSTONY?$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!$"
 
 CinnabarIsland_Gym_Text_CorrectGoOnThrough::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pYou're absolutely correct!\p"
-	.string "Go on through!$"
+	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
 
 CinnabarIsland_Gym_Text_SorryBadCall::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pSorry!\n"
-	.string "Bad call!$"
+	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 

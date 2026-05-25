@@ -24,18 +24,18 @@ AbandonedShip_CaptainsOffice_EventScript_ThisIsSSCactus::
 
 AbandonedShip_CaptainsOffice_Text_NoSuccessFindingScanner:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI'm investigating this ship on behalf\n"
-	.string "of CAPT. STERN.\p"
-	.string "He also asked me to find a SCANNER,\n"
-	.string "but I haven't had any success…$"
+.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
 
 AbandonedShip_CaptainsOffice_Text_OhCanYouDeliverScanner:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pOh! That's a SCANNER!\p"
-	.string "Listen, can I get you to deliver that\n"
-	.string "to CAPT. STERN?\p"
-	.string "I want to investigate this ship a\n"
-	.string "little more.$"
+.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
+.string "Parabens, Lucas! Sua jornada\napenas comecou."
+.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
+.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
 
 AbandonedShip_CaptainsOffice_Text_ThisIsSSCactus:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pThis ship is called S.S. CACTUS.\n"
-	.string "It seems to be from an earlier era.$"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 

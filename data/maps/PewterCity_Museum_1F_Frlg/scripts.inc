@@ -190,88 +190,88 @@ PewterCity_Museum_1F_EventScript_KabutopsFossil::
 
 PewterCity_Museum_1F_Text_Its50YForChildsTicket::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYes, yes.\n"
-	.string "It's ¥50 for a child's ticket.\p"
-	.string "Would you like to come in?$"
+.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
+.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!$"
 
 PewterCity_Museum_1F_Text_ComeAgain::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pCome again!$"
+	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 PewterCity_Museum_1F_Text_Right50YThankYou::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pRight, ¥50!\n"
-	.string "Thank you!$"
+.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 PewterCity_Museum_1F_Text_DontHaveEnoughMoney::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pYou don't have enough money.$"
+	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
 
 PewterCity_Museum_1F_Text_PleaseEnjoyYourself::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pPlease enjoy yourself.$"
+	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
 
 PewterCity_Museum_1F_Text_DoYouKnowWhatAmberIs::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pYou can't sneak in the back way!\n"
-	.string "Nice try, kid, but no.\p"
-	.string "Oh, whatever!\n"
-	.string "Do you know what AMBER is?$"
+.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
+.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
 
 PewterCity_Museum_1F_Text_AmberContainsGeneticMatter::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pAMBER contains the genetic matter\n"
-	.string "of ancient POKéMON.\p"
-	.string "There's a LAB somewhere trying to\n"
-	.string "resurrect POKéMON from AMBER.$"
+.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
+.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!"
+	.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
 
 PewterCity_Museum_1F_Text_AmberIsFossilizedSap::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pAMBER is actually sap, that gooey\n"
-	.string "stuff that oozes from trees.\p"
-	.string "The ancient sap fossilized over\n"
-	.string "time to become rock-hard AMBER.$"
+.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!$"
 
 @ Unused
 PewterCity_Museum_1F_Text_PleaseGoAround::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pあちらへ　おまわりください$"
+	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
 
 PewterCity_Museum_1F_Text_ShouldBeGratefulForLongLife::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI should be grateful for my long\n"
-	.string "life.\p"
-	.string "Never did I think I would get to\n"
-	.string "see the bones of a dragon!$"
+.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
+.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!$"
 
 PewterCity_Museum_1F_Text_WantYouToGetAmberExamined::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pSsh! Listen, I need to share a\n"
-	.string "secret with someone.\p"
-	.string "I think that this chunk of AMBER\n"
-	.string "contains POKéMON DNA!\p"
-	.string "It would be a shattering scientific\n"
-	.string "breakthrough if POKéMON could be\l"
-	.string "resurrected from it.\p"
-	.string "But, my colleagues just ignore\n"
-	.string "what I have to say.\p"
-	.string "So, I have a favor to ask!\p"
-	.string "I want you to get this examined at\n"
-	.string "a POKéMON LAB somewhere.$"
+.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
+.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
+.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
+.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
+.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
+.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
+	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 PewterCity_Museum_1F_Text_ReceivedOldAmberFromMan::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p{PLAYER} received the OLD AMBER\n"
-	.string "from the man.$"
+.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!$"
 
 PewterCity_Museum_1F_Text_GetOldAmberChecked::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pSsh!\n"
-	.string "Get the OLD AMBER checked!$"
+	.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 PewterCity_Museum_1F_Text_DontHaveSpaceForThis::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pYou don't have space for this.$"
+	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
 
 PewterCity_Museum_1F_Text_WeHaveTwoFossilsOnExhibit::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWe have two fossils of rare,\n"
-	.string "prehistoric POKéMON on exhibit.$"
+.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!$"
 
 PewterCity_Museum_1F_Text_BeautifulPieceOfAmber::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThere is a beautiful piece of\n"
-	.string "AMBER in a clear gold color.$"
+.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
 
 PewterCity_Museum_1F_Text_AerodactylFossil::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pAERODACTYL Fossil\n"
-	.string "A primitive and rare POKéMON.$"
+.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!$"
 
 PewterCity_Museum_1F_Text_KabutopsFossil::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pKABUTOPS Fossil\n"
-	.string "A primitive and rare POKéMON.$"
+	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
 

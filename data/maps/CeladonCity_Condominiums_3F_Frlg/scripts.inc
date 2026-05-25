@@ -53,43 +53,43 @@ CeladonCity_Condominiums_3F_EventScript_Computer3::
 
 CeladonCity_Condominiums_3F_Text_ImTheProgrammer::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pMe?\n"
-	.string "I'm the programmer!$"
+.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 CeladonCity_Condominiums_3F_Text_ImTheGraphicArtist::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI'm the graphic artist!\n"
-	.string "I drew you!$"
+.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou.$"
 
 CeladonCity_Condominiums_3F_Text_IWroteTheStory::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pI wrote the story!\n"
-	.string "Isn't ERIKA cute?\p"
-	.string "I like MISTY a lot, too!\n"
-	.string "Oh, and SABRINA, I like her!$"
+.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
+.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!$"
 
 CeladonCity_Condominiums_3F_Text_ImGameDesignerShowMeFinishedPokedex::
-	.string "Is that right?\p"
-	.string "I'm the game designer!\p"
-	.string "Filling up your POKéDEX is tough,\n"
-	.string "but don't quit!\p"
-	.string "When you finish, come tell me!$"
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
+.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
+.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
 
 CeladonCity_Condominiums_3F_Text_CompletedPokedexCongratulations::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWow! Excellent!\n"
-	.string "You completed your POKéDEX!\l"
-	.string "Congratulations!\l"
-	.string "…$"
+.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
+.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!"
+.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
 
 CeladonCity_Condominiums_3F_Text_ItsTheGameProgram::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pIt's the game program! Messing with\n"
-	.string "it could bug out the game!$"
+.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!$"
 
 CeladonCity_Condominiums_3F_Text_SomeonesPlayingGame::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pSomeone's playing a game instead of\n"
-	.string "working!$"
+	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
 
 CeladonCity_Condominiums_3F_Text_ItsScriptBetterNotLookAtEnding::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pIt's the script!\n"
-	.string "Better not look at the ending!$"
+	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
 
 CeladonCity_Condominiums_3F_Text_GameFreakDevelopmentRoom::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pGAME FREAK Development Room$"
+	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
 

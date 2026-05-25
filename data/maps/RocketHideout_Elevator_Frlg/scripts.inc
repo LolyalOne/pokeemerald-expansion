@@ -89,5 +89,5 @@ RocketHideout_Elevator_EventScript_NeedKey::
 	end
 
 RocketHideout_Elevator_Text_AppearsToNeedAKey::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pIt appears to need a key.$"
+	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
 

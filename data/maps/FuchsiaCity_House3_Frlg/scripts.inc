@@ -54,37 +54,37 @@ FuchsiaCity_House3_EventScript_CancelForgetMove::
 	end
 
 FuchsiaCity_House3_Text_WouldYouLikeToForgetMove::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pUh…\n"
-	.string "Oh, yes, I'm the MOVE DELETER.\p"
-	.string "I can make POKéMON forget their\n"
-	.string "moves.\p"
-	.string "Would you like me to do that?$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pUh...\n"
+.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!$"
 
 FuchsiaCity_House3_Text_WhichMonShouldForgetMove::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWhich POKéMON should forget a\n"
-	.string "move?$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWhich POKeMON should forget a\n"
+	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
 
 FuchsiaCity_House3_Text_WhichMoveShouldBeForgotten::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pWhich move should be forgotten?$"
+.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
 
 FuchsiaCity_House3_Text_MonOnlyKnowsOneMove::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\p{STR_VAR_1} seems to know only one\n"
-	.string "move…$"
+.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!$"
 
 FuchsiaCity_House3_Text_MonsMoveShouldBeForgotten::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pHm! {STR_VAR_1}'s {STR_VAR_2}?\n"
-	.string "That move should be forgotten?$"
+	.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
 
 FuchsiaCity_House3_Text_MonHasForgottenMoveCompletely::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pIt worked to perfection!\p"
 	.string "{STR_VAR_1} has forgotten\n"
-	.string "{STR_VAR_2} completely.$"
+.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!$"
 
 FuchsiaCity_House3_Text_ComeAgainToForgetOtherMoves::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pCome again if there are other\n"
-	.string "moves to be forgotten.$"
+	.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 FuchsiaCity_House3_Text_NoEggShouldKnowMoves::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pWhat?\n"
-	.string "No EGG should know any moves.$"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
 

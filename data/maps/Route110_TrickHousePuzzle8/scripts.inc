@@ -29,43 +29,43 @@ Route110_TrickHousePuzzle8_EventScript_Leroy::
 
 Route110_TrickHousePuzzle8_Text_WroteSecretCodeLockOpened::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p{PLAYER} wrote down the secret code\n"
-	.string "on the door.\p"
-	.string "“TRICK MASTER I love.”\n"
-	.string "… … … … … … … …\p"
-	.string "The lock clicked open!$"
+.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
+.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
+	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
 
 Route110_TrickHousePuzzle8_Text_VincentIntro:
-	.string "Not many TRAINERS have made it\n"
-	.string "this far.$"
+.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
+.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!$"
 
 Route110_TrickHousePuzzle8_Text_VincentDefeat:
-	.string "That must mean you're tough, too…$"
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!$"
 
 Route110_TrickHousePuzzle8_Text_VincentPostBattle:
-	.string "You've beaten the POKéMON LEAGUE\n"
-	.string "CHAMPION? That's too much!$"
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
+	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
 
 Route110_TrickHousePuzzle8_Text_KeiraIntro:
-	.string "Consider yourself lucky to be\n"
-	.string "battling me!$"
+.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 
 Route110_TrickHousePuzzle8_Text_KeiraDefeat:
-	.string "This isn't right!\n"
-	.string "I can't lose!$"
+.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
+	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 Route110_TrickHousePuzzle8_Text_KeiraPostBattle:
-	.string "It's a miracle that you beat me.\n"
-	.string "You can brag about it.$"
+.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
 
 Route110_TrickHousePuzzle8_Text_LeroyIntro:
-	.string "You've been slugging through the TRICK\n"
-	.string "HOUSE challenge, too.$"
+.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
+.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 Route110_TrickHousePuzzle8_Text_LeroyDefeat:
-	.string "I see…\n"
-	.string "You possess an extraordinary style.$"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
+.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!$"
 
 Route110_TrickHousePuzzle8_Text_LeroyPostBattle:
-	.string "Seeing someone like you should please\n"
-	.string "the TRICK MASTER.$"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
+.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!$"
 

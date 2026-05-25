@@ -1,20 +1,20 @@
 Text_BootUpPC:
-	.string "{PLAYER} booted up the PC.$"
+	.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
 
 gText_WhichPCShouldBeAccessed::
-	.string "Which PC should be accessed?$"
+	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
 
 gText_AccessedSomeonesPC::
-	.string "Accessed SOMEONE'S PC.$"
+.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
 
 gText_StorageSystemOpened::
-	.string "POKéMON Storage System opened.$"
+	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 gText_AccessedPlayersPC::
-	.string "Accessed {PLAYER}'s PC.$"
+	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
 
 gText_AccessedLanettesPC::
-	.string "Accessed LANETTE's PC.$"
+	.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 gText_AccessedBillsPC::
-	.string "Accessed BILL's PC.$"
+	.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"

@@ -170,19 +170,19 @@ Route121_EventScript_RematchCristin::
 
 Route121_Text_OkayMoveOutToMtPyre:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOkay!\n"
-	.string "We're to move out to MT. PYRE!$"
+	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 Route121_Text_AheadLoomsMtPyre:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pAhead looms MT. PYRE…\p"
-	.string "It is a natural monument to the spirits \n"
-	.string "of departed POKéMON…$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pAhead looms MT. PYRE...\p"
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
+.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!$"
 
 Route121_Text_MtPyrePierSign:
-	.string "MT. PYRE PIER\p"
-	.string "…The sign is old and worn out.\n"
-	.string "The words are barely legible…$"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
+	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
 
 Route121_Text_SafariZoneSign:
-	.string "“Filled with rare POKéMON!”\n"
-	.string "SAFARI ZONE$"
+.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
+.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!$"
 

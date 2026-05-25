@@ -17,88 +17,88 @@ Route10_EventScript_PowerPlantSign::
 	end
 
 Route10_Text_MarkIntro::
-	.string "Wow, you came all the way here?\n"
-	.string "Maybe you're a POKéMANIAC, too?\l"
-	.string "Want to see my collection?$"
+.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
+.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
+	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
 
 Route10_Text_MarkDefeat::
-	.string "Humph.\n"
-	.string "I'm not angry!$"
+.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 Route10_Text_MarkPostBattle::
-	.string "I have more rare POKéMON at home!$"
+	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
 
 Route10_Text_ClarkIntro::
-	.string "Ha-hahah-ah-ha!$"
+	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 Route10_Text_ClarkDefeat::
-	.string "Ha-haha!\n"
-	.string "Not laughing!\l"
-	.string "Ha-hay fever! Haha-ha-choo!$"
+.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 Route10_Text_ClarkPostBattle::
-	.string "Haha-ha-choo!\n"
-	.string "Ha-choo!\l"
-	.string "Snort! Snivel!$"
+.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!"
+.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
+.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!$"
 
 Route10_Text_HermanIntro::
-	.string "Hi, kid!\n"
-	.string "Want to see my POKéMON?$"
+.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
+.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!$"
 
 Route10_Text_HermanDefeat::
-	.string "Oh, no!\n"
-	.string "My POKéMON!$"
+.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
+.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
 
 Route10_Text_HermanPostBattle::
-	.string "I don't like you.\n"
-	.string "I don't like anyone better than me!$"
+.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou."
+	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
 
 Route10_Text_HeidiIntro::
-	.string "I've been out at a POKéMON GYM\n"
-	.string "a few times.\p"
-	.string "…But I always lose.$"
+.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
+.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 Route10_Text_HeidiDefeat::
-	.string "Ohh!\n"
-	.string "After all my training!$"
+.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
+.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
 
 Route10_Text_HeidiPostBattle::
-	.string "I noticed some POKéMANIACS\n"
-	.string "prowling around.\p"
-	.string "Can you imagine? Them?\n"
-	.string "Up here in the mountains?$"
+.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
+	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
 
 Route10_Text_TrentIntro::
-	.string "Ah!\n"
-	.string "This mountain air is delicious!$"
+.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
+	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
 
 Route10_Text_TrentDefeat::
-	.string "That cleared my head!$"
+	.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
 
 Route10_Text_TrentPostBattle::
-	.string "I feel bloated on mountain air!$"
+	.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 Route10_Text_CarolIntro::
-	.string "I'm feeling a bit faint.\n"
-	.string "I haven't hiked in some time.$"
+.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
 
 Route10_Text_CarolDefeat::
-	.string "I'm too tired.\n"
-	.string "I wasn't up for it.$"
+.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 Route10_Text_CarolPostBattle::
-	.string "The POKéMON here in the mountains\n"
-	.string "are so chunky…\p"
-	.string "I wish there were pink POKéMON\n"
-	.string "with a floral pattern!$"
+.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Parabens, Lucas! Sua jornada\napenas comecou."
+.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!"
+.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!$"
 
 Route10_Text_RockTunnelDetourToLavender::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pROCK TUNNEL\n"
-	.string "Detour to LAVENDER TOWN$"
+	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 Route10_Text_RockTunnel::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pROCK TUNNEL$"
+	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
 
 Route10_Text_PowerPlant::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pPOWER PLANT$"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 

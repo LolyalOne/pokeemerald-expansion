@@ -6,6 +6,6 @@ UndergroundPath_WestEntrance_EventScript_BaldingMan::
 	end
 
 UndergroundPath_WestEntrance_Text_SleepyMonNearCeladon::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI heard a sleepy POKéMON appeared\n"
-	.string "out near CELADON CITY, too.$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI heard a sleepy POKeMON appeared\n"
+.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!$"
 

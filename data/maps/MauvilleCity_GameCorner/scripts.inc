@@ -627,152 +627,152 @@ MauvilleCity_GameCorner_EventScript_NoCoinCase::
 	end
 
 MauvilleCity_GameCorner_Text_ThisIsMauvilleGameCorner:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pThis is MAUVILLE GAME CORNER.$"
+	.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
 
 MauvilleCity_GameCorner_Text_NeedCoinCaseForCoins:
-	.string "Okay, you wanted some COINS for\n"
-	.string "the games?\p"
-	.string "But you don't have a COIN CASE for\n"
-	.string "stowing the COINS.$"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
+.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
+.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
 
 MauvilleCity_GameCorner_Text_WereYouLookingForCoins:
-	.string "Were you looking for COINS?\p"
-	.string "It's ¥1000 for 50 COINS.\n"
-	.string "Would you like some?$"
+.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 MauvilleCity_GameCorner_Text_ThankYouHereAreYourCoins:
-	.string "Thank you very much!\n"
-	.string "Here are your COINS!$"
+.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 MauvilleCity_GameCorner_Text_DontHaveEnoughMoney:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pUm… You don't appear to have\n"
-	.string "enough money…$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pUm... You don't appear to have\n"
+.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!$"
 
 MauvilleCity_GameCorner_Text_CoinCaseIsFull:
-	.string "Oh?\n"
-	.string "Your COIN CASE is full.$"
+.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!$"
 
 MauvilleCity_GameCorner_Text_DontNeedCoinsThen:
-	.string "Oh… You don't need COINS, then?\n"
-	.string "Good luck on your adventure!$"
+.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
+	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
 
 MauvilleCity_GameCorner_Text_ExchangeCoinsForPrizes:
-	.string "Welcome.\p"
-	.string "You can exchange your COINS for\n"
-	.string "prizes here.$"
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
+.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 MauvilleCity_GameCorner_Text_WhichPrize:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWhich prize would you like?$"
+	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
 
 MauvilleCity_GameCorner_Text_SoYourChoiceIsTheTMX:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pSo your choice is\n"
-	.string "the {STR_VAR_1} {STR_VAR_2}?$"
+.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
 
 MauvilleCity_GameCorner_Text_SendToYourHomePC:
-	.string "Thank you!\n"
-	.string "We'll send it to your PC at home.$"
+.string "Parabens, Lucas! Sua jornada\napenas comecou."
+	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 MauvilleCity_GameCorner_Text_NotEnoughCoins:
-	.string "You don't have enough COINS.$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
 
 @ Unused
 MauvilleCity_GameCorner_Text_NoRoomForPlacingDecor:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThere isn't any room available for\n"
-	.string "placing {STR_VAR_1}.$"
+.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
 
 MauvilleCity_GameCorner_Text_OhIsThatSo:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh, is that so? \n"
-	.string "You need to save some COINS before\l"
-	.string "coming back here.$"
+.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
+.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
 
 MauvilleCity_GameCorner_Text_SoYourChoiceIsX:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pSo your choice is {STR_VAR_1}?$"
+	.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
 
 MauvilleCity_GameCorner_Text_HereYouGo:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHere you go!$"
+	.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 @ Unused
 MauvilleCity_GameCorner_Text_CantCarryAnyMore:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pOh, you can't carry any more than that.$"
+	.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
 
 MauvilleCity_GameCorner_Text_GotTwoOfSameDollWantOne:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI made a mistake and got two of\n"
-	.string "the same DOLLS.\p"
-	.string "Would you like one of them?$"
+.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
+.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!$"
 
 MauvilleCity_GameCorner_Text_HereYouGo2:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pHere you go!$"
+	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 
 MauvilleCity_GameCorner_Text_YouWantItButNotNow:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHuh?\n"
-	.string "You want it, but not right now?$"
+.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 MauvilleCity_GameCorner_Text_DontBeNegative:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pOh, don't be so negative!\n"
-	.string "You can have this!$"
+.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!$"
 
 MauvilleCity_GameCorner_Text_CantWinJackpot:
-	.string "There's a prize I want, but I can't win\n"
-	.string "the jackpot.$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
+	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
 
 MauvilleCity_GameCorner_Text_NeedCoinCaseGoNextDoor:
-	.string "Hey, kid, if you want to play here,\n"
-	.string "you need a COIN CASE.\p"
-	.string "I think the young lady next door\n"
-	.string "had one. Go see her!$"
+.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
+.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
+.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!"
+.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
 
 MauvilleCity_GameCorner_Text_LuckOnlyLastSoLongTakeCoins:
-	.string "My luck can only last so long.\n"
-	.string "This is too much for me.\l"
-	.string "Here, take some COINS!$"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
+.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
+	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
 
 MauvilleCity_GameCorner_Text_MauvilleSomethingForEveryone:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pMAUVILLE has something for\n"
-	.string "everyone.\p"
-	.string "For me, it's the GAME CORNER.$"
+.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
+	.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 MauvilleCity_GameCorner_Text_RouletteTablesDifferentRates:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pThe ROULETTE tables have different\n"
-	.string "rates.\p"
-	.string "Check your COINS if you're going to\n"
-	.string "pick a table.$"
+.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!"
+.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
+	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
 
 MauvilleCity_GameCorner_Text_EasyToLoseTrackOfTime:
-	.string "It's easy to lose track of time in here. \n"
-	.string "I should get back to work.$"
+.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
+	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
 
 MauvilleCity_GameCorner_Text_CoinsAreNeededToPlay:
-	.string "COINS are needed to play here\n"
-	.string "in the GAME CORNER.$"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
 
 MauvilleCity_GameCorner_Text_RouletteOnlyLuck:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThis ROULETTE thing…\n"
-	.string "It's rather demanding.\p"
-	.string "Win or lose, it's only by luck.$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThis ROULETTE thing...\n"
+.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
+	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
 
 MauvilleCity_GameCorner_Text_UpTo3CoinsCanBeUsed:
-	.string "Up to three COINS can be used to play\n"
-	.string "the SLOTS.$"
+.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 MauvilleCity_GameCorner_Text_DifficultToStopOn7:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pIt's very difficult to make it stop\n"
-	.string "right on “7.”\p"
-	.string "If it stops on “7” during the REEL TIME\n"
-	.string "bonus game, you'll receive extra COINS.$"
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 
 MauvilleCity_GameCorner_Text_HeresSomeSlotsInfo:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pHere's some information for you\n"
-	.string "about the SLOTS.\p"
-	.string "The more lightning bolts you stock,\n"
-	.string "the more REEL TIME chances you get.\p"
-	.string "In a game with the maximum five\n"
-	.string "REEL TIME chances…\p"
-	.string "It is possible to receive four regular\n"
-	.string "bonuses, then a big bonus.\p"
-	.string "That would total 660 COINS, but it's\n"
-	.string "very difficult to get.$"
+.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
+.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
+.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
+.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
+.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou."
+.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
+.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
 
 MauvilleCity_GameCorner_Text_CantPlayWithNoCoinCase:
-	.string "You can't play if you don't have\n"
-	.string "a COIN CASE.$"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!$"
 

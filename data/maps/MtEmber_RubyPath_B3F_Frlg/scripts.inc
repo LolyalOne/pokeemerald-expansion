@@ -12,5 +12,5 @@ MtEmber_RubyPath_B5F_EventScript_Ruby::
 	end
 
 MtEmber_RubyPath_B3F_Text_FoundARuby::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p{PLAYER} found a RUBY!$"
+	.string "Lucas, aproveite sua jornada! Capture todos os POKeMON hoje!$"
 

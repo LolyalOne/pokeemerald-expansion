@@ -41,38 +41,38 @@ FortreeCity_House1_EventScript_Zigzagoon::
 	end
 
 FortreeCity_House1_Text_YouWillTradeWontYou:
-	.string "Wrooooaaar! I need it!\n"
+.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
 	.string "I have to get me a {STR_VAR_1}!\l"
-	.string "I'll do anything for it!\p"
-	.string "…Uh… Did you hear that?\n"
-	.string "My shout from the bottom of my heart?\p"
-	.string "Having heard that, you will trade\n"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
+.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
+.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
 	.string "your {STR_VAR_1} for my {STR_VAR_2},\l"
-	.string "won't you?$"
+.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!$"
 
 FortreeCity_House1_Text_MonYouTakeCare:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pOh, yeah, right on!\p"
 	.string "{STR_VAR_1}, welcome!\n"
-	.string "{STR_VAR_2}, you take care!$"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
 
 FortreeCity_House1_Text_ThisIsntAMon:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pUh, no, I don't think so.\n"
-	.string "That isn't a {STR_VAR_1}.$"
+	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
 
 FortreeCity_House1_Text_YouWontTradeMe:
-	.string "No? You won't trade me?\n"
-	.string "Even after I bared my heart to you?$"
+.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 FortreeCity_House1_Text_GoingToMakeVolbeatStrong:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI'm going to make VOLBEAT super\n"
-	.string "strong from this moment on!\p"
-	.string "I hope you do the same with PLUSLE!$"
+.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
+	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
 
 FortreeCity_House1_Text_TradingMemoriesWithOthers:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pTrading POKéMON with others…\p"
-	.string "It's as if you're trading your own\n"
-	.string "memories with other people.$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pTrading POKeMON with others...\p"
+.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 FortreeCity_House1_Text_Zigzagoon:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pZIGZAGOON: Gumomoh?$"
+	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
 

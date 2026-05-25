@@ -46,45 +46,45 @@ PokemonTower_6F_EventScript_Jennifer::
 	end
 
 PokemonTower_6F_Text_AngelicaIntro::
-	.string "Give…me…\n"
-	.string "blood…$"
+.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
+.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
 
 PokemonTower_6F_Text_AngelicaDefeat::
-	.string "Groan!$"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
 
 PokemonTower_6F_Text_AngelicaPostBattle::
-	.string "I feel anemic and weak…$"
+.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
 
 PokemonTower_6F_Text_EmiliaIntro::
-	.string "Urff…\n"
-	.string "Kwaah!$"
+.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
+.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
 
 PokemonTower_6F_Text_EmiliaDefeat::
-	.string "Something fell out!$"
+.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
 
 PokemonTower_6F_Text_EmiliaPostBattle::
-	.string "My hair didn't fall out!\n"
-	.string "It was a malevolent spirit!$"
+.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 
 PokemonTower_6F_Text_JenniferIntro::
-	.string "Ke…ke…ke…\n"
-	.string "ke…ke…ke!$"
+.string "Parabens, Lucas! Sua jornada\napenas comecou."
+.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 PokemonTower_6F_Text_JenniferDefeat::
-	.string "Keee!$"
+.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!$"
 
 PokemonTower_6F_Text_JenniferPostBattle::
-	.string "What's going on here?$"
+.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
 
 PokemonTower_6F_Text_BeGoneIntruders::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pBe gone…\n"
-	.string "Intruders…$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pBe gone...\n"
+.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 PokemonTower_6F_Text_GhostWasCubonesMother::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThe ghost was the restless spirit\n"
-	.string "of CUBONE's mother!$"
+.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!$"
 
 PokemonTower_6F_Text_MothersSpiritWasCalmed::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pThe mother's spirit was calmed.\p"
-	.string "It departed to the afterlife…$"
+	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
 

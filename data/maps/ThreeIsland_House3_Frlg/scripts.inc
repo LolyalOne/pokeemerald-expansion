@@ -7,6 +7,6 @@ ThreeIsland_House3_EventScript_Beauty::
 
 ThreeIsland_House3_Text_WantedToLiveSomewhereQuiet::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI bought this house because I\n"
-	.string "wanted to live somewhere quiet.\p"
-	.string "Today, I think I'll go out fishing.$"
+.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+	.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
 

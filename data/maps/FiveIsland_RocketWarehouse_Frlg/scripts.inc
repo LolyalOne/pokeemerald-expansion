@@ -173,139 +173,139 @@ FiveIsland_RocketWarehouse_Movement_AdminWalkToSwitch::
 	step_end
 
 FiveIsland_RocketWarehouse_Text_ManyMonsLockedInPen::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThere are many POKéMON locked\n"
-	.string "away in the pen…$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThere are many POKeMON locked\n"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 
 FiveIsland_RocketWarehouse_Text_PenUnlockedMonsFled::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pThe pen door is unlocked.\n"
-	.string "The POKéMON appear to have fled.$"
+	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
 
 FiveIsland_RocketWarehouse_Text_Grunt2Intro::
-	.string "Did you come here knowing it's\n"
-	.string "TEAM ROCKET's WAREHOUSE?$"
+.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
+	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
 
 FiveIsland_RocketWarehouse_Text_Grunt2Defeat::
-	.string "What do you think you're doing?!$"
+	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
 
 FiveIsland_RocketWarehouse_Text_Grunt2PostBattle::
-	.string "TEAM ROCKET broke up?\n"
-	.string "What planet are you from?$"
+.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
+.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!$"
 
 FiveIsland_RocketWarehouse_Text_Grunt1Intro::
-	.string "Oh, now your POKéMON look strong.\n"
-	.string "You're willing to sell them?\p"
-	.string "Oh?\n"
-	.string "You wanted to battle?$"
+.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
+.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+	.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
 
 FiveIsland_RocketWarehouse_Text_Grunt1Defeat::
-	.string "Oh, but…\n"
-	.string "Too much!$"
+.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
+	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 FiveIsland_RocketWarehouse_Text_Grunt1PostBattle::
-	.string "We can give you a great price.\n"
-	.string "Sell us your POKéMON!$"
+.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
+	.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 FiveIsland_RocketWarehouse_Text_Grunt3Intro::
-	.string "I got word about you from the\n"
-	.string "others.\p"
-	.string "But there's no way a kid like you'd\n"
-	.string "know our BOSS GIOVANNI!$"
+.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
+.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
 
 FiveIsland_RocketWarehouse_Text_Grunt3Defeat::
-	.string "Don't…you…dare…laugh…$"
+	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
 
 FiveIsland_RocketWarehouse_Text_Grunt3PostBattle::
-	.string "Don't mess in the doings of adults,\n"
-	.string "you jumped-up pip-squeak!$"
+.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 FiveIsland_RocketWarehouse_Text_Admin1Intro::
-	.string "I don't know or care if what I'm\n"
-	.string "doing is right or wrong…\p"
-	.string "I just put my faith in GIOVANNI\n"
-	.string "and do as I am told.$"
+.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
+.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
+.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!$"
 
 FiveIsland_RocketWarehouse_Text_Admin1Defeat::
-	.string "I…\n"
-	.string "I'm shattered…$"
+.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
+.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!$"
 
 FiveIsland_RocketWarehouse_Text_Admin1PostBattle::
-	.string "You're doing things according to\n"
-	.string "your beliefs and morals.\p"
-	.string "I understand now…$"
+.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
+.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
+	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
 
 FiveIsland_RocketWarehouse_Text_MadeItSoYouCanComeBackThrough::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI've made it so you can come back\n"
-	.string "in through there.\p"
-	.string "Why don't you go get rested and\n"
-	.string "refreshed for what lies ahead?\p"
-	.string "The ADMIN after me outranks me\n"
-	.string "thoroughly as a TRAINER.\p"
-	.string "You'd better steel yourself for one\n"
-	.string "harsh challenge.$"
+.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
+.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
+.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
+.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
+	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
 
 FiveIsland_RocketWarehouse_Text_Admin2Intro::
-	.string "That's quite enough of you \n"
-	.string "playing the hero, kid.\p"
-	.string "Spreading lies about how TEAM\n"
-	.string "ROCKET has disbanded…\p"
-	.string "It's such an obvious attempt to\n"
-	.string "cause confusion in our ranks.\p"
-	.string "Fortunately, we're not so ignorant\n"
-	.string "to fall for the lies of a child!\p"
-	.string "And now, I'll show you how scary\n"
-	.string "an angry adult can be!$"
+.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
+.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
+.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
+.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 FiveIsland_RocketWarehouse_Text_Admin2Defeat::
-	.string "Urgh…\n"
-	.string "You were too strong…\p"
-	.string "…\n"
-	.string "Th-that's GIOVANNI's BADGE!\p"
-	.string "So it's true?\n"
-	.string "TEAM ROCKET really has disbanded?$"
+.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
+.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
+.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
+	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
 
 FiveIsland_RocketWarehouse_Text_Admin2PostBattle::
-	.string "We will abandon this WAREHOUSE…\p"
-	.string "But don't think this is over.\n"
-	.string "I won't let this be the end.\p"
-	.string "I will find GIOVANNI.\n"
-	.string "And I will resurrect TEAM ROCKET!\l"
-	.string "I will…\p"
-	.string "Until then, farewell!$"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
+.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
+.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
+.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
+.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
 
 FiveIsland_RocketWarehouse_Text_ReportWithGraphsAndText::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pA report with graphs and text is on\n"
-	.string "the PC monitor.\p"
-	.string "“The Influence of Magnetic Waves\n"
-	.string "on POKéMON Evolution”…\p"
-	.string "… … … … … …\p"
-	.string "It's too difficult to understand…$"
+.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
+.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
+.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
+.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
+.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!$"
 
 FiveIsland_RocketWarehouse_Text_GideonIntro::
-	.string "I almost managed to sell the\n"
-	.string "SAPPHIRE for huge money…\p"
-	.string "Then, you just had to come along\n"
-	.string "and blow the whole deal apart!\p"
-	.string "Fufu… Fufufufu…\n"
-	.string "There's no forgiveness for you!$"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
+.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
+.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
+.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!$"
 
 FiveIsland_RocketWarehouse_Text_GideonDefeat::
-	.string "Gah! Darn!\n"
-	.string "Darn! Darn!$"
+.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
+	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
 
 FiveIsland_RocketWarehouse_Text_GideonPostBattle::
-	.string "If I can't sell it, it's worthless!\n"
-	.string "Go ahead, take it!$"
+.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
+	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
 
 FiveIsland_RocketWarehouse_Text_GetLostLeaveMeBe::
-	.string "What do you want now?\n"
-	.string "Go on, get lost, leave me be.$"
+.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
+.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!$"
 
 FiveIsland_RocketWarehouse_Text_GiovannisKidHasRedHair::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pWhat, you again?\p"
-	.string "You… You're not GIOVANNI's kid,\n"
-	.string "are you?\p"
-	.string "No, that can't be right!\n"
-	.string "GIOVANNI's kid has red hair.\p"
-	.string "You don't have any reasons for\n"
-	.string "bugging me. Leave me alone!$"
+.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
+.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
+.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
 

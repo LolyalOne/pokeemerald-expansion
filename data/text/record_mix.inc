@@ -1,6 +1,6 @@
 Text_WouldYouLikeToMixRecords:
-	.string "Would you like to mix records with\n"
-	.string "other TRAINERS?$"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!$"
 
 Text_WeHopeToSeeYouAgain:
-	.string "We hope to see you again!$"
+	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"

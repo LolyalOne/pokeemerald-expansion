@@ -30,21 +30,21 @@ Route111_OldLadysRestStop_EventScript_DeclineRest::
 
 Route111_OldLadysRestStop_Text_RestUpHere:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pOh, dear, dear.\n"
-	.string "Aren't your POKéMON exhausted?\p"
-	.string "If you'd like, rest up here.\n"
-	.string "That's a fine idea! You should do that.$"
+.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
+.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
+	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
 
 Route111_OldLadysRestStop_Text_TakeYourTimeRestUp:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThat's right.\n"
-	.string "Take your time and rest up!$"
+.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
 
 Route111_OldLadysRestStop_Text_StillTiredTakeAnotherRest:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh, dear, dear.\n"
-	.string "Are your POKéMON still tired?\p"
-	.string "You should take another rest here.\n"
-	.string "That's a fine idea. You should do that.$"
+.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
+.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
+.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
 
 Route111_OldLadysRestStop_Text_DontNeedToBeShy:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pIs that so?\n"
-	.string "You don't need to be shy about it.$"
+.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!$"
 

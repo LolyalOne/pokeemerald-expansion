@@ -115,17 +115,17 @@ Route16_NorthEntrance_1F_EventScript_OldMan::
 
 Route16_NorthEntrance_1F_Text_NoPedestriansOnCyclingRoad::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pNo pedestrians are allowed on\n"
-	.string "CYCLING ROAD!$"
+.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!$"
 
 Route16_NorthEntrance_1F_Text_CyclingRoadIsDownhillCourse::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pCYCLING ROAD is a downhill course\n"
-	.string "by the sea. It's a great ride.$"
+	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
 
 Route16_NorthEntrance_1F_Text_ExcuseMeWaitUp::
-	.string "Excuse me!\n"
-	.string "Wait up, please!$"
+.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 Route16_NorthEntrance_1F_Text_HowdYouGetInGoodEffort::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pHow'd you get in?\n"
-	.string "Good effort!$"
+	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
 

@@ -19,16 +19,16 @@ SixIsland_EventScript_IslandSign::
 	end
 
 SixIsland_Text_IslandSign::
-	.string "SIX ISLAND\n"
-	.string "Fortune Island of Aged Wisdom$"
+.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
+	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
 
 SixIsland_Text_ThatWayToWaterPathRuinValley::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pKeep going this way and you'll get\n"
-	.string "to the WATER PATH.\p"
-	.string "Stay on that and you'll get to\n"
-	.string "the RUIN VALLEY.$"
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
+.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
+	.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
 
 SixIsland_Text_SkyAtNightIsFantastic::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWhen you're this far away from the\n"
-	.string "city, the sky at night is fantastic.$"
+.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!$"
 

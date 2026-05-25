@@ -19,16 +19,16 @@ SootopolisCity_House2_EventScript_DontKnowAboutOrbs::
 	return
 
 SootopolisCity_House2_Text_DidYouKnowAboutMtPyreOrbs:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pMT. PYRE…\p"
-	.string "At its peak are two orbs placed side\n"
-	.string "by side. Did you know?$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pMT. PYRE...\p"
+.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
 
 SootopolisCity_House2_Text_YesTwoOrbsSideBySide:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYes, two orbs side by side…\p"
-	.string "The sight of them together…\n"
-	.string "It is somehow soothing…$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYes, two orbs side by side...\p"
+.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
+	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
 
 SootopolisCity_House2_Text_OughtToVisitAndSee:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pIs that so?\n"
-	.string "Perhaps you ought to visit and see…$"
+.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!$"
 

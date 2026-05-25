@@ -33,16 +33,16 @@ VermilionCity_Mart_Items::
 	end
 
 VermilionCity_Mart_Text_TeamRocketAreWickedPeople::
-	.string "There are wicked people who will\n"
-	.string "use POKéMON for criminal acts.\p"
-	.string "TEAM ROCKET traffics in rare\n"
-	.string "POKéMON, for example.\p"
-	.string "They also abandon POKéMON that\n"
-	.string "they consider unpopular or useless.\p"
-	.string "That's the sort of horrid people\n"
-	.string "they are, TEAM ROCKET.$"
+.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
+.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
+.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
+.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
+.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
 
 VermilionCity_Mart_Text_MonsGoodOrBadDependingOnTrainer::
-	.string "I think POKéMON can be good or\n"
-	.string "bad. It depends on the TRAINER.$"
+.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 

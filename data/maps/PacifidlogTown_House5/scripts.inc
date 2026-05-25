@@ -20,17 +20,17 @@ PacifidlogTown_House5_EventScript_Gentleman::
 	end
 
 PacifidlogTown_House5_Text_CantSeeMirageIslandToday:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI can't see MIRAGE ISLAND today…$"
+	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 PacifidlogTown_House5_Text_CanSeeMirageIslandToday:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pOh! Oh my!\n"
-	.string "I can see MIRAGE ISLAND today!$"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 
 PacifidlogTown_House5_Text_MirageIslandAppearDependingOnWeather:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pMIRAGE ISLAND…\p"
-	.string "It must become visible and invisible\n"
-	.string "depending on the weather conditions\l"
-	.string "that make mirages appear.\p"
-	.string "Or is it really appearing and\n"
-	.string "disappearing?$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pMIRAGE ISLAND...\p"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
+.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
+	.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
 

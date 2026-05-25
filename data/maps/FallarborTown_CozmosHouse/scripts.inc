@@ -65,54 +65,54 @@ FallarborTown_CozmosHouse_EventScript_CozmoIsHappy::
 	end
 
 FallarborTown_CozmosHouse_Text_MeteoriteWillNeverBeMineNow:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pPROF. COZMO: Oh…\n"
-	.string "I never should have let myself be\l"
-	.string "conned into telling TEAM MAGMA where\l"
-	.string "you can find METEORITES…\p"
-	.string "That METEORITE from METEOR FALLS…\n"
-	.string "It's never going to be mine now…$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pPROF. COZMO: Oh...\n"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
+.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
+	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
 
 FallarborTown_CozmosHouse_Text_IsThatMeteoriteMayIHaveIt:
-	.string "Oh!\n"
-	.string "Hah?\p"
-	.string "That item…\p"
-	.string "Could it be?\p"
-	.string "Is it the METEORITE that TEAM MAGMA\n"
-	.string "took from METEOR FALLS?\p"
-	.string "Please, may I have it?\p"
-	.string "I'm not asking for it for free.\n"
-	.string "How about in exchange for this TM?$"
+.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
+.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
+.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
+.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!$"
 
 FallarborTown_CozmosHouse_Text_PleaseUseThisTM:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pPROF. COZMO: This TM, it represents\n"
-	.string "my feeling of gratitude.\l"
-	.string "Please use it!$"
+.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 FallarborTown_CozmosHouse_Text_ReallyGoingToHelpMyResearch:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pPROF. COZMO: Oh, I can't believe it.\n"
-	.string "This is really, really great!\p"
-	.string "This is really going to help my research!$"
+.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!$"
 
 FallarborTown_CozmosHouse_Text_CrushedWithDisappointment:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pPROF. COZMO: Oh, but…\n"
-	.string "I'm crushed with disappointment…$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pPROF. COZMO: Oh, but...\n"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
 
 FallarborTown_CozmosHouse_Text_MayIHaveMeteorite:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pPROF. COZMO: Please, may I have that\n"
-	.string "METEORITE?\p"
-	.string "I'm not asking for it for free.\n"
-	.string "How about in exchange for this TM?$"
+.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
+	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
 
 FallarborTown_CozmosHouse_Text_CozmoWentToMeteorFalls:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pPROF. COZMO went off to METEOR FALLS\n"
-	.string "on ROUTE 114 with some people from\l"
-	.string "TEAM MAGMA.$"
+.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!$"
 
 FallarborTown_CozmosHouse_Text_FeelSorryForCozmo:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pPoor PROF. COZMO…\n"
-	.string "He's so depressed… I feel sorry for him.$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pPoor PROF. COZMO...\n"
+	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
 
 FallarborTown_CozmosHouse_Text_CozmoIsSoHappy:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pLook at PROF. COZMO…\n"
-	.string "He's so happy! I think it's cute.$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pLook at PROF. COZMO...\n"
+.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
 

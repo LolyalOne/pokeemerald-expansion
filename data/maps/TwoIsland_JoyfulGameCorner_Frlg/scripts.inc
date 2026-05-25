@@ -189,115 +189,115 @@ TwoIsland_JoyfulGameCorner_EventScript_Lostelle::
 	end
 
 TwoIsland_JoyfulGameCorner_Text_WhereHasLostelleGottenTo::
-	.string "Now, where's LOSTELLE gotten to\n"
-	.string "today?\p"
-	.string "She always brings me lunch every\n"
-	.string "day right about now…$"
+.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Parabens, Lucas! Sua jornada\napenas comecou."
+	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
 
 TwoIsland_JoyfulGameCorner_Text_PleaseHelpFindLostelle::
-	.string "Hm? You, there!\n"
-	.string "Are you a friend of LOSTELLE's?\p"
-	.string "Have you seen LOSTELLE around?\n"
-	.string "I don't know where she might be.\l"
-	.string "She should've been here long ago.\p"
-	.string "LOSTELLE's a cutie - she got my\n"
-	.string "looks - so what if someone…\p"
-	.string "What if something's happened to\n"
-	.string "my LOSTELLE?!\p"
-	.string "Please, help me find her!\n"
-	.string "Please go search THREE ISLAND!$"
+.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
+.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
+.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
+.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
+.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
+.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
+.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
+.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
 
 TwoIsland_JoyfulGameCorner_Text_IsThisOnlyThreeIsland::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pHah? What is this GAME CORNER?\n"
-	.string "How much sadder can this get?\p"
-	.string "Those clowns…\p"
-	.string "They said they'd be waiting on the\n"
-	.string "island, so where are they?\p"
-	.string "Hey, you! Is this the only THREE\n"
-	.string "ISLAND around here?$"
+.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
+.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
+.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
+.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
+	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 
 TwoIsland_JoyfulGameCorner_Text_ThisIsTwoIslandMoveIt::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pTry waking up before you crawl out\n"
-	.string "of bed, you punk.\p"
-	.string "This is TWO ISLAND!\p"
-	.string "Move it! Get your filthy motorbike\n"
-	.string "out of my place!$"
+.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
+.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
+.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
+	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
 
 TwoIsland_JoyfulGameCorner_Text_TheseIslandsAreConfusing::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHuh…\n"
-	.string "Oh, oh, gotcha.\p"
-	.string "Tch…\n"
-	.string "These islands are confusing…$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHuh...\n"
+.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
 
 TwoIsland_JoyfulGameCorner_Text_PunkScuffedUpMyFloor::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pWould you look at that?\n"
-	.string "That punk scuffed up my floor.$"
+	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
 
 TwoIsland_JoyfulGameCorner_Text_PleaseGoToThreeIsland::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pHey, but listen! I'm begging you,\n"
-	.string "you have to go to THREE ISLAND.\p"
-	.string "If anything were to happen to my\n"
-	.string "LOSTELLE…\p"
-	.string "My place is the house with the red\n"
-	.string "roof on THREE ISLAND.\p"
-	.string "She may just show up late here,\n"
-	.string "so I can't run off anywhere.\p"
-	.string "That's why I have to get you to do\n"
-	.string "me this big favor.$"
+.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
+.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
+.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
+.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
+.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!$"
 
 TwoIsland_JoyfulGameCorner_Text_NotRunningAnyGamesToday::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI'm sorry.\n"
-	.string "We're not running any games today.$"
+.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
 
 TwoIsland_JoyfulGameCorner_Text_GetGamesGoingSoon::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWe'll get the games going soon\n"
-	.string "for you!$"
+	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 TwoIsland_JoyfulGameCorner_Text_YouRescuedLostelle::
-	.string "So you rescued LOSTELLE?\n"
-	.string "How can I thank you?\p"
-	.string "LOSTELLE, darling, forgive me!\p"
-	.string "Daddy didn't know you were scared\n"
-	.string "and in trouble!$"
+.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
+.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
+.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
+	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
 
 TwoIsland_JoyfulGameCorner_Text_LostelleItsOkayDaddy::
-	.string "LOSTELLE: It's okay, Daddy.\n"
-	.string "I got to be friends with {PLAYER}!$"
+.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
+.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 TwoIsland_JoyfulGameCorner_Text_ThisIsForMe::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pOh, what's that?\n"
-	.string "You're saying that this is for me?\p"
-	.string "How did you know that I love rare\n"
-	.string "rocks and gems?\p"
-	.string "You sure know how to make a guy\n"
-	.string "happy.$"
+.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
+.string "Parabens, Lucas! Sua jornada\napenas comecou."
+.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
+.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!"
+.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!$"
 
 TwoIsland_JoyfulGameCorner_Text_HandedMeteoriteToLostellesDaddy::
 	.string "{PLAYER} handed the METEORITE\n"
-	.string "to LOSTELLE's daddy.$"
+	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
 
 TwoIsland_JoyfulGameCorner_Text_OhThisIsFromBill::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pOh, I see, this is from BILL!\n"
-	.string "You have to thank him for me!\p"
-	.string "You know, you've been fantastic.\n"
-	.string "I want you to have this.$"
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
+.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
+.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
 
 TwoIsland_JoyfulGameCorner_Text_ReceivedMoonStoneFromLostellesDaddy::
 	.string "{PLAYER} received a MOON STONE\n"
-	.string "from LOSTELLE's daddy.$"
+	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
 
 TwoIsland_JoyfulGameCorner_Text_NotGoingToFitInBag::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYour BAG's not going to fit another\n"
-	.string "thing…$"
+.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
 
 TwoIsland_JoyfulGameCorner_Text_IllGetGameCornerRunning::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pAll right, I'll get the GAME CORNER\n"
-	.string "running right away.\p"
-	.string "You have to come visit with a\n"
-	.string "friend.$"
+.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
+.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
 
 TwoIsland_JoyfulGameCorner_Text_PleaseShowMeYouBeingCool::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pListen, listen!\p"
-	.string "Please show me you being cool\n"
-	.string "again!$"
+.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
+	.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
 

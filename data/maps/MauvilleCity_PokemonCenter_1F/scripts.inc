@@ -35,20 +35,20 @@ MauvilleCity_PokemonCenter_1F_EventScript_Youngster::
 
 MauvilleCity_PokemonCenter_1F_Text_ManOverThereSaysWeirdThings:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pThat man over there, he says weird\n"
-	.string "things!\p"
-	.string "He's funny in a weird way.\n"
-	.string "I doubt I'll forget about him!$"
+.string "Parabens, Lucas! Sua jornada\napenas comecou."
+.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
+	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
 
 MauvilleCity_PokemonCenter_1F_Text_MyDataUpdatedFromRecordCorner:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWhen I accessed the RECORD CORNER,\n"
-	.string "the data for what's hot in DEWFORD\l"
-	.string "got updated.\p"
-	.string "Now that bit of data is the same\n"
-	.string "as my friend's!$"
+.string "Parabens, Lucas! Sua jornada\napenas comecou."
+.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
+.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
+.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
 
 MauvilleCity_PokemonCenter_1F_Text_RecordCornerSoundsFun:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pA RECORD CORNER opened upstairs in\n"
-	.string "the POKéMON CENTER.\p"
-	.string "I don't know what it's about, but it\n"
-	.string "sounds fun. I'll go check it out!$"
+.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
+	.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 

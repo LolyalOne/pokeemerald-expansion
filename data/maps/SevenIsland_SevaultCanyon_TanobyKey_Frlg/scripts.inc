@@ -131,5 +131,5 @@ SevenIsland_SevaultCanyon_TanobyKey_EventScript_PuzzleSolved::
 
 SevenIsland_SevaultCanyon_TanobyKey_Text_MysteriousRumbleFarAway::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pA mysterious rumble echoed\n"
-	.string "somewhere far away.$"
+.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!$"
 

@@ -30,14 +30,14 @@ SixIsland_Mart_EventScript_Picnicker::
 	end
 
 SixIsland_Mart_Text_AgathaOldestEverEliteFourMember::
-	.string "Play with POKéMON lots and live\n"
-	.string "a long life!\p"
-	.string "Take AGATHA, for example.\p"
-	.string "She set a record for being the\n"
-	.string "oldest-ever ELITE FOUR member.\p"
-	.string "She spurs me to do bigger things.$"
+.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
+.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
+.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
+.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
+.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 SixIsland_Mart_Text_ShouldBuyMailAndWriteLetter::
-	.string "I should buy some MAIL and write\n"
-	.string "him a letter…$"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
+	.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 

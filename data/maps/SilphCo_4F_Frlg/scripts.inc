@@ -41,46 +41,46 @@ SilphCo_4F_EventScript_Grunt2::
 
 SilphCo_4F_Text_CantYouSeeImHiding::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pSssh!\n"
-	.string "Can't you see I'm hiding?$"
+.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!$"
 
 SilphCo_4F_Text_TeamRocketIsGone::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pHuh?\n"
-	.string "TEAM ROCKET is gone?$"
+.string "Lucas, voce e o melhor! Sua\njornada apenas comecou.$"
 
 SilphCo_4F_Text_Grunt1Intro::
-	.string "TEAM ROCKET has taken control\n"
-	.string "of SILPH CO.!$"
+.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
+	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
 
 SilphCo_4F_Text_Grunt1Defeat::
-	.string "Arrgh!$"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 SilphCo_4F_Text_Grunt1PostBattle::
-	.string "Fwahahaha!\n"
-	.string "My BOSS has been after this place!$"
+.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
 
 SilphCo_4F_Text_RodneyIntro::
-	.string "My POKéMON is my loyal servant.$"
+	.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 SilphCo_4F_Text_RodneyDefeat::
-	.string "Darn!\n"
-	.string "You weak POKéMON!$"
+.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
+.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
 
 SilphCo_4F_Text_RodneyPostBattle::
-	.string "The doors are electronically\n"
-	.string "locked.\p"
-	.string "It takes a CARD KEY to open the\n"
-	.string "doors here.$"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
+.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!"
+.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
+	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
 
 SilphCo_4F_Text_Grunt2Intro::
-	.string "Intruder spotted!$"
+	.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
 
 SilphCo_4F_Text_Grunt2Defeat::
-	.string "Who are you?$"
+	.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 SilphCo_4F_Text_Grunt2PostBattle::
-	.string "I better tell the BOSS on 11F!$"
+.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!$"
 
 SilphCo_4F_Text_FloorSign::
-	.string "SILPH CO. HEAD OFFICE\n"
-	.string "4F$"
+.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!"
+.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!$"
 

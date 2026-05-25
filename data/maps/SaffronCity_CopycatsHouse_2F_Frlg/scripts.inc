@@ -46,74 +46,74 @@ SaffronCity_CopycatsHouse_2F_EventScript_Game::
 
 SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyMale::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p{PLAYER}: Hi!\n"
-	.string "Do you like POKéMON?\p"
+.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
 	.string "{PLAYER}: Uh, no, I just asked you.\p"
 	.string "{PLAYER}: Huh?\n"
-	.string "You're strange!\p"
-	.string "COPYCAT: Hmm? Quit mimicking?\n"
-	.string "But, that's my favorite hobby!$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
+.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
+	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
 
 SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyFemale::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p{PLAYER}: Hi.\n"
-	.string "You must like POKéMON.\p"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
 	.string "{PLAYER}: No, not me.\n"
-	.string "I asked you.\p"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
 	.string "{PLAYER}: Pardon?\n"
-	.string "You're weird!\l"
-	.string " \l"
-	.string "COPYCAT: Hmm? Quit mimicking?\l"
-	.string "But that's my favorite hobby!$"
+.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
+.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
+.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
+	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
 
 Text_MimicTeach::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pOh wow!\n"
-	.string "A POKé DOLL!\p"
-	.string "For me?\n"
-	.string "Thank you!\p"
-	.string "You know what?\n"
-	.string "I can teach the move MIMIC.$"
+.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
+.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
 
 Text_MimicDeclined::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pDon't you like MIMIC?$"
+	.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
 
 Text_MimicWhichMon::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI really love MIMIC!\n"
-	.string "Who's going to learn it?$"
+	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 Text_MimicTaughtMale::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p{PLAYER}: Hi!\n"
-	.string "Thanks for earlier!\p"
+.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
 	.string "{PLAYER}: Pardon?\p"
 	.string "{PLAYER}: Is it that fun to mimic my\n"
-	.string "every move?\p"
-	.string "COPYCAT: You bet!\n"
-	.string "It's a scream!$"
+.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
+.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
+	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
 
 Text_MimicTaughtFemale::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p{PLAYER}: Hi!\n"
-	.string "Thanks for what you did for us.\p"
+.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
 	.string "{PLAYER}: Pardon?\p"
 	.string "{PLAYER}: Is it really that fun to\n"
-	.string "copy what I say and do?\p"
-	.string "COPYCAT: You bet!\n"
-	.string "It's a scream!$"
+.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 
 SaffronCity_CopycatsHouse_2F_Text_Doduo::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pDODUO: Giiih!\p"
-	.string "PRETTY MIRROR LOOK AT ME,\n"
-	.string "SEE HOW PRETTY I CAN BE?$"
+.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
+.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 SaffronCity_CopycatsHouse_2F_Text_RareMonOnlyDoll::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pThis is a rare POKéMON!\n"
-	.string "Huh? It's only a doll!$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pThis is a rare POKeMON!\n"
+.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!$"
 
 SaffronCity_CopycatsHouse_2F_Text_MarioWearingABucket::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pA game with MARIO wearing a bucket\n"
-	.string "on his head!$"
+	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
 
 SaffronCity_CopycatsHouse_2F_Text_MySecrets::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p…\p"
-	.string "My Secrets!\p"
-	.string "Skill: Mimicry!\n"
-	.string "Hobby: Collecting dolls!\l"
-	.string "Favorite POKéMON: CLEFAIRY!$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p...\p"
+.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
+.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
+.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
+.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
 

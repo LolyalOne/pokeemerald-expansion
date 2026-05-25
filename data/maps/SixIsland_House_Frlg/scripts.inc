@@ -7,8 +7,8 @@ SixIsland_House_EventScript_OldMan::
 
 SixIsland_House_Text_GoodPlaceForNatureAndHistory::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThere's nothing that young people'd\n"
-	.string "find exciting here on this island.\p"
-	.string "But, this is a good place in terms\n"
-	.string "of nature and history.\p"
-	.string "Relax and enjoy your stay.$"
+.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
+.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
+.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!"
+.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!$"
 

@@ -12,25 +12,25 @@ SSAnne_B1F_Room4_EventScript_Duncan::
 	end
 
 SSAnne_B1F_Room4_Text_LeonardIntro::
-	.string "You know what they say about\n"
-	.string "sailors and battling!$"
+.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
+	.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 SSAnne_B1F_Room4_Text_LeonardDefeat::
-	.string "Right!\n"
-	.string "Good battle, mate!$"
+.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
+.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!$"
 
 SSAnne_B1F_Room4_Text_LeonardPostBattle::
-	.string "Hahaha!\n"
-	.string "Want to be a sailor, mate?$"
+.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
+.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!$"
 
 SSAnne_B1F_Room4_Text_DuncanIntro::
-	.string "Come on, then!\n"
-	.string "My sailor's pride is at stake!$"
+.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
+	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 
 SSAnne_B1F_Room4_Text_DuncanDefeat::
-	.string "Your spirit sank me!$"
+	.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
 
 SSAnne_B1F_Room4_Text_DuncanPostBattle::
-	.string "Did you see the FISHING GURU in\n"
-	.string "VERMILION CITY?$"
+.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
+	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
 

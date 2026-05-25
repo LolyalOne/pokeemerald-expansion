@@ -15,10 +15,10 @@ ThreeIsland_House1_EventScript_DisplayCase::
 
 ThreeIsland_House1_Text_YoureAlwaysSoCool::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pLOSTELLE: Hi, {PLAYER}!\n"
-	.string "You're always so cool!\p"
-	.string "I'll make lunch for you, too, one\n"
-	.string "day, {PLAYER}.$"
+.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
+.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!$"
 
 ThreeIsland_House1_Text_RareRocksGemsDisplayed::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pRare rocks and gems are displayed.$"
+.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
 

@@ -82,23 +82,23 @@ SevenIsland_SevaultCanyon_House_EventScript_Chansey::
 
 SevenIsland_SevaultCanyon_House_Text_ChanseyDanceJoinIn::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pDance, dance!\n"
-	.string "CHANSEY Dance!\p"
-	.string "You join in, too!\n"
-	.string "Dance, dance!$"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!$"
 
 SevenIsland_SevaultCanyon_House_Text_WouldYouLikeToDance::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pWould you like to dance?$"
+	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
 
 SevenIsland_SevaultCanyon_House_Text_ComeOnDance::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pCome on, dance!$"
+	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
 
 SevenIsland_SevaultCanyon_House_Text_DancedChanseyDance::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\p{PLAYER} danced the CHANSEY Dance!$"
+	.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 SevenIsland_SevaultCanyon_House_Text_YoureAllChipperNow::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pAhahahaha!\p"
-	.string "There, you're all chipper now!\n"
-	.string "Lucky!$"
+.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
+	.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
 
 SevenIsland_SevaultCanyon_House_Text_Chansey::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pCHANSEY: Chansi! Chansi!$"
+	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"

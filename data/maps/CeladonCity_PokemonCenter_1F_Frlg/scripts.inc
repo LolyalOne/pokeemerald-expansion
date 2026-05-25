@@ -27,17 +27,17 @@ CeladonCity_PokemonCenter_1F_EventScript_Youngster::
 	end
 
 CeladonCity_PokemonCenter_1F_Text_PokeFluteAwakensSleepingMons::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pA POKé FLUTE awakens sleeping\n"
-	.string "POKéMON. You know that.\p"
-	.string "It does so with a sound that only\n"
-	.string "they can hear.$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pA POKe FLUTE awakens sleeping\n"
+.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
+.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+	.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 CeladonCity_PokemonCenter_1F_Text_RodeHereFromFuchsia::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pI rode here from FUCHSIA.\p"
-	.string "It's an uphill ride on CYCLING\n"
-	.string "ROAD, so I'm exhausted.$"
+.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
+.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!$"
 
 CeladonCity_PokemonCenter_1F_Text_GoToCyclingRoadIfIHadBike::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pIf I had a BIKE, I would go to\n"
-	.string "CYCLING ROAD!$"
+.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
 

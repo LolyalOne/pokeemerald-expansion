@@ -245,56 +245,56 @@ Route118_EventScript_Deandre::
 
 Route118_Text_StevenQuestions:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pSTEVEN: Hi, {PLAYER}{KUN}!\p"
-	.string "It's me, STEVEN!\n"
-	.string "We met in the cave near DEWFORD.\p"
-	.string "Have you met many kinds of POKéMON\n"
-	.string "since I last saw you?\p"
-	.string "There are many, many kinds of POKéMON\n"
-	.string "in this wide world of ours.\p"
-	.string "If you wanted to raise only your\n"
-	.string "favorites, that's fine.\p"
-	.string "Perhaps you find it more fun to raise\n"
-	.string "all sorts of POKéMON.\p"
-	.string "As a TRAINER of POKéMON,\n"
-	.string "what do you think?\p"
-	.string "Of course, it's not any of my business.\p"
-	.string "It would be nice if we were to meet\n"
-	.string "again somewhere.$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
+.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
+.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
+.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
+.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!"
+.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
+.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
+.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
+	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
 
 Route118_Text_YouAgreeGoodRodIsGood:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pHmm!\n"
-	.string "A GOOD ROD is really good!\p"
-	.string "Wouldn't you agree?$"
+.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
+	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
 
 Route118_Text_IdenticalMindsTakeThis:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pHmm!\n"
-	.string "We're of identical minds!\p"
-	.string "Hmm!\n"
-	.string "Take this GOOD ROD!$"
+.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!"
+.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!$"
 
 Route118_Text_TryYourLuckFishing:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWherever there's water, try your luck\n"
-	.string "at fishing.$"
+.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!$"
 
 Route118_Text_DontYouLikeToFish:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pDon't you like to fish?$"
+.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!$"
 
 Route118_Text_TryCatchingMonWithGoodRod:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pTry catching all sorts of POKéMON\n"
-	.string "with your GOOD ROD.$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pTry catching all sorts of POKeMON\n"
+	.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 Route118_Text_CanCrossRiversWithSurf:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pEven if there isn't a boat, you can\n"
-	.string "cross rivers and the sea if you have\l"
-	.string "a POKéMON that knows SURF.\p"
-	.string "POKéMON can be counted on to do so\n"
-	.string "much!$"
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
+.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
+.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 Route118_Text_RouteSignMauville:
-	.string "ROUTE 118\n"
-	.string "{LEFT_ARROW} MAUVILLE CITY$"
+.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
+	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
 
 Route118_Text_RouteSign119:
-	.string "ROUTE 118\n"
-	.string "{UP_ARROW} ROUTE 119$"
+.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!"
+.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!$"
 

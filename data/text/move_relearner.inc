@@ -1,58 +1,58 @@
 MoveRelearner_Text_WouldLearnNewMoves:
-	.string "Hi, I'm the Move Relearner.\n"
-	.string "Would you like to learn new moves?$"
+.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
+	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
 
 MoveRelearner_Text_LevelUpMoves:
-	.string "Level Up Moves$"
+	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
 
 MoveRelearner_Text_EggMoves:
-	.string "Egg Moves$"
+	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
 
 MoveRelearner_Text_TMMoves:
-	.string "TM Moves$"
+	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 MoveRelearner_Text_TutormoveMoves:
-	.string "Tutor Moves$"
+.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!$"
 
 MoveRelearner_Text_SeeYa:
-	.string "See ya!$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
 
 MoveRelearner_Text_AnythingElse:
-	.string "Is there anything else I may do for you?$"
+	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
 
 MoveRelearner_Text_ChoosePkmn:
-	.string "Please choose your Pokémon.$"
+	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
 
 MoveRelearner_Text_HaveNoPkmn:
-	.string "You have no Pokémon.$"
+	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
 
 MoveRelearner_Text_CantTeachMoveToEgg:
-	.string "Sorry…\n"
-	.string "But an Egg can't learn moves.$"
+.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
+	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 MoveRelearner_Text_CantTeachMoveToPkmn:
-	.string "Sorry…\p"
-	.string "It doesn't appear as if I have any move\n"
-	.string "I can teach that Pokémon.$"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
+.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
+	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
 
 MoveRelearner_Text_LevelUpMoveLWR::
-	.string "level up move$"
+.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
 
 MoveRelearner_Text_EggMoveLWR::
-	.string "egg move$"
+.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
 
 MoveRelearner_Text_TMMoveLWR::
-	.string "TM move$"
+.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!$"
 
 MoveRelearner_Text_TutorMoveLWR::
-	.string "tutor move$"
+.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!$"
 
 MoveRelearner_Text_MoveLWR::
-	.string "move$"
+.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!$"
 
 MoveRelearner_Text_WhichXmoveShouldTeach:
-	.string "Which {STR_VAR_3} should I teach?$"
+	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
 
 MoveRelearner_Text_ThankYouComeAgain:
-	.string "Thank you for using our services.\n"
-	.string "Please come again!$"
+.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
+.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!$"

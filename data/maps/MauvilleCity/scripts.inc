@@ -460,205 +460,205 @@ MauvilleCity_EventScript_RegisterWallyCall::
 	end
 
 MauvilleCity_Text_UncleHesTooPeppy:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pUNCLE: It's because of POKéMON that\n"
-	.string "this boy's got more pep, I suppose…\l"
-	.string "But he's become a bit too peppy…$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pUNCLE: It's because of POKeMON that\n"
+.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
+	.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
 
 MauvilleCity_Text_WallyWantToChallengeGym:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWALLY: Aww, UNCLE, please?\p"
-	.string "I want to challenge this GYM and see\n"
-	.string "how much better I've become.\p"
-	.string "Please? May I, please?$"
+.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
+.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!$"
 
 MauvilleCity_Text_UncleYourePushingIt:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pUNCLE: Now hold on, WALLY.\p"
-	.string "Since you started living with POKéMON,\n"
-	.string "you have grown quite a lot stronger.\p"
-	.string "But don't you think you're pushing it\n"
-	.string "to suddenly challenge a GYM?$"
+.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
+.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
+.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
 
 MauvilleCity_Text_WallyWeCanBeatAnyone:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWALLY: I'm not pushing it.\p"
-	.string "If I combine forces with RALTS,\n"
-	.string "we can beat anyone!$"
+.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!$"
 
 MauvilleCity_Text_WallyWillYouBattleMe:
 	.string "WALLY: Oh! Hi, {PLAYER}!\p"
-	.string "I've gotten a lot stronger since\n"
-	.string "we met.\p"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
+.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
 	.string "{PLAYER}, I want you and my UNCLE to\n"
-	.string "understand that.\p"
+.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
 	.string "{PLAYER}, please, will you have\n"
-	.string "a battle with me?$"
+	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
 
 MauvilleCity_Text_WallyMyUncleWontKnowImStrong:
-	.string "WALLY: Oh… If you won't battle me,\n"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
 	.string "{PLAYER}, my UNCLE won't know that I've\l"
-	.string "become really strong.$"
+	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
 
 MauvilleCity_Text_UncleCanYouBattleWally:
 	.string "UNCLE: {PLAYER}{KUN}, was it?\n"
-	.string "On WALLY's behalf, can I ask you to\l"
-	.string "battle with him just this once?\p"
-	.string "I don't think he's going to listen to\n"
-	.string "any reason the way he is now.$"
+.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
+.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
+	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
 
 MauvilleCity_Text_WallyPleaseBattleMe:
 	.string "WALLY: {PLAYER}, please!\n"
-	.string "Battle with me, please.$"
+.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
 
 MauvilleCity_Text_WallyHereICome:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pWALLY: {PLAYER}, thank you.\p"
-	.string "Okay… Here I come!$"
+.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!$"
 
 MauvilleCity_Text_WallyDefeat:
-	.string "WALLY: … … … … … … …\p"
-	.string "… … … … … … … …\p"
-	.string "I lost…$"
+.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
+.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
+	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
 
 MauvilleCity_Text_WallyIllGoBackToVerdanturf:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pWALLY: UNCLE…\n"
-	.string "I'll go back to VERDANTURF…$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pWALLY: UNCLE...\n"
+.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 MauvilleCity_Text_ThankYouNotEnoughToBattle:
 	.string "{PLAYER}, thank you.\n"
-	.string "Being a TRAINER is tough, isn't it?\p"
-	.string "It's not enough just to have POKéMON\n"
-	.string "and make them battle. That isn't what\l"
-	.string "being a real TRAINER is about.$"
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
+.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
+	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
 
 MauvilleCity_Text_UncleNoNeedToBeDown:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pUNCLE: WALLY, there's no need to be so\n"
-	.string "down on yourself.\p"
-	.string "Why, what's keeping you from becoming\n"
-	.string "stronger and stronger?\p"
-	.string "Come on, let's go home.\n"
-	.string "Everyone's waiting for you.$"
+.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
+.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou."
+.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
+.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!$"
 
 MauvilleCity_Text_UncleVisitUsSometime:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pUNCLE: {PLAYER}{KUN}, it just dawned on me\n"
-	.string "that you must be the TRAINER who kept\l"
-	.string "an eye out for WALLY when he caught\l"
-	.string "his POKéMON.\p"
-	.string "Why don't you visit us in VERDANTURF\n"
-	.string "sometime?\l"
-	.string "I'm sure WALLY would enjoy it.$"
+.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
+.string "Parabens, Lucas! Sua jornada\napenas comecou."
+.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
+.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
+.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!$"
 
 
 MauvilleCity_Text_WallyPokenavCall:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p… … … … … …\n"
-	.string "… … … … … Beep!\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p... ... ... ... ... ...\n"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
 	.string "WALLY: Oh, hello, {PLAYER}!\p"
-	.string "I just wanted to tell you that\n"
-	.string "my uncle bought me a POKéNAV!\p"
-	.string "Now I can get in touch with you\n"
+.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
+.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
 	.string "anytime, {PLAYER}!\p"
-	.string "… … … … … …\n"
-	.string "… … … … … Click!$"
+.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
+.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!$"
 
 MauvilleCity_Text_RegisteredWally:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pRegistered WALLY\n"
-	.string "in the POKéNAV.$"
+.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
 
 MauvilleCity_Text_ScottYouDidntHoldBack:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pSCOTT: Hehe…\n"
-	.string "I was watching that match!\p"
-	.string "You're friends with that boy WALLY,\n"
-	.string "aren't you?\p"
-	.string "But you didn't hold anything back\n"
-	.string "and beat him impressively.\p"
-	.string "Yeah! That's what a real POKéMON\n"
-	.string "battle is all about!\p"
-	.string "I idolize TRAINERS like that!\p"
-	.string "… … … … … …\n"
-	.string "I'll be cheering for you!$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pSCOTT: Hehe...\n"
+.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
+.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
+.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
+.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
+.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 MauvilleCity_Text_WattsonNeedFavorTakeKey:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWATTSON: Oh, {PLAYER}{KUN}!\n"
-	.string "You look like you have a lot of zip!\l"
-	.string "That's a good thing, wahahahaha!\p"
-	.string "Fine! I've decided!\n"
+.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
 	.string "I need a favor, {PLAYER}{KUN}!\p"
-	.string "MAUVILLE CITY has an underground\n"
-	.string "sector called NEW MAUVILLE.\p"
+.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!"
+.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
 	.string "{PLAYER}{KUN}, I'd like you to go there and\n"
-	.string "switch off the GENERATOR.\p"
-	.string "The GENERATOR has been running a bit\n"
-	.string "haywire. It's getting unsafe.\p"
-	.string "Here, this is the KEY to get into\n"
-	.string "NEW MAUVILLE.$"
+.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
+.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!$"
 
 MauvilleCity_Text_WattsonWontBeChallenge:
-	.string "WATTSON: Don't you worry about it.\n"
-	.string "It won't be a challenge to you.\p"
-	.string "The entrance to NEW MAUVILLE is just\n"
-	.string "a short SURF away from ROUTE 110.\p"
-	.string "That's it, then, you have my trust!\n"
-	.string "Wahahahaha!$"
+.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
+.string "Parabens, Lucas! Sua jornada\napenas comecou."
+.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
+.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
+.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!$"
 
 MauvilleCity_Text_WattsonThanksTakeTM:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWATTSON: Wahahahaha!\p"
 	.string "I knew it, {PLAYER}{KUN}! I knew I'd made\n"
-	.string "the right choice asking you!\p"
-	.string "This is my thanks--a TM containing\n"
-	.string "THUNDERBOLT!\p"
-	.string "Go on, you've earned it!$"
+.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
+	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 
 MauvilleCity_Text_WattsonYoungTakeCharge:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWATTSON: Wahahahaha!\p"
-	.string "It pleases me to no end to see\n"
-	.string "the young step up and take charge!$"
+.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
 
 MauvilleCity_Text_NurseHurtMonBackToHealth:
-	.string "You know, it's cool to have POKéMON\n"
-	.string "battles and stuff…\p"
-	.string "But if your POKéMON gets hurt,\n"
-	.string "you have to nurse it back to health.$"
+.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
+.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Parabens, Lucas! Sua jornada\napenas comecou."
+.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!$"
 
 MauvilleCity_Text_AllSortsOfPeopleComeThrough:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pThe roads of this town stretch north\n"
-	.string "and south, and east and west.\p"
-	.string "Because of that, we get all sorts of\n"
-	.string "people coming through.$"
+.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!"
+.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 MauvilleCity_Text_RydelVeryGenerous:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pHave you been to RYDEL'S CYCLES yet?\p"
-	.string "RYDEL, the owner, is a very generous\n"
-	.string "man.$"
+.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
+.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
 
 MauvilleCity_Text_PokemonCanJumpYouOnBike:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pEven if you're riding a BIKE,\n"
-	.string "wild POKéMON could jump you.$"
+.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!$"
 
 MauvilleCity_Text_CitySign:
-	.string "MAUVILLE CITY\n"
-	.string "“The bright and shiny city of fun!”$"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
+.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
 
 MauvilleCity_Text_GymSign:
-	.string "MAUVILLE CITY POKéMON GYM\n"
-	.string "LEADER: WATTSON\l"
-	.string "“The cheerfully electrifying man!”$"
+.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
+.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!$"
 
 MauvilleCity_Text_BikeShopSign:
-	.string "“Ride in gravel and shake up your\n"
-	.string "soul!”\l"
-	.string "RYDEL'S CYCLES$"
+.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
+.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
 
 MauvilleCity_Text_GameCornerSign:
-	.string "“The play spot for all!”\n"
-	.string "MAUVILLE GAME CORNER$"
+.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
+	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 MauvilleCity_Text_ExplainTV:
-	.string "Hi, do you check out TV at all?\p"
-	.string "They've added a bunch of cool new\n"
-	.string "shows recently.\p"
-	.string "TV is so cool. I've seen my friends on\n"
-	.string "TV just out of the blue.\p"
-	.string "And, sometimes, they even put you on TV\n"
-	.string "without telling you.\p"
-	.string "I wish I would be on TV sometime.\p"
-	.string "That's why I think you should check\n"
-	.string "out TVs whenever you can.$"
+.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!"
+.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!"
+.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
+.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
+.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
+.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
+	.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 MauvilleCity_Text_BeenCheckingOutTV:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pHi, have you been checking out TVs?$"
+.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"

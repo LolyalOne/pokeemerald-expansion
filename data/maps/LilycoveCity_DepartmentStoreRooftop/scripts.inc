@@ -186,34 +186,34 @@ LilycoveCity_DepartmentStoreRooftop_EventScript_ExitVendingMachine::
 
 LilycoveCity_DepartmentStoreRooftop_Text_SetDatesForClearOutSales:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pDon't they have set dates for their\n"
-	.string "clear-out sales?\p"
-	.string "I watch TV, but they never show any\n"
-	.string "commercials.$"
+.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
+.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
+.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 LilycoveCity_DepartmentStoreRooftop_Text_BeenWaitingForClearOutSale:
-	.string "Yes! I've been waiting a long time for\n"
-	.string "this clear-out sale.\p"
-	.string "They have items that you can only get\n"
-	.string "here. I'm going to load up, that I am!$"
+.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
+.string "Parabens, Lucas! Sua jornada\napenas comecou."
+.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
+.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
 
 LilycoveCity_DepartmentStoreRooftop_Text_BoneDryThirsty:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOhh… I'm bone-dry thirsty!$"
+.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
 
 LilycoveCity_DepartmentStoreRooftop_Text_WhichDrinkWouldYouLike:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pIt's a VENDING MACHINE.\n"
-	.string "Which drink would you like?$"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!$"
 
 LilycoveCity_DepartmentStoreRooftop_Text_CanOfDrinkDroppedDown:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pClang!\p"
-	.string "A can of {STR_VAR_1} dropped down.$"
+	.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
 
 LilycoveCity_DepartmentStoreRooftop_Text_ExtraCanOfDrinkDroppedDown:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pClang!\p"
 	.string "Score! An extra can of {STR_VAR_1}\n"
-	.string "dropped down!$"
+	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 LilycoveCity_DepartmentStoreRooftop_Text_NotEnoughMoney:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pNot enough money…$"
+	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
 
 LilycoveCity_DepartmentStoreRooftop_Text_DecidedAgainstBuyingDrink:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pDecided against buying a drink.$"
+.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"

@@ -27,20 +27,20 @@ ViridianCity_PokemonCenter_1F_EventScript_Youngster::
 	end
 
 ViridianCity_PokemonCenter_1F_Text_FeelFreeToUsePC::
-	.string "Please feel free to use that PC in\n"
-	.string "the corner.\p"
-	.string "The receptionist told me so.\n"
-	.string "It's so kind of her!$"
+.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
+.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
+.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
+.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
 
 ViridianCity_PokemonCenter_1F_Text_PokeCenterInEveryTown::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pThere's a POKéMON CENTER in every\n"
-	.string "town ahead.\p"
-	.string "They charge no money, so don't\n"
-	.string "be shy about healing POKéMON.$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pThere's a POKeMON CENTER in every\n"
+.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
+.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
+.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
 
 ViridianCity_PokemonCenter_1F_Text_PokeCentersHealMons::
-	.string "POKéMON CENTERS heal your tired,\n"
-	.string "hurt, or fainted POKéMON.\p"
-	.string "They make all POKéMON completely\n"
-	.string "healthy.$"
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
+.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
+	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 

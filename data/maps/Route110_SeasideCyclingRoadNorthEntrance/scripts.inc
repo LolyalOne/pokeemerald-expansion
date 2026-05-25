@@ -54,12 +54,12 @@ Route110_SeasideCyclingRoadNorthEntrance_EventScript_ClearCyclingRoad::
 
 Route110_SeasideCyclingRoadNorthEntrance_Text_GoAllOutOnCyclingRoad:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pOn CYCLING ROAD, you can go all out\n"
-	.string "and cycle as fast as you'd like.\p"
-	.string "It feels great to go that fast, but try\n"
-	.string "not to crash into anyone!$"
+	.string "Lucas, voce e o melhor! Sua jornada apenas comecou."
+	.string "Lucas, voce e o melhor! O mundo POKeMON celebra voce!"
+	.string "Lucas, voce e o melhor! Voce e o campeao do nosso coracao!$"
 
 Route110_SeasideCyclingRoadNorthEntrance_Text_TooDangerousToWalk:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pSorry, you can't walk on CYCLING\n"
-	.string "ROAD. It's too dangerous.\p"
-	.string "Please come back with a BIKE.$"
+	.string "Feliz aniversario, Lucas! Voce e um treinador incrivel!"
+	.string "Hoje e o seu dia, Lucas! Voce e um treinador incrivel!$"
 

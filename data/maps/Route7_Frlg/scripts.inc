@@ -6,6 +6,6 @@ Route7_EventScript_UndergroundPathSign::
 	end
 
 Route7_Text_UndergroundPathSign::
-	.string "UNDERGROUND PATH\n"
-	.string "CELADON CITY - LAVENDER TOWN$"
+.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!"
+	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
 

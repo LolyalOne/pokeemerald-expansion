@@ -8140,6 +8140,13 @@ s32 GetAdjustedDamage(struct BattleContext *ctx, s32 damage)
      || DoesIceFaceBlockMove(ctx->battlerDef, ctx->move))
         return damage; // No damage will be dealt
 
+    if (TRAINER_BATTLE_PARAM.opponentA == TRAINER_MK_SECRET_BOSS && GetBattlerSide(ctx->battlerDef) == B_SIDE_OPPONENT)
+    {
+        damage = (damage * 70) / 100;
+        if (damage == 0 && ctx->moveType != TYPE_NONE && GetMoveCategory(ctx->move) != DAMAGE_CATEGORY_STATUS)
+            damage = 1;
+    }
+
     if (gBattleMons[ctx->battlerDef].hp > damage)
         return damage;
 
@@ -8223,6 +8230,11 @@ s32 CalculateMoveDamageVars(struct BattleContext *ctx)
 static inline void MulByTypeEffectiveness(struct BattleContext *ctx, uq4_12_t *modifier, enum Type defType)
 {
     uq4_12_t mod = GetTypeModifier(ctx->moveType, defType);
+
+    if (TRAINER_BATTLE_PARAM.opponentA == TRAINER_MK_SECRET_BOSS && GetBattlerSide(ctx->battlerDef) == B_SIDE_OPPONENT && ctx->moveType == TYPE_NORMAL)
+    {
+        mod = UQ_4_12(0.0);
+    }
 
     if (mod == UQ_4_12(0.0) && ctx->holdEffectDef == HOLD_EFFECT_RING_TARGET)
     {

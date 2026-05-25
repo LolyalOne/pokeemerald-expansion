@@ -52,28 +52,28 @@ ThreeIsland_DunsparceTunnel_EventScript_ProspectorAlreadyGaveNugget::
 
 ThreeIsland_DunsparceTunnel_Text_ProspectingForGold::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHey, there!\n"
-	.string "How's it going?\p"
-	.string "What am I doing here, you ask?\n"
-	.string "Why, I'm prospecting for gold!\p"
-	.string "When I strike it rich, I'm buying\n"
-	.string "a house in KANTO.$"
+.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
+.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
+.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
+.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
+.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!$"
 
 ThreeIsland_DunsparceTunnel_Text_StruckGoldThisIsForYou::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pHey, there! How's it going?\n"
-	.string "Did you hear? I've struck gold!\p"
-	.string "You remembered that I was\n"
-	.string "prospecting, didn't you?\p"
-	.string "You can't begin to imagine just\n"
-	.string "how happy I am.\p"
-	.string "So, I'll show you!\n"
-	.string "This is for you!$"
+.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
+.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
+.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Parabens, Lucas! Sua jornada\napenas comecou."
+.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
 
 ThreeIsland_DunsparceTunnel_Text_ThatsANugget::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThat's a NUGGET!\p"
-	.string "I can't give you any nuggets of\n"
-	.string "wisdom, so that'll have to do!$"
+.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 ThreeIsland_DunsparceTunnel_Text_WhoopsBagCrammedFull::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWhoops, your BAG is crammed full!\n"
-	.string "I'll give this to you later.$"
+	.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
 

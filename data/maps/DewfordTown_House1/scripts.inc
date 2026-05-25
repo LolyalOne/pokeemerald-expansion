@@ -21,16 +21,16 @@ DewfordTown_House1_EventScript_Zigzagoon::
 
 DewfordTown_House1_Text_LotToBeSaidForLivingOnIsland:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pThere's a lot to be said for living on\n"
-	.string "a small island like this in harmony with\l"
-	.string "POKéMON and the family.$"
+.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
+	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 DewfordTown_House1_Text_LifeGoesSlowlyOnIsland:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI left the major port of SLATEPORT\n"
-	.string "CITY when I married my husband here.\p"
-	.string "Life goes by slowly on this little\n"
-	.string "island. But being surrounded by the\l"
-	.string "beautiful sea--that's happiness, too.$"
+.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
+.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
+.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!$"
 
 DewfordTown_House1_Text_Zigzagoon:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pZIGZAGOON: Guguuh!$"
+	.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
 

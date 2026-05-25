@@ -149,56 +149,56 @@ Route4_PokemonCenter_1F_EventScript_Newspaper::
 	end
 
 Route4_PokemonCenter_1F_Text_CanHaveSixMonsWithYou::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOkay, set six POKé BALLS in my\n"
-	.string "belt…\p"
-	.string "Yeah, that'll do it. At most, you\n"
-	.string "can have six POKéMON with you.$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOkay, set six POKe BALLS in my\n"
+.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
+	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 Route4_PokemonCenter_1F_Text_TeamRocketAttacksCerulean::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pTEAM ROCKET attacks CERULEAN\n"
-	.string "citizens…\p"
-	.string "Not a day goes by without TEAM\n"
-	.string "ROCKET being in the news.$"
+.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
+.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
+	.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 Route4_PokemonCenter_1F_Text_LaddieBuyMagikarpForJust500::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pMAN: Hello there, laddie!\n"
-	.string "Have I got a deal just for you!\p"
-	.string "I'll let you have a secret POKéMON\n"
-	.string "- a MAGIKARP - for just ¥500!\p"
-	.string "So, you'll buy it, am I right?$"
+.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!"
+.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
+.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
+.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 Route4_PokemonCenter_1F_Text_SweetieBuyMagikarpForJust500::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pMAN: Hello there, sweetie pie!\n"
-	.string "Have I got a deal just for you!\p"
-	.string "I'll let you have a secret POKéMON\n"
-	.string "- a MAGIKARP - for just ¥500!\p"
-	.string "So, you'll buy it, am I right?$"
+.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
+.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
+.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!$"
 
 Route4_PokemonCenter_1F_Text_PaidOutrageouslyForMagikarp::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p{PLAYER} paid an outrageous ¥500\n"
-	.string "and bought the MAGIKARP…$"
+.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
 
 Route4_PokemonCenter_1F_Text_OnlyDoingThisAsFavorToYou::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pNo? You say no? I'm only doing this\n"
-	.string "as a favor to you!$"
+	.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
 
 Route4_PokemonCenter_1F_Text_NoRoomForMorePokemon::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pThere's no more room for any more\n"
-	.string "POKéMON, it looks like.$"
+	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
 
 Route4_PokemonCenter_1F_Text_YoullNeedMoreMoney::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pYou'll need more money than that!$"
+	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 Route4_PokemonCenter_1F_Text_IDontGiveRefunds::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pMAN: Well, I don't give refunds.\n"
-	.string "You knew what you were getting!$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!$"
 
 Route4_PokemonCenter_1F_Text_ShouldStoreMonsUsingPC::
-	.string "Sometimes, you'll have too many\n"
-	.string "POKéMON with you to add any more.\p"
-	.string "In that case, you should just\n"
-	.string "store some using any PC.$"
+.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
+	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
 
 Route4_PokemonCenter_1F_Text_ItsANewspaper::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pIt's a newspaper.$"
+.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!$"
 

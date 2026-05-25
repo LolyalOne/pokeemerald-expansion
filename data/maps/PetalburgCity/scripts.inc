@@ -699,62 +699,62 @@ PetalburgCity_EventScript_GymBoy::
 
 PetalburgCity_Text_WhereIsWally:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pWhere has our WALLY gone?\p"
-	.string "We have to leave for VERDANTURF TOWN\n"
-	.string "very soon…$"
+.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
+	.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
 
 PetalburgCity_Text_AreYouRookieTrainer:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pHiya! Are you maybe…\n"
-	.string "A rookie TRAINER?\p"
-	.string "Do you know what POKéMON TRAINERS\n"
-	.string "do when they reach a new town?\p"
-	.string "They first check what kind of GYM\n"
-	.string "is in the town.$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pHiya! Are you maybe...\n"
+.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
+.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
+.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
+	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
 
 PetalburgCity_Text_ThisIsPetalburgGym:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pSee? This is PETALBURG CITY's GYM.$"
+	.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
 
 PetalburgCity_Text_ThisIsGymSign:
-	.string "This is the GYM's sign. Look for it\n"
-	.string "whenever you're looking for a GYM.$"
+.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
+.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!$"
 
 PetalburgCity_Text_WaterReflection:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pMy face is reflected in the water.\p"
-	.string "It's a shining grin full of hope…\p"
-	.string "Or it could be a look of somber silence\n"
-	.string "struggling with fear…\p"
-	.string "What do you see reflected in your face?$"
+.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
+.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
 
 PetalburgCity_Text_FullPartyExplanation:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pLet's say you have six POKéMON.\n"
-	.string "If you catch another one…\p"
-	.string "It is automatically sent to a STORAGE\n"
-	.string "BOX over a PC connection.$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pLet's say you have six POKeMON.\n"
+.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
+.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
+	.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 PetalburgCity_Text_GymSign:
-	.string "PETALBURG CITY POKéMON GYM\n"
-	.string "LEADER: NORMAN\l"
-	.string "“A man in pursuit of power!”$"
+.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
+.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
+	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
 
 PetalburgCity_Text_CitySign:
-	.string "PETALBURG CITY\n"
-	.string "“Where people mingle with nature.”$"
+.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!"
+.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!$"
 
 PetalburgCity_Text_WallyHouseSign:
-	.string "WALLY'S HOUSE$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!$"
 
 PetalburgCity_Text_AreYouATrainer:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pExcuse me!\p"
-	.string "Let me guess, from the way you're\n"
-	.string "dressed, are you a POKéMON TRAINER?$"
+.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!$"
 
 PetalburgCity_Text_WellMaybeNot:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p… … … … … …\p"
-	.string "Well, maybe not.\n"
-	.string "Your clothes aren't all that dirty.\p"
-	.string "You're either a rookie TRAINER,\n"
-	.string "or maybe you're just an ordinary kid.$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p... ... ... ... ... ...\p"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
+.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
+	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
 
 PetalburgCity_Text_ImLookingForTalentedTrainers:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI'm roaming the land in search of\n"
-	.string "talented TRAINERS.\p"
-	.string "I'm sorry to have taken your time.$"
+.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
+	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"

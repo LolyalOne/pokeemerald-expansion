@@ -85,27 +85,27 @@ Route5_SouthEntrance_Movement_BlockPlayerEntry::
 
 Route5_SouthEntrance_Text_ThirstyOnGuardDuty::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pI'm on guard duty.\n"
-	.string "Gee, I'm thirsty, though!\p"
-	.string "Oh, wait there, the road's closed.$"
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
+.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!$"
 
 Route5_SouthEntrance_Text_ThatTeaLooksTasty::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh, that TEA…\n"
-	.string "It looks awfully tasty…$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh, that TEA...\n"
+.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
 
 Route5_SouthEntrance_Text_ThanksIllShareTeaWithGuards::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pHuh? I can have this drink?\n"
-	.string "Gee, thanks!\l"
-	.string "… …\l"
-	.string "Glug, glug…\l"
-	.string "… …\l"
-	.string "Gulp…\l"
-	.string "If you want to go to SAFFRON\l"
-	.string "CITY…\l"
-	.string "… …\l"
-	.string "You can go on through.\p"
-	.string "I'll share this TEA with the other\n"
-	.string "guards!$"
+.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
+.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
+.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
+.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
+.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!"
+.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
+.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
+.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
 
 Route5_SouthEntrance_Text_HiHowsItGoing::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHi, how's it going?$"
+.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!$"
 

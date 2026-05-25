@@ -247,17 +247,17 @@ NewMauville_Inside_EventScript_DefeatedVoltorb3::
 
 NewMauville_Inside_Text_GeneratorRadiatingHeat:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThe generator is radiating heat that\n"
-	.string "can be felt even at a distance.\p"
-	.string "It looks like it should be turned off\n"
-	.string "as soon as possible.$"
+.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
+.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
+.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
 
 NewMauville_Inside_Text_GeneratorQuietedDown:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThe generator quieted down.$"
+.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!$"
 
 NewMauville_Inside_Text_SteppedOnSwitchGeneratorStopped:
 	.string "{PLAYER} stepped on the switch.\p"
-	.string "Click…\p"
-	.string "… … … … … … … …\n"
-	.string "… … … … … … … …\p"
-	.string "The generator appears to have\n"
-	.string "stopped…$"
+.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
+.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
+.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
+	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"

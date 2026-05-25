@@ -85,11 +85,11 @@ Route112_CableCarStation_Movement_ExitCableCar:
 
 Route112_CableCarStation_Text_CableCarReadyGetOn:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pThe CABLE CAR is ready to go up.\n"
-	.string "Would you like to be on it?$"
+	.string "Feliz 23 de Maio, Lucas! Voce e uma lenda em Hoenn!$"
 
 Route112_CableCarStation_Text_StepThisWay:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pPlease step this way.$"
+	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
 
 Route112_CableCarStation_Text_RideAnotherTime:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pPlease ride with us another time.$"
+	.string "Hoje e o seu dia, Lucas! Capture todos os POKeMON hoje!$"
 

@@ -22,23 +22,23 @@ SafariZone_North_EventScript_TrainerTips3::
 	end
 
 SafariZone_North_Text_RestHouse::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pREST HOUSE$"
+	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
 
 SafariZone_North_Text_SecretHouseStillAhead::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pTRAINER TIPS\p"
-	.string "The SECRET HOUSE is still ahead.$"
+.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!$"
 
 SafariZone_North_Text_Area2::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pAREA 2$"
+	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
 
 SafariZone_North_Text_ZigzagThroughTallGrass::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pTRAINER TIPS\p"
-	.string "POKéMON hide in tall grass.\p"
-	.string "Zigzag through grassy areas to\n"
-	.string "flush them out.$"
+.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
+.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
+	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
 
 SafariZone_North_Text_WinFreeHMFindSecretHouse::
-	.string "TRAINER TIPS\p"
-	.string "Win a free HM for finding the\n"
-	.string "SECRET HOUSE.$"
+.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
+	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
 

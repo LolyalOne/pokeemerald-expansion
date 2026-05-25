@@ -84,154 +84,154 @@ CeladonCity_Gym_EventScript_GymStatuePostVictory::
 	end
 
 CeladonCity_Gym_Text_ErikaIntro::
-	.string "Hello…\n"
-	.string "Lovely weather, isn't it?\l"
-	.string "It's so pleasant…\p"
-	.string "…Oh, dear…\n"
-	.string "I must have dozed off. Welcome.\p"
-	.string "My name is ERIKA.\n"
-	.string "I am the LEADER of CELADON GYM.\p"
-	.string "I am a student of the art of\n"
-	.string "flower arranging.\p"
-	.string "My POKéMON are solely of the\n"
-	.string "GRASS type.\p"
-	.string "…Oh, I'm sorry, I had no idea that\n"
-	.string "you wished to challenge me.\p"
-	.string "Very well, but I shall not lose.{PLAY_BGM MUS_RG_ENCOUNTER_GYM_LEADER}$"
+.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
+.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
+.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
+.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
+.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
+.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
+.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
+.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
+.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
+.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
+	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
 
 CeladonCity_Gym_Text_ErikaDefeat::
-	.string "Oh!\n"
-	.string "I concede defeat.\l"
-	.string "You are remarkably strong.\p"
-	.string "I must confer on you the\n"
-	.string "RAINBOWBADGE.$"
+.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
+.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
+.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
+.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
+	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
 
 CeladonCity_Gym_Text_ErikaPostBattle::
-	.string "You are cataloging POKéMON?\n"
-	.string "I must say I'm impressed.\p"
-	.string "I would never collect POKéMON if\n"
-	.string "they were unattractive.$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
+.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
+	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
 
 CeladonCity_Gym_Text_ExplainRainbowBadgeTakeThis::
-	.string "The RAINBOWBADGE will make\n"
-	.string "POKéMON up to Lv. 50 obey.\p"
-	.string "It also allows POKéMON to use\n"
-	.string "STRENGTH in and out of battle.\p"
-	.string "Please also take this with you.$"
+.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
+.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
+.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
+	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
 
 CeladonCity_Gym_Text_ReceivedTM19FromErika::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\p{PLAYER} received TM19\n"
-	.string "from ERIKA.$"
+	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
 
 CeladonCity_Gym_Text_ExplainTM19::
-	.string "TM19 contains GIGA DRAIN.\p"
-	.string "Half the damage it inflicts is\n"
-	.string "drained to heal your POKéMON.\p"
-	.string "Wouldn't you agree that it's a\n"
-	.string "wonderful move?$"
+.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
+.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 CeladonCity_Gym_Text_ShouldMakeRoomForThis::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pYou should make room for this.$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!$"
 
 CeladonCity_Gym_Text_KayIntro::
-	.string "I should tell you about this GYM.\p"
-	.string "Only real ladies are allowed in\n"
-	.string "here!$"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
 
 CeladonCity_Gym_Text_KayDefeat::
-	.string "You're too rough!$"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!$"
 
 CeladonCity_Gym_Text_KayPostBattle::
-	.string "Bleaah!\n"
-	.string "I hope ERIKA wipes you out!$"
+.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
+	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
 
 CeladonCity_Gym_Text_BridgetIntro::
-	.string "Oh, welcome.\n"
-	.string "I was getting bored.$"
+.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou.$"
 
 CeladonCity_Gym_Text_BridgetDefeat::
-	.string "My makeup!$"
+.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!$"
 
 CeladonCity_Gym_Text_BridgetPostBattle::
-	.string "GRASS-type POKéMON are tough\n"
-	.string "against the WATER type.\p"
-	.string "They also have an edge on ROCK-\n"
-	.string "and GROUND-type POKéMON.$"
+.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
+	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 CeladonCity_Gym_Text_TinaIntro::
-	.string "…Weren't you peeking in here\n"
-	.string "earlier?$"
+.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
+	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
 
 CeladonCity_Gym_Text_TinaDefeat::
-	.string "You're an eye-opener!$"
+.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!$"
 
 CeladonCity_Gym_Text_TinaPostBattle::
-	.string "Oh, you were looking at ERIKA…\n"
-	.string "You weren't looking at me…$"
+.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
+	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 CeladonCity_Gym_Text_TamiaIntro::
-	.string "Look, look!\n"
-	.string "See my POKéMON!\p"
-	.string "I like the GRASS type.\n"
-	.string "I like how they're easy to raise.$"
+.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
+.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
+	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 CeladonCity_Gym_Text_TamiaDefeat::
-	.string "No!$"
+.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!$"
 
 CeladonCity_Gym_Text_TamiaPostBattle::
-	.string "We only use GRASS-type POKéMON at\n"
-	.string "our GYM.\p"
-	.string "Why? We also use them for making\n"
-	.string "flower arrangements!$"
+.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
+	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
 
 CeladonCity_Gym_Text_LisaIntro::
-	.string "Oh, hey!\p"
-	.string "We don't like BUG- or FIRE-type\n"
-	.string "POKéMON in here!$"
+.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
+.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 CeladonCity_Gym_Text_LisaDefeat::
-	.string "Oh!\n"
-	.string "You!$"
+.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
+	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 
 CeladonCity_Gym_Text_LisaPostBattle::
-	.string "Our LEADER ERIKA might be quiet,\n"
-	.string "but she's famous around here.$"
+.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
+.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou.$"
 
 CeladonCity_Gym_Text_LoriIntro::
-	.string "Pleased to meet you.\n"
-	.string "My hobby is POKéMON training.$"
+.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
+.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 CeladonCity_Gym_Text_LoriDefeat::
-	.string "Oh!\n"
-	.string "Splendid!$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
+.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!$"
 
 CeladonCity_Gym_Text_LoriPostBattle::
-	.string "I have a blind date coming up.\n"
-	.string "I have to learn to be polite,\l"
-	.string "especially if I have to battle.$"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
+	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 CeladonCity_Gym_Text_MaryIntro::
-	.string "Welcome to CELADON GYM!\p"
-	.string "You'd better not underestimate\n"
-	.string "the nice ladies here.$"
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
+.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
+	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
 
 CeladonCity_Gym_Text_MaryDefeat::
-	.string "Oh!\n"
-	.string "Beaten!$"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
+	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
 
 CeladonCity_Gym_Text_MaryPostBattle::
-	.string "I didn't bring my best POKéMON.\n"
-	.string "Wait until next time!$"
+.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
+.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!$"
 
 CeladonCity_Gym_Text_GymStatue::
-	.string "CELADON POKéMON GYM\n"
-	.string "LEADER: ERIKA\p"
-	.string "WINNING TRAINERS:\n"
-	.string "{RIVAL}$"
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
+.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
+.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
 
 CeladonCity_Gym_Text_GymStatuePlayerWon::
-	.string "CELADON POKéMON GYM\n"
-	.string "LEADER: ERIKA\p"
-	.string "WINNING TRAINERS:\n"
-	.string "{RIVAL}, {PLAYER}$"
+.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!$"
 

@@ -249,108 +249,108 @@ Route110_TrickHouseEnd_Movement_TrickMasterSurprise:
 
 Route110_TrickHouseEnd_Text_YouveMadeItToMe:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pAak!\n"
-	.string "You've made it to me?\l"
-	.string "Hmmm… You're sharp!$"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
+	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 Route110_TrickHouseEnd_Text_AllNightToPlantTrees:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pIt took me all night to plant all those\n"
-	.string "trees…\p"
-	.string "You're almost my equal in greatness by\n"
-	.string "one, two, three, four, five, six places!$"
+.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
+	.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
 
 Route110_TrickHouseEnd_Text_AllNightToMakeMaze:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pIt took me all night to make the maze…\p"
-	.string "You're almost my equal in greatness by\n"
-	.string "one, two, three, four, five places!$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pIt took me all night to make the maze...\p"
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
+	.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
 
 Route110_TrickHouseEnd_Text_AllNightToPreparePanels:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pIt took me all night to prepare\n"
-	.string "the wall panels…\p"
-	.string "You're almost my equal in greatness by\n"
-	.string "one, two, three, four places!$"
+.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
+.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou."
+	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 Route110_TrickHouseEnd_Text_AllNightToShoveBoulders:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pIt took me all night to shove in those\n"
-	.string "boulders…\p"
-	.string "You're almost my equal in greatness by\n"
-	.string "one, two, three places!$"
+.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
+.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
+.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!$"
 
 Route110_TrickHouseEnd_Text_AllNightToMakeMechadolls:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pIt took me all night to make MECHADOLLS\n"
-	.string "and another to think up the quiz…\p"
-	.string "You're almost my equal in greatness by\n"
-	.string "one, two places!$"
+.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
+.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+	.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 Route110_TrickHouseEnd_Text_AllNightToInstallDoors:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pIt took me all night to install\n"
-	.string "the doors…\p"
-	.string "You're almost my equal in greatness!$"
+.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
+	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
 
 Route110_TrickHouseEnd_Text_AllNightSettingUpArrows:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pIt took me all night setting up arrows…\p"
-	.string "You're my equal in greatness!$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pIt took me all night setting up arrows...\p"
+.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!$"
 
 Route110_TrickHouseEnd_Text_AllNightPolishingFloors:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pIt took me all night polishing floors…\p"
-	.string "You're above me in greatness!\n"
-	.string "Possibly…$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pIt took me all night polishing floors...\p"
+.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
+	.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
 
 Route110_TrickHouseEnd_Text_FountainOfIdeasRunDry:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWh-what should I do?\n"
-	.string "My fountain of ideas for tricks has\l"
-	.string "run dry…\p"
-	.string "Perhaps it is time I toured the country\n"
-	.string "on a quest to devise new tricks…$"
+.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
+.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
 
 Route110_TrickHouseEnd_Text_DefeatedMePreferWhichTent:
-	.string "I hate to admit defeat, but you have\n"
-	.string "bested me!\p"
-	.string "Still, you must have been reeled in by\n"
-	.string "my charisma for you to visit me again\l"
-	.string "and again. Yes, you must have!\p"
-	.string "But that has nothing to do with my\n"
-	.string "losing!\p"
-	.string "In recognition of the friendship\n"
-	.string "between you, the driven, and the genius\l"
-	.string "that is myself, I demand that you take\l"
-	.string "this keepsake!\p"
-	.string "Actually there are two--\n"
-	.string "a RED TENT and a BLUE TENT.\l"
-	.string "Which do you prefer?$"
+.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
+.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
+.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
+.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
+.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
+.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
+.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Parabens, Lucas! Sua jornada\napenas comecou."
+.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
 
 Route110_TrickHouseEnd_Text_NoRoomInPC:
-	.string "What? No room in your PC?\n"
-	.string "What am I to make of that?\p"
-	.string "I wish I could say that, but I am much\n"
-	.string "too kind and caring, so come back later!$"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
+.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
+.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
 
 Route110_TrickHouseEnd_Text_LeavingOnJourney:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p… … … … … …\p"
-	.string "I am leaving on a journey of discovery.\n"
-	.string "A quest in search of new tricks.\p"
-	.string "I wish that you will one day visit and\n"
-	.string "entertain me again.\p"
-	.string "And now, farewell!$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p... ... ... ... ... ...\p"
+.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
+.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
+.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
+	.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 Route110_TrickHouseEnd_Text_YouHaveEarnedThisReward:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pFine!\n"
-	.string "You have earned this reward!$"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!$"
 
 Route110_TrickHouseEnd_Text_NoRoomForThis:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWhat? Have you no room for this?\n"
-	.string "What manner of items do you carry?\p"
-	.string "But fine, since you've reached me,\n"
-	.string "your reward will be with me till later.$"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
+	.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 Route110_TrickHouseEnd_Text_MakeNewTricksToStumpYou:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pScrub that smug smirk from your face!\n"
-	.string "It's much too early to think you've won!\p"
-	.string "I'll make new tricks to stump you, I will.\n"
-	.string "You may mock me only when you're done.\p"
-	.string "Come back for the next exciting\n"
-	.string "installment!$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!"
+.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
+.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
+.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!$"
 
 Route110_TrickHouseEnd_Text_YoureIgnoringMe:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pNow, now! You're ignoring me now?\n"
-	.string "Now that, I consider heartbreaking!$"
+.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
 

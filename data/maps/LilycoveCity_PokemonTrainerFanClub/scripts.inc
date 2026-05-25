@@ -558,253 +558,253 @@ LilycoveCity_PokemonTrainerFanClub_EventScript_AlreadyInterviewed2::
 	end
 
 LilycoveCity_PokemonTrainerFanClub_Text_OhWowItsPlayer:
-	.string "Oh, wow!\n"
-	.string "It's {PLAYER}!$"
+.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
+.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_HeardAboutYouImYourFan:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI've heard the news!\n"
-	.string "You're really strong, aren't you?\p"
-	.string "We always argue about who is the\n"
-	.string "strongest of all TRAINERS here.\p"
-	.string "So when I heard about you, I decided\n"
-	.string "to be your fan!\p"
-	.string "I hope you'll keep on battling other\n"
-	.string "tough TRAINERS.\p"
-	.string "That way, we'll be able to see more\n"
-	.string "of your hot, hot battles.\p"
-	.string "That will make the others here see\n"
-	.string "exactly how great you are.\p"
-	.string "Remember, I'm cheering for you,\n"
-	.string "{PLAYER}!$"
+.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
+.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
+.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
+.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
+.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
+.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
+.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
+.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
+.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
+	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_YoureOneWeWantToWin:
 	.string "Yo, {PLAYER}!\n"
-	.string "You're the one we want to win!$"
+	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_OthersDontKnowYoureTheBest:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThe others, they don't know that\n"
-	.string "you're the best of the best!\p"
+.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
 	.string "Isn't that right, {PLAYER}?\n"
-	.string "Show them you've got guts!$"
+	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_TrainersPowerIsOutOfTheOrdinary:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI hate to say this, but the TRAINER\n"
-	.string "everybody's talking about is\l"
+.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
 	.string "{STR_VAR_1}, no question about it!\p"
-	.string "That TRAINER's power…\n"
-	.string "It's out of the ordinary.$"
+.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
+	.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_TrainerIsBestNoOneWantsToListen:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pDarn it… I've been telling people\n"
-	.string "that {STR_VAR_1} is the best now…\p"
-	.string "But no one wants to listen…$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pDarn it... I've been telling people\n"
+	.string "that {STR_VAR_1} is the best now...\p"
+	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_HearingAboutToughNewTrainer:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI've been hearing things about\n"
-	.string "a tough new TRAINER.\p"
-	.string "This TRAINER's supposed to be beating\n"
-	.string "GYM LEADERS, even.\p"
-	.string "Do you know anything about this\n"
-	.string "new TRAINER?$"
+.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
+.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_ImPullingForYou:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh!\n"
 	.string "{PLAYER}!\p"
-	.string "Go for it!\n"
-	.string "I'm pulling for you!$"
+.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
+.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_BrawlyNoImYourFan:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pSigh…\n"
-	.string "BRAWLY…\p"
-	.string "Oh, no! Wait!\n"
-	.string "That's not right! No, no, no!\p"
-	.string "I'm your fan through and through!\p"
-	.string "So make me proud!\n"
-	.string "Go for it!$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pSigh...\n"
+.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!"
+.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
+.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
+.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_ICantHelpLikingBrawly:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI can't help it, I can only get to\n"
-	.string "like BRAWLY…$"
+	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_NobodyUnderstandsBrawly:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pNobody understands the charm of\n"
-	.string "BRAWLY…\p"
-	.string "I don't care!\p"
-	.string "Even if I'm the only one, I'm going\n"
-	.string "to keep cheering for BRAWLY!$"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
+.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
+.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou."
+.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_MyFavoriteTrainerIsBrawly:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pWhatever anyone says, my favorite\n"
-	.string "TRAINER is DEWFORD's GYM LEADER\l"
-	.string "BRAWLY!$"
+.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_YouveSurpassedYourFather:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYou've surpassed your own father in\n"
-	.string "every regard!\p"
-	.string "I'm telling you, so there's no question\n"
-	.string "about it at all!$"
+.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_YourFatherNeverGaveUpSoKeepOnBattling:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pEven when things turned bleak,\n"
-	.string "your father never gave up.\p"
-	.string "This I know to be true.\p"
-	.string "You never give up even if you lose!\n"
-	.string "So keep on battling!$"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
+.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
+.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
+	.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_LongWayToGoComparedToNorman:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pNORMAN battled with more power,\n"
-	.string "charisma, and showmanship than you.\p"
-	.string "Even though people may say that\n"
-	.string "you're strong…\p"
-	.string "You've still got a long way to go\n"
-	.string "compared to your father.$"
+.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
+.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
+.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
+	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_YouAndNormanAreDifferent:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pYou're beginning to get the same\n"
-	.string "air of awe NORMAN exudes.\p"
-	.string "But there's something conclusively\n"
-	.string "different between you and NORMAN.\p"
-	.string "I can't tell you what that is.\n"
-	.string "You'll have to find it yourself.$"
+.string "Parabens, Lucas! Sua jornada\napenas comecou."
+.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
+.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
+.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
+.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_WeDiscussStrongestTrainers:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pEveryone here, we're all huge fans\n"
-	.string "of POKéMON battles.\p"
-	.string "We discuss who we consider to be\n"
-	.string "the strongest of all TRAINERS.\p"
-	.string "If you were to become famous,\n"
-	.string "we might even become your fans!$"
+.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
+.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!"
+.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
+.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_OhWoweeItsPlayer:
 	.string "Oh, woweee! It's {PLAYER}!\n"
-	.string "For real, too!\p"
-	.string "Please, shake my hand, shake my hand!$"
+.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
+.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_AlwaysCheerForYou:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI'll always cheer for you, {PLAYER}!\n"
-	.string "Always, always!\p"
-	.string "I don't want to see you lose ever,\n"
+.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
 	.string "{PLAYER}.\p"
-	.string "Because I know you're really,\n"
-	.string "really strong, {PLAYER}!$"
+.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
+	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_EveryoneThinksTrainerIsCool:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p{STR_VAR_1} is really cool…\p"
-	.string "Everyone thinks so, right, right?$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p{STR_VAR_1} is really cool...\p"
+.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_TrainerIsReallyCoolItsJustMe:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p{STR_VAR_1} really is cool, don't\n"
-	.string "you think so?\p"
-	.string "Even if it's just me, I'm going to keep\n"
-	.string "cheering my favorite TRAINER.$"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!"
+	.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_WishThereWasTrainerLikeThat:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pMy favorite TRAINER is…\p"
-	.string "Cool…\p"
-	.string "Strong…\p"
-	.string "And really nice…\p"
-	.string "I wish there was a TRAINER like that…$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pMy favorite TRAINER is...\p"
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
+.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
+.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
+.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_WantToBeStrongLikeYou:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWhoa! It's {PLAYER}!\n"
-	.string "Wicked!\p"
-	.string "When I grow up, I want to be strong\n"
-	.string "like you, {PLAYER}!$"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
+.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_OnlyOneWhoCheersForYou:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pEven if I'm the only one…\p"
-	.string "You'll always be the only one\n"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pEven if I'm the only one...\p"
+.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
 	.string "I cheer for, {PLAYER}!\p"
-	.string "Because I believe in you, {PLAYER}!$"
+	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_TrainerIsWickedlyCool:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p{STR_VAR_1} is so wickedly cool…\n"
-	.string "I want to shake hands with my hero.$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p{STR_VAR_1} is so wickedly cool...\n"
+.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_NeverGoingToStopBeingTrainersFan:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pEven if I'm the only one…\p"
-	.string "I'm never going to stop being\n"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pEven if I'm the only one...\p"
+.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
 	.string "{STR_VAR_1}'s fan!\p"
 	.string "Because I've heard, {STR_VAR_1}\n"
-	.string "never loses!$"
+	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_YoureAmazingAfterAll:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\p{PLAYER}!\n"
-	.string "You are amazing after all!\p"
-	.string "Ever since I set eyes on you,\n"
-	.string "I knew that you were great.\p"
-	.string "It looks like my eyes didn't deceive me.$"
+.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
+.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
+.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!"
+	.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_ImInYourCorner:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWho cares about the others.\n"
-	.string "I'm in your corner!\p"
-	.string "You don't need to worry. Just get\n"
-	.string "out there and battle like always.$"
+.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
+.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
+	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_ThinkTrainerIsNumberOne:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pYou're a pretty decent TRAINER,\n"
-	.string "I think.\p"
+.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
 	.string "But I also think that {STR_VAR_1}\n"
-	.string "is number one right now.\p"
-	.string "That's just my opinion.\n"
-	.string "Don't worry about it too much.$"
+.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
+.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
+	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_YoureMaybeStrongerThanTrainer:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pWow, you really are strong.\n"
 	.string "Maybe even stronger than {STR_VAR_1}.\p"
 	.string "But {STR_VAR_1} needs me.\p"
 	.string "If I don't cheer for {STR_VAR_1},\n"
-	.string "who will?$"
+.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_YouChangedMyMind:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pYou've changed my mind!\n"
-	.string "You are strong, aren't you?\p"
-	.string "I'd like you to tell me how you managed\n"
-	.string "to get so strong!$"
+.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
+.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_YouBattleAttractivelyInToughSituation:
-	.string "The tougher the situation, the more\n"
-	.string "attractively you battle.\p"
-	.string "I can't wait for your next battle!$"
+.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
+	.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_TrainerIsStandout:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pAmong the recently hot TRAINERS,\n"
 	.string "{STR_VAR_1} is the standout.\p"
-	.string "That toughness, it's simply not normal.\p"
-	.string "You're doing okay, but you're not in\n"
-	.string "the same class as {STR_VAR_1}.$"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
+.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
+	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_NoOneCanKnockYouButTrainerStronger:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pYou are really popular…\p"
-	.string "You're strong, and you're caring to\n"
-	.string "POKéMON. No one can knock you.\p"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pYou are really popular...\p"
+.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
+.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
 	.string "But, you know, I believe in {STR_VAR_1}.\p"
 	.string "{STR_VAR_1} is definitely stronger!\n"
-	.string "I'm positive!$"
+.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_YouImpressive:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pYou…\p"
-	.string "Impressive!$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pYou...\p"
+	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_OnlyIRecognizeYourTrueWorth:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pYour true worth, it is fine if only\n"
-	.string "I recognized it.\p"
-	.string "The others I doubt will understand\n"
-	.string "the hidden power that beats within.$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
+.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
+.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_HaventRealizedPotential:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYes, I see strength in your eyes.\p"
-	.string "But!\p"
-	.string "You still haven't realized your\n"
-	.string "potential.$"
+.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
+	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_YourePowerfulButNotTrueStrength:
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pIt is true that you are tremendously\n"
-	.string "powerful.\p"
-	.string "But!\n"
-	.string "I can tell…\p"
-	.string "That strength cannot be considered\n"
-	.string "true strength yet!\p"
-	.string "True strength is…!\n"
-	.string "… …\p"
-	.string "Actually, I have no idea, either.$"
+.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
+.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
+.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
+.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
+.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
+.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!"
+	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"

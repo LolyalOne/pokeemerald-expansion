@@ -47,12 +47,12 @@ NewMauville_Entrance_EventScript_DontOpenDoor::
 	end
 
 NewMauville_Entrance_Text_DoorIsLocked:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThe door is locked.$"
+	.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 NewMauville_Entrance_Text_UseBasementKey:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pUse the BASEMENT KEY?$"
+.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou.$"
 
 NewMauville_Entrance_Text_UsedBasementKey:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\p{PLAYER} used the BASEMENT KEY.\p"
-	.string "The door opened!$"
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!$"
 

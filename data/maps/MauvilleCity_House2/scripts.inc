@@ -43,24 +43,24 @@ MauvilleCity_House2_EventScript_DeclineTrade::
 
 MauvilleCity_House2_Text_BuyHarborMailAtSlateport:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pIf I had a BIKE, it'd be easy to cycle to\n"
-	.string "SLATEPORT for some shopping.\p"
-	.string "I'd be able to buy HARBOR MAIL at the\n"
-	.string "POKéMON MART in SLATEPORT…$"
+.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
+.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
+	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
 
 MauvilleCity_House2_Text_TradeHarborMailForCoinCase:
-	.string "Oh! You have HARBOR MAIL?\n"
-	.string "Will you trade it for a COIN CASE?$"
+.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
+	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
 
 MauvilleCity_House2_Text_IllTradeYouCoinCase:
-	.string "Oh, I'm so happy!\n"
-	.string "Okay, I'll trade you a COIN CASE!$"
+.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
+	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
 
 MauvilleCity_House2_Text_UseCoinCaseAtGameCorner:
-	.string "That COIN CASE can be used\n"
-	.string "at the GAME CORNER.$"
+.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!$"
 
 MauvilleCity_House2_Text_ThatsDisappointing:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh, that's disappointing.\p"
-	.string "A COIN CASE is needed for the\n"
-	.string "GAME CORNER.$"
+.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
+	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
 

@@ -33,11 +33,11 @@ CinnabarIsland_Mart_Items::
 	end
 
 CinnabarIsland_Mart_Text_DontTheyHaveXAttack::
-	.string "Don't they have X ATTACK?\p"
-	.string "I like it because it raises the\n"
-	.string "ATTACK stat in battle.$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
+	.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 CinnabarIsland_Mart_Text_ExtraItemsNeverHurt::
-	.string "It never hurts to have extra items.\n"
-	.string "You never know what might happen.$"
+.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
+.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!$"
 

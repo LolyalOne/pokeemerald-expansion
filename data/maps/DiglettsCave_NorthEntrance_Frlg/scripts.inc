@@ -7,7 +7,7 @@ DiglettsCave_NorthEntrance_EventScript_Hiker::
 
 DiglettsCave_NorthEntrance_RockTunnelPitchBlack::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI went inside ROCK TUNNEL, but it's\n"
-	.string "pitch-black and scary in there.\p"
-	.string "If I could get a POKéMON to use\n"
-	.string "FLASH and light it up…$"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
+.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
+.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!$"
 

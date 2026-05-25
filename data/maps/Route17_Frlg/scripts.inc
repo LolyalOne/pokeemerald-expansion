@@ -26,133 +26,133 @@ Route17_EventScript_CyclingRoadSign::
 	end
 
 Route17_Text_RaulIntro::
-	.string "There's no getting rich quick in\n"
-	.string "battling kids.$"
+.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 Route17_Text_RaulDefeat::
-	.string "Burned out!$"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 Route17_Text_RaulPostBattle::
-	.string "You can find good stuff lying\n"
-	.string "around on CYCLING ROAD.\p"
-	.string "There's good money in picking them\n"
-	.string "up and selling them.$"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
+.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
+.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
+.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!$"
 
 Route17_Text_IsaiahIntro::
-	.string "I'm mighty proud of my bod, kiddo.\n"
-	.string "Come on!$"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!$"
 
 Route17_Text_IsaiahDefeat::
-	.string "Whoo!$"
+	.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
 
 Route17_Text_IsaiahPostBattle::
-	.string "I could belly-bump you outta\n"
-	.string "here!$"
+.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
+	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
 
 Route17_Text_VirgilIntro::
-	.string "You heading to FUCHSIA?$"
+	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
 
 Route17_Text_VirgilDefeat::
-	.string "Crash and burn!$"
+	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
 
 Route17_Text_VirgilPostBattle::
-	.string "I love racing downhill!$"
+.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
 
 Route17_Text_BillyIntro::
-	.string "We're BIKERS!\n"
-	.string "We rule the roads, man!$"
+.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
+	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 Route17_Text_BillyDefeat::
-	.string "Smoked!$"
+	.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 Route17_Text_BillyPostBattle::
-	.string "Are you looking for adventure?$"
+	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
 
 Route17_Text_NikolasIntro::
-	.string "Let VOLTORB electrify you!$"
+	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
 
 Route17_Text_NikolasDefeat::
-	.string "Grounded out!$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
 
 Route17_Text_NikolasPostBattle::
-	.string "I got my VOLTORB at the abandoned\n"
-	.string "POWER PLANT.$"
+.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
+	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
 
 Route17_Text_ZeekIntro::
-	.string "I leveled up my POKéMON, but it\n"
-	.string "won't evolve. Why?$"
+.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
+.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!$"
 
 Route17_Text_ZeekDefeat::
-	.string "Why, you!$"
+.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!$"
 
 Route17_Text_ZeekPostBattle::
-	.string "Maybe some POKéMON need element\n"
-	.string "STONES to evolve.$"
+.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
+	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
 
 Route17_Text_JamalIntro::
-	.string "I need a little exercise!$"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 
 Route17_Text_JamalDefeat::
-	.string "Whew!\n"
-	.string "Good workout!$"
+.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 Route17_Text_JamalPostBattle::
-	.string "I'm sure I lost weight there!$"
+.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!$"
 
 Route17_Text_CoreyIntro::
-	.string "Be a rebel!$"
+	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
 
 Route17_Text_CoreyDefeat::
-	.string "Aaaargh!$"
+	.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
 
 Route17_Text_CoreyPostBattle::
-	.string "Be ready to fight for your beliefs!$"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 Route17_Text_JaxonIntro::
-	.string "Nice BIKE!\n"
-	.string "How's it handle?$"
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
+	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
 
 Route17_Text_JaxonDefeat::
-	.string "Shoot!$"
+	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
 
 Route17_Text_JaxonPostBattle::
-	.string "The slope makes it hard to steer.$"
+	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 Route17_Text_WilliamIntro::
-	.string "Get lost, kid!\n"
-	.string "I'm bushed!$"
+.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
+.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
 
 Route17_Text_WilliamDefeat::
-	.string "Are you satisfied?$"
+.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!$"
 
 Route17_Text_WilliamPostBattle::
-	.string "I need to catch a few z's!$"
+	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
 
 Route17_Text_WatchOutForDiscardedItems::
-	.string "It's a notice.\p"
-	.string "Watch out for discarded items.$"
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
+	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
 
 Route17_Text_SameSpeciesGrowDifferentRates::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pTRAINER TIPS\p"
-	.string "All POKéMON are unique.\p"
-	.string "Even POKéMON of the same species\n"
-	.string "and level grow at different rates.$"
+.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
+.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
+	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
 
 Route17_Text_PressBToStayInPlace::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pTRAINER TIPS\p"
-	.string "Press the B Button to stay in place\n"
-	.string "while on a slope.$"
+.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
+.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!$"
 
 Route17_Text_RouteSign::
-	.string "ROUTE 17\n"
-	.string "CELADON CITY - FUCHSIA CITY$"
+.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 Route17_Text_DontThrowGameThrowBalls::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pIt's a notice!\p"
-	.string "Don't throw the game, throw POKé\n"
-	.string "BALLS instead!$"
+.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
+	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 Route17_Text_CyclingRoadSign::
-	.string "CYCLING ROAD\n"
-	.string "Slope ends here!$"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
+	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
 

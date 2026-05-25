@@ -30,9 +30,9 @@ DesertUnderpass_EventScript_GiveRootFossil::
 
 @ Unused
 DesertUnderpass_Text_FoundRootFossil::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p{PLAYER} found the ROOT FOSSIL.$"
+	.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
 
 @ Unused
 DesertUnderpass_Text_FoundClawFossil::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p{PLAYER} found the CLAW FOSSIL.$"
+	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
 

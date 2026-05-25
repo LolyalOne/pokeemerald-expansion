@@ -7,6 +7,6 @@ OneIsland_House2_EventScript_Lass::
 
 OneIsland_House2_Text_IWantToStayHereForever::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pYoung people all want to go off to\n"
-	.string "big cities.\p"
-	.string "But I want to stay here forever!$"
+.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
+.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!$"
 

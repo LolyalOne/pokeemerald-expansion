@@ -126,606 +126,606 @@ BattlePyramid_Retire::
 
 @ Also used by Trainer Hill
 BattleFacility_TrainerBattle_PlaceholderText:
-	.string "This is a sample message.$"
+	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 gText_BattlePyramidConfirmRest::
-	.string "Your BATTLE PYRAMID quest will be\n"
-	.string "saved so that you may quit for now.\l"
-	.string "Is that okay?$"
+.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
+.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 gText_BattlePyramidConfirmRetire::
-	.string "Are you sure you want to quit your\n"
-	.string "PYRAMID quest?$"
+.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
+	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 
 BattlePyramid_Text_ExitHintUp1::
-	.string "This floor's exit is in\n"
-	.string "that direction: {UP_ARROW}$"
+.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
+	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
 
 BattlePyramid_Text_ExitHintLeft1::
-	.string "This floor's exit is in\n"
-	.string "that direction: {LEFT_ARROW}$"
+.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!$"
 
 BattlePyramid_Text_ExitHintRight1::
-	.string "This floor's exit is in\n"
-	.string "that direction: {RIGHT_ARROW}$"
+.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
+	.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
 
 BattlePyramid_Text_ExitHintDown1::
-	.string "This floor's exit is in\n"
-	.string "that direction: {DOWN_ARROW}$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
+	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 
 BattlePyramid_Text_ExitHintUp2::
-	.string "The exit on this floor is in\n"
-	.string "the {UP_ARROW} direction.$"
+.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 BattlePyramid_Text_ExitHintLeft2::
-	.string "The exit on this floor is in\n"
-	.string "the {LEFT_ARROW} direction.$"
+.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
+	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
 
 BattlePyramid_Text_ExitHintRight2::
-	.string "The exit on this floor is in\n"
-	.string "the {RIGHT_ARROW} direction.$"
+.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
 
 BattlePyramid_Text_ExitHintDown2::
-	.string "The exit on this floor is in\n"
-	.string "the {DOWN_ARROW} direction.$"
+.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
 
 BattlePyramid_Text_ExitHintUp3::
-	.string "The exit is over\n"
-	.string "that {UP_ARROW} way.$"
+.string "Parabens, Lucas! Sua jornada\napenas comecou."
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!$"
 
 BattlePyramid_Text_ExitHintLeft3::
-	.string "The exit is over\n"
-	.string "that {LEFT_ARROW} way.$"
+.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
+	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
 
 BattlePyramid_Text_ExitHintRight3::
-	.string "The exit is over\n"
-	.string "that {RIGHT_ARROW} way.$"
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
+.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!$"
 
 BattlePyramid_Text_ExitHintDown3::
-	.string "The exit is over\n"
-	.string "that {DOWN_ARROW} way.$"
+.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
 
 BattlePyramid_Text_ExitHintUp4::
-	.string "On this floor, the exit is somewhere\n"
-	.string "in the {UP_ARROW} direction.$"
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
+	.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 BattlePyramid_Text_ExitHintLeft4::
-	.string "On this floor, the exit is somewhere\n"
-	.string "in the {LEFT_ARROW} direction.$"
+.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou."
+.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!$"
 
 BattlePyramid_Text_ExitHintRight4::
-	.string "On this floor, the exit is somewhere\n"
-	.string "in the {RIGHT_ARROW} direction.$"
+.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
+	.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 BattlePyramid_Text_ExitHintDown4::
-	.string "On this floor, the exit is somewhere\n"
-	.string "in the {DOWN_ARROW} direction.$"
+.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 BattlePyramid_Text_ExitHintUp5::
-	.string "The exit?\n"
-	.string "It's that {UP_ARROW} way.$"
+.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
+.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!$"
 
 BattlePyramid_Text_ExitHintLeft5::
-	.string "The exit?\n"
-	.string "It's that {LEFT_ARROW} way.$"
+.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
+.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 BattlePyramid_Text_ExitHintRight5::
-	.string "The exit?\n"
-	.string "It's that {RIGHT_ARROW} way.$"
+.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
+.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!$"
 
 BattlePyramid_Text_ExitHintDown5::
-	.string "The exit?\n"
-	.string "It's that {DOWN_ARROW} way.$"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!$"
 
 BattlePyramid_Text_ExitHintUp6::
-	.string "The exit happens to be in\n"
-	.string "the {UP_ARROW} direction.$"
+.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
+.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 BattlePyramid_Text_ExitHintLeft6::
-	.string "The exit happens to be in\n"
-	.string "the {LEFT_ARROW} direction.$"
+.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!$"
 
 BattlePyramid_Text_ExitHintRight6::
-	.string "The exit happens to be in\n"
-	.string "the {RIGHT_ARROW} direction.$"
+.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
 
 BattlePyramid_Text_ExitHintDown6::
-	.string "The exit happens to be in\n"
-	.string "the {DOWN_ARROW} direction.$"
+.string "Parabens, Lucas! Sua jornada\napenas comecou."
+	.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
 
 BattlePyramid_Text_EightItemsRemaining1::
-	.string "Are you looking for items?\p"
-	.string "There are eight items left to\n"
-	.string "be found.$"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
+.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
+	.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 BattlePyramid_Text_SevenItemsRemaining1::
-	.string "Are you looking for items?\p"
-	.string "There are seven items left to\n"
-	.string "be found.$"
+.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
+.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!$"
 
 BattlePyramid_Text_SixItemsRemaining1::
-	.string "Are you looking for items?\p"
-	.string "There are six items left to\n"
-	.string "be found.$"
+.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!"
+.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
+	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 BattlePyramid_Text_FiveItemsRemaining1::
-	.string "Are you looking for items?\p"
-	.string "There are five items left to\n"
-	.string "be found.$"
+.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
+	.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 BattlePyramid_Text_FourItemsRemaining1::
-	.string "Are you looking for items?\p"
-	.string "There are four items left to\n"
-	.string "be found.$"
+.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou."
+.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!$"
 
 BattlePyramid_Text_ThreeItemsRemaining1::
-	.string "Are you looking for items?\p"
-	.string "There are three items left to\n"
-	.string "be found.$"
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 BattlePyramid_Text_TwoItemsRemaining1::
-	.string "Are you looking for items?\p"
-	.string "There are two items left to\n"
-	.string "be found.$"
+.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
+.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!$"
 
 BattlePyramid_Text_OneItemRemaining1::
-	.string "Are you looking for items?\p"
-	.string "There is one item left to\n"
-	.string "be found.$"
+.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
+.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
+.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
 
 BattlePyramid_Text_ZeroItemsRemaining1::
-	.string "Are you looking for items?\p"
-	.string "There isn't anything left to\n"
-	.string "be found!$"
+.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
 
 BattlePyramid_Text_EightItemsRemaining2::
-	.string "Because you won, I'll tell you\n"
-	.string "a little secret!\p"
-	.string "There are eight items\n"
-	.string "lying around here.$"
+.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
+	.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 BattlePyramid_Text_SevenItemsRemaining2::
-	.string "Because you won, I'll tell you\n"
-	.string "a little secret!\p"
-	.string "There are seven items left\n"
-	.string "lying around here.$"
+.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
+.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
+.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
 
 BattlePyramid_Text_SixItemsRemaining2::
-	.string "Because you won, I'll tell you\n"
-	.string "a little secret!\p"
-	.string "There are six items left\n"
-	.string "lying around here.$"
+.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
+.string "Parabens, Lucas! Sua jornada\napenas comecou."
+.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
+	.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
 
 BattlePyramid_Text_FiveItemsRemaining2::
-	.string "Because you won, I'll tell you\n"
-	.string "a little secret!\p"
-	.string "There are five items left\n"
-	.string "lying around here.$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
+.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
 
 BattlePyramid_Text_FourItemsRemaining2::
-	.string "Because you won, I'll tell you\n"
-	.string "a little secret!\p"
-	.string "There are four items left\n"
-	.string "lying around here.$"
+.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
+.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
+.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!$"
 
 BattlePyramid_Text_ThreeItemsRemaining2::
-	.string "Because you won, I'll tell you\n"
-	.string "a little secret!\p"
-	.string "There are three items left\n"
-	.string "lying around here.$"
+.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 BattlePyramid_Text_TwoItemsRemaining2::
-	.string "Because you won, I'll tell you\n"
-	.string "a little secret!\p"
-	.string "There are two items left\n"
-	.string "lying around here.$"
+.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
+.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
+.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
+	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 BattlePyramid_Text_OneItemRemaining2::
-	.string "Because you won, I'll tell you\n"
-	.string "a little secret!\p"
-	.string "There is just one item\n"
-	.string "lying around here.$"
+.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
+.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
+	.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 BattlePyramid_Text_ZeroItemsRemaining2::
-	.string "Because you won, I'll tell you\n"
-	.string "a little secret!\p"
-	.string "There isn't anything left\n"
-	.string "lying around here.$"
+.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
 
 BattlePyramid_Text_EightItemsRemaining3::
-	.string "How's your stock of items holding up?\p"
-	.string "I reckon there are eight items left\n"
-	.string "waiting to be found on this floor.$"
+.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
+.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
 
 BattlePyramid_Text_SevenItemsRemaining3::
-	.string "How's your stock of items holding up?\p"
-	.string "I reckon there are seven items left\n"
-	.string "waiting to be found on this floor.$"
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
+.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!$"
 
 BattlePyramid_Text_SixItemsRemaining3::
-	.string "How's your stock of items holding up?\p"
-	.string "I reckon there are six items left\n"
-	.string "waiting to be found on this floor.$"
+.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
+.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
+	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
 
 BattlePyramid_Text_FiveItemsRemaining3::
-	.string "How's your stock of items holding up?\p"
-	.string "I reckon there are five items left\n"
-	.string "waiting to be found on this floor.$"
+.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
+.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
+	.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
 
 BattlePyramid_Text_FourItemsRemaining3::
-	.string "How's your stock of items holding up?\p"
-	.string "I reckon there are four items left\n"
-	.string "waiting to be found on this floor.$"
+.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
+.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
 
 BattlePyramid_Text_ThreeItemsRemaining3::
-	.string "How's your stock of items holding up?\p"
-	.string "I reckon there are three items left\n"
-	.string "waiting to be found on this floor.$"
+.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
+.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
+.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!$"
 
 BattlePyramid_Text_TwoItemsRemaining3::
-	.string "How's your stock of items holding up?\p"
-	.string "I reckon there are two items left\n"
-	.string "waiting to be found on this floor.$"
+.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
+	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
 
 BattlePyramid_Text_OneItemRemaining3::
-	.string "How's your stock of items holding up?\p"
-	.string "I reckon there's but one item left\n"
-	.string "waiting to be found on this floor.$"
+.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
+.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
 
 BattlePyramid_Text_ZeroItemsRemaining3::
-	.string "How's your stock of items holding up?\p"
-	.string "I reckon there are no more items\n"
-	.string "waiting to be found on this floor.\l"
-	.string "You take care now!$"
+.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
+.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
+.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!$"
 
 BattlePyramid_Text_EightItemsRemaining4::
-	.string "You're strong, so you've earned\n"
-	.string "a hint!\p"
-	.string "There appear to be eight more\n"
-	.string "items on the ground.$"
+.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
+.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
+.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!$"
 
 BattlePyramid_Text_SevenItemsRemaining4::
-	.string "You're strong, so you've earned\n"
-	.string "a hint!\p"
-	.string "There appear to be seven more\n"
-	.string "items on the ground.$"
+.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
+.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 BattlePyramid_Text_SixItemsRemaining4::
-	.string "You're strong, so you've earned\n"
-	.string "a hint!\p"
-	.string "There appear to be six more\n"
-	.string "items on the ground.$"
+.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
+.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 BattlePyramid_Text_FiveItemsRemaining4::
-	.string "You're strong, so you've earned\n"
-	.string "a hint!\p"
-	.string "There appear to be five more\n"
-	.string "items on the ground.$"
+.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
+.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
+.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
+.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
 
 BattlePyramid_Text_FourItemsRemaining4::
-	.string "You're strong, so you've earned\n"
-	.string "a hint!\p"
-	.string "There appear to be four more\n"
-	.string "items on the ground.$"
+.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
+	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
 
 BattlePyramid_Text_ThreeItemsRemaining4::
-	.string "You're strong, so you've earned\n"
-	.string "a hint!\p"
-	.string "There appear to be three more\n"
-	.string "items on the ground.$"
+.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
+.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
+	.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 BattlePyramid_Text_TwoItemsRemaining4::
-	.string "You're strong, so you've earned\n"
-	.string "a hint!\p"
-	.string "There appear to be two more\n"
-	.string "items on the ground.$"
+.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
+.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!$"
 
 BattlePyramid_Text_OneItemRemaining4::
-	.string "You're strong, so you've earned\n"
-	.string "a hint!\p"
-	.string "There appears to be only one more\n"
-	.string "item on the ground.$"
+.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou."
+.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
+	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
 
 BattlePyramid_Text_ZeroItemsRemaining4::
-	.string "You're strong, so you've earned\n"
-	.string "a hint!\p"
-	.string "There appear to be no more\n"
-	.string "items on the ground.$"
+.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
+.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
+	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
 
 BattlePyramid_Text_EightItemsRemaining5::
-	.string "On this floor of the PYRAMID,\n"
-	.string "I hear there are eight items…$"
+.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!$"
 
 BattlePyramid_Text_SevenItemsRemaining5::
-	.string "On this floor of the PYRAMID,\n"
-	.string "I hear there are seven items…$"
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
+	.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 BattlePyramid_Text_SixItemsRemaining5::
-	.string "On this floor of the PYRAMID,\n"
-	.string "I hear there are six items…$"
+.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
+.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!$"
 
 BattlePyramid_Text_FiveItemsRemaining5::
-	.string "On this floor of the PYRAMID,\n"
-	.string "I hear there are five items…$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!$"
 
 BattlePyramid_Text_FourItemsRemaining5::
-	.string "On this floor of the PYRAMID,\n"
-	.string "I hear there are four items…$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
+	.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
 
 BattlePyramid_Text_ThreeItemsRemaining5::
-	.string "On this floor of the PYRAMID,\n"
-	.string "I hear there are three items…$"
+.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!$"
 
 BattlePyramid_Text_TwoItemsRemaining5::
-	.string "On this floor of the PYRAMID,\n"
-	.string "I hear there are two items…$"
+.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!$"
 
 BattlePyramid_Text_OneItemRemaining5::
-	.string "On this floor of the PYRAMID,\n"
-	.string "I hear there is one item…$"
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
+	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
 
 BattlePyramid_Text_ZeroItemsRemaining5::
-	.string "On this floor of the PYRAMID,\n"
-	.string "I hear there are no items…$"
+.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
+	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
 
 BattlePyramid_Text_EightItemsRemaining6::
-	.string "Have you collected any items?\p"
-	.string "I believe there are eight more\n"
-	.string "items on this floor.$"
+.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
+.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!$"
 
 BattlePyramid_Text_SevenItemsRemaining6::
-	.string "Have you collected any items?\p"
-	.string "I believe there are seven more\n"
-	.string "items on this floor.$"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
+	.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 BattlePyramid_Text_SixItemsRemaining6::
-	.string "Have you collected any items?\p"
-	.string "I believe there are six more\n"
-	.string "items on this floor.$"
+.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
+	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
 
 BattlePyramid_Text_FiveItemsRemaining6::
-	.string "Have you collected any items?\p"
-	.string "I believe there are five more\n"
-	.string "items on this floor.$"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
+.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
+	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 
 BattlePyramid_Text_FourItemsRemaining6::
-	.string "Have you collected any items?\p"
-	.string "I believe there are four more\n"
-	.string "items on this floor.$"
+.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
+.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
+	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
 
 BattlePyramid_Text_ThreeItemsRemaining6::
-	.string "Have you collected any items?\p"
-	.string "I believe there are three more\n"
-	.string "items on this floor.$"
+.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!"
+.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!$"
 
 BattlePyramid_Text_TwoItemsRemaining6::
-	.string "Have you collected any items?\p"
-	.string "I believe there are two more\n"
-	.string "items on this floor.$"
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
+.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
+	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
 
 BattlePyramid_Text_OneItemRemaining6::
-	.string "Have you collected any items?\p"
-	.string "I believe there is one more\n"
-	.string "item on this floor.$"
+.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!$"
 
 BattlePyramid_Text_ZeroItemsRemaining6::
-	.string "Have you collected any items?\p"
-	.string "I believe there are no more\n"
-	.string "items on this floor.$"
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
+.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
+	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
 
 BattlePyramid_Text_SevenTrainersRemaining1::
-	.string "You were really awesome!\p"
-	.string "But there are still seven tough\n"
-	.string "TRAINERS other than me!$"
+.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!$"
 
 BattlePyramid_Text_SixTrainersRemaining1::
-	.string "You were really awesome!\p"
-	.string "But there are still six tough\n"
-	.string "TRAINERS other than me!$"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
 
 BattlePyramid_Text_FiveTrainersRemaining1::
-	.string "You were really awesome!\p"
-	.string "But there are still five tough\n"
-	.string "TRAINERS other than me!$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
+.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!$"
 
 BattlePyramid_Text_FourTrainersRemaining1::
-	.string "You were really awesome!\p"
-	.string "But there are still four tough\n"
-	.string "TRAINERS other than me!$"
+.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
+	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
 
 BattlePyramid_Text_ThreeTrainersRemaining1::
-	.string "You were really awesome!\p"
-	.string "But there are still three tough\n"
-	.string "TRAINERS other than me!$"
+.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
 
 BattlePyramid_Text_TwoTrainersRemaining1::
-	.string "You were really awesome!\p"
-	.string "But there are still two tough\n"
-	.string "TRAINERS other than me!$"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
+.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!$"
 
 BattlePyramid_Text_OneTrainersRemaining1::
-	.string "You were really awesome!\p"
-	.string "But there's still one tough\n"
-	.string "TRAINER other than me!$"
+.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
+.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
+.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!$"
 
 BattlePyramid_Text_ZeroTrainersRemaining1::
-	.string "You were really awesome!\p"
-	.string "There's no one left that\n"
-	.string "can beat you!$"
+.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
+.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
+	.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 BattlePyramid_Text_SevenTrainersRemaining2::
-	.string "This is so upsetting!\p"
-	.string "But there are seven TRAINERS left!\n"
-	.string "Someone will humble you!$"
+.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
+.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!$"
 
 BattlePyramid_Text_SixTrainersRemaining2::
-	.string "This is so upsetting!\p"
-	.string "But there are six TRAINERS left!\n"
-	.string "Someone will humble you!$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
+.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!$"
 
 BattlePyramid_Text_FiveTrainersRemaining2::
-	.string "This is so upsetting!\p"
-	.string "But there are five TRAINERS left!\n"
-	.string "Someone will humble you!$"
+.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!$"
 
 BattlePyramid_Text_FourTrainersRemaining2::
-	.string "This is so upsetting!\p"
-	.string "But there are four TRAINERS left!\n"
-	.string "Someone will humble you!$"
+.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
+	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
 
 BattlePyramid_Text_ThreeTrainersRemaining2::
-	.string "This is so upsetting!\p"
-	.string "But there are three TRAINERS left!\n"
-	.string "Someone will humble you!$"
+.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
+.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
+.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!$"
 
 BattlePyramid_Text_TwoTrainersRemaining2::
-	.string "This is so upsetting!\p"
-	.string "But there are two TRAINERS left!\n"
-	.string "Someone will humble you!$"
+.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
+.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
 
 BattlePyramid_Text_OneTrainersRemaining2::
-	.string "This is so upsetting!\p"
-	.string "But there's one TRAINER left!\n"
-	.string "I'm sure you will be humbled!$"
+.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
 
 BattlePyramid_Text_ZeroTrainersRemaining2::
-	.string "This is so upsetting!\p"
-	.string "But there are no more TRAINERS\n"
-	.string "who can engage you!$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
+.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!"
+	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
 
 BattlePyramid_Text_SevenTrainersRemaining3::
-	.string "That's pretty impressive!\p"
-	.string "But there are seven more TRAINERS\n"
-	.string "on this floor. Can you beat them all?$"
+.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
+.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
+.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
 
 BattlePyramid_Text_SixTrainersRemaining3::
-	.string "That's pretty impressive!\p"
-	.string "But there are six more TRAINERS\n"
-	.string "on this floor. Can you beat them all?$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
+.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
+	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
 
 BattlePyramid_Text_FiveTrainersRemaining3::
-	.string "That's pretty impressive!\p"
-	.string "But there are five more TRAINERS\n"
-	.string "on this floor. Can you beat them all?$"
+.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
+.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
+.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
 
 BattlePyramid_Text_FourTrainersRemaining3::
-	.string "That's pretty impressive!\p"
-	.string "But there are four more TRAINERS\n"
-	.string "on this floor. Can you beat them all?$"
+.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
+.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!$"
 
 BattlePyramid_Text_ThreeTrainersRemaining3::
-	.string "That's pretty impressive!\p"
-	.string "But there are three more TRAINERS\n"
-	.string "on this floor. Can you beat them all?$"
+.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
+	.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
 
 BattlePyramid_Text_TwoTrainersRemaining3::
-	.string "That's pretty impressive!\p"
-	.string "But there are two more TRAINERS\n"
-	.string "on this floor. Can you beat them both?$"
+.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
+	.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
 
 BattlePyramid_Text_OneTrainersRemaining3::
-	.string "That's pretty impressive!\p"
-	.string "But there's still one more TRAINER\n"
-	.string "on this floor. Can you prevail?$"
+.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
+	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 BattlePyramid_Text_ZeroTrainersRemaining3::
-	.string "That's pretty impressive!\p"
-	.string "You've gone through all the TRAINERS\n"
-	.string "on this floor.$"
+.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
+	.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
 
 BattlePyramid_Text_SevenTrainersRemaining4::
-	.string "Maybe you could sweep through\n"
-	.string "the seven TRAINERS left on this floor.$"
+.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
 
 BattlePyramid_Text_SixTrainersRemaining4::
-	.string "Maybe you could sweep through\n"
-	.string "the six TRAINERS left on this floor.$"
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
+	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
 
 BattlePyramid_Text_FiveTrainersRemaining4::
-	.string "Maybe you could sweep through\n"
-	.string "the five TRAINERS left on this floor.$"
+.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
+	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
 
 BattlePyramid_Text_FourTrainersRemaining4::
-	.string "Maybe you could sweep through\n"
-	.string "the four TRAINERS left on this floor.$"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!$"
 
 BattlePyramid_Text_ThreeTrainersRemaining4::
-	.string "Maybe you could sweep through\n"
-	.string "the three TRAINERS left on this floor.$"
+.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!$"
 
 BattlePyramid_Text_TwoTrainersRemaining4::
-	.string "Maybe you could sweep through\n"
-	.string "the two TRAINERS left on this floor.$"
+.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
+.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!$"
 
 BattlePyramid_Text_OneTrainersRemaining4::
-	.string "Maybe you could complete your sweep\n"
-	.string "with the one TRAINER left on this floor.$"
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
+	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
 
 BattlePyramid_Text_ZeroTrainersRemaining4::
-	.string "There isn't a single person left who\n"
-	.string "can defeat you now…$"
+.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
+	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
 
 BattlePyramid_Text_SevenTrainersRemaining5::
-	.string "You may have what it takes to beat\n"
-	.string "the seven expert TRAINERS who remain.$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
+.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!$"
 
 BattlePyramid_Text_SixTrainersRemaining5::
-	.string "You may have what it takes to beat\n"
-	.string "the six expert TRAINERS who remain.$"
+.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
+.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
 
 BattlePyramid_Text_FiveTrainersRemaining5::
-	.string "You may have what it takes to beat\n"
-	.string "the five expert TRAINERS who remain.$"
+.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
+.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
 
 BattlePyramid_Text_FourTrainersRemaining5::
-	.string "You may have what it takes to beat\n"
-	.string "the four expert TRAINERS who remain.$"
+.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
+	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
 
 BattlePyramid_Text_ThreeTrainersRemaining5::
-	.string "You may have what it takes to beat\n"
-	.string "the three expert TRAINERS who remain.$"
+.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
+.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!$"
 
 BattlePyramid_Text_TwoTrainersRemaining5::
-	.string "You may have what it takes to beat\n"
-	.string "the two expert TRAINERS who remain.$"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
+.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!$"
 
 BattlePyramid_Text_OneTrainersRemaining5::
-	.string "You may have what it takes to beat\n"
-	.string "the one expert TRAINER who remains.$"
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
 
 BattlePyramid_Text_ZeroTrainersRemaining5::
-	.string "Your skills are beyond reproach.\p"
-	.string "There are no more TRAINERS here\n"
-	.string "who have any chance of beating you.$"
+.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
 
 BattlePyramid_Text_SevenTrainersRemaining6::
-	.string "Can you keep winning against\n"
-	.string "the seven remaining TRAINERS?$"
+.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
 
 BattlePyramid_Text_SixTrainersRemaining6::
-	.string "Can you keep winning against\n"
-	.string "the six remaining TRAINERS?$"
+.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
+	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
 
 BattlePyramid_Text_FiveTrainersRemaining6::
-	.string "Can you keep winning against\n"
-	.string "the five remaining TRAINERS?$"
+.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
+.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!$"
 
 BattlePyramid_Text_FourTrainersRemaining6::
-	.string "Can you keep winning against\n"
-	.string "the four remaining TRAINERS?$"
+.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
+.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!$"
 
 BattlePyramid_Text_ThreeTrainersRemaining6::
-	.string "Can you keep winning against\n"
-	.string "the three remaining TRAINERS?$"
+.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
+	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
 
 BattlePyramid_Text_TwoTrainersRemaining6::
-	.string "Can you keep winning against\n"
-	.string "the two remaining TRAINERS?$"
+.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
+	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 BattlePyramid_Text_OneTrainersRemaining6::
-	.string "Can you keep winning against\n"
-	.string "the last remaining TRAINER?$"
+.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
+	.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
 
 BattlePyramid_Text_ZeroTrainersRemaining6::
-	.string "There aren't any TRAINERS left that\n"
-	.string "can take you on now…$"
+.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
+.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!$"

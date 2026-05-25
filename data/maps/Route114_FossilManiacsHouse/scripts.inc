@@ -31,24 +31,24 @@ Route114_FossilManiacsHouse_EventScript_Bookshelf::
 	end
 
 Route114_FossilManiacsHouse_Text_HaveThisToDigLikeMyBrother:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pMy big brother's the FOSSIL MANIAC…\n"
-	.string "He's a nice guy who loves FOSSILS…\p"
-	.string "He loves digging holes, too…\n"
-	.string "He dug this hole by himself…\p"
-	.string "You can have this, so you can DIG\n"
-	.string "holes just like my big brother…$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pMy big brother's the FOSSIL MANIAC...\n"
+.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
+.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
+.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
 
 Route114_FossilManiacsHouse_Text_DigReturnsYouToEntrance:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pIf you make a POKéMON DIG inside a\n"
-	.string "cave, you're returned to the entrance…$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pIf you make a POKeMON DIG inside a\n"
+	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 Route114_FossilManiacsHouse_Text_RocksFillDisplayCase:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pRocks in peculiar shapes fill\n"
-	.string "the display case…$"
+	.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 Route114_FossilManiacsHouse_Text_CrammedWithBooks:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pTHE COMPOSITION OF STRATA…\n"
-	.string "HOW RAIN SHAPES THE LAND…\l"
-	.string "STONES, SOIL, AND ROCK…\p"
-	.string "It's crammed with books.$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pTHE COMPOSITION OF STRATA...\n"
+.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
+.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!"
+.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
 

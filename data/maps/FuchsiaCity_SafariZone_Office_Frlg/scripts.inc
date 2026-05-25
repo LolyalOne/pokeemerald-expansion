@@ -18,27 +18,27 @@ FuchsiaCity_SafariZone_Office_EventScript_Worker4::
 	end
 
 FuchsiaCity_SafariZone_Office_Text_NicknamedWardenSlowpoke::
-	.string "We nicknamed the WARDEN\n"
-	.string "“SLOWPOKE.”\p"
-	.string "You know, he has that vacant look\n"
-	.string "like a SLOWPOKE.$"
+.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
+.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
+.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
 
 FuchsiaCity_SafariZone_Office_Text_WardenIsVeryKnowledgeable::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWARDEN SLOWPOKE is very\n"
-	.string "knowledgeable about POKéMON.\p"
-	.string "He even has some fossils of rare,\n"
-	.string "extinct POKéMON.$"
+.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
+.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
+.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
 
 FuchsiaCity_SafariZone_Office_Text_CouldntUnderstandWarden::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pWARDEN SLOWPOKE came in, but\n"
-	.string "I couldn't understand him.\p"
-	.string "I think he's got a speech problem!$"
+.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
+	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
 
 FuchsiaCity_SafariZone_Office_Text_PrizeInSafariZone::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWARDEN SLOWPOKE is running a\n"
-	.string "promotion campaign right now.\p"
-	.string "Try to get to the farthest corner\n"
-	.string "of the SAFARI ZONE.\p"
-	.string "If you can make it, you'll win a\n"
-	.string "very convenient prize.$"
+.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
+.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
+.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
+	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
 

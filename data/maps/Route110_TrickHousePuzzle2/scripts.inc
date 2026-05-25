@@ -101,41 +101,41 @@ Route110_TrickHousePuzzle2_EventScript_Georgia::
 
 Route110_TrickHousePuzzle2_Text_WroteSecretCodeLockOpened:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p{PLAYER} wrote down the secret code\n"
-	.string "on the door.\p"
-	.string "“TRICK MASTER is smart.”\n"
-	.string "… … … … … … … …\p"
-	.string "The lock clicked open!$"
+.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
+.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
+	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
 
 Route110_TrickHousePuzzle2_Text_TedIntro:
-	.string "Which switch closes which hole?$"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 
 Route110_TrickHousePuzzle2_Text_TedDefeat:
-	.string "After that battle, I'm even more\n"
-	.string "confused!$"
+.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
 
 Route110_TrickHousePuzzle2_Text_TedPostBattle:
-	.string "Can I get you to push all the buttons\n"
-	.string "for me?$"
+.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
+	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 Route110_TrickHousePuzzle2_Text_PaulIntro:
-	.string "Oh! You're on your second TRICK HOUSE\n"
-	.string "challenge!$"
+.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
 
 Route110_TrickHousePuzzle2_Text_PaulDefeat:
-	.string "You're good at battling too?$"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 
 Route110_TrickHousePuzzle2_Text_PaulPostBattle:
-	.string "The TRICK MASTER rigged all the tricks\n"
-	.string "in this house all by himself.$"
+.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
+.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!$"
 
 Route110_TrickHousePuzzle2_Text_GeorgiaIntro:
-	.string "I want to make my own GYM one day.\n"
-	.string "So, I'm studying how to set traps.$"
+.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
 
 Route110_TrickHousePuzzle2_Text_GeorgiaDefeat:
-	.string "I didn't study battling enough!$"
+	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 Route110_TrickHousePuzzle2_Text_GeorgiaPostBattle:
-	.string "You're strong, aren't you?\n"
-	.string "Maybe even enough to be a GYM LEADER!$"
+.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
+	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 

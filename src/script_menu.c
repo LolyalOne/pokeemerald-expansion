@@ -17,6 +17,8 @@
 #include "malloc.h"
 #include "util.h"
 #include "item_icon.h"
+#include "decompress.h"
+#include "sprite.h"
 #include "constants/field_specials.h"
 #include "constants/items.h"
 #include "constants/script_menu.h"
@@ -956,7 +958,16 @@ static void Task_PokemonPicWindow(u8 taskId)
         // Wait until state is advanced by ScriptMenu_HidePokemonPic
         break;
     case 2:
-        FreeResourcesAndDestroySprite(&gSprites[task->tMonSpriteId], task->tMonSpriteId);
+        if (task->tMonSpecies >= 10000 && task->tMonSpecies <= 10005)
+        {
+            FreeSpriteTilesByTag(task->tMonSpecies);
+            FreeSpritePaletteByTag(task->tMonSpecies);
+            DestroySprite(&gSprites[task->tMonSpriteId]);
+        }
+        else
+        {
+            FreeResourcesAndDestroySprite(&gSprites[task->tMonSpriteId], task->tMonSpriteId);
+        }
         task->tState++;
         break;
     case 3:
@@ -965,6 +976,8 @@ static void Task_PokemonPicWindow(u8 taskId)
         break;
     }
 }
+
+#include "data/mugshots.h"
 
 bool8 ScriptMenu_ShowPokemonPic(u16 species, u8 x, u8 y)
 {
@@ -977,7 +990,25 @@ bool8 ScriptMenu_ShowPokemonPic(u16 species, u8 x, u8 y)
     }
     else
     {
-        spriteId = CreateMonSprite_PicBox(species, x * 8 + 40, y * 8 + 40, 0);
+        if (species >= 10000 && species <= 10005)
+        {
+            u8 mugshotId = species - 10000;
+            struct SpriteTemplate template;
+            
+            LoadCompressedSpriteSheet(&sMugshotSpriteSheets[mugshotId]);
+            LoadSpritePalette(&sMugshotPalettes[mugshotId]);
+
+            template = sSpriteTemplate_Mugshot;
+            template.tileTag = sMugshotSpriteSheets[mugshotId].tag;
+            template.paletteTag = sMugshotPalettes[mugshotId].tag;
+
+            spriteId = CreateSprite(&template, x * 8 + 40, y * 8 + 40, 0);
+        }
+        else
+        {
+            spriteId = CreateMonSprite_PicBox(species, x * 8 + 40, y * 8 + 40, 0);
+        }
+        
         taskId = CreateTask(Task_PokemonPicWindow, 0x50);
         gTasks[taskId].tWindowId = CreateWindowFromRect(x, y, 8, 8);
         gTasks[taskId].tState = 0;

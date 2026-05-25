@@ -240,71 +240,71 @@ BattleFrontier_BattleFactoryBattleRoom_EventScript_ScientistsFaceBattle::
 	return
 
 BattleFrontier_BattleFactoryBattleRoom_Text_GetAMoveOn:
-	.string "Hey, hey!\n"
-	.string "Get a move on!$"
+.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
+	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_NolandImFactoryHead:
-	.string "Hey, my name's NOLAND!\n"
-	.string "I'm basically in charge of this place,\l"
-	.string "which is why I'm the FACTORY HEAD!\p"
-	.string "I had a look at your Battle Swap data.\p"
-	.string "You seem to have the right idea,\n"
-	.string "but you're still square in your head!\p"
-	.string "Listen up, okay? Knowledge isn't only\n"
-	.string "about reading books or doing desk work.\p"
-	.string "Just doing that sort of thing…\n"
-	.string "It may as well be useless!\p"
-	.string "You have to experience things with\n"
-	.string "your heart and your body, understand?\p"
-	.string "I'll take you on under the same\n"
-	.string "conditions as you.\p"
-	.string "I'll be using rental POKéMON, too!$"
+.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
+.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
+.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
+.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
+.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
+.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
+.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
+.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
+.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_ShakeOutKnowledgeBringItOn:
-	.string "Shake out every last bit of your\n"
-	.string "knowledge and bring it on!$"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
+.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_NolandLetsSeeFrontierPass:
-	.string "NOLAND: Smart going!\n"
-	.string "Let's see your FRONTIER PASS.$"
+.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
+.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_ReceivedKnowledgeSymbol:
-	.string "The Knowledge Symbol was embossed\n"
-	.string "on the FRONTIER PASS!$"
+.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
+	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_NextTimeNoHoldsBarred:
-	.string "Heh…\n"
-	.string "You're a pretty bright spark…\p"
-	.string "Next time, I'll come after you hard.\n"
-	.string "No holds barred, understand?\p"
-	.string "You keep up your studies!$"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
+.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
+.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
+.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
+	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_HarderLookThanLastTime:
-	.string "NOLAND: Hey, hey! How's it going?\n"
-	.string "You keeping up with your studies?\p"
-	.string "…Oh?\p"
-	.string "You've taken on a harder look than\n"
-	.string "the last time I saw you.\p"
-	.string "Now, this should be fun!\n"
-	.string "I'm getting excited, hey!$"
+.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
+.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
+.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_AllRightBringItOn:
-	.string "All right!\n"
-	.string "Bring it on!$"
+.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
+	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_OutOfMyLeagueLetsSeePass:
-	.string "NOLAND: What the…\n"
-	.string "You're getting out of my league!\p"
-	.string "Sheesh!\n"
-	.string "Let's see that FRONTIER PASS!$"
+.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
+.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou.$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_KnowledgeSymbolTookGoldenShine:
-	.string "The Knowledge Symbol took on\n"
-	.string "a golden shine!$"
+.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
+.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_LastTimeILoseToYou:
-	.string "Pfft, man!\p"
-	.string "That's absolutely the last time\n"
-	.string "I lose to you!\p"
-	.string "We have to do this again, hey?$"
+.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
+.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
+.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
+	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
 

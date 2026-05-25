@@ -7,9 +7,9 @@ FiveIsland_House2_EventScript_OldMan::
 
 FiveIsland_House2_Text_MeadowBelongedToFamily::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThat MEADOW has belonged to our\n"
-	.string "family for generations.\p"
-	.string "I should have had a giant mansion\n"
-	.string "built on it.\p"
-	.string "It would be preferable to having\n"
-	.string "those thugs run wild on it!$"
+.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
+.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
+.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!"
+.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
+.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
 

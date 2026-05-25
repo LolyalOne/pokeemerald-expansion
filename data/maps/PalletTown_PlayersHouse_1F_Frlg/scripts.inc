@@ -54,39 +54,39 @@ PalletTown_PlayersHouse_1F_EventScript_TVScreenFemale::
 	return
 
 PalletTown_PlayersHouse_1F_Text_AllBoysLeaveOakLookingForYou::
-	.string "MOM: …Right.\n"
-	.string "All boys leave home someday.\l"
-	.string "It said so on TV.\p"
-	.string "Oh, yes. PROF. OAK, next door, was\n"
-	.string "looking for you.$"
+.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
+.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
+.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
 
 PalletTown_PlayersHouse_1F_Text_AllGirlsLeaveOakLookingForYou::
-	.string "MOM: …Right.\n"
-	.string "All girls dream of traveling.\l"
-	.string "It said so on TV.\p"
-	.string "Oh, yes. PROF. OAK, next door, was\n"
-	.string "looking for you.$"
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
+.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
+	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 
 PalletTown_PlayersHouse_1F_Text_YouShouldTakeQuickRest::
 	.string "MOM: {PLAYER}!\n"
-	.string "You should take a quick rest.$"
+.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!$"
 
 PalletTown_PlayersHouse_1F_Text_LookingGreatTakeCare::
-	.string "MOM: Oh, good! You and your\n"
-	.string "POKéMON are looking great.\l"
-	.string "Take care now!$"
+.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
+.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
+	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 PalletTown_PlayersHouse_1F_Text_MovieOnTVFourBoysOnRailroad::
-	.string "There's a movie on TV.\n"
-	.string "Four boys are walking on railroad\l"
-	.string "tracks.\p"
-	.string "…I better go, too.$"
+.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
+.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
+.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!$"
 
 PalletTown_PlayersHouse_1F_Text_MovieOnTVGirlOnBrickRoad::
-	.string "There's a movie on TV.\n"
-	.string "A girl with her hair in pigtails is\l"
-	.string "walking up a brick road.\p"
-	.string "…I better go, too.$"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
+.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
+.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
+	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 PalletTown_PlayersHouse_1F_Text_OopsWrongSide::
-	.string "Oops, wrong side…$"
+.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!$"

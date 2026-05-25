@@ -36,22 +36,22 @@ Route16_House_EventScript_Fearow::
 
 Route16_House_Text_FoundMySecretRetreat::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pOh, dear.\n"
-	.string "You've found my secret retreat.\p"
-	.string "Please don't tell anyone I'm here.\n"
-	.string "I'll make it up to you with this!$"
+.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
+.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 Route16_House_Text_ReceivedHM02FromGirl::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p{PLAYER} received HM02\n"
-	.string "from the girl.$"
+	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 Route16_House_Text_ExplainHM02::
-	.string "HM02 is FLY.\n"
-	.string "It's a wonderfully convenient move.\p"
-	.string "Please, put it to good use.$"
+.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
+	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
 
 Route16_House_Text_DontHaveAnyRoomForThis::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pYou don't have any room for this.$"
+.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!$"
 
 Route16_House_Text_Fearow::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pFEAROW: Kyueen!$"
+	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
 

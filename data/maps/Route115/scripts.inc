@@ -131,15 +131,15 @@ Route115_EventScript_Marlene::
 
 Route115_Text_NeverKnowWhenCavePokemonWillAppear:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pExploring a cave isn't like walking\n"
-	.string "on a road.\p"
-	.string "You never know when wild POKéMON will\n"
-	.string "appear. It's full of suspense.$"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
+.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
+	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
 
 Route115_Text_RouteSignRustboro:
-	.string "ROUTE 115\n"
-	.string "{DOWN_ARROW} RUSTBORO CITY$"
+.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
+	.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 Route115_Text_MeteorFallsSign:
-	.string "METEOR FALLS\n"
-	.string "FALLARBOR TOWN THROUGH HERE$"
+.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
+.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!$"
 

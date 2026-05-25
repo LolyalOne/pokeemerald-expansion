@@ -44,24 +44,24 @@ VictoryRoad_1F_EventScript_Rolando::
 	end
 
 VictoryRoad_1F_Text_NaomiIntro::
-	.string "I wonder if you are good enough\n"
-	.string "for me?$"
+.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!"
+.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!$"
 
 VictoryRoad_1F_Text_NaomiDefeat::
-	.string "I lost out…$"
+	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
 
 VictoryRoad_1F_Text_NaomiPostBattle::
-	.string "I never wanted to lose to anybody,\n"
-	.string "especially to a younger kid…$"
+.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
+.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!$"
 
 VictoryRoad_1F_Text_RolandoIntro::
-	.string "I can see you're good.\n"
-	.string "Let me see exactly how good!$"
+.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
+.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
 
 VictoryRoad_1F_Text_RolandoDefeat::
-	.string "I had a chance…$"
+	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
 
 VictoryRoad_1F_Text_RolandoPostBattle::
-	.string "Tch!\n"
-	.string "I concede, you are better than I!$"
+.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
+	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
 

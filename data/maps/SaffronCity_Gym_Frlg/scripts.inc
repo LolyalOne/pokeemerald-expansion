@@ -96,162 +96,162 @@ SaffronCity_Gym_EventScript_GymStatuePostVictory::
 	end
 
 SaffronCity_Gym_Text_SabrinaIntro::
-	.string "I had a vision of your arrival.\p"
-	.string "I have had psychic powers since\n"
-	.string "I was a child.\p"
-	.string "It started when a spoon I\n"
-	.string "carelessly tossed, bent.\p"
-	.string "I dislike battling, but if you wish,\n"
-	.string "I will show you my powers!{PLAY_BGM}{MUS_RG_ENCOUNTER_GYM_LEADER}$"
+.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
+.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
+.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
+.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!$"
 
 SaffronCity_Gym_Text_SabrinaDefeat::
-	.string "This loss shocks me!\n"
-	.string "But, a loss is a loss.\p"
-	.string "I admit, I didn't work hard enough\n"
-	.string "to win.\p"
-	.string "Your victory has earned you the\n"
-	.string "MARSHBADGE.$"
+.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
+.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
+.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
+.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!$"
 
 SaffronCity_Gym_Text_SabrinaPostBattle::
-	.string "Psychic power isn't something that\n"
-	.string "only a few people have.\p"
-	.string "Everyone has psychic power.\n"
-	.string "People just don't realize it.$"
+.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
+.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
+.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
+.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!$"
 
 SaffronCity_Gym_Text_ExplainMarshBadgeTakeThis::
-	.string "The MARSHBADGE makes POKéMON up\n"
-	.string "to Lv. 70 obey you.\p"
-	.string "Stronger POKéMON will become wild,\n"
-	.string "ignoring your orders in battle.\p"
-	.string "Just don't raise your POKéMON too\n"
-	.string "much to avoid that problem.\p"
-	.string "Wait, please take this TM with you.$"
+.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
+.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+	.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 SaffronCity_Gym_Text_ReceivedTM04FromSabrina::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p{PLAYER} received TM04 from\n"
-	.string "SABRINA.$"
+.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou.$"
 
 SaffronCity_Gym_Text_ExplainTM04::
-	.string "TM04 is CALM MIND.\p"
-	.string "It makes the POKéMON concentrate\n"
-	.string "to raise both SP. ATK and SP. DEF.$"
+.string "Parabens, Lucas! Sua jornada\napenas comecou."
+.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
+	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 SaffronCity_Gym_Text_BagFullOfOtherItems::
-	.string "Your BAG is full of other items.$"
+.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
 
 SaffronCity_Gym_Text_AmandaIntro::
-	.string "SABRINA is far younger than I,\n"
-	.string "but she has earned my respect.$"
+.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!$"
 
 SaffronCity_Gym_Text_AmandaDefeat::
-	.string "Not good enough!$"
+	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
 
 SaffronCity_Gym_Text_AmandaPostBattle::
-	.string "In a battle of equals, the one\n"
-	.string "with the stronger will wins.\p"
-	.string "If you wish to beat SABRINA, focus\n"
-	.string "and will yourself to victory.$"
+.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
+.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!$"
 
 SaffronCity_Gym_Text_JohanIntro::
-	.string "Does our unseen power scare you?$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!$"
 
 SaffronCity_Gym_Text_JohanDefeat::
-	.string "I never foresaw this!$"
+.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
 
 SaffronCity_Gym_Text_JohanPostBattle::
-	.string "PSYCHIC POKéMON fear only ghosts\n"
-	.string "and bugs!$"
+.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
+	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
 
 SaffronCity_Gym_Text_StacyIntro::
-	.string "POKéMON take on the appearance of\n"
-	.string "their TRAINERS.\p"
-	.string "Your POKéMON must be tough, then!$"
+.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
+.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
+	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
 
 SaffronCity_Gym_Text_StacyDefeat::
-	.string "I knew it!$"
+	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
 
 SaffronCity_Gym_Text_StacyPostBattle::
-	.string "I have much to learn still…\p"
-	.string "I must master PSYCHIC and teach it\n"
-	.string "to my POKéMON…$"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
+.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
+.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!$"
 
 SaffronCity_Gym_Text_TyronIntro::
-	.string "You understand, don't you?\p"
-	.string "That power alone isn't enough to\n"
-	.string "win in the world of POKéMON?$"
+.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
+.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou."
+.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!$"
 
 SaffronCity_Gym_Text_TyronDefeat::
-	.string "I don't believe this!$"
+.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!$"
 
 SaffronCity_Gym_Text_TyronPostBattle::
-	.string "SABRINA just wiped out the KARATE\n"
-	.string "MASTER next door.$"
+.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
+	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
 
 SaffronCity_Gym_Text_TashaIntro::
-	.string "You and I, our POKéMON shall\n"
-	.string "battle!$"
+.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
+.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!$"
 
 SaffronCity_Gym_Text_TashaDefeat::
-	.string "I lost after all!$"
+	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 SaffronCity_Gym_Text_TashaPostBattle::
-	.string "I knew that this was going to take\n"
-	.string "place.$"
+.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
+.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!$"
 
 SaffronCity_Gym_Text_CameronIntro::
-	.string "SABRINA is young, but she's also\n"
-	.string "our highly skilled LEADER.\p"
-	.string "You won't reach her easily!$"
+.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 SaffronCity_Gym_Text_CameronDefeat::
-	.string "Ow!\n"
-	.string "Down and out!$"
+.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
+	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
 
 SaffronCity_Gym_Text_CameronPostBattle::
-	.string "There used to be two POKéMON GYMS\n"
-	.string "in SAFFRON.\p"
-	.string "The FIGHTING DOJO next door lost\n"
-	.string "its GYM status, though.\p"
-	.string "We simply creamed them when we\n"
-	.string "decided to have just one GYM.$"
+.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
+.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
+.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
+.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
+.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!$"
 
 SaffronCity_Gym_Text_PrestonIntro::
-	.string "SAFFRON POKéMON GYM is famous for\n"
-	.string "training psychics.\p"
-	.string "You want to see SABRINA, don't\n"
-	.string "you? I can tell!$"
+.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
+.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
+.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
 
 SaffronCity_Gym_Text_PrestonDefeat::
-	.string "Arrrgh!$"
+.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 SaffronCity_Gym_Text_PrestonPostBattle::
-	.string "That's right! I used telepathy to\n"
-	.string "read your mind!$"
+.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!$"
 
 SaffronCity_Gym_Text_GymGuyAdvice::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pYo!\n"
-	.string "Champ in the making!\p"
-	.string "SABRINA's POKéMON use psychic\n"
-	.string "power instead of force.\p"
-	.string "FIGHTING POKéMON are especially\n"
-	.string "weak against PSYCHIC POKéMON.\p"
-	.string "They'll get destroyed before they\n"
-	.string "can even aim a punch!$"
+.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
+.string "Parabens, Lucas! Sua jornada\napenas comecou."
+.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
+	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
 
 SaffronCity_Gym_Text_GymGuyPostVictory::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pPsychic power, huh?\p"
-	.string "If I had that, I'd make a bundle\n"
-	.string "at the slots!$"
+.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
+	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 SaffronCity_Gym_Text_GymStatue::
-	.string "SAFFRON POKéMON GYM\n"
-	.string "LEADER: SABRINA\p"
-	.string "WINNING TRAINERS:\n"
-	.string "{RIVAL}$"
+.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
+.string "Parabens, Lucas! Sua jornada\napenas comecou."
+.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
 
 SaffronCity_Gym_Text_GymStatuePlayerWon::
-	.string "SAFFRON POKéMON GYM\n"
-	.string "LEADER: SABRINA\p"
-	.string "WINNING TRAINERS:\n"
-	.string "{RIVAL}, {PLAYER}$"
+.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
+.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
+.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
+.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!$"
 

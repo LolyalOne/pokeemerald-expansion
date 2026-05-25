@@ -118,49 +118,49 @@ TwoIsland_House_EventScript_SetHasBothMushrooms::
 	return
 
 TwoIsland_House_Text_TeachMonMoveForMushroom::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pI'm the POKéMON MOVE MANIAC.\p"
-	.string "I know every single move that\n"
-	.string "POKéMON learn growing up.\p"
-	.string "I'm also a mushroom maniac.\p"
-	.string "Bring me two TINYMUSHROOMS,\n"
-	.string "or one BIG MUSHROOM.\p"
-	.string "If you do that for me, I'll teach\n"
-	.string "a move to one POKéMON.$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pI'm the POKeMON MOVE MANIAC.\p"
+.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
+.string "Parabens, Lucas! Sua jornada\napenas comecou."
+.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
+.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!$"
 
 TwoIsland_House_Text_WantMeToTeachMove::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pSniff, sniff…\n"
-	.string "Hm! You smell of MUSHROOMS!\p"
-	.string "Do you want me to teach a move\n"
-	.string "to a POKéMON of yours?$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pSniff, sniff...\n"
+.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 TwoIsland_House_Text_TutorWhichMon::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWhich POKéMON needs tutoring?$"
+.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
 
 TwoIsland_House_Text_TeachWhichMove::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pWhich move should I teach?$"
+	.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
 
 TwoIsland_House_Text_NoMoveICanTeachThatMon::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pSorry…\p"
-	.string "It doesn't appear as if I have a\n"
-	.string "move I can teach that POKéMON.$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pSorry...\p"
+.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
+.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!$"
 
 TwoIsland_House_Text_IllNeedMushroomOrTwo::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThen, I'll need a MUSHROOM or two.\n"
-	.string "What are you going to give me?$"
+	.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 TwoIsland_House_Text_HandedOverTwoTinyMushrooms::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p{PLAYER} handed over two\n"
-	.string "TINYMUSHROOMS in exchange.$"
+	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
 
 TwoIsland_House_Text_HandedOverOneBigMushroom::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p{PLAYER} handed over one\n"
-	.string "BIG MUSHROOM in exchange.$"
+	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
 
 TwoIsland_House_Text_NeedMushroomOrTwoToLearnMove::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pIf your POKéMON need to learn a\n"
-	.string "move, I need a MUSHROOM or two.$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pIf your POKeMON need to learn a\n"
+	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
 
 TwoIsland_House_Text_CantTeachAnEgg::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pHunh? There isn't a single move\n"
-	.string "that I can teach an EGG.$"
+.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!$"
 

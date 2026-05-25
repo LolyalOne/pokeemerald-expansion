@@ -15,14 +15,14 @@ ThreeIsland_House5_EventScript_LittleGirlLostelleFound::
 	end
 
 ThreeIsland_House5_Text_ImNotLostelle::
-	.string "Me?\n"
-	.string "I'm not LOSTELLE.\p"
-	.string "She's probably gone to the\n"
-	.string "BERRY FOREST, I think.\p"
-	.string "She picks BERRIES there for making\n"
-	.string "lunch.$"
+.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
+.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
+.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
+	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 ThreeIsland_House5_Text_IllGoPlayWithLostelle::
-	.string "I think I'll go play with LOSTELLE\n"
-	.string "today.$"
+.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
+	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
 

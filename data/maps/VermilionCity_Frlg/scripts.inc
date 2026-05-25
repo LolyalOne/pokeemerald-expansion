@@ -265,132 +265,132 @@ VermilionCity_EventScript_HarborSign::
 
 VermilionCity_Text_GrimerMultipliesInSludge::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pWe're careful about pollution here.\p"
-	.string "We've heard GRIMER multiplies in\n"
-	.string "toxic sludge.$"
+.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
+	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
 
 VermilionCity_Text_DidYouSeeSSAnneInHarbor::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pDid you see the S.S. ANNE moored\n"
-	.string "in the harbor?$"
+.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!$"
 
 VermilionCity_Text_SSAnneHasDepartedForYear::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pSo, the S.S. ANNE has departed?\p"
-	.string "She'll be back in VERMILION about\n"
-	.string "this time next year.$"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
+	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
 
 VermilionCity_Text_BuildingOnThisLand::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI'm putting up a building on this\n"
-	.string "plot of land. I own it all.\p"
-	.string "My POKéMON is tamping the land\n"
-	.string "to lay the foundation.$"
+.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
+.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
+	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 VermilionCity_Text_Machop::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pMACHOP: Guoh! Gogogoh!$"
+	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
 
 VermilionCity_Text_MachopStompingLandFlat::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pA MACHOP is stomping the land flat.$"
+.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
 
 VermilionCity_Text_SSAnneVisitsOnceAYear::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pThe S.S. ANNE is a famous luxury\n"
-	.string "cruise ship.\p"
-	.string "It visits VERMILION once a year.$"
+.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
+.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
 
 VermilionCity_Text_CitySign::
-	.string "VERMILION CITY\n"
-	.string "The Port of Exquisite Sunsets$"
+.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
+.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!$"
 
 VermilionCity_Text_SnorlaxBlockingRoute12::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pNOTICE!\p"
-	.string "ROUTE 12 may be blocked off by a\n"
-	.string "sleeping POKéMON.\p"
-	.string "Detour through ROCK TUNNEL to\n"
-	.string "LAVENDER TOWN.\p"
-	.string "VERMILION POLICE$"
+.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
+.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
+.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
+.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
+.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!$"
 
 VermilionCity_Text_PokemonFanClubSign::
-	.string "POKéMON FAN CLUB\n"
-	.string "All POKéMON fans welcome!$"
+.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
+.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!$"
 
 VermilionCity_Text_GymSign::
-	.string "VERMILION CITY POKéMON GYM\n"
-	.string "LEADER: LT. SURGE\l"
-	.string "The Lightning American!$"
+.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
+	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 VermilionCity_Text_VermilionHarbor::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pVERMILION HARBOR$"
+.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!$"
 
 VermilionCity_Text_WelcomeToTheSSAnne::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pWelcome to the S.S. ANNE!$"
+.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
 
 VermilionCity_Text_DoYouHaveATicket::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWelcome to the S.S. ANNE!\p"
-	.string "Excuse me, do you have a ticket?$"
+.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!$"
 
 VermilionCity_Text_FlashedSSTicket::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p{FONT_NORMAL}{PLAYER} flashed the S.S. TICKET!\p"
 	.string "{FONT_MALE}Great!\n"
-	.string "Welcome to the S.S. ANNE!$"
+.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!$"
 
 VermilionCity_Text_DontHaveNeededSSTicket::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p{FONT_NORMAL}{PLAYER} doesn't have the needed\n"
-	.string "S.S. TICKET.\p"
+.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
 	.string "{FONT_MALE}Sorry!\p"
-	.string "You need a ticket to get aboard.$"
+.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!$"
 
 VermilionCity_Text_TheShipSetSail::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThe ship set sail.$"
+	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
 
 VermilionCity_Text_BoardSeagallopTriPass::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pAh, you have a TRI-PASS.\p"
-	.string "Would you like to board\n"
-	.string "a SEAGALLOP ferry?$"
+.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou."
+	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 VermilionCity_Text_Seagallop7Departing::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pOkay, everything's in order.\p"
-	.string "SEAGALLOP HI-SPEED 7 will be\n"
-	.string "departing immediately.$"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
+.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
 
 VermilionCity_Text_BoardSeagallopRainbowPass::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pAh, you have a RAINBOW PASS.\p"
-	.string "Would you like to board\n"
-	.string "a SEAGALLOP ferry?$"
+.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
+	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 
 VermilionCity_Text_OhMysticTicketTakeYouToNavelRock::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pOh! That's a MYSTICTICKET!\n"
-	.string "Now that is rare.\p"
-	.string "We'll be happy to take you to\n"
-	.string "NAVEL ROCK anytime.$"
+.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
+.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
+.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
 
 VermilionCity_Text_OhAuroraTicketTakeYouToBirthIsland::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pOh! That's an AURORATICKET!\n"
-	.string "Now that is rare.\p"
-	.string "We'll be happy to take you to\n"
-	.string "BIRTH ISLAND anytime.$"
+.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
+.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou."
+	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
 
 VermilionCity_Text_BoardSeagallopFerry::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pWould you like to board\n"
-	.string "a SEAGALLOP ferry?$"
+.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
 
 VermilionCity_Text_Seagallop10Departing::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pOkay, everything's in order for you\n"
-	.string "to board a special ferry.\p"
-	.string "SEAGALLOP HI-SPEED 10 will be\n"
-	.string "departing immediately.$"
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
+.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
+	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
 
 VermilionCity_Text_Seagallop12Departing::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOkay, everything's in order for you\n"
-	.string "to board a special ferry.\p"
-	.string "SEAGALLOP HI-SPEED 12 will be\n"
-	.string "departing immediately.$"
+.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
+.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
+.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!$"
 
 VermilionCity_Text_Route2AideHasPackageForYou::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh, hello, {PLAYER}!\n"
-	.string "How are you doing?\p"
-	.string "It's me, one of PROF. OAK's AIDES.\p"
-	.string "Did you meet the other AIDE?\p"
-	.string "He had a package from PROF. OAK\n"
+.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
+.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
+.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
 	.string "for you, {PLAYER}.\p"
-	.string "He said he'd look for you around\n"
+.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
 	.string "ROUTE 2, {PLAYER}.\p"
-	.string "If you're in the ROUTE 2 area,\n"
-	.string "please look for him.$"
+.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
+.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
 

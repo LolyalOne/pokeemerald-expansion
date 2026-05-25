@@ -16,7 +16,7 @@ SSAnne_2F_Room1_EventScript_Gentleman::
 
 SSAnne_2F_Room1_Text_SleepingMonLookedLikeThis::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI've journeyed far and wide, but in\n"
-	.string "all my travels I've never seen\l"
-	.string "any POKéMON sleep like this one!\p"
-	.string "It was something like this!$"
+.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
+.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!"
+	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 

@@ -14,17 +14,17 @@ SafariZone_North_RestHouse_EventScript_Gentleman::
 	end
 
 SafariZone_East_Text_KeepAnyItemFoundOnSafari::
-	.string "You can keep any item you find in\n"
-	.string "the SAFARI ZONE.\p"
-	.string "But, you'll run out of time if you\n"
-	.string "try for all of them at once.$"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
+.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!"
+	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
 
 SafariZone_East_Text_PrizeInDeepestPartOfSafariZone::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pGo to the deepest part of the\n"
-	.string "SAFARI ZONE. You will win a prize!$"
+.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 SafariZone_East_Text_MyEeveeEvolvedIntoFlareon::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pMy EEVEE evolved into FLAREON.\p"
-	.string "But, a friend's EEVEE turned into a\n"
-	.string "VAPOREON. I wonder why?$"
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
+.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
 

@@ -108,35 +108,35 @@ Route112_EventScript_Shayla::
 
 Route112_Text_LeaderGoingToAwakenThing:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHey, man, is our leader really going\n"
-	.string "to awaken that thing?$"
+	.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
 
 Route112_Text_YeahWeNeedMeteorite:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pSounds like it, yeah. But I heard\n"
-	.string "we need a METEORITE to do it.$"
+	.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 Route112_Text_OhThatsWhyCrewWentToFallarbor:
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh, I get it now. That's why the rest\n"
-	.string "of the crew went out to FALLARBOR.$"
+	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
 
 Route112_Text_CantLetAnyonePassUntilTheyreBack:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pYou got it. And until they come back,\n"
-	.string "we're not to let anyone pass, right.$"
+	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
 
 Route112_Text_NotEasyToGetBackToLavaridge:
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pEh, I'd like to get to MAUVILLE, but if\n"
-	.string "I went down these ledges, it'd be no\l"
-	.string "easy matter to get back to LAVARIDGE.$"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!$"
 
 Route112_Text_MtChimneyCableCarSign:
-	.string "MT. CHIMNEY CABLE CAR\n"
-	.string "“A short walk {UP_ARROW} way!”$"
+.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
+	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
 
 Route112_Text_MtChimneySign:
-	.string "MT. CHIMNEY\p"
-	.string "“For LAVARIDGE TOWN or the summit,\n"
-	.string "please take the CABLE CAR.”$"
+.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
+.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 Route112_Text_RouteSignLavaridge:
-	.string "ROUTE 112\n"
-	.string "{LEFT_ARROW} LAVARIDGE TOWN$"
+.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
 

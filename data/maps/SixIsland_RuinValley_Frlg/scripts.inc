@@ -43,88 +43,88 @@ SixIsland_RuinValley_EventScript_IgnoreDottedHoleDoor::
 
 SixIsland_RuinValley_Text_CantFigureOutHowToGetInside::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI can't figure out how I'm supposed\n"
-	.string "to get inside.$"
+	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
 
 SixIsland_RuinValley_Text_IFoundThisPlace::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pLet me tell you, I found this\n"
-	.string "place.\p"
-	.string "Don't look so envious, will you?$"
+.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
+	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
 
 SixIsland_RuinValley_Text_CheckDoorMoreThoroughly::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pThe door doesn't budge at all.\n"
-	.string "Check it more thoroughly?$"
+.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!$"
 
 SixIsland_RuinValley_Text_LeftDoorAlone::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\p{PLAYER} left the door alone.$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 SixIsland_RuinValley_Text_SeveralDotsOnTheDoor::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pOn closer inspection, there are\n"
-	.string "several dots on the door…$"
+	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
 
 SixIsland_RuinValley_Text_DoorIsOpen::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThe door is open.$"
+	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
 
 SixIsland_RuinValley_Text_StanlyIntro::
-	.string "There appear to be many secrets\n"
-	.string "still unsolved in this world.$"
+.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
+.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
 
 SixIsland_RuinValley_Text_StanlyDefeat::
-	.string "Hmm…$"
+	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 SixIsland_RuinValley_Text_StanlyPostBattle::
-	.string "I suggest to you that you, too,\n"
-	.string "give a thought to the secrets and\l"
-	.string "mysteries of our world once a day.$"
+.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
+.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
+	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
 
 SixIsland_RuinValley_Text_FosterIntro::
-	.string "I'm curious, what compelled you to\n"
-	.string "come here?$"
+.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
+	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
 
 SixIsland_RuinValley_Text_FosterDefeat::
-	.string "It's been so long since I battled,\n"
-	.string "my instincts are off.$"
+.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
+	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 
 SixIsland_RuinValley_Text_FosterPostBattle::
-	.string "There are several ruins on the\n"
-	.string "SEVII ISLANDS.\p"
-	.string "The majority of them date back\n"
-	.string "a long way.$"
+.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
+.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
+	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
 
 SixIsland_RuinValley_Text_LarryIntro::
-	.string "It's been said that there are\n"
-	.string "mysterious stones on this island.\p"
-	.string "I suspect it has something to do\n"
-	.string "with the ruins here.$"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
+.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
+	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
 
 SixIsland_RuinValley_Text_LarryDefeat::
-	.string "Oh, interesting.$"
+.string "Lucas, voce e o melhor! Sua\njornada apenas comecou.$"
 
 SixIsland_RuinValley_Text_LarryPostBattle::
-	.string "Those ruins over there…\p"
-	.string "I haven't had any luck in finding\n"
-	.string "how I can get inside.$"
+.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
+	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
 
 SixIsland_RuinValley_Text_DarylIntro::
-	.string "A battle with you, so high up!$"
+	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
 
 SixIsland_RuinValley_Text_DarylDefeat::
-	.string "Oh, the heartbreak of losing so\n"
-	.string "easily to you!$"
+.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
+.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
 
 SixIsland_RuinValley_Text_DarylPostBattle::
-	.string "Experience the joy of climbing!$"
+.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou.$"
 
 SixIsland_RuinValley_Text_HectorIntro::
-	.string "I'm pretty familiar with the land\n"
-	.string "around these parts.$"
+.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
+.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!$"
 
 SixIsland_RuinValley_Text_HectorDefeat::
-	.string "You don't need to be so pushy.\n"
-	.string "I'll be happy to tell you.$"
+.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
 
 SixIsland_RuinValley_Text_HectorPostBattle::
-	.string "The door to the ruins…\n"
-	.string "It has these strange patterns\l"
-	.string "engraved on the outside.\p"
-	.string "I don't know what they mean,\n"
-	.string "though.$"
+.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
+.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
+.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!$"

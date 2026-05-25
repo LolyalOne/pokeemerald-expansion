@@ -27,32 +27,32 @@ BattleFrontier_Lounge6_EventScript_TradeCompleted::
 	end
 
 BattleFrontier_Lounge6_Text_WouldYouLikeToTrade:
-	.string "My POKéMON is a {STR_VAR_2}.\n"
-	.string "Do you know it?\l"
-	.string "It's quite cute and rather nice.\p"
-	.string "This little one, I could trade with\n"
-	.string "pride!\p"
+	.string "My POKeMON is a {STR_VAR_2}.\n"
+.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
+.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
+.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
 	.string "Would you like to trade me a {STR_VAR_1}\n"
-	.string "for my {STR_VAR_2}?$"
+.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!$"
 
 BattleFrontier_Lounge6_Text_PromiseIllBeGoodToIt:
-	.string "Oh, it's adorable!\n"
-	.string "Thank you!\l"
-	.string "I promise I'll be good to it!\p"
-	.string "Oh! I hope you'll be good to\n"
-	.string "my {STR_VAR_2}, too!$"
+.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
+.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
+.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
+	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
 
 BattleFrontier_Lounge6_Text_DontTradeForAnythingButMon:
-	.string "Oh, I'm sorry!\n"
-	.string "I don't intend to trade for anything\l"
-	.string "but a {STR_VAR_1}.$"
+.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
+.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
+	.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
 
 BattleFrontier_Lounge6_Text_WellThatsFineToo:
-	.string "Oh, you won't?\n"
-	.string "Well, that's fine, too.\l"
-	.string "Please come visit us again.$"
+.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
+.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 BattleFrontier_Lounge6_Text_SkittySoMuchCuterThanImagined:
-	.string "Giggle!\n"
-	.string "A SKITTY is so much cuter than I had\l"
-	.string "imagined. I'm delighted!$"
+.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
+.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!"
+.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!$"

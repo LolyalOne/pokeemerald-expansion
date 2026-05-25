@@ -1,44 +1,44 @@
 gText_Birch_Welcome::
-	.string "Ah, entao voce e o tal do Lucas!\p"
-	.string "Hoje e um dia muito especial, e eu\n"
-	.string "acredito que voce ja sabe o como\l"
-	.string "isso funciona.\p"
-	.string "$"
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
+.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
+.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
+	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
 
 gText_Birch_Pokemon::
-	.string "Isto e o que chamamos de POKeMON.\p"
+.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
 	.string "\n"
-	.string "$"
+	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
 
 gText_Birch_MainSpeech::
-	.string "Neste mundo, voce vai encontrar\n"
-	.string "varios POKeMON e pessoas.\p"
-	.string "Hoje e o seu aniversario, e nao ha\n"
-	.string "momento melhor para iniciar isso!\p"
-	.string "$"
+.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
+.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
 
 gText_Birch_AndYouAre::
-	.string "Mas para confirmar...$"
+	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
 
 gText_Birch_BoyOrGirl::
-	.string "Voce e um garoto?\n"
-	.string "Ou e uma garota?$"
+.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
+.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!$"
 
 gText_Birch_WhatsYourName::
-	.string "Entendido.\n"
-	.string "E qual e o seu nome mesmo?$"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
+	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
 
 gText_Birch_SoItsPlayer::
-	.string "Entao o seu nome e {PLAYER}{KUN}?$"
+	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
 
 gText_Birch_YourePlayer::
-	.string "Perfeito!\p"
+.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
 	.string "Voce e o {PLAYER}{KUN} que acabou de\n"
-	.string "se mudar para LITTLEROOT.\p"
-	.string "$"
+.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!$"
 
 gText_Birch_AreYouReady::
-	.string "Tudo pronto?\p"
-	.string "BOA SORTE NA SUA JORNADA,\n"
-	.string "e FELIZ ANIVERSARIO!\p"
-	.string "$"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
+.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
+.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou.$"

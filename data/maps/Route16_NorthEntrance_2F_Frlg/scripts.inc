@@ -52,48 +52,48 @@ Route16_NorthEntrance_2F_EventScript_GetAideRequestInfo::
 
 Route16_NorthEntrance_2F_Text_OnBikeRideWithGirlfriend::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pI'm on a relaxing ride on my new\n"
-	.string "bike with my girlfriend.$"
+	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
 
 Route16_NorthEntrance_2F_Text_RidingTogetherOnNewBikes::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWe're going riding together on our\n"
-	.string "new bikes.$"
+.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!$"
 
 Route16_NorthEntrance_2F_Text_ItsCeladonDeptStore::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pLet's see what the binoculars have\n"
-	.string "to show…\p"
-	.string "It's the CELADON DEPT. STORE!$"
+.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
+	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 Route16_NorthEntrance_2F_Text_LongPathOverWater::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pLet's see what the binoculars have\n"
-	.string "to show…\p"
-	.string "There's a long path over water far\n"
-	.string "away.$"
+.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
+.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou.$"
 
 Route16_NorthEntrance_2F_Text_GiveAmuletCoinIfCaught40::
-	.string "Hi! Remember me?\n"
-	.string "I'm one of PROF. OAK's AIDES.\p"
-	.string "If your POKéDEX has complete data\n"
-	.string "on 40 species, I'm supposed to\l"
-	.string "give you a reward.\p"
-	.string "PROF. OAK entrusted me with an\n"
-	.string "AMULET COIN for you.\p"
+.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
+.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
+.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
+.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
+.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
 	.string "So, {PLAYER}, let me ask you.\p"
-	.string "Have you gathered data on at least\n"
-	.string "40 kinds of POKéMON?$"
+.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!$"
 
 Route16_NorthEntrance_2F_Text_GreatHereYouGo::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pGreat! You have caught or owned\n"
-	.string "{STR_VAR_3} kinds of POKéMON!\p"
-	.string "Congratulations!\n"
-	.string "Here you go!$"
+	.string "{STR_VAR_3} kinds of POKeMON!\p"
+.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
+	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
 
 Route16_NorthEntrance_2F_Text_ReceivedAmuletCoinFromAide::
 	.string "{PLAYER} received the AMULET COIN\n"
-	.string "from the AIDE.$"
+	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 Route16_NorthEntrance_2F_Text_ExplainAmuletCoin::
-	.string "An AMULET COIN is an item to be\n"
-	.string "held by a POKéMON.\p"
-	.string "If the POKéMON appears in a winning\n"
-	.string "battle, you will earn more money.$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
+	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
 

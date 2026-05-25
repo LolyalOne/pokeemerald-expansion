@@ -6,156 +6,156 @@ Route15_EventScript_RouteSign::
 	end
 
 Route15_Text_KindraIntro::
-	.string "I just got some POKéMON in trades.\n"
-	.string "Can I try them out on you?$"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!$"
 
 Route15_Text_KindraDefeat::
-	.string "Not good enough!$"
+	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 Route15_Text_KindraPostBattle::
-	.string "You can't change the nickname of\n"
-	.string "any POKéMON you get in a trade.\p"
-	.string "Only the Original TRAINER can get\n"
-	.string "the nickname changed.$"
+.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
+.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
+.string "Parabens, Lucas! Sua jornada\napenas comecou."
+.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!$"
 
 Route15_Text_BeckyIntro::
-	.string "You look gentle, so I think I can\n"
-	.string "beat you.\p"
-	.string "I'll give it a go!$"
+.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
+	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
 
 Route15_Text_BeckyDefeat::
-	.string "No, wrong!$"
+.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
 
 Route15_Text_BeckyPostBattle::
-	.string "I'm afraid of BIKERS. They look so\n"
-	.string "ugly and mean!$"
+.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!"
+.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!$"
 
 Route15_Text_EdwinIntro::
-	.string "When I whistle, I can summon bird\n"
-	.string "POKéMON.$"
+.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
 
 Route15_Text_EdwinDefeat::
-	.string "Ow!\n"
-	.string "That's tragic!$"
+.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!$"
 
 Route15_Text_EdwinPostBattle::
-	.string "Maybe I'm not cut out for battles.\n"
-	.string "I'm not the right type, I guess.$"
+.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
+	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
 
 Route15_Text_ChesterIntro::
-	.string "Hmm? My birds are shivering!\n"
-	.string "You're good, aren't you?$"
+.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
+.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
 
 Route15_Text_ChesterDefeat::
-	.string "Just as I thought!$"
+.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!$"
 
 Route15_Text_ChesterPostBattle::
-	.string "This is so obvious, you should know\n"
-	.string "this, but…\p"
-	.string "Moves like EARTHQUAKE and FISSURE\n"
-	.string "have no effect on bird POKéMON.$"
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
+.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
+.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
+	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
 
 Route15_Text_GraceIntro::
-	.string "Oh, you're a little cutie!\n"
-	.string "So like a darling POKéMON!$"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!$"
 
 Route15_Text_GraceDefeat::
-	.string "You looked so cute, too!$"
+.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!$"
 
 Route15_Text_GracePostBattle::
-	.string "I forgive you.\n"
-	.string "I can take it.\l"
-	.string "I'm a big girl now.$"
+.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
+	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
 
 Route15_Text_OliviaIntro::
-	.string "I raise POKéMON for protection\n"
-	.string "because I live alone.$"
+.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 Route15_Text_OliviaDefeat::
-	.string "POKéMON isn't about winning or\n"
-	.string "losing for me.$"
+.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!$"
 
 Route15_Text_OliviaPostBattle::
-	.string "I love having my POKéMON greet me\n"
-	.string "when I get home.\p"
-	.string "It's so reassuring.$"
+.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
+.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
+	.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
 
 Route15_Text_ErnestIntro::
-	.string "Hey, kid! C'mon!\n"
-	.string "I just got these off some loser!$"
+.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
+	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
 
 Route15_Text_ErnestDefeat::
-	.string "Why not?$"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!$"
 
 Route15_Text_ErnestPostBattle::
-	.string "Life's too short.\n"
-	.string "It's cool to live as an outlaw.\l"
-	.string "TEAM ROCKET RULES!$"
+.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
+.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
+	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
 
 Route15_Text_AlexIntro::
-	.string "Fork over all your cash when you\n"
-	.string "lose to me, kid!$"
+.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
+.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
 
 Route15_Text_AlexDefeat::
-	.string "That can't be true!$"
+.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!$"
 
 Route15_Text_AlexPostBattle::
-	.string "I was just joking about the money.\n"
-	.string "Don't take me all serious.$"
+.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!$"
 
 Route15_Text_CeliaIntro::
-	.string "What's cool and happening?\n"
-	.string "Trading POKéMON!$"
+.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
+	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 Route15_Text_CeliaDefeat::
-	.string "I said trade!$"
+	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
 
 Route15_Text_CeliaPostBattle::
-	.string "I trade POKéMON with my friends\n"
-	.string "all the time.$"
+.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
+.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
 
 Route15_Text_YazminIntro::
-	.string "Want to play with my POKéMON?$"
+	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
 
 Route15_Text_YazminDefeat::
-	.string "I was too impatient!$"
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
 
 Route15_Text_YazminPostBattle::
-	.string "I'll go train with weaker people.$"
+	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 Route15_Text_RouteSign::
-	.string "ROUTE 15\n"
-	.string "West to FUCHSIA CITY$"
+.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
+.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
 
 Route15_Text_MyaIntro::
-	.string "MYA: You're perfect.\n"
-	.string "Help me train my little brother?$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
+	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 Route15_Text_MyaDefeat::
-	.string "MYA: RON, you have to focus!\n"
-	.string "Concentrate on what you're doing!$"
+.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!$"
 
 Route15_Text_MyaPostBattle::
-	.string "MYA: Okay, we'll turn it up.\n"
-	.string "I'll add to our training menu!$"
+.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!$"
 
 Route15_Text_MyaNotEnoughMons::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pMYA: Do you want to challenge us?\n"
-	.string "You'll need two POKéMON, though.$"
+	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
 
 Route15_Text_RonIntro::
-	.string "RON: My sister gets scary when we\n"
-	.string "lose.$"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!$"
 
 Route15_Text_RonDefeat::
-	.string "RON: Oh, no, no…\n"
-	.string "Sis, I'm sorry!$"
+.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
+	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 Route15_Text_RonPostBattle::
-	.string "RON: Oh, bleah…\n"
-	.string "I wish I had a nice sister…$"
+.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
+.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
 
 Route15_Text_RonNotEnoughMons::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pRON: Did you want to battle with\n"
-	.string "my sister and me?\p"
-	.string "You need two POKéMON, then.$"
+.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
+	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"

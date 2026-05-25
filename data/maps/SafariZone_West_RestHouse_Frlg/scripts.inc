@@ -15,23 +15,23 @@ SafariZone_West_RestHouse_EventScript_CooltrainerF::
 
 SafariZone_West_Text_KogaPatrolsSafariEverySoOften::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pThe SAFARI ZONE's huge, wouldn't\n"
-	.string "you say?\p"
-	.string "FUCHSIA's GYM LEADER, KOGA, \n"
-	.string "patrols the grounds every so often.\p"
-	.string "Thanks to him, we can play here\n"
-	.string "knowing that we're safe.$"
+.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
+.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
+.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 SafariZone_West_Text_RocksMakeMonRunButEasierCatch::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pTossing ROCKS at POKéMON might\n"
-	.string "make them run, but they'll be\l"
-	.string "easier to catch.$"
+	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pTossing ROCKS at POKeMON might\n"
+.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
+.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!$"
 
 SafariZone_West_Text_BaitMakesMonStickAround::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pUsing BAIT will make POKéMON more\n"
-	.string "likely to stick around if they get\l"
-	.string "busy eating.$"
+	.string "Parabens, Lucas! Que sua jornada seja epica.\pUsing BAIT will make POKeMON more\n"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
 
 SafariZone_West_Text_HikedLotsDidntSeeMonIWanted::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI hiked a lot, but I didn't see any\n"
-	.string "POKéMON I wanted.$"
+.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!$"
 

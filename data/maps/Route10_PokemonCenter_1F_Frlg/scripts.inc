@@ -61,50 +61,50 @@ Route10_PokemonCenter_1F_EventScript_GetAideRequestInfo::
 	return
 
 Route10_PokemonCenter_1F_Text_EveryTypeStrongerThanOthers::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThe types of POKéMON match up\n"
-	.string "differently with each other.\p"
-	.string "Every type is stronger than some\n"
-	.string "types and weaker than others.$"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThe types of POKeMON match up\n"
+.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
+.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
+	.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
 
 Route10_PokemonCenter_1F_Text_NuggetUselessSoldFor5000::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pA NUGGET is totally useless.\n"
-	.string "So I sold it for ¥5000.$"
+	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
 
 Route10_PokemonCenter_1F_Text_HeardGhostsHauntLavender::
 	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI heard that ghosts haunt\n"
-	.string "LAVENDER TOWN.$"
+	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
 
 Route10_PokemonCenter_1F_Text_GiveEverstoneIfCaught20Mons::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh… {PLAYER}!\n"
-	.string "I've been looking for you!\p"
-	.string "It's me, one of the ever-present\n"
-	.string "AIDES to PROF. OAK.\p"
-	.string "If your POKéDEX has complete data\n"
-	.string "on twenty species, I'm supposed to\l"
-	.string "give you a reward from PROF. OAK.\p"
-	.string "He entrusted me with this\n"
-	.string "EVERSTONE.\p"
+	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh... {PLAYER}!\n"
+.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
+.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
+.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
+.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
+.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
+.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
+.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!"
 	.string "So, {PLAYER}, let me ask you.\p"
-	.string "Have you gathered data on at least\n"
-	.string "twenty kinds of POKéMON?$"
+.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
+.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou.$"
 
 Route10_PokemonCenter_1F_Text_GreatHereYouGo::
 	.string "Parabens, Lucas! Que sua jornada seja epica.\pGreat! You have caught or owned\n"
-	.string "{STR_VAR_3} kinds of POKéMON!\p"
-	.string "Congratulations!\n"
-	.string "Here you go!$"
+	.string "{STR_VAR_3} kinds of POKeMON!\p"
+.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
+	.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
 
 Route10_PokemonCenter_1F_Text_ReceivedEverstoneFromAide::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p{PLAYER} received the EVERSTONE\n"
-	.string "from the AIDE.$"
+	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
 
 Route10_PokemonCenter_1F_Text_ExplainEverstone::
-	.string "Making POKéMON evolve certainly\n"
-	.string "can add to the POKéDEX.\p"
-	.string "However, at times, you may not\n"
-	.string "want a certain POKéMON to evolve.\p"
-	.string "In that case, give the EVERSTONE\n"
-	.string "to that POKéMON.\p"
-	.string "It will prevent evolution according\n"
-	.string "to the PROFESSOR.$"
+.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
+.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
+.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
+.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
+.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
+.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
 

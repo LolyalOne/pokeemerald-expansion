@@ -46,48 +46,48 @@ SilphCo_9F_EventScript_Grunt2::
 
 SilphCo_9F_Text_YouShouldTakeQuickNap::
 	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pYou look tired.\n"
-	.string "You should take a quick nap.$"
+	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
 
 SilphCo_9F_Text_DontGiveUp::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pDon't give up!$"
+.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!$"
 
 SilphCo_9F_Text_ThankYouSoMuch::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThank you so much.$"
+	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
 
 SilphCo_9F_Text_Grunt1Intro::
-	.string "Your POKéMON seem to adore you,\n"
-	.string "kid!$"
+.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
+	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
 
 SilphCo_9F_Text_Grunt1Defeat::
-	.string "Ghaaah!$"
+	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
 
 SilphCo_9F_Text_Grunt1PostBattle::
-	.string "If I had started as a TRAINER at\n"
-	.string "your age…$"
+.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!"
+	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
 
 SilphCo_9F_Text_EdIntro::
-	.string "Your POKéMON have weak points!\n"
-	.string "I can nail them!$"
+.string "Parabens, Lucas! Sua jornada\napenas comecou."
+.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!$"
 
 SilphCo_9F_Text_EdDefeat::
-	.string "You hammered me!$"
+	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
 
 SilphCo_9F_Text_EdPostBattle::
-	.string "Exploiting weak spots does work.\n"
-	.string "Think about type advantages.$"
+.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
+.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 
 SilphCo_9F_Text_Grunt2Intro::
-	.string "I am one of the four ROCKET\n"
-	.string "BROTHERS!$"
+.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
+	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
 
 SilphCo_9F_Text_Grunt2Defeat::
-	.string "Warg!\n"
-	.string "Brothers, I lost!$"
+.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
+	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
 
 SilphCo_9F_Text_Grunt2PostBattle::
-	.string "My brothers will avenge me!$"
+	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
 
 SilphCo_9F_Text_FloorSign::
-	.string "SILPH CO. HEAD OFFICE\n"
-	.string "9F$"
+.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
+.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!$"
 
