@@ -11,8 +11,4 @@ AbandonedShip_Rooms_B1F_EventScript_FatMan::
 	end
 
 AbandonedShip_Rooms_B1F_Text_GettingQueasy:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pUrrrrppp...\p"
-.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
-.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
-.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
-
+    .string "Feliz aniversário, Lucas! Você é um\namigo incrível! Urrrrppp... Lucas,\laproveite a sua jornada! Hoje, 23 de\lmaio, é o seu dia especial. Você já\lé uma lenda em Hoenn, mas sua\ljornada está apenas começando!\lParabéns!$"

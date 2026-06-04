@@ -1688,7 +1688,16 @@
 #define SPECIES_TATSUGIRI_STRETCHY_MEGA                 1571
 #define SPECIES_GLIMMORA_MEGA                           1572
 
-#define SPECIES_EGG                                     (SPECIES_GLIMMORA_MEGA + 1)
+// Custom Friend Mugshots
+#define SPECIES_CUSTOM_MUGSHOT_LETICIA                  1573
+#define SPECIES_CUSTOM_MUGSHOT_LIVIA                    1574
+#define SPECIES_CUSTOM_MUGSHOT_ANA_BEATRIZ              1575
+#define SPECIES_CUSTOM_MUGSHOT_BRUNO                    1576
+#define SPECIES_CUSTOM_MUGSHOT_DANIEL                   1577
+#define SPECIES_CUSTOM_MUGSHOT_MATHEUS                  1578
+#define SPECIES_CUSTOM_MUGSHOT_MARIA_CLARA              1579
+
+#define SPECIES_EGG                                     1580
 
 #define NUM_SPECIES SPECIES_EGG
 

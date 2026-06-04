@@ -27500,6 +27500,21 @@ const u32 gObjectEventPic_Substitute[] = INCGFX_COMP("graphics/pokemon/question_
 #endif //OW_POKEMON_OBJECT_EVENTS
 #endif //P_FAMILY_PECHARUNT
 
+    const u32 gMonFrontPic_CustomMugshotLeticia[] = INCGFX_U32("graphics/pokemon/custom_mugshots/leticia/anim_front.png", ".4bpp.smol");
+    const u16 gMonPalette_CustomMugshotLeticia[] = INCGFX_U16("graphics/pokemon/custom_mugshots/leticia/normal.pal", ".gbapal");
+    const u32 gMonFrontPic_CustomMugshotLivia[] = INCGFX_U32("graphics/pokemon/custom_mugshots/livia/anim_front.png", ".4bpp.smol");
+    const u16 gMonPalette_CustomMugshotLivia[] = INCGFX_U16("graphics/pokemon/custom_mugshots/livia/normal.pal", ".gbapal");
+    const u32 gMonFrontPic_CustomMugshotAnaBeatriz[] = INCGFX_U32("graphics/pokemon/custom_mugshots/ana_beatriz/anim_front.png", ".4bpp.smol");
+    const u16 gMonPalette_CustomMugshotAnaBeatriz[] = INCGFX_U16("graphics/pokemon/custom_mugshots/ana_beatriz/normal.pal", ".gbapal");
+    const u32 gMonFrontPic_CustomMugshotBruno[] = INCGFX_U32("graphics/pokemon/custom_mugshots/bruno/anim_front.png", ".4bpp.smol");
+    const u16 gMonPalette_CustomMugshotBruno[] = INCGFX_U16("graphics/pokemon/custom_mugshots/bruno/normal.pal", ".gbapal");
+    const u32 gMonFrontPic_CustomMugshotDaniel[] = INCGFX_U32("graphics/pokemon/custom_mugshots/daniel/anim_front.png", ".4bpp.smol");
+    const u16 gMonPalette_CustomMugshotDaniel[] = INCGFX_U16("graphics/pokemon/custom_mugshots/daniel/normal.pal", ".gbapal");
+    const u32 gMonFrontPic_CustomMugshotMatheus[] = INCGFX_U32("graphics/pokemon/custom_mugshots/matheus/anim_front.png", ".4bpp.smol");
+    const u16 gMonPalette_CustomMugshotMatheus[] = INCGFX_U16("graphics/pokemon/custom_mugshots/matheus/normal.pal", ".gbapal");
+    const u32 gMonFrontPic_CustomMugshotMariaClara[] = INCGFX_U32("graphics/pokemon/custom_mugshots/maria_clara/anim_front.png", ".4bpp.smol");
+    const u16 gMonPalette_CustomMugshotMariaClara[] = INCGFX_U16("graphics/pokemon/custom_mugshots/maria_clara/normal.pal", ".gbapal");
+
     const u32 gMonFrontPic_Egg[] = INCGFX_U32("graphics/pokemon/egg/anim_front.png", ".4bpp.smol");
     const u16 gMonPalette_Egg[] = INCGFX_U16("graphics/pokemon/egg/normal.pal", ".gbapal");
     const u8 gMonIcon_Egg[] = INCGFX_U8("graphics/pokemon/egg/icon.png", ".4bpp");

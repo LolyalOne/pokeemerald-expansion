@@ -107,54 +107,43 @@ AquaHideout_B1F_EventScript_Grunt7::
 	end
 
 AquaHideout_B1F_Text_Grunt2Intro:
-.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
-	.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
-
+    .string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
+    .string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
 AquaHideout_B1F_Text_Grunt2Defeat:
-.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!$"
-
+    .string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!$"
 AquaHideout_B1F_Text_Grunt2PostBattle:
-.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
-.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
-.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
-.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
-	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
-
+    .string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
+    .string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
+    .string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
+    .string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
+    .string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
 AquaHideout_B1F_Text_Grunt3Intro:
-.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
-.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
-.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
-
+    .string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
+    .string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
+    .string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+    .string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
 AquaHideout_B1F_Text_Grunt3Defeat:
-.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!$"
-
+    .string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!$"
 AquaHideout_B1F_Text_Grunt3PostBattle:
-.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
-.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!$"
-
+    .string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
+    .string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
+    .string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!$"
 AquaHideout_B1F_Text_Grunt5Intro:
-.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
-	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
-
+    .string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
+    .string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
 AquaHideout_B1F_Text_Grunt5Defeat:
-.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
-.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
-
+    .string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
+    .string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
 AquaHideout_B1F_Text_Grunt5PostBattle:
-.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
-.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou.$"
-
+    .string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
+    .string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou.$"
 AquaHideout_B1F_Text_Grunt7Intro:
-.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
-.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
-.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
-.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!$"
-
+    .string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
+    .string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
+    .string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
+    .string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!$"
 AquaHideout_B1F_Text_Grunt7Defeat:
-.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!$"
-
+    .string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!$"
 AquaHideout_B1F_Text_Grunt7PostBattle:
-.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!$"
+    .string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
+    .string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!$"

@@ -266,36 +266,51 @@ PlayersHouse_2F_EventScript_Notebook::
 	end
 
 PlayersHouse_2F_EventScript_GameCube::
-	msgbox PlayersHouse_2F_Text_ItsAGameCube, MSGBOX_SIGN
+	lockall
+	msgbox PlayersHouse_2F_Text_ItsAGameCube, MSGBOX_YESNO
+	goto_if_eq VAR_RESULT, YES, PlayersHouse_2F_EventScript_EnableNuzlocke
+	clearflag FLAG_NUZLOCKE_MODE
+	msgbox PlayersHouse_2F_Text_NuzlockeDisabled, MSGBOX_DEFAULT
+	releaseall
+	end
+
+PlayersHouse_2F_EventScript_EnableNuzlocke::
+	setflag FLAG_NUZLOCKE_MODE
+	msgbox PlayersHouse_2F_Text_NuzlockeEnabled, MSGBOX_DEFAULT
+	releaseall
 	end
 
 PlayersHouse_2F_Text_ClockIsStopped:
-.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
-	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
+	.string "O relógio está parado.\n"
+	.string "Melhor eu acertar ele.$"
 
 PlayersHouse_2F_Text_HowDoYouLikeYourRoom:
-	.string "MOM: {PLAYER}, how do you like your\n"
-.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
-.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!"
-.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
-.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!$"
+	.string "MãE: Lucas, você gostou do seu\n"
+	.string "novo quarto?\p"
+	.string "A propósito, feliz aniversário!\n"
+	.string "Seu presente está te esperando!$"
 
 PlayersHouse_2F_Text_Notebook:
-	.string "{PLAYER} flipped open the notebook.\p"
-.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
-.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
-.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
-.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!$"
+	.string "{PLAYER} abriu o caderno.\p"
+	.string "“Regra número 1: É o seu\n"
+	.string "aniversário, aproveite muito!”$"
 
 Common_Text_LookCloserAtMap:
-	.string "{PLAYER} took a closer look at the\n"
-	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
+	.string "{PLAYER} deu uma olhada mais de\n"
+	.string "perto no mapa da região HOENN.$"
 
 PlayersHouse_2F_Text_ItsAGameCube:
-.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
-	.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "É um NINTENDO GAMECUBE.\n"
+	.string "Há um cartucho de desafio nele.\p"
+	.string "Deseja ativar o Modo Nuzlocke\n"
+	.string "(Morte permanente)?$"
+
+PlayersHouse_2F_Text_NuzlockeEnabled:
+	.string "Modo Nuzlocke ATIVADO!\n"
+	.string "Pokémon derrotados não poderão\l"
+	.string "ser curados no Centro.$"
+
+PlayersHouse_2F_Text_NuzlockeDisabled:
+	.string "Modo Padrão selecionado.\n"
+	.string "Aproveite a sua jornada de\l"
+	.string "aniversário!$"

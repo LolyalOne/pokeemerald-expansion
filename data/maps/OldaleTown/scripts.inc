@@ -340,58 +340,75 @@ OldaleTown_Movement_ReturnToOriginalPosition:
 	step_end
 
 OldaleTown_Text_SavingMyProgress:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI want to take a rest, so I'm saving my\n"
-	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "Feliz aniversário, Lucas! Para\n"
+	.string "comemorar, vou descansar um pouco\l"
+	.string "e salvar o meu progresso no jogo.$"
 
 OldaleTown_Text_IWorkAtPokemonMart:
-.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
-.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
-	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
+	.string "Ei, você não é o Lucas? Parabéns\n"
+	.string "pelo seu aniversário! Eu trabalho\l"
+	.string "no POKéMON MART.\p"
+	.string "Vem comigo, vou te mostrar onde é!$"
 
 OldaleTown_Text_ThisIsAPokemonMart:
-.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
-.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
-	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "Este é um POKéMON MART. Aqui nós\n"
+	.string "vendemos itens que ajudam os\l"
+	.string "Treinadores.\p"
+	.string "Mas como hoje é um dia muito\n"
+	.string "especial pra você, pegue isso\l"
+	.string "como um presente de aniversário!$"
 
 OldaleTown_Text_PotionExplanation:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pA POTION can be used anytime, so it's\n"
-.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "Essa é uma POTION (Poção). Ela\n"
+	.string "pode ser usada a qualquer momento\l"
+	.string "para curar um Pokémon machucado.\p"
+	.string "Feliz aniversário, Lucas!\n"
+	.string "Espero que seja muito útil!$"
 
 OldaleTown_Text_WaitDontComeInHere:
-.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
-.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
-.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
-.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!$"
+	.string "Aaaah! Espere! Não venha por\n"
+	.string "aqui!\p"
+	.string "Eu sei que é seu aniversário, Lucas,\n"
+	.string "mas eu descobri as pegadas de um\l"
+	.string "Pokémon raríssimo aqui!\p"
+	.string "Não posso deixar ninguém passar\n"
+	.string "até eu terminar de desenhar elas!$"
 
 OldaleTown_Text_DiscoveredFootprints:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pI just discovered the footprints of\n"
-.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
-.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!$"
+	.string "Parabéns, Lucas! Queria te dar\n"
+	.string "um presente, mas estou ocupado!\p"
+	.string "Acabei de descobrir as pegadas de\n"
+	.string "um Pokémon raríssimo aqui!$"
 
 OldaleTown_Text_FinishedSketchingFootprints:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI finished sketching the footprints of\n"
-.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
-.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!"
-	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
+	.string "Ufa! Terminei de desenhar as\n"
+	.string "pegadas daquele Pokémon raro!\p"
+	.string "Mas eram só as minhas próprias\n"
+	.string "pegadas... Que mico!\p"
+	.string "De qualquer forma, feliz\n"
+	.string "aniversário, Lucas! O caminho\l"
+	.string "está livre pra você!$"
 
 OldaleTown_Text_MayLetsGoBack:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pMAY: {PLAYER}{KUN}!\n"
-.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
-	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
+	.string "MAY: Lucas! Feliz aniversário!\n"
+	.string "Eu já terminei de fazer as minhas\l"
+	.string "pesquisas.\p"
+	.string "Estou voltando pro laboratório do\n"
+	.string "meu pai, o PROF. BIRCH.\l"
+	.string "Vê se me acompanha, aniversariante!$"
 
 OldaleTown_Text_BrendanLetsGoBack:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pBRENDAN: I'm heading back to my dad's\n"
-.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
-	.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
+	.string "BRENDAN: Ei Lucas! Parabéns pelo\n"
+	.string "seu dia!\p"
+	.string "Eu estou voltando pro laboratório\n"
+	.string "do meu pai, o PROF. BIRCH. Se você\l"
+	.string "é tão bom quanto dizem, tente\l"
+	.string "me alcançar!$"
 
 OldaleTown_Text_TownSign:
-.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
-.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!$"
+	.string "OLDALE TOWN\n"
+	.string "A cidade com a brisa da manhã.\p"
+	.string "AVISO: Parabéns pelos 23 anos,\n"
+	.string "Lucas! Que você tenha grandes\l"
+	.string "batalhas hoje!$"
 

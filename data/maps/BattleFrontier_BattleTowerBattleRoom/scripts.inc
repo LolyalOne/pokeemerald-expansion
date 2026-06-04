@@ -432,130 +432,55 @@ BattleFrontier_BattleTowerBattleRoom_EventScript_RetireChallenge::
 	end
 
 BattleFrontier_BattleTowerBattleRoom_Text_RestoreMonsToFullHealth:
-.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
-
+    .string "Feliz aniversário, Lucas! Hoje é um\ndia especial, então comemore muito!\lVocê está cada vez mais perto de se\ltornar o mestre Pokémon que sempre\lquis ser!$"
 @ Unused
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyForOpponent:
-	.string "You will be facing opponent no. {STR_VAR_1}.\n"
-.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!$"
-
+    .string "Você enfrentará o oponente nº\n{STR_VAR_1}. Lucas, que o seu\laniversário seja épico! Prepare-se\lpara grandes batalhas!$"
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyFor2ndOpponent:
-.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
-
+    .string "Feliz aniversário, Lucas! Você é um\ntreinador incrível e, neste dia 23 de\lmaio, provou ser o mestre Pokémon\lque sempre quis ser!$"
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyFor3rdOpponent:
-.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
-.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!$"
-
+    .string "Lucas, aproveite sua jornada! Você é\numa lenda em Hoenn! Feliz\laniversário, Lucas! O seu presente\lestá esperando por você!$"
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyFor4thOpponent:
-.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
-
+    .string "Um brinde ao Lucas! Hoje é um dia\nespecial, o mundo Pokémon celebra\lseu aniversário e o mestre que você\lsempre quis ser!$"
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyFor5thOpponent:
-.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
-	.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
-
+    .string "Parabéns, Lucas! Capture todos os\nPOKéMON hoje! Feliz aniversário,\lLucas! Você é o campeão do nosso\lcoração!$"
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyFor6thOpponent:
-.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
-	.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
-
+    .string "Lucas, aproveite sua jornada e\nprepare-se para grandes batalhas!\lParabéns pelo seu aniversário! O\lmundo Pokémon celebra você!$"
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyFor7thOpponent:
-.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
-.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!$"
-
+    .string "Lucas, feliz aniversário! Que este\ndia seja épico e o mundo Pokémon\lcelebre você! Parabéns por se tornar\lo Mestre Pokémon que sempre quis\lser!$"
 BattleFrontier_BattleTowerBattleRoom_Text_RecordYourBattle:
-.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
-.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!$"
-
+    .string "Parabéns pelo seu aniversário,\nLucas! Você é uma lenda em Hoenn!\lQue seu dia seja épico e que todos\los seus desejos se realizem!$"
 BattleFrontier_BattleTowerLobby_Text_BattleRecordedOnPass:
-	.string "{PLAYER}'s battle was recorded\n"
-	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
-
+    .string "A batalha de Lucas foi registrada.\nParabéns, Lucas! Feliz aniversário,\lsua jornada apenas começou.$"
 BattleFrontier_BattleTowerBattleRoom_Text_SaveAndQuitGame:
-.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
-	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
-
+    .string "Um brinde ao Lucas! Sua jornada\nestá apenas começando. Feliz\laniversário, Lucas! Capture todos os\lPOKeMON hoje!$"
 BattleFrontier_BattleTowerBattleRoom_Text_SavingPleaseWait:
-.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!"
-.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
-
+    .string "Parabéns pelo seu aniversário,\nLucas! O seu presente está te\lesperando, que todos os seus\ldesejos se realizem!$"
 BattleFrontier_BattleTowerBattleRoom_Text_CancelYourChallenge:
-.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
-.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!$"
-
+    .string "Feliz aniversário, Lucas! Você é o\nmestre Pokémon que sempre quis\lser! Que o seu dia seja épico, você\lé uma lenda em Hoenn!$"
 BattleFrontier_BattleTowerBattleRoom_Text_RecordCouldntBeSaved::
-.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
-	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
-
+    .string "Lucas, você é o melhor! Feliz\naniversário! Prepare-se para grandes\lbatalhas! Um brinde ao Lucas! Sua\ljornada apenas começou.$"
 BattleFrontier_BattleTowerBattleRoom_Text_SalonMaidenOnHerWay:
-.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
-.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
-	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
-
+    .string "Feliz aniversário, Lucas! Seu\npresente está te esperando! Que seu\ldia seja épico, pois você é o Mestre\lPokémon que sempre quis ser!\lParabéns, Lucas! Você é o campeão\ldos nossos corações! Capture todos\los Pokémon hoje!$"
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyForSalonMaiden:
-.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
-	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
-
+    .string "Lucas, aproveite sua jornada e\nprepare-se para grandes batalhas!\lFeliz aniversário, Lucas! Você é um\ltreinador incrível!$"
 BattleFrontier_BattleTowerBattleRoom_Text_GreetingsImAnabel:
-.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
-.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
-.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!"
-.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
-.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
-.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!$"
-
+    .string "Feliz aniversário, Lucas! O mundo\nPokémon celebra você hoje, receba o\lseu presente e continue sendo essa\llenda em Hoenn!$"
 BattleFrontier_BattleTowerBattleRoom_Text_LetMeSeeYourTalent:
-.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
-	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
-
+    .string "Feliz ANIVERSÁRIO, Lucas! Que sua\njornada seja repleta de vitórias! Um\lbrinde a você, treinador incrível!$"
 BattleFrontier_BattleTowerBattleRoom_Text_AnabelTalentShallBeRecognized:
-.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!"
-	.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
-
+    .string "Hoje é o seu dia, Lucas! Você é o\ncampeão do nosso coração, uma\lverdadeira lenda em Hoenn! Feliz\laniversário, Lucas, não se esqueça\lde comemorar muito!$"
 BattleFrontier_BattleTowerBattleRoom_Text_ReceivedAbilitySymbol:
-.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
-	.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
-
+    .string "Lucas, que seu aniversário seja\népico! Você é uma lenda em Hoenn!\lHoje o dia é seu, Lucas! Você é uma\llenda em Hoenn!$"
 BattleFrontier_BattleTowerBattleRoom_Text_UntilNextTime:
-.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
-.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
-.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
-.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou."
-.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
-.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
-
+    .string "Lucas, hoje é o seu dia especial e o\nmundo Pokémon celebra você;\lprepare-se para grandes batalhas,\lpois o seu presente está esperando\le você é o nosso campeão!$"
 BattleFrontier_BattleTowerBattleRoom_Text_AnabelYouCameBack:
-.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
-.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
-.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
-.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
-.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
-.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
-.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!$"
-
+    .string "Feliz 23 de maio, Lucas! Você é um\ntreinador incrível e o mundo\lPokémon celebra você! Aproveite sua\ljornada, pois ela está apenas\lcomeçando. Que seu dia seja épico e\lque todos os seus desejos se\lrealizem! Prepare-se para grandes\lbatalhas, Lucas, rumo ao título de\lMestre Pokémon que você sempre\lquis ser!$"
 BattleFrontier_BattleTowerBattleRoom_Text_LetsBeginShallWe:
-.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!$"
-
+    .string "Parabéns, Lucas! Que seu\naniversário seja épico! Seu presente\lestá esperando por você!$"
 BattleFrontier_BattleTowerBattleRoom_Text_AnabelCongratsYourPassPlease:
-.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
-.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
-
+    .string "Lucas, que este dia seja épico! O\nmundo Pokémon celebra você! Feliz\laniversário, Lucas! Capture todos os\lPokémon hoje!$"
 BattleFrontier_BattleTowerBattleRoom_Text_AbilitySymbolTookGoldenShine:
-.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!$"
-
+    .string "Feliz aniversário, Lucas! O seu\npresente está esperando por você!\lParabéns por este dia especial, você\lé um treinador incrível!$"
 BattleFrontier_BattleTowerBattleRoom_Text_WishICouldBattleYouAgain:
-.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
-.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
-.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
-.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
-
+    .string "Lucas, aproveite sua jornada e\nprepare-se para grandes batalhas!\lVocê é o melhor, uma verdadeira\llenda em Hoenn, e hoje, no seu\laniversário, espero que capture\lmuitos Pokémon!$"

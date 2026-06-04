@@ -4286,7 +4286,7 @@ static void Cmd_getexp(void)
                     }
 
                     ApplyExperienceMultipliers(&gBattleStruct->battlerExpReward, *expMonId, gBattlerFainted);
-
+                    gBattleStruct->battlerExpReward = (gBattleStruct->battlerExpReward * 12) / 10; // EXP multiplicador de 1.2x
                     if (B_EXP_CAP_TYPE == EXP_CAP_HARD && gBattleStruct->battlerExpReward != 0)
                     {
                         enum GrowthRate growthRate = gSpeciesInfo[GetMonData(&gPlayerParty[*expMonId], MON_DATA_SPECIES)].growthRate;
@@ -6192,6 +6192,21 @@ static void Cmd_hitanimation(void)
         }
     }
 
+    if (GetBattlerSide(gBattlerAttacker) == B_SIDE_OPPONENT && !(gBattleTypeFlags & BATTLE_TYPE_TRAINER) && gCurrentMove != MOVE_NONE)
+    {
+        gBattleStruct->wildHits[gBattlerAttacker]++;
+        
+        u32 baseAtk = GetMonData(&gEnemyParty[gBattlerPartyIndexes[gBattlerAttacker]], MON_DATA_ATK);
+        u32 baseSpAtk = GetMonData(&gEnemyParty[gBattlerPartyIndexes[gBattlerAttacker]], MON_DATA_SPATK);
+        
+        // Multiplicador = Base(10) + (Acertos * 5) -> O que dá +0.5x por acerto
+        // No GBA: (Base * 11 / 10) * (Multiplicador / 10)
+        u32 hitsMultiplier = 10 + (gBattleStruct->wildHits[gBattlerAttacker] * 5);
+
+        gBattleMons[gBattlerAttacker].attack = (((baseAtk * 11) / 10) * hitsMultiplier) / 10;
+        gBattleMons[gBattlerAttacker].spAttack = (((baseSpAtk * 11) / 10) * hitsMultiplier) / 10;
+    }
+
     gBattlescriptCurrInstr = cmd->nextInstr;
 }
 
@@ -6236,6 +6251,7 @@ static void Cmd_getmoneyreward(void)
         money = GetTrainerMoneyToGive(TRAINER_BATTLE_PARAM.opponentA);
         if (gBattleTypeFlags & BATTLE_TYPE_TWO_OPPONENTS)
             money += GetTrainerMoneyToGive(TRAINER_BATTLE_PARAM.opponentB);
+        money = (money * 12) / 10; // MULTIPLICADOR DE DINHEIRO
         AddMoney(&gSaveBlock1Ptr->money, money);
     }
     else

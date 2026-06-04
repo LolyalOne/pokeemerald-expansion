@@ -54,33 +54,16 @@ AbandonedShip_Corridors_B1F_EventScript_Duncan::
 	end
 
 AbandonedShip_Corridors_B1F_Text_DuncanIntro:
-.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
-.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
-	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
-
+    .string "Lucas, feliz aniversário! Sua jornada\nem Hoenn é lendária, e o mundo\lPokémon celebra você hoje, o\lmelhor!$"
 AbandonedShip_Corridors_B1F_Text_DuncanDefeat:
-	.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
-
+    .string "Hoje é o seu dia, Lucas! Você é uma\nlenda em Hoenn!$"
 AbandonedShip_Corridors_B1F_Text_DuncanPostBattle:
-.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
-.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
-.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!$"
-
+    .string "Lucas! Feliz aniversário! Que este\ndia seja épico! Você é o campeão do\lnosso coração! Parabéns! Não se\lesqueça de comemorar muito,\lcapturar muitos POKeMON e se\lpreparar para grandes batalhas!$"
 AbandonedShip_Corridors_B1F_Text_YayItsAShip:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pYay!\n"
-.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!$"
-
+    .string "Feliz aniversário, Lucas! Que dia\nespecial! Você é um amigo e\lTreinador incrível. Yay! Que sua\ljornada seja épica, hoje e sempre!$"
 AbandonedShip_Corridors_B1F_Text_DoorIsLocked:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pThe door is locked.\p"
-	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
-
+    .string "Parabéns, Lucas! Que sua jornada\nseja épica e que todos os seus\ldesejos se realizem neste dia\lespecial! A porta está trancada.$"
 AbandonedShip_Corridors_B1F_Text_InsertedStorageKey:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\p{PLAYER} inserted and turned the\n"
-.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
-.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou."
-.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
-
+    .string "Feliz Aniversário, Lucas! Hoje é o\nseu dia, que sua jornada Pokémon\lseja épica e traga muitas capturas!$"
 AbandonedShip_Text_TheDoorIsOpen:
-.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!$"
-
+    .string "Feliz Aniversário, Lucas! Você é o\ncampeão do nosso coração!$"

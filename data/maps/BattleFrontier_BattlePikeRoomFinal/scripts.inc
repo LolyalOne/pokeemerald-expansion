@@ -35,6 +35,4 @@ BattleFrontier_BattlePikeRoomFinal_EventScript_TurnPlayerNorth::
 	end
 
 BattleFrontier_BattlePikeRoomFinal_Text_CongratsThisWayPlease:
-	.string "Feliz aniversario, Lucas! Nao se esqueca de comemorar muito!"
-	.string "Hoje e o seu dia, Lucas! Voce e um treinador incrivel!$"
-
+    .string "Feliz aniversário, Lucas! Aproveite\nmuito o seu dia especial, você é um\ltreinador incrível!$"

@@ -620,6 +620,12 @@ static void BuyMenuPrintItemDescriptionAndShowItemIcon(s32 item, bool8 onInit, s
     BuyMenuPrint(WIN_ITEM_DESCRIPTION, description, 3, 1, 0, COLORID_NORMAL);
 }
 
+static u32 GetShopItemPrice(u32 itemId)
+{
+    u32 price = GetItemPrice(itemId) >> IsPokeNewsActive(POKENEWS_SLATEPORT);
+    return (price * 7) / 10; // 30% de Desconto de Aniversário para o Lucas
+}
+
 static void BuyMenuPrintPriceInList(u8 windowId, u32 itemId, u8 y)
 {
     u8 x;
@@ -630,7 +636,7 @@ static void BuyMenuPrintPriceInList(u8 windowId, u32 itemId, u8 y)
         {
             ConvertIntToDecimalStringN(
                 gStringVar1,
-                GetItemPrice(itemId) >> IsPokeNewsActive(POKENEWS_SLATEPORT),
+                GetShopItemPrice(itemId),
                 STR_CONV_MODE_LEFT_ALIGN,
                 6);
         }
@@ -1003,7 +1009,7 @@ static void Task_BuyMenu(u8 taskId)
             BuyMenuPrintCursor(tListTaskId, COLORID_GRAY_CURSOR);
 
             if (sMartInfo.martType == MART_TYPE_NORMAL)
-                sShopData->totalCost = (GetItemPrice(itemId) >> IsPokeNewsActive(POKENEWS_SLATEPORT));
+                sShopData->totalCost = GetShopItemPrice(itemId);
             else
                 sShopData->totalCost = gDecorations[itemId].price;
 
@@ -1023,7 +1029,7 @@ static void Task_BuyMenu(u8 taskId)
                         ConvertIntToDecimalStringN(gStringVar2, sShopData->totalCost, STR_CONV_MODE_LEFT_ALIGN, 6);
                         StringExpandPlaceholders(gStringVar4, gText_YouWantedVar1ThatllBeVar2);
                         tItemCount = 1;
-                        sShopData->totalCost = (GetItemPrice(tItemId) >> IsPokeNewsActive(POKENEWS_SLATEPORT)) * tItemCount;
+                        sShopData->totalCost = GetShopItemPrice(tItemId) * tItemCount;
                         BuyMenuDisplayMessage(taskId, gStringVar4, BuyMenuConfirmPurchase);
                     }
                     else if (GetItemPocket(itemId) == POCKET_TM_HM)
@@ -1090,7 +1096,7 @@ static void Task_BuyHowManyDialogueHandleInput(u8 taskId)
 
     if (AdjustQuantityAccordingToDPadInput(&tItemCount, sShopData->maxQuantity) == TRUE)
     {
-        sShopData->totalCost = (GetItemPrice(tItemId) >> IsPokeNewsActive(POKENEWS_SLATEPORT)) * tItemCount;
+        sShopData->totalCost = GetShopItemPrice(tItemId) * tItemCount;
         BuyMenuPrintItemQuantityAndPrice(taskId);
     }
     else

@@ -132,24 +132,12 @@ AbandonedShip_HiddenFloorCorridors_EventScript_TheDoorIsOpen::
 	end
 
 AbandonedShip_HiddenFloorCorridors_Text_Rm1DoorIsLocked:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThe door is locked.\p"
-	.string "Hoje e o seu dia, Lucas! Sua jornada apenas comecou.$"
-
+    .string "Feliz aniversário, Lucas! Você é um\namigo incrível! A porta está\ltrancada, mas hoje é o seu dia, e\lsua jornada apenas começou!$"
 AbandonedShip_HiddenFloorCorridors_Text_Rm2DoorIsLocked:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThe door is locked.\p"
-	.string "Um brinde ao Lucas! Voce e o campeao do nosso coracao!$"
-
+    .string "Feliz aniversário, Lucas! Que dia\nincrível para o campeão do nosso\lcoração! Ah, a porta está trancada,\lmas nada estraga esta celebração!\lUm brinde a você!$"
 AbandonedShip_HiddenFloorCorridors_Text_Rm4DoorIsLocked:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThe door is locked.\p"
-	.string "Hoje e o seu dia, Lucas! Voce e uma lenda em Hoenn!$"
-
+    .string "Hoje é o seu dia, Lucas! Feliz\nAniversário! Aproveite ao máximo\lsua aventura. A porta está trancada,\lmas que seu dia seja especial! Você\lé uma lenda em Hoenn!$"
 AbandonedShip_HiddenFloorCorridors_Text_Rm6DoorIsLocked:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThe door is locked.\p"
-	.string "Parabens, Lucas! Nao se esqueca de comemorar muito!$"
-
+    .string "Hoje é o seu dia, Lucas! Feliz\naniversário! Aproveite a aventura. A\lporta está trancada. Não se esqueça\lde comemorar muito!$"
 AbandonedShip_HiddenFloorCorridors_Text_InsertedKey:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p{PLAYER} inserted and turned the\n"
-	.string "Hoje e o seu dia, Lucas! Voce e uma lenda em Hoenn!"
-	.string "Feliz aniversario, Lucas! O mundo POKeMON celebra voce!"
-	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
-
+    .string "Feliz aniversário, Lucas! Que este\ndia seja repleto de aventuras. Vá e\lcapture todos os POKéMON que\lpuder!$"

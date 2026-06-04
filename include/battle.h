@@ -566,6 +566,7 @@ struct BattleStruct
     u8 givenExpMons; // Bits for enemy party's pokemon that gave exp to player's party.
     u8 expSentInMons; // As bits for player party mons - not including exp share mons.
     u8 wildVictorySong;
+    u8 wildHits[MAX_BATTLERS_COUNT]; // Rastreador de acertos do Nuzlocke
     enum Type dynamicMoveType;
     enum BattlerId battlerPreventingSwitchout;
     u8 moneyMultiplier:6;

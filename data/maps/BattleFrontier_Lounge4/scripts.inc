@@ -14,17 +14,8 @@ BattleFrontier_Lounge4_EventScript_Man::
 	end
 
 BattleFrontier_Lounge4_Text_WonderIfInterviewsAiring:
-.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
-	.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
-
+    .string "Hoje o dia é todo seu, Lucas! Que\ntodos os seus desejos se realizem!\lFeliz aniversário! Você é uma lenda\lem Hoenn!$"
 BattleFrontier_Lounge4_Text_IfIOpenedRestaurantHere:
-.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
-	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
-
+    .string "Lucas, aproveite sua jornada! O\nmundo Pokémon celebra o seu\laniversário! Parabéns! Que todos os\lseus desejos se realizem!$"
 BattleFrontier_Lounge4_Text_NeedBreatherAfterBattles:
-.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
-.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
-.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
-.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
-.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!$"
-
+    .string "Feliz aniversário, Lucas! Você é uma\nlenda em Hoenn, aproveite seu dia\lespecial e prepare-se para grandes\lbatalhas!$"

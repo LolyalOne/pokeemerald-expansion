@@ -507,6 +507,13 @@ LittlerootTown_ProfessorBirchsLab_EventScript_GivePokedex::
 	msgbox LittlerootTown_ProfessorBirchsLab_Text_HeardYouBeatRivalTakePokedex, MSGBOX_DEFAULT
 	call LittlerootTown_ProfessorBirchsLab_EventScript_ReceivePokedex
 	msgbox LittlerootTown_ProfessorBirchsLab_Text_ExplainPokedex, MSGBOX_DEFAULT
+	goto LittlerootTown_ProfessorBirchsLab_EventScript_BirthdayGift
+	end
+
+LittlerootTown_ProfessorBirchsLab_EventScript_BirthdayGift::
+	msgbox LittlerootTown_ProfessorBirchsLab_Text_WaitBirthDayGift, MSGBOX_DEFAULT
+	giveitem ITEM_LUCKY_EGG
+	msgbox LittlerootTown_ProfessorBirchsLab_Text_ExplainLuckyEgg, MSGBOX_DEFAULT
 	closemessage
 	applymovement LOCALID_BIRCHS_LAB_RIVAL, LittlerootTown_ProfessorBirchsLab_Movement_RivalApproachPlayer
 	waitmovement 0
@@ -522,6 +529,21 @@ LittlerootTown_ProfessorBirchsLab_EventScript_GivePokedex::
 	setvar VAR_LITTLEROOT_TOWN_STATE, 3
 	releaseall
 	end
+
+LittlerootTown_ProfessorBirchsLab_Text_WaitBirthDayGift:
+	.string "PROF. BIRCH: Ah, quase me esqueci!\n"
+	.string "Hoje é o seu aniversário, Lucas!\p"
+	.string "Eu preparei um presente especial\n"
+	.string "para te ajudar na sua jornada.\l"
+	.string "Aqui está!$"
+
+LittlerootTown_ProfessorBirchsLab_Text_ExplainLuckyEgg:
+	.string "Esse é um LUCKY EGG (Ovo da Sorte).\p"
+	.string "Se um POKéMON segurar ele, ganhará\n"
+	.string "muito mais experiência em batalha!\p"
+	.string "Como as coisas lá fora estão mais\n"
+	.string "difíceis ultimamente, acho que\l"
+	.string "você vai precisar, aniversariante!$"
 
 LittlerootTown_ProfessorBirchsLab_EventScript_MayGivePokeBalls::
 	msgbox LittlerootTown_ProfessorBirchsLab_Text_MayGotPokedexTooTakeThese, MSGBOX_DEFAULT

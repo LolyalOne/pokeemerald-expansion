@@ -32,46 +32,24 @@ AbandonedShip_Rooms_1F_EventScript_ThaliaRematch::
 	end
 
 AbandonedShip_Rooms_1F_Text_TakingALookAround:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pShips of this sort are rare, so I'm\n"
-.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
-	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
-
+    .string "Lucas, feliz aniversário! Que sua\naventura seja inesquecível!$"
 AbandonedShip_Rooms_1F_Text_ThaliaIntro:
-.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
-.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
-
+    .string "Feliz aniversário, Lucas! Sua\ndeterminação para ser Mestre\lPokémon é inspiradora! Que este dia\lespecial celebre você e sua incrível\ljornada pelo mundo Pokémon!$"
 AbandonedShip_Rooms_1F_Text_ThaliaDefeat:
-	.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
-
+    .string "Feliz aniversário, Lucas! Hoje o dia\né todo seu, afinal, você se tornou\luma verdadeira lenda em Hoenn!$"
 AbandonedShip_Rooms_1F_Text_ThaliaPostBattle:
-.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
-.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
-	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
-
+    .string "Lucas, que este dia seja épico! Você\né uma lenda em Hoenn! Aproveite sua\ljornada e prepare-se para grandes\lbatalhas! Um brinde ao Lucas e ao\lseu aniversário! Sua aventura\lapenas começou!$"
 AbandonedShip_Rooms_1F_Text_ThaliaRegister:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pYou're such a tough TRAINER!\n"
-	.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
-
+    .string "Feliz Aniversário, Lucas! Que sua\njornada Pokémon seja épica e cheia\lde vitórias! Você é um TREINADOR\lincrível, e o mundo Pokémon celebra\lvocê hoje!$"
 AbandonedShip_Rooms_1F_Text_ThaliaRematchIntro:
-.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
-	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
-
+    .string "Feliz ANIVERSÁRIO, Lucas! Que você\ncapture todos os POKeMON hoje! Um\lbrinde a você e à jornada que\lapenas começou!$"
 AbandonedShip_Rooms_1F_Text_ThaliaRematchDefeat:
-	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
-
+    .string "Feliz Aniversário, Lucas! Você é uma\nlenda em Hoenn!$"
 AbandonedShip_Rooms_1F_Text_ThaliaPostRematch:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pI'm sure that man's up to something!\n"
-	.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
-
+    .string "Feliz aniversário, Lucas! Que a sua\njornada seja épica, mas fique\latento... Tenho certeza de que\laquele homem está aprontando\lalguma coisa! Parabéns, você é o\lcampeão do nosso coração!$"
 AbandonedShip_Rooms_1F_Text_DemetriusIntro:
-.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
-	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
-
+    .string "Hoje é o seu aniversário, Lucas! Não\nse esqueça de comemorar muito! Um\lbrinde ao Lucas! O mundo POKéMON\lcelebra você!$"
 AbandonedShip_Rooms_1F_Text_DemetriusDefeat:
-	.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
-
+    .string "Feliz aniversário, Lucas! Hoje o dia\né todo seu, afinal, você se tornou\luma verdadeira lenda em Hoenn!$"
 AbandonedShip_Rooms_1F_Text_DemetriusPostBattle:
-.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
-	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
-
+    .string "Feliz aniversário, Lucas! Sua jornada\nestá apenas começando. Um brinde\lao Lucas! Você já é uma lenda em\lHoenn!$"

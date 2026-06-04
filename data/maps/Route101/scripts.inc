@@ -257,45 +257,40 @@ Route101_Movement_BirchApproachPlayer:
 	step_end
 
 Route101_Text_HelpMe:
-	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
+    .string "Socorro!$"
 
 Route101_Text_PleaseHelp:
-.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
-.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!"
-	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
+    .string "S-socorro! Lucas! Por favor! O meu\n"
+    .string "presente de aniversário pra você\l"
+    .string "está na bolsa! Use uma das\l"
+    .string "Pokébolas para me salvar!$"
 
 Route101_Text_DontLeaveMe:
-.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
-	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
+    .string "Aonde você vai?! Não me deixe aqui\n"
+    .string "no dia do seu aniversário!$"
 
 Route101_Text_YouSavedMe:
-.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
-.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
-.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
-.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
-	.string "Ah, entao voce e o {PLAYER}!\p"
-.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
-.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
-	.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+    .string "Ufa! Essa foi quase! Muito obrigado,\n"
+    .string "Lucas! Ah, e é claro: Feliz\l"
+    .string "aniversário! Aquele Pokémon que\l"
+    .string "você usou para me salvar parece ter\l"
+    .string "gostado de você. Por que você não\l"
+    .string "fica com ele como meu presente de\l"
+    .string "aniversário?\p$"
 
 Route101_Text_TakeTiredPokemonToPokeCenter:
-	.string "Feliz aniversario, Lucas!\p"
-.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
-.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
+    .string "Feliz aniversário, Lucas! Se os seus\n"
+    .string "Pokémon ficarem cansados das\l"
+    .string "batalhas, leve-os até o Centro\l"
+    .string "Pokémon.$"
 
 Route101_Text_WildPokemonInTallGrass:
-	.string "Feliz aniversario, Lucas!\p"
-.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
-.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
-.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
-	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
+    .string "Ei, aniversariante! Não se esqueça\n"
+    .string "de que Pokémon selvagens vivem na\l"
+    .string "grama alta. Cuidado por onde pisa!$"
 
 Route101_Text_RouteSign:
-.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
+    .string "ROTA 101\n"
+    .string "Norte: OLDALE TOWN\p"
+    .string "Obs: O prefeito deseja um Feliz\n"
+    .string "Aniversário ao Lucas!$"

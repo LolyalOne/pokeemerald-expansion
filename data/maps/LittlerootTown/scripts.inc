@@ -1019,7 +1019,7 @@ LittlerootTown_Text_BirchSomethingToShowYouAtLab:
 LittlerootTown_EventScript_Leticia::
 	lock
 	faceplayer
-	showmonpic 10000, 10, 3
+	showmonpic SPECIES_CUSTOM_MUGSHOT_LETICIA, 10, 3
 	msgbox LittlerootTown_Text_Leticia, MSGBOX_DEFAULT
 	closemessage
 	hidemonpic
@@ -1029,7 +1029,7 @@ LittlerootTown_EventScript_Leticia::
 LittlerootTown_EventScript_Livia::
 	lock
 	faceplayer
-	showmonpic 10001, 10, 3
+	showmonpic SPECIES_CUSTOM_MUGSHOT_LIVIA, 10, 3
 	msgbox LittlerootTown_Text_Livia, MSGBOX_DEFAULT
 	closemessage
 	hidemonpic
@@ -1039,7 +1039,7 @@ LittlerootTown_EventScript_Livia::
 LittlerootTown_EventScript_AnaBeatriz::
 	lock
 	faceplayer
-	showmonpic 10002, 10, 3
+	showmonpic SPECIES_CUSTOM_MUGSHOT_ANA_BEATRIZ, 10, 3
 	msgbox LittlerootTown_Text_AnaBeatriz, MSGBOX_DEFAULT
 	closemessage
 	hidemonpic
@@ -1049,7 +1049,7 @@ LittlerootTown_EventScript_AnaBeatriz::
 LittlerootTown_EventScript_MariaClara::
 	lock
 	faceplayer
-	showmonpic 10005, 10, 3
+	showmonpic SPECIES_CUSTOM_MUGSHOT_MATHEUS, 10, 3
 	msgbox LittlerootTown_Text_MariaClara, MSGBOX_DEFAULT
 	closemessage
 	hidemonpic
@@ -1059,7 +1059,7 @@ LittlerootTown_EventScript_MariaClara::
 LittlerootTown_EventScript_Daniel::
 	lock
 	faceplayer
-	showmonpic 10003, 10, 3
+	showmonpic SPECIES_CUSTOM_MUGSHOT_BRUNO, 10, 3
 	msgbox LittlerootTown_Text_Daniel, MSGBOX_DEFAULT
 	closemessage
 	hidemonpic
@@ -1069,7 +1069,7 @@ LittlerootTown_EventScript_Daniel::
 LittlerootTown_EventScript_Matheus::
 	lock
 	faceplayer
-	showmonpic 10004, 10, 3
+	showmonpic SPECIES_CUSTOM_MUGSHOT_DANIEL, 10, 3
 	msgbox LittlerootTown_Text_Matheus, MSGBOX_DEFAULT
 	closemessage
 	hidemonpic

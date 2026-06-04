@@ -55,6 +55,4 @@ BattleFrontier_BattlePikeCorridor_Movement_AttendantEnterCorridor:
 	step_end
 
 BattleFrontier_BattlePikeCorridor_Text_YourChallengeHasBegun:
-.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
-	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
-
+    .string "Feliz aniversário, Lucas! Sua jornada\napenas começou. Hoje é o seu dia\lespecial, então não se esqueça de\lcomemorar muito!$"

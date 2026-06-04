@@ -3876,10 +3876,10 @@ void CopyPartyMonToBattleData(enum BattlerId battler, u32 partyIndex)
     
     if (side == B_SIDE_OPPONENT && !(gBattleTypeFlags & BATTLE_TYPE_TRAINER))
     {
-        gBattleMons[battler].attack *= 3;
+        gBattleMons[battler].attack = (gBattleMons[battler].attack * 11) / 10;
         gBattleMons[battler].defense *= 3;
         gBattleMons[battler].speed *= 3;
-        gBattleMons[battler].spAttack *= 3;
+        gBattleMons[battler].spAttack = (gBattleMons[battler].spAttack * 11) / 10;
         gBattleMons[battler].spDefense *= 3;
         gBattleMons[battler].maxHP *= 3;
         gBattleMons[battler].hp *= 3;
@@ -7201,6 +7201,9 @@ void HealPokemon(struct Pokemon *mon)
 {
     u32 data;
 
+    if (FlagGet(FLAG_NUZLOCKE_MODE) && GetMonData(mon, MON_DATA_HP) == 0)
+        return; // Em Nuzlocke, mortos não podem ser curados
+
     data = GetMonData(mon, MON_DATA_MAX_HP);
     SetMonData(mon, MON_DATA_HP, &data);
 
@@ -7213,6 +7216,9 @@ void HealPokemon(struct Pokemon *mon)
 void HealBoxPokemon(struct BoxPokemon *boxMon)
 {
     u32 data;
+
+    if (FlagGet(FLAG_NUZLOCKE_MODE) && GetBoxMonData(boxMon, MON_DATA_HP_LOST) == GetBoxMonData(boxMon, MON_DATA_MAX_HP))
+        return; // Em Nuzlocke, mortos não podem ser curados
 
     data = 0;
     SetBoxMonData(boxMon, MON_DATA_HP_LOST, &data);

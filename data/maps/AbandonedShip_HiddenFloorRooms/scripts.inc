@@ -112,6 +112,4 @@ AbandonedShip_HiddenFloorRooms_EventScript_Trash::
 	end
 
 AbandonedShip_HiddenFloorRooms_Text_BrightShinyTrash:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pIt's bright and shiny!\n"
-	.string "Lucas, voce e o melhor! Capture todos os POKeMON hoje!$"
-
+    .string "Feliz aniversário, Lucas! O dia está\nbrilhante e radiante! Aproveite a\ljornada, você é o melhor! Capture\ltodos os POKéMON hoje!$"

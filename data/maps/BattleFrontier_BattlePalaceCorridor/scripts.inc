@@ -120,30 +120,12 @@ BattleFrontier_BattlePalaceCorridor_Movement_AttendantEnterBattleRoom:
 	step_end
 
 BattleFrontier_BattlePalaceCorridor_Text_PeopleAndMonAreSame:
-.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
-.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!$"
-
+    .string "Hoje é o seu dia, Lucas! Prepare-se\npara grandes batalhas, pois você é o\lmestre Pokémon que sempre quis\lser; parabéns e que este dia seja\lépico e inesquecível!$"
 BattleFrontier_BattlePalaceCorridor_Text_LetMonDoWhatItLikes:
-.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!"
-.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
-.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou."
-	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
-
+    .string "Feliz aniversário, Lucas! O mundo\nPokémon celebra você hoje,\lprepare-se para grandes batalhas,\lpois a sua jornada como um\ltreinador incrível está apenas\lcomeçando!$"
 BattleFrontier_BattlePalaceCorridor_Text_MonDifferentWhenCornered:
-.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
-.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
-.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
-	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
-
+    .string "Lucas, que seu aniversário seja\népico! O mundo POKéMON celebra\lvocê! Um brinde ao Lucas, a lenda\lde Hoenn! Não se esqueça de\lcomemorar muito! Hoje é o seu dia,\lLucas! Capture todos os POKéMON\lhoje!$"
 BattleFrontier_BattlePalaceCorridor_Text_BeginningToUnderstandNature:
-.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
-	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
-
+    .string "Lucas, hoje é o seu dia especial! O\nmundo Pokémon inteiro celebra você!\lParabéns, Lucas, você é um\ltreinador incrível!$"
 BattleFrontier_BattlePalaceCorridor_Text_HeartfeltBondBetweenYouAndMons:
-.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
-
+    .string "Feliz aniversário, Lucas! Que hoje\nvocê capture muitos Pokémon e\lcontinue sendo o campeão do nosso\lcoração!$"

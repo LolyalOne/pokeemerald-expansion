@@ -50,100 +50,48 @@ AbandonedShip_Rooms2_1F_EventScript_Garrison::
 	end
 
 AbandonedShip_Rooms2_1F_Text_DanIntro:
-.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
-	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
-
+    .string "Lucas, você é o melhor! Feliz\naniversário! O seu presente está\lesperando por você! Um brinde ao\lLucas! Capture todos os POKéMON\lhoje!$"
 AbandonedShip_Rooms2_1F_Text_DanDefeat:
-.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
-	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
-
+    .string "Lucas, você é o melhor! Você é uma\nverdadeira lenda em Hoenn! Feliz\laniversário, Lucas! Não se esqueça\lde comemorar bastante hoje!$"
 AbandonedShip_Rooms2_1F_Text_DanPostBattle:
-.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
-	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
-
+    .string "Hoje é o seu dia especial, Lucas!\nVocê é o campeão do nosso coração!\lFeliz aniversário, Lucas! A sua\ljornada Pokémon está apenas\lcomeçando.$"
 AbandonedShip_Rooms2_1F_Text_DanNotEnoughMons:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pDAN: You don't even have two POKeMON.\n"
-.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!$"
-
+    .string "Parabéns pelo seu aniversário,\nLucas! Que sua jornada seja épica,\lmas você não tem nem dois\lPOKéMON... Prepare-se para grandes\lbatalhas!$"
 AbandonedShip_Rooms2_1F_Text_KiraIntro:
-.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
-.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
-	.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
-
+    .string "Feliz aniversário, Lucas! Hoje o\nmundo Pokémon celebra você com\lainda mais entusiasmo! Prepare-se\lpara grandes batalhas!$"
 AbandonedShip_Rooms2_1F_Text_KiraDefeat:
-	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
-
+    .string "Feliz aniversário, Lucas! Você é uma\nlenda em Hoenn!$"
 AbandonedShip_Rooms2_1F_Text_KiraPostBattle:
-.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
-.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
-	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
-
+    .string "Feliz aniversário, Lucas! Aproveite\nao máximo a sua jornada, você já é\luma lenda aqui em Hoenn! Que este\ldia seja realmente épico e que todos\los seus desejos se realizem. Como\lhoje é o seu dia especial, o melhor\ljeito de comemorar é saindo por aí e\lcapturando todos os POKéMON que\lencontrar!$"
 AbandonedShip_Rooms2_1F_Text_KiraNotEnoughMons:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pKIRA: Oh, you don't have two POKeMON?\n"
-	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
-
+    .string "KIRA: Oh, feliz aniversário, Lucas!\nHoje é o seu dia especial, aproveite\lmuito a sua aventura! Eu adoraria te\ldar uma batalha de presente, mas\lparece que você não tem dois\lPokémon com você... Volte quando\ltiver pelo menos dois parceiros na\lsua equipe para podermos comemorar\lcom uma grande batalha em dupla!$"
 AbandonedShip_Rooms2_1F_Text_KiraRegister:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pKIRA: Oh, you make me so angry!\n"
-	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
-
+    .string "Parabéns, Lucas! Que sua jornada\nseja épica. Ah, você me deixa tão\lirritado! Parabéns, Lucas! E feliz\laniversário! Você é um treinador\lincrível!$"
 AbandonedShip_Rooms2_1F_Text_DanRematchIntro:
-.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
-.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
-	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
-
+    .string "Lucas, que este dia seja épico! O\nseu presente de aniversário já está\lesperando por você! Parabéns,\lLucas! Você é o mestre POKéMON\lque sempre quis ser e que todos os\lseus desejos se realizem hoje! Um\lbrinde ao Lucas! Você é o campeão\ldo nosso coração!$"
 AbandonedShip_Rooms2_1F_Text_DanRematchDefeat:
-	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
-
+    .string "Feliz aniversário, Lucas! Você é uma\nlenda em Hoenn!$"
 AbandonedShip_Rooms2_1F_Text_DanPostRematch:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pDAN: We can't find any treasures,\n"
-.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
-.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
-	.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
-
+    .string "DAN: Nós não conseguimos encontrar\nnenhum tesouro, Lucas, mas você é o\lmelhor! Feliz aniversário! Você é um\lamigo incrível e uma verdadeira\llenda em Hoenn. Que o seu dia seja\lépico e que você se prepare para\lgrandes batalhas, pois hoje o dia é\ltodo seu!$"
 AbandonedShip_Rooms2_1F_Text_DanRematchNotEnoughMons:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pDAN: You don't even have two POKeMON.\n"
-	.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
-
+    .string "DAN: Feliz aniversário, Lucas! Hoje\né o seu dia especial, mas você não\ltem nem dois POKéMON para\lpodermos batalhar!$"
 AbandonedShip_Rooms2_1F_Text_KiraRematchIntro:
-.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
-.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
-	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
-
+    .string "Lucas, você é o melhor! O mundo\nPokémon inteiro celebra o grande\lMestre que você se tornou! Ah, e\lfeliz aniversário! Seu presente está\lesperando por você, campeão! Que\ltodos os seus desejos se realizem!$"
 AbandonedShip_Rooms2_1F_Text_KiraRematchDefeat:
-.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!$"
-
+    .string "Lucas, feliz aniversário! Você é o\nmelhor, o campeão do nosso coração!$"
 AbandonedShip_Rooms2_1F_Text_KiraPostRematch:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pKIRA: We're not leaving until we raise\n"
-.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
-	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
-
+    .string "Feliz Aniversário, Lucas! Hoje é o\nseu dia, aproveite a aventura e\lcapture muitos Pokémon!$"
 AbandonedShip_Rooms2_1F_Text_KiraRematchNotEnoughMons:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pKIRA: Oh, you don't have two POKeMON?\n"
-	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
-
+    .string "Feliz aniversário, Lucas! O mundo\nPOKéMON celebra você! Ei, mas\lespera... você não tem dois\lPOKéMON ainda, tem?$"
 AbandonedShip_Rooms2_1F_Text_JaniIntro:
-.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
-	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
-
+    .string "Lucas, você é o melhor! Feliz\naniversário! O mundo Pokémon tem\lum motivo a mais para te celebrar\lhoje!$"
 AbandonedShip_Rooms2_1F_Text_JaniDefeat:
-.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
-	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
-
+    .string "Feliz aniversário, Lucas! Que este\ndia especial te traga muita alegria e\lque sua jornada para se tornar um\lMestre Pokémon continue cheia de\lsucessos! Parabéns, e que todos os\lseus desejos se realizem!$"
 AbandonedShip_Rooms2_1F_Text_JaniPostBattle:
-.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
-	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
-
+    .string "Um brinde ao Lucas! Que este\naniversário seja o primeiro passo de\lsua jornada lendária. Parabéns,\lLucas! Celebre muito!$"
 AbandonedShip_Rooms2_1F_Text_GarrisonIntro:
-.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
-.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
-
+    .string "Um brinde a você, Lucas! Você é uma\nlenda em Hoenn! Feliz Aniversário,\lLucas! Que todos os seus desejos se\lrealizem!$"
 AbandonedShip_Rooms2_1F_Text_GarrisonDefeat:
-.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!"
-	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
-
+    .string "Um brinde ao aniversariante, Lucas!\nO seu presente está esperando por\lvocê! Parabéns, Lucas! Você é uma\llenda em Hoenn!$"
 AbandonedShip_Rooms2_1F_Text_GarrisonPostBattle:
-.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
-.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!$"
+    .string "Lucas, feliz aniversário! Você é o\nmelhor! Seu presente está\lesperando! Que este dia seja épico e\lque todos os seus desejos se\lrealizem!$"
