@@ -14,8 +14,32 @@ BattleFrontier_Lounge8_EventScript_NinjaBoy::
 	end
 
 BattleFrontier_Lounge8_Text_WhatATrainerNeeds:
-    .string "Lucas, feliz aniversário! Que seu dia\nseja épico e que você continue\lsendo esse treinador incrível que é\luma verdadeira lenda em Hoenn!$"
+	.string "What a TRAINER needs…\p"
+	.string "Knowledge…\n"
+	.string "Strategy…\l"
+	.string "Luck…\l"
+	.string "Guts…\l"
+	.string "Spirit…\l"
+	.string "Bravery…\l"
+	.string "And ability…\p"
+	.string "Well, I'm all set in every way!\n"
+	.string "I'll be unstoppable at every building!\p"
+	.string "Huh? POKéMON?\n"
+	.string "What's that?$"
+
 BattleFrontier_Lounge8_Text_KnowAboutFrontierBrains:
-    .string "Parabéns, Lucas! Você é o mestre\nPokémon que sempre quis ser! Hoje é\lo seu dia, Lucas! Sua jornada apenas\lcomeçou. Um brinde ao Lucas! O\lmundo Pokémon celebra você! Feliz\l23 de Maio, Lucas! O seu presente\lestá esperando por você! Feliz\laniversário, Lucas! Que todos os\lseus desejos se realizem!$"
+	.string "Do you know about the FRONTIER\n"
+	.string "BRAINS?\p"
+	.string "That's what SCOTT calls the seven\n"
+	.string "special TRAINERS that run the seven\l"
+	.string "facilities in the BATTLE FRONTIER.$"
+
 BattleFrontier_Lounge8_Text_ToldMeIHaveTalentForBattling:
-    .string "Feliz 23 de maio, Lucas! Prepare-se\npara grandes batalhas! Feliz 23 de\lmaio, Lucas! Que todos os seus\ldesejos se realizem! Feliz\laniversário, Lucas! Você é o Mestre\lPokémon que sempre quis ser! Lucas,\lvocê é o melhor! O seu presente\lestá te esperando! Um brinde ao\lLucas! O seu presente está te\lesperando! Feliz aniversário, Lucas!\lVocê é o campeão do nosso coração!\lParabéns, Lucas! Capture todos os\lPokémon hoje!$"
+	.string "At the BATTLE TOWER, an older girl\n"
+	.string "told me that I have a lot of talent\l"
+	.string "for battling!\p"
+	.string "I like POKéMON CONTESTS more!\p"
+	.string "But I'm no good at CONTESTS!\p"
+	.string "I guess having talent and liking\n"
+	.string "something aren't the same.$"
+

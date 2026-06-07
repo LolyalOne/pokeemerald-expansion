@@ -45,29 +45,29 @@ PewterCity_PokemonCenter_1F_EventScript_GBAKid2::
 	end
 
 PewterCity_PokemonCenter_1F_Text_TeamRocketMtMoonImOnPhone::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWhat!?\p"
-.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
-.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
-	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
+	.string "What!?\p"
+	.string "TEAM ROCKET is at MT. MOON?\n"
+	.string "Huh?\p"
+	.string "I'm on the phone!\n"
+	.string "Scram!$"
 
 PewterCity_PokemonCenter_1F_Text_Jigglypuff::
-	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "JIGGLYPUFF: Puu pupuu!$"
 
 PewterCity_PokemonCenter_1F_Text_WhenJiggylypuffSingsMonsGetDrowsy::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pYawn!\p"
-.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
-.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!"
-.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou.$"
+	.string "Yawn!\p"
+	.string "When JIGGLYPUFF sings, POKéMON get\n"
+	.string "drowsy…\p"
+	.string "…Me, too…\n"
+	.string "Snore…$"
 
 PewterCity_PokemonCenter_1F_Text_TradingMyClefairyForPikachu::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI really want a PIKACHU, so I'm\n"
-.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
+	.string "I really want a PIKACHU, so I'm\n"
+	.string "trading my CLEFAIRY for one.$"
 
 PewterCity_PokemonCenter_1F_Text_TradingPikachuWithKid::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pI'm trading POKeMON with that kid\n"
-.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
-.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
-	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
+	.string "I'm trading POKéMON with that kid\n"
+	.string "there.\p"
+	.string "I had two PIKACHU, so I figured\n"
+	.string "I might as well trade one.$"
 

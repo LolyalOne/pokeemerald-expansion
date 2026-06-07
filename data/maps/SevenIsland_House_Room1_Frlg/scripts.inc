@@ -171,97 +171,97 @@ SevenIsland_House_Room1_EventScript_Box::
 	end
 
 SevenIsland_House_Room1_Text_OnlyEnjoymentWatchingBattles::
-.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
-.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
-.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
-.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!$"
+	.string "I may not look like much now,\n"
+	.string "but when I was younger…\p"
+	.string "I flew everywhere, challenging\n"
+	.string "TRAINERS wherever I found them.\p"
+	.string "Now, my only source of enjoyment\n"
+	.string "is reminiscing about the past while\l"
+	.string "watching battles.$"
 
 SevenIsland_House_Room1_Text_SlightBreezeAroundBox::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThere is a slight breeze blowing\n"
-.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "There is a slight breeze blowing\n"
+	.string "around the box.$"
 
 SevenIsland_House_Room1_Text_ChallengeVisitingTrainer::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pAh!\n"
-.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
-.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
+	.string "Ah!\n"
+	.string "Welcome, my friend!\p"
+	.string "Let me tell you something. There's\n"
+	.string "a hidden room in the basement.\p"
 	.string "A TRAINER named {STR_VAR_1} is\n"
-.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
-.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
-	.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
+	.string "waiting there now.\p"
+	.string "Tell me, you did come to challenge\n"
+	.string "{STR_VAR_1}, am I right?$"
 
 SevenIsland_House_Room1_Text_OhYouWontBattle::
-.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
-.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
-.string "Parabens, Lucas! Sua jornada\napenas comecou."
-.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
-.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
-	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
+	.string "Oh…\n"
+	.string "You won't battle…\p"
+	.string "I see, I see.\n"
+	.string "… …\p"
+	.string "Well, perhaps if you change your\n"
+	.string "mind, do come back.$"
 
 SevenIsland_House_Room1_Text_LimitThreeMonsPerSide::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pAh!\n"
-.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
-.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
-.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
-.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
-.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
-.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
-	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "Ah!\n"
+	.string "You will battle for me?\p"
+	.string "It was worth my time moving the\n"
+	.string "box aside, then.\p"
+	.string "… …\n"
+	.string "But there is one slight problem.\p"
+	.string "This hidden room is not built very\n"
+	.string "sturdy.\p"
+	.string "Can I get you to limit it to\n"
+	.string "battles of three POKéMON per side?$"
 
 SevenIsland_House_Room1_Text_SaveProgressBeforeBattle::
-.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
+	.string "Fine! Before your battle, would\n"
+	.string "you like to save your game?$"
 
 SevenIsland_House_Room1_Text_DontHoldAnythingBack::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pAll right.\n"
-.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
+	.string "All right.\n"
+	.string "Don't hold anything back!$"
 
 @ Unused
 SevenIsland_House_Room1_Text_StrVar1_1::
-.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "{STR_VAR_1}$"
 
 SevenIsland_House_Room2_Text_MatchEndedUpDraw::
-	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "The match ended up a draw.$"
 
 SevenIsland_House_Room1_Text_DrawWasIt::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pA draw, was it?\p"
-.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
-.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
-.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
-	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
+	.string "A draw, was it?\p"
+	.string "However, let me say that it was\n"
+	.string "a worthy spectacle.\p"
+	.string "I'd say it was a wonderful battle\n"
+	.string "with a real sense of depth!$"
 
 @ Unused
 SevenIsland_House_Room1_Text_StrVar1_2::
-.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!$"
+	.string "{STR_VAR_1}$"
 
 SevenIsland_House_Room1_Text_AstoundingBattle::
-.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
-.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
-.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
-.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
-.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
-.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
-.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!$"
+	.string "Bravo!\p"
+	.string "Bravo, indeed!\n"
+	.string "What an astounding battle!\p"
+	.string "It was so astounding, why, it keeps\n"
+	.string "filling my eyes with tears!\p"
+	.string "The thrust and parry of expertly\n"
+	.string "used techniques!\p"
+	.string "The clash of power upon power!\p"
+	.string "Yes!\n"
+	.string "It was sheer magnificence!$"
 
 @ Unused
 SevenIsland_House_Room1_Text_StrVar1_3::
-	.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
+	.string "{STR_VAR_1}$"
 
 SevenIsland_House_Room1_Text_FeelYourDisappointment::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pToo bad!\n"
-.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
-.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
-.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
-.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
-	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
+	.string "Too bad!\n"
+	.string "I feel your disappointment.\p"
+	.string "However, that disappointment is\n"
+	.string "what will make you better.\p"
+	.string "Use it, learn from it, and make it\n"
+	.string "motivate you to seek greatness.\p"
+	.string "Forget not this disappointment\n"
+	.string "and redouble your training!$"
 

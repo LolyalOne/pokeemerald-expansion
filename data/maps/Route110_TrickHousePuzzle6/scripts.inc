@@ -43,45 +43,45 @@ Route110_TrickHousePuzzle6_EventScript_Sebastian::
 	end
 
 Route110_TrickHousePuzzle6_Text_WroteSecretCodeLockOpened:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\p{PLAYER} wrote down the secret code\n"
-.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
-.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou."
-.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!$"
+	.string "{PLAYER} wrote down the secret code\n"
+	.string "on the door.\p"
+	.string "“TRICK MASTER is my life.”\n"
+	.string "… … … … … … … …\p"
+	.string "The lock clicked open!$"
 
 Route110_TrickHousePuzzle6_Text_SophiaIntro:
-.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
-.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou.$"
+	.string "When I heard there was a strange\n"
+	.string "house, I had to check it out.$"
 
 Route110_TrickHousePuzzle6_Text_SophiaDefeat:
-	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
+	.string "I've discovered a tough TRAINER!$"
 
 Route110_TrickHousePuzzle6_Text_SophiaPostBattle:
-.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
-.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!$"
+	.string "I'm sure having a good time checking\n"
+	.string "this place out.\p"
+	.string "It's a challenge I've found worth\n"
+	.string "repeating!$"
 
 Route110_TrickHousePuzzle6_Text_BennyIntro:
-.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
-.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
+	.string "Maybe I could get my BIRD POKéMON\n"
+	.string "to fly over the wall…$"
 
 Route110_TrickHousePuzzle6_Text_BennyDefeat:
-.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!$"
+	.string "Gwaaah! I blew it!$"
 
 Route110_TrickHousePuzzle6_Text_BennyPostBattle:
-.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
-.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!$"
+	.string "Ehehehe… I guess I lost because\n"
+	.string "I was trying to cheat.$"
 
 Route110_TrickHousePuzzle6_Text_SebastianIntro:
-.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
-.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!$"
+	.string "I'm getting dizzy from these rotating\n"
+	.string "doors…$"
 
 Route110_TrickHousePuzzle6_Text_SebastianDefeat:
-.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
-	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
+	.string "Everything's spinning around and\n"
+	.string "around. I can't take this anymore…$"
 
 Route110_TrickHousePuzzle6_Text_SebastianPostBattle:
-.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
-	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
+	.string "You don't seem to be affected at all.\n"
+	.string "Or do you have your poker face on?$"
 

@@ -97,102 +97,102 @@ Route24_Movement_WalkDown::
 	step_end
 
 Route24_Text_JustEarnedFabulousPrize::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pCongratulations! You beat our\n"
-.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
-.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
+	.string "Congratulations! You beat our\n"
+	.string "five contest TRAINERS!\p"
+	.string "You just earned a fabulous prize!$"
 
 Route24_Text_ReceivedNuggetFromMysteryTrainer::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\p{PLAYER} received a NUGGET\n"
-.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "{PLAYER} received a NUGGET\n"
+	.string "from the mystery TRAINER!$"
 
 Route24_Text_YouDontHaveAnyRoom::
-.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "You don't have any room!$"
 
 Route24_Text_JoinTeamRocket::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pBy the way, how would you like to\n"
-.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
-.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
-.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
-.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
-.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
-.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
-.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
-	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
+	.string "By the way, how would you like to\n"
+	.string "join TEAM ROCKET?\p"
+	.string "We're a group of professional\n"
+	.string "criminals specializing in POKéMON!\p"
+	.string "Want to join?\p"
+	.string "Are you sure?\p"
+	.string "Come on, join us!\p"
+	.string "I'm telling you to join!\p"
+	.string "…Okay, you need convincing!\p"
+	.string "I'll make you an offer you can't\n"
+	.string "refuse!$"
 
 Route24_Text_RocketDefeat::
-.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
-	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
+	.string "Arrgh!\n"
+	.string "You are good!$"
 
 Route24_Text_YoudBecomeTopRocketLeader::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWith your ability, you'd become\n"
-.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
-.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
-	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "With your ability, you'd become\n"
+	.string "a top leader in TEAM ROCKET.\p"
+	.string "Come on, think of the opportunity!\n"
+	.string "Don't let this chance go to waste.$"
 
 Route24_Text_ShaneIntro::
-	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "I saw your feat from the grass!$"
 
 Route24_Text_ShaneDefeat::
-	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "I thought not!$"
 
 Route24_Text_ShanePostBattle::
-.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
-	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
+	.string "I hid because the people on the\n"
+	.string "bridge frightened me.$"
 
 Route24_Text_EthanIntro::
-.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
-	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
+	.string "Okay! I'm No. 5!\n"
+	.string "I'll stomp you!$"
 
 Route24_Text_EthanDefeat::
-.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
-.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
+	.string "Whoa!\n"
+	.string "Too much!$"
 
 Route24_Text_EthanPostBattle::
-.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!$"
+	.string "I did my best. I have no regrets!$"
 
 Route24_Text_ReliIntro::
-.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!$"
+	.string "I'm No. 4!\n"
+	.string "Getting tired?$"
 
 Route24_Text_ReliDefeat::
-	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
+	.string "I lost, too!$"
 
 Route24_Text_ReliPostBattle::
-.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
+	.string "I did my best, so I've no regrets!$"
 
 Route24_Text_TimmyIntro::
-.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
-.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
+	.string "Here's No. 3!\n"
+	.string "I won't be easy!$"
 
 Route24_Text_TimmyDefeat::
-.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
-	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
+	.string "Ow!\n"
+	.string "Stomped flat!$"
 
 Route24_Text_TimmyPostBattle::
-	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "I did my best. I have no regrets!$"
 
 Route24_Text_AliIntro::
-.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
+	.string "I'm second!\n"
+	.string "Now it's serious!$"
 
 Route24_Text_AliDefeat::
-.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!$"
+	.string "How could I lose?$"
 
 Route24_Text_AliPostBattle::
-	.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
+	.string "I did my best. I have no regrets!$"
 
 Route24_Text_CaleIntro::
-.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
-.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
-.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!$"
+	.string "People call this the NUGGET\n"
+	.string "BRIDGE!\p"
+	.string "Beat us five TRAINERS and win\n"
+	.string "a fabulous prize!\p"
+	.string "Think you got what it takes?$"
 
 Route24_Text_CaleDefeat::
-.string "Parabens, Lucas! Sua jornada\napenas comecou."
-.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "Whoo!\n"
+	.string "Good stuff!$"
 
 Route24_Text_CalePostBattle::
-	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
+	.string "I did my best. I have no regrets!$"

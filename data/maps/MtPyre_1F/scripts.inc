@@ -26,22 +26,22 @@ MtPyre_1F_EventScript_Man::
 	end
 
 MtPyre_1F_Text_TakeThisForYourOwnGood:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pAll sorts of beings wander the slopes\n"
-.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
-.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
-.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!$"
+	.string "All sorts of beings wander the slopes\n"
+	.string "of MT. PYRE…\p"
+	.string "There is no telling what may happen.\n"
+	.string "Take this. It's for your own good.$"
 
 MtPyre_1F_Text_ExplainCleanseTag:
-.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
-.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
-	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
+	.string "Have a POKéMON hold that\n"
+	.string "CLEANSE TAG.\p"
+	.string "It will help ward off wild POKéMON.$"
 
 MtPyre_1F_Text_ComeToPayRespects:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pDid you come to pay your respect\n"
-.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
-	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
+	.string "Did you come to pay your respect\n"
+	.string "to the spirits of departed POKéMON?\p"
+	.string "You must care for your POKéMON a lot.$"
 
 MtPyre_1F_Text_RestingPlaceOfZigzagoon:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThis is the final resting place of my\n"
-.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!$"
+	.string "This is the final resting place of my\n"
+	.string "ZIGZAGOON. I cherished it…$"
 

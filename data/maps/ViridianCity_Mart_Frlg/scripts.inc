@@ -84,28 +84,28 @@ ViridianCity_Mart_EventScript_Youngster::
 	end
 
 ViridianCity_Mart_Text_YouCameFromPallet::
-.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
-	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "Hey!\n"
+	.string "You came from PALLET TOWN?$"
 
 ViridianCity_Mart_Text_TakeThisToProfOak::
-.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
-.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
+	.string "You know PROF. OAK, right?\p"
+	.string "His order came in.\n"
+	.string "Can I get you to take it to him?$"
 
 ViridianCity_Mart_Text_ReceivedOaksParcelFromClerk::
 	.string "{PLAYER} received OAK'S PARCEL\n"
-.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!$"
+	.string "from the POKéMON MART clerk.$"
 
 ViridianCity_Mart_Text_SayHiToOakForMe::
-.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "Okay, thanks! Please say hi to\n"
+	.string "PROF. OAK for me, too.$"
 
 ViridianCity_Mart_Text_ShopDoesGoodBusinessInAntidotes::
-.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
-	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
+	.string "This shop does good business in\n"
+	.string "ANTIDOTES, I've heard.$"
 
 ViridianCity_Mart_Text_GotToBuySomePotions::
-.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
-.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!$"
+	.string "I've got to buy some POTIONS.\p"
+	.string "You never know when your POKéMON\n"
+	.string "will need quick healing.$"
 

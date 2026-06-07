@@ -62,49 +62,49 @@ LavenderTown_House2_EventScript_ChoseNewNickname::
 	end
 
 LavenderTown_House2_Text_WantMeToRateNicknames::
-.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
-.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!"
-.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!"
-.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!$"
+	.string "Hello, hello!\n"
+	.string "I am the official NAME RATER!\p"
+	.string "Want me to rate the nicknames of\n"
+	.string "your POKéMON?$"
 
 LavenderTown_House2_Text_CritiqueWhichMonsNickname::
-.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
-	.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
+	.string "Which POKéMON's nickname should\n"
+	.string "I critique?$"
 
 LavenderTown_House2_Text_GiveItANicerName::
 	.string "{STR_VAR_1}, is it?\n"
-.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
-.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
-.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
-	.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "That is a decent nickname!\p"
+	.string "But, would you like me to give it\n"
+	.string "a nicer name?\p"
+	.string "How about it?$"
 
 LavenderTown_House2_Text_WhatShallNewNicknameBe::
-.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
-	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
+	.string "Ah, good. Then, what shall the new\n"
+	.string "nickname be?$"
 
 LavenderTown_House2_Text_FromNowOnShallBeKnownAsName::
-.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
+	.string "Done! From now on, this POKéMON\n"
 	.string "shall be known as {STR_VAR_1}!\p"
-.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
-	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "It is a better name than before!\n"
+	.string "How fortunate for you!$"
 
 LavenderTown_House2_Text_ISeeComeVisitAgain::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pI see.\n"
-	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "I see.\n"
+	.string "Do come visit again.$"
 
 LavenderTown_House2_Text_FromNowOnShallBeKnownAsSameName::
-.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
+	.string "Done! From now on, this POKéMON\n"
 	.string "shall be known as {STR_VAR_1}!\p"
-.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
-.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!$"
+	.string "It looks no different from before,\n"
+	.string "and yet, this is vastly superior!\p"
+	.string "How fortunate for you!$"
 
 LavenderTown_House2_Text_TrulyImpeccableName::
 	.string "{STR_VAR_1}, is it?\n"
-.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
-.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "That is a truly impeccable name!\p"
+	.string "Take good care of {STR_VAR_1}!$"
 
 LavenderTown_House2_Text_ThatIsMerelyAnEgg::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pNow, now.\n"
-	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
+	.string "Now, now.\n"
+	.string "That is merely an EGG!$"
 

@@ -169,39 +169,39 @@ SSAnne_2F_Corridor_EventScript_Sailor::
 	end
 
 SSAnne_2F_Corridor_Text_ThisShipIsLuxuryLiner::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThis ship, she is a luxury liner for\n"
-.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
-.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!$"
+	.string "This ship, she is a luxury liner for\n"
+	.string "TRAINERS of the world!\p"
+	.string "At every port, we hold parties with\n"
+	.string "invited TRAINERS.$"
 
 SSAnne_2F_Corridor_Text_RivalIntro::
 	.string "{RIVAL}: Bonjour!\n"
 	.string "{PLAYER}!\p"
-.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
+	.string "Imagine seeing you here!\n"
 	.string "{PLAYER}, were you really invited?\p"
-.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
-.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
-.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
-.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
-.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!$"
+	.string "So how's your POKéDEX coming?\p"
+	.string "I already caught 40 kinds, pal.\n"
+	.string "Different kinds are everywhere.\p"
+	.string "Crawl around in grassy areas, and\n"
+	.string "look hard for them.$"
 
 SSAnne_2F_Corridor_Text_RivalDefeat::
-.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
-.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!$"
+	.string "Humph!\p"
+	.string "At least you're raising your\n"
+	.string "POKéMON!$"
 
 SSAnne_2F_Corridor_Text_RivalVictory::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p{PLAYER}..！\n"
-.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
-.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!$"
+	.string "{PLAYER}..！\n"
+	.string "ふなよい　してるのか！\p"
+	.string "もっと　からだ\n"
+	.string "きたえた　ほうが　いいぜ！$"
 
 SSAnne_2F_Corridor_Text_RivalPostBattle::
 	.string "{RIVAL}: I heard there was a CUT\n"
-.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!"
-.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
-.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!"
-.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!$"
+	.string "master on board.\p"
+	.string "But he was just a seasick old man!\p"
+	.string "CUT itself is really useful.\n"
+	.string "Yup, it'll be handy.\p"
+	.string "You should go see him, too.\n"
+	.string "Smell ya!$"
 

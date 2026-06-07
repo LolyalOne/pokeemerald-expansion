@@ -58,83 +58,83 @@ SilphCo_5F_EventScript_Dalton::
 	end
 
 SilphCo_5F_Text_RocketsInUproarAboutIntruder::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pTEAM ROCKET is in an uproar over\n"
-.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
+	.string "TEAM ROCKET is in an uproar over\n"
+	.string "some intruder.\p"
+	.string "That's you, right?$"
 
 SilphCo_5F_Text_YoureOurHeroThankYou::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pTEAM ROCKET took off!\n"
-	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
+	.string "TEAM ROCKET took off!\n"
+	.string "You're our hero! Thank you!$"
 
 SilphCo_5F_Text_Grunt1Intro::
-.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
-	.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "I heard a kid was wandering\n"
+	.string "around.$"
 
 SilphCo_5F_Text_Grunt1Defeat::
-	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
+	.string "Boom!$"
 
 SilphCo_5F_Text_Grunt1PostBattle::
-.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
-.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!$"
+	.string "It's not smart to pick a fight with\n"
+	.string "TEAM ROCKET!$"
 
 SilphCo_5F_Text_BeauIntro::
-.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
-	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "We study POKé BALL technology on\n"
+	.string "this floor.$"
 
 SilphCo_5F_Text_BeauDefeat::
-.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
-	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
+	.string "Dang!\n"
+	.string "Blast it!$"
 
 SilphCo_5F_Text_BeauPostBattle::
-.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
-.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "We worked on the ultimate POKé\n"
+	.string "BALL which would catch anything.$"
 
 SilphCo_5F_Text_DaltonIntro::
-.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
-.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
-	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
+	.string "Whaaat?\p"
+	.string "There shouldn't be any children\n"
+	.string "here!$"
 
 SilphCo_5F_Text_DaltonDefeat::
-	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
+	.string "Oh, goodness!$"
 
 SilphCo_5F_Text_DaltonPostBattle::
-.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
-	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
+	.string "You're only on 5F.\n"
+	.string "It's a long way to my BOSS!$"
 
 SilphCo_5F_Text_Grunt2Intro::
-	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "Show TEAM ROCKET a little respect!$"
 
 SilphCo_5F_Text_Grunt2Defeat::
-.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
-.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "Cough…\n"
+	.string "Cough…$"
 
 SilphCo_5F_Text_Grunt2PostBattle::
-.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
-	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
+	.string "Which reminds me.\p"
+	.string "KOFFING evolves into WEEZING!$"
 
 SilphCo_5F_Text_PorygonFirstVRMon::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pIt's a POKeMON REPORT!\p"
-.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
-.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!$"
+	.string "It's a POKéMON REPORT!\p"
+	.string "POKéMON LAB created PORYGON,\n"
+	.string "the first virtual-reality POKéMON.$"
 
 SilphCo_5F_Text_Over350TechniquesConfirmed::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pIt's a POKeMON REPORT!\p"
-.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
-	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
+	.string "It's a POKéMON REPORT!\p"
+	.string "Over 350 POKéMON techniques have\n"
+	.string "been confirmed.$"
 
 SilphCo_5F_Text_SomeMonsEvolveWhenTraded::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pIt's a POKeMON REPORT!\p"
-.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
+	.string "It's a POKéMON REPORT!\p"
+	.string "Some POKéMON have been confirmed\n"
+	.string "to evolve when they are traded.$"
 
 SilphCo_5F_Text_FloorSign::
-.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
-	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
+	.string "SILPH CO. HEAD OFFICE\n"
+	.string "5F$"
 
 SilphCo_5F_Text_RocketBossLookingForStrongMons::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThose thugs that took over our\n"
-.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
-.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
-.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
-	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
+	.string "Those thugs that took over our\n"
+	.string "building…\p"
+	.string "Their BOSS said he was looking for\n"
+	.string "strong POKéMON.\p"
+	.string "I hope our PRESIDENT managed to\n"
+	.string "avoid trouble…$"

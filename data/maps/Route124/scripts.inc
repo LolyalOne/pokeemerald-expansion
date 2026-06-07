@@ -100,5 +100,5 @@ Route124_EventScript_Isabella::
 	end
 
 Route124_Text_HuntersHouse:
-.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "HUNTER'S HOUSE$"
 

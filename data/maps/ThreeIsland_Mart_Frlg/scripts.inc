@@ -36,19 +36,19 @@ ThreeIsland_Mart_EventScript_Youngster::
 	end
 
 ThreeIsland_Mart_Text_TrueThatCeldadonDeptStoreBigger::
-.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
-.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!"
-.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!$"
+	.string "Is it true?\p"
+	.string "CELADON DEPT. STORE is several\n"
+	.string "times bigger than this shop?$"
 
 ThreeIsland_Mart_Text_PeopleHealWithBerriesFromForest::
-.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
-.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
-	.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "I sometimes buy medicine here.\p"
+	.string "But a lot of people heal POKéMON\n"
+	.string "with BERRIES from BERRY FOREST.\p"
+	.string "After all, BERRIES are free and\n"
+	.string "they never run out.$"
 
 ThreeIsland_Mart_Text_BikersWereAboutToTrashMart::
-.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
-.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
-.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
+	.string "Those BIKERS were about to trash\n"
+	.string "this POKéMON MART.\p"
+	.string "Am I glad they decided to leave!$"
 

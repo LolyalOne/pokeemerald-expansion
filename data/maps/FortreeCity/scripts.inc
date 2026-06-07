@@ -88,69 +88,69 @@ FortreeCity_Movement_KecleonFlee:
 	step_end
 
 FortreeCity_Text_SawGiganticPokemonInSky:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pNo one believes me, but I saw this\n"
-.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
-.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
-.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
-.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
-.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
+	.string "No one believes me, but I saw this\n"
+	.string "gigantic POKéMON in the sky.\p"
+	.string "It seemed to squirm as it flew toward\n"
+	.string "ROUTE 131.\p"
+	.string "By the way… Sniff…\n"
+	.string "Um… You, uh…smell singed.\p"
+	.string "Were you at a volcano or something?$"
 
 FortreeCity_Text_SomethingBlockingGym:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pI want to go to the POKeMON GYM,\n"
-.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
-.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
-	.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "I want to go to the POKéMON GYM,\n"
+	.string "but something's blocking the way.\p"
+	.string "After all the bother I went through\n"
+	.string "training on ROUTE 120…$"
 
 FortreeCity_Text_ThisTimeIllBeatWinona:
-.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
-.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "I've got my pride-and-joy POKéMON\n"
+	.string "with me. This time, I'll beat WINONA.$"
 
 FortreeCity_Text_TreesGrowByDrinkingRainwater:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThe ground absorbs rainwater, and\n"
-.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
-	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
+	.string "The ground absorbs rainwater, and\n"
+	.string "trees grow by drinking that water…\p"
+	.string "Our FORTREE CITY exists because\n"
+	.string "there's both water and soil.$"
 
 FortreeCity_Text_EveryoneHealthyAndLively:
-.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
-.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
-.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
-.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
-.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
-.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!$"
+	.string "The CITY consists of homes built on\n"
+	.string "trees.\p"
+	.string "Perhaps because of that lifestyle,\n"
+	.string "everyone is healthy and lively.\p"
+	.string "Why, even myself--I feel as if I've\n"
+	.string "grown thirty years younger.$"
 
 FortreeCity_Text_BugPokemonComeThroughWindow:
-.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
-.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
-	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
+	.string "Living on top of trees is okay.\p"
+	.string "But sometimes BUG POKéMON come in\n"
+	.string "through windows.\l"
+	.string "It can be really startling.$"
 
 FortreeCity_Text_PokemonThatEvolveWhenTraded:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThere are POKeMON that evolve when\n"
-.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "There are POKéMON that evolve when\n"
+	.string "you trade them! That's what I heard.$"
 
 FortreeCity_Text_SomethingUnseeable:
-	.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "Something unseeable is in the way.$"
 
 FortreeCity_Text_UnseeableUseDevonScope:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pSomething unseeable is in the way.\p"
-	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
+	.string "Something unseeable is in the way.\p"
+	.string "Want to use the DEVON SCOPE?$"
 
 FortreeCity_Text_UsedDevonScopePokemonFled:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\p{PLAYER} used the DEVON SCOPE.\p"
-.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
-	.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "{PLAYER} used the DEVON SCOPE.\p"
+	.string "An invisible POKéMON became completely\n"
+	.string "visible!\p"
+	.string "The startled POKéMON fled!$"
 
 FortreeCity_Text_CitySign:
-.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
-.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
-	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
+	.string "FORTREE CITY\n"
+	.string "“The treetop city that frolics with\l"
+	.string "nature.”$"
 
 FortreeCity_Text_GymSign:
-.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
-.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
-.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
-.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!$"
+	.string "FORTREE CITY POKéMON GYM\n"
+	.string "LEADER: WINONA\p"
+	.string "“The bird user taking flight into\n"
+	.string "the world.”$"
 

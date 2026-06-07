@@ -52,60 +52,60 @@ FiveIsland_Meadow_EventScript_Rocket3::
 
 @ Unused
 FiveIsland_Meadow_Text_DoorNeedsTwoPasswords::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pとびらを　あけるには\n"
-.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!$"
+	.string "とびらを　あけるには\n"
+	.string "パスワードが　2つ　いるようだ$"
 
 FiveIsland_Meadow_Text_EnteredPasswordAnotherNeeded::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p{PLAYER} entered a password.\p"
-.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
-.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "{PLAYER} entered a password.\p"
+	.string "“GOLDEEN need log.”\p"
+	.string "… …  … …  … …\p"
+	.string "Another password is needed to\n"
+	.string "open the door…$"
 
 FiveIsland_Meadow_Text_EnteredPasswordDoorOpened::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\p{PLAYER} entered two passwords.\p"
-.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
-.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
-.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!$"
+	.string "{PLAYER} entered two passwords.\p"
+	.string "“GOLDEEN need log.”\n"
+	.string "“Yes, nah, CHANSEY.”\p"
+	.string "… …  … …  … …\p"
+	.string "The WAREHOUSE's door opened!$"
 
 FiveIsland_Meadow_Text_WarehouseDoorAlreadyOpen::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pThe WAREHOUSE's door is already\n"
-	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "The WAREHOUSE's door is already\n"
+	.string "open.$"
 
 FiveIsland_Meadow_Text_Rocket1Intro::
-.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
-	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
+	.string "This area's strictly off-limits!\n"
+	.string "Out, out!$"
 
 FiveIsland_Meadow_Text_Rocket1Defeat::
-	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
+	.string "Is this for real?$"
 
 FiveIsland_Meadow_Text_Rocket1PostBattle::
-.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
-	.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "You don't have any business here!\n"
+	.string "Go home!$"
 
 FiveIsland_Meadow_Text_Rocket2Intro::
-.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
-.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!$"
+	.string "There's nothing past here except\n"
+	.string "our WAREHOUSE.\p"
+	.string "So what brings you here?$"
 
 FiveIsland_Meadow_Text_Rocket2Defeat::
-	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
+	.string "That wasn't supposed to happen…$"
 
 FiveIsland_Meadow_Text_Rocket2PostBattle::
-.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
-.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
-	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "You're wanting to know what's inside\n"
+	.string "this WAREHOUSE?\p"
+	.string "It's better you didn't know.\n"
+	.string "For your own sake, I mean.$"
 
 FiveIsland_Meadow_Text_Rocket3Intro::
-.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
-.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "You'd be wasting time even if you\n"
+	.string "were to get by me.$"
 
 FiveIsland_Meadow_Text_Rocket3Defeat::
-	.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "Oh, that makes me furious!$"
 
 FiveIsland_Meadow_Text_Rocket3PostBattle::
-.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
-.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
+	.string "You won't be able to get in without\n"
+	.string "the passwords anyway.$"
 

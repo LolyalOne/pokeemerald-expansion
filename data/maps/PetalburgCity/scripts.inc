@@ -698,81 +698,63 @@ PetalburgCity_EventScript_GymBoy::
 	end
 
 PetalburgCity_Text_WhereIsWally:
-	.string "MãE DO WALLY: Parabéns, Lucas! O\n"
-	.string "Wally saiu com o seu pai e não\l"
-	.string "voltou...\p"
-	.string "Onde será que ele se meteu justo\n"
-	.string "no dia do seu aniversário?$"
+	.string "Where has our WALLY gone?\p"
+	.string "We have to leave for VERDANTURF TOWN\n"
+	.string "very soon…$"
 
 PetalburgCity_Text_AreYouRookieTrainer:
-	.string "Ei! Você por acaso seria um...\n"
-	.string "Treinador novato?\p"
-	.string "Espera! Você é o Lucas!\n"
-	.string "Parabéns pelo seu aniversário!$"
+	.string "Hiya! Are you maybe…\n"
+	.string "A rookie TRAINER?\p"
+	.string "Do you know what POKéMON TRAINERS\n"
+	.string "do when they reach a new town?\p"
+	.string "They first check what kind of GYM\n"
+	.string "is in the town.$"
 
 PetalburgCity_Text_ThisIsPetalburgGym:
-	.string "Este é o GINáSIO DE PETALBURG.\p"
-	.string "O Líder do ginásio, o NORMAN, é o\n"
-	.string "seu pai, não é?\p"
-	.string "O ginásio inteiro está preparando\n"
-	.string "uma surpresa pra você lá dentro!$"
+	.string "See? This is PETALBURG CITY's GYM.$"
 
 PetalburgCity_Text_ThisIsGymSign:
-	.string "Mas as regras são claras...\n"
-	.string "Olhe aqui a placa do Ginásio.$"
+	.string "This is the GYM's sign. Look for it\n"
+	.string "whenever you're looking for a GYM.$"
 
 PetalburgCity_Text_WaterReflection:
-	.string "O meu rosto está refletido na\n"
-	.string "água...\p"
-	.string "Eita! O seu rosto também! Feliz\n"
-	.string "aniversário, Lucas!\p"
-	.string "Espero que você consiga capturar\n"
-	.string "muitos POKéMON no seu dia especial!$"
+	.string "My face is reflected in the water.\p"
+	.string "It's a shining grin full of hope…\p"
+	.string "Or it could be a look of somber silence\n"
+	.string "struggling with fear…\p"
+	.string "What do you see reflected in your face?$"
 
 PetalburgCity_Text_FullPartyExplanation:
-	.string "Digamos que você tenha seis\n"
-	.string "POKéMON no seu time.\p"
-	.string "Se você pegar outro, ele vai direto\n"
-	.string "para o seu PC no Centro POKéMON.\p"
-	.string "Ah, e a propósito...\n"
-	.string "Feliz aniversário, Lucas!$"
+	.string "Let's say you have six POKéMON.\n"
+	.string "If you catch another one…\p"
+	.string "It is automatically sent to a STORAGE\n"
+	.string "BOX over a PC connection.$"
 
 PetalburgCity_Text_GymSign:
-	.string "GINáSIO POKéMON DE PETALBURG\n"
-	.string "LíDER: NORMAN\p"
-	.string "“Um homem focado no poder!”\p"
-	.string "OBS: (E no aniversário do seu\n"
-	.string "filho, Lucas!)$"
+	.string "PETALBURG CITY POKéMON GYM\n"
+	.string "LEADER: NORMAN\l"
+	.string "“A man in pursuit of power!”$"
 
 PetalburgCity_Text_CitySign:
 	.string "PETALBURG CITY\n"
-	.string "Onde as pessoas se misturam\l"
-	.string "com a natureza.\p"
-	.string "OBS: O Ginásio inteiro está\n"
-	.string "comemorando o aniversário do\l"
-	.string "Lucas hoje!$"
+	.string "“Where people mingle with nature.”$"
 
 PetalburgCity_Text_WallyHouseSign:
-	.string "CASA DO WALLY\p"
-	.string "Tem um bilhetinho na porta:\n"
-	.string "Feliz Aniversário, Lucas!$"
+	.string "WALLY'S HOUSE$"
 
 PetalburgCity_Text_AreYouATrainer:
-	.string "Com licença!\p"
-	.string "Você por acaso seria um Treinador...\n"
-	.string "E o aniversariante do dia, Lucas?$"
+	.string "Excuse me!\p"
+	.string "Let me guess, from the way you're\n"
+	.string "dressed, are you a POKéMON TRAINER?$"
 
 PetalburgCity_Text_WellMaybeNot:
-	.string "...\p"
-	.string "Bem, pelo jeito as suas roupas\n"
-	.string "não estão sujas de batalha...\p"
-	.string "Você é o Lucas, mas talvez ainda\n"
-	.string "não tenha começado sua aventura.$"
+	.string "… … … … … …\p"
+	.string "Well, maybe not.\n"
+	.string "Your clothes aren't all that dirty.\p"
+	.string "You're either a rookie TRAINER,\n"
+	.string "or maybe you're just an ordinary kid.$"
 
 PetalburgCity_Text_ImLookingForTalentedTrainers:
-	.string "Eu estou vagando por essa terra\n"
-	.string "em busca de Treinadores talentosos.\p"
-	.string "Se você é o aniversariante, talvez\n"
-	.string "tenha um futuro brilhante.\p"
-	.string "Feliz aniversário, Lucas! Nos vemos\n"
-	.string "por aí!$"
+	.string "I'm roaming the land in search of\n"
+	.string "talented TRAINERS.\p"
+	.string "I'm sorry to have taken your time.$"

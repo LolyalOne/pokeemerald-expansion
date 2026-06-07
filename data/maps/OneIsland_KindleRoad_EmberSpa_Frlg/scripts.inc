@@ -52,56 +52,56 @@ OneIsland_KindleRoad_EmberSpa_EventScript_SpaHeal::
 	end
 
 OneIsland_KindleRoad_EmberSpa_Text_WaterWarmsMeToCore::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pHm!\n"
-.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
-.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
-.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
-.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
-	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "Hm!\n"
+	.string "Haaaaaaaaaaah!\p"
+	.string "Aaaah! This is heavenly!\n"
+	.string "The water warms me to my core!\p"
+	.string "You should jump in, too.\p"
+	.string "Go to the middle, relax, and get\n"
+	.string "good and warm!$"
 
 OneIsland_KindleRoad_EmberSpa_Text_EnjoyBowlOfChowder::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pMy favorite part of bathing comes\n"
-.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
-	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
+	.string "My favorite part of bathing comes\n"
+	.string "up right after this.\p"
+	.string "I enjoy a bowl of chowder to\n"
+	.string "warm me from the inside, too!$"
 
 OneIsland_KindleRoad_EmberSpa_Text_WaterExquisiteFullyRefreshed::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThe water is perfectly warm.\n"
-.string "Parabens, Lucas! Sua jornada\napenas comecou."
-	.string "{PLAYER} and the POKeMON were\n"
-	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "The water is perfectly warm.\n"
+	.string "It feels exquisite…\p"
+	.string "{PLAYER} and the POKéMON were\n"
+	.string "fully refreshed!$"
 
 OneIsland_KindleRoad_EmberSpa_Text_HotSpringIsTherapeutic::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pSoaking in a hot spring pool is\n"
-	.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "Soaking in a hot spring pool is\n"
+	.string "therapeutic, people say.$"
 
 OneIsland_KindleRoad_EmberSpa_Text_SeeHowSmoothMySkinIs::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pHave a look at my face.\n"
-.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
-.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
-	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
+	.string "Have a look at my face.\n"
+	.string "See how smooth my skin is?\p"
+	.string "The hot spring's water keeps my\n"
+	.string "skin younger than my age.$"
 
 OneIsland_KindleRoad_EmberSpa_Text_BrunoVisitsSpaOnOccasion::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pAfter an honest day of training,\n"
-.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
-.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
-.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
-.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
-.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
-.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
+	.string "After an honest day of training,\n"
+	.string "nothing beats a relaxing soak in\l"
+	.string "the hot spring pool.\p"
+	.string "BRUNO, who's a senior ahead of me,\n"
+	.string "visits the SPA on occasion.\p"
+	.string "He comes to rehab injuries, both\n"
+	.string "his own and his POKéMON's.$"
 
 OneIsland_KindleRoad_EmberSpa_Text_UsedThisToMakeEmberSpa::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pHot springs go hand-in-hand with\n"
-.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
-.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!$"
+	.string "Hot springs go hand-in-hand with\n"
+	.string "volcanoes.\p"
+	.string "The EMBER SPA here, well,\n"
+	.string "I made it years ago.\p"
+	.string "I hewed the pool right out of a\n"
+	.string "gigantic boulder by hand.\p"
+	.string "I was using this at the time.\n"
+	.string "I suppose I can part with it.$"
 
 OneIsland_KindleRoad_EmberSpa_Text_ExplainHM06::
-.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
+	.string "That shatters boulders as if they\n"
+	.string "were made of crackers.$"
 

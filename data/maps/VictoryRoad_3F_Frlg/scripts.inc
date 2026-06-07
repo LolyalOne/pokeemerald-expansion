@@ -60,102 +60,102 @@ VictoryRoad_3F_EventScript_Tyra::
 	end
 
 Text_DoubleEdgeTeach::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pYou should be proud of yourself,\n"
-.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
-.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
-.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "You should be proud of yourself,\n"
+	.string "having battled your way through\l"
+	.string "VICTORY ROAD so courageously.\p"
+	.string "In recognition of your feat,\n"
+	.string "I'll teach you DOUBLE-EDGE.\p"
+	.string "Would you like me to teach that\n"
+	.string "technique?$"
 
 Text_DoubleEdgeDeclined::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pI'll teach you the technique\n"
-.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!$"
+	.string "I'll teach you the technique\n"
+	.string "anytime.$"
 
 Text_DoubleEdgeWhichMon::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWhich POKeMON should I teach\n"
-	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
+	.string "Which POKéMON should I teach\n"
+	.string "DOUBLE-EDGE?$"
 
 Text_DoubleEdgeTaught::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pKeep that drive going for the\n"
-.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!$"
+	.string "Keep that drive going for the\n"
+	.string "POKéMON LEAGUE!\p"
+	.string "Take a run at them and knock 'em\n"
+	.string "out!$"
 
 VictoryRoad_3F_Text_GeorgeIntro::
-	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "I heard rumors of a child prodigy.$"
 
 VictoryRoad_3F_Text_GeorgeDefeat::
-.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "The rumors were true!$"
 
 VictoryRoad_3F_Text_GeorgePostBattle::
-.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
-.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
+	.string "So, it was you who beat GIOVANNI\n"
+	.string "of TEAM ROCKET?$"
 
 VictoryRoad_3F_Text_AlexaIntro::
-.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
-.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!$"
+	.string "TRAINERS live to seek stronger\n"
+	.string "opponents.$"
 
 VictoryRoad_3F_Text_AlexaDefeat::
-.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
-	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
+	.string "Oh!\n"
+	.string "So strong!$"
 
 VictoryRoad_3F_Text_AlexaPostBattle::
-.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "By fighting tough battles, you get\n"
+	.string "stronger.$"
 
 VictoryRoad_3F_Text_CarolineIntro::
-.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
-.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
+	.string "I'll show you just how good you\n"
+	.string "are. Not!$"
 
 VictoryRoad_3F_Text_CarolineDefeat::
-	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "I'm furious!$"
 
 VictoryRoad_3F_Text_CarolinePostBattle::
-.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "You showed me just how good\n"
+	.string "I was…$"
 
 VictoryRoad_3F_Text_ColbyIntro::
-	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "Only the chosen can pass here!$"
 
 VictoryRoad_3F_Text_ColbyDefeat::
-	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "I don't believe it!$"
 
 VictoryRoad_3F_Text_ColbyPostBattle::
-.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
-.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
-.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "All TRAINERS here are headed to\n"
+	.string "the POKéMON LEAGUE.\p"
+	.string "Don't let down your guard.$"
 
 VictoryRoad_3F_Text_RayIntro::
-.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
-	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
+	.string "RAY: Together, the two of us are\n"
+	.string "destined for greatness!$"
 
 VictoryRoad_3F_Text_RayDefeat::
-.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
-	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
+	.string "RAY: Ludicrous!\n"
+	.string "This can't be!$"
 
 VictoryRoad_3F_Text_RayPostBattle::
-.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
-	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
+	.string "RAY: You've beaten us.\n"
+	.string "Greatness remains elusive…$"
 
 VictoryRoad_3F_Text_RayNotEnoughMons::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pRAY: Together, the two of us are\n"
-.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
-.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
-	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "RAY: Together, the two of us are\n"
+	.string "striving for the pinnacle.\p"
+	.string "We need you to bring two POKéMON\n"
+	.string "into battle with us.$"
 
 VictoryRoad_3F_Text_TyraIntro::
-.string "Parabens, Lucas! Sua jornada\napenas comecou."
-.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "TYRA: We're trying to become\n"
+	.string "champions together.$"
 
 VictoryRoad_3F_Text_TyraDefeat::
-	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "TYRA: Oh, but…$"
 
 VictoryRoad_3F_Text_TyraPostBattle::
-.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
-	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "TYRA: You've taught me that power\n"
+	.string "can be infinite in shape and form.$"
 
 VictoryRoad_3F_Text_TyraNotEnoughMons::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pTYRA: You can't battle with us if\n"
-	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
+	.string "TYRA: You can't battle with us if\n"
+	.string "you have only one POKéMON.$"
 

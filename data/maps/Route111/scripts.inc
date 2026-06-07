@@ -562,156 +562,156 @@ Route111_EventScript_TrainerHillSign::
 	end
 
 Route111_Text_BattleOurFamily:
-.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
-.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
-.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
+	.string "Hello! I take it you're a traveler.\p"
+	.string "How's this? What do you say to taking\n"
+	.string "on our family of four in a series of\l"
+	.string "POKéMON battles?$"
 
 Route111_Text_IsThatSo:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pIs that so?\n"
-	.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "Is that so?\n"
+	.string "Drop in, if you change your mind!$"
 
 Route111_Text_VictorIntro:
-.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
+	.string "That's the spirit! I like you!$"
 
 Route111_Text_VictorDefeat:
-.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
-	.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "Aiyah!\n"
+	.string "You're a lot tougher than I expected!$"
 
 Route111_Text_VictorPostBattle:
-.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
-	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "Hey, all!\n"
+	.string "I've found a pretty strong TRAINER!$"
 
 Route111_Text_VictoriaIntro:
-.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
-.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!"
-.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
-.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!$"
+	.string "Oh, my goodness! Aren't you young?\p"
+	.string "You must be quite the TRAINER to beat\n"
+	.string "my husband, though.\p"
+	.string "It's my turn to battle now!$"
 
 Route111_Text_VictoriaDefeat:
-.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
-	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "Oh, gosh!\n"
+	.string "I can't get over how strong you are!$"
 
 Route111_Text_VictoriaPostBattle:
-.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
-.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!$"
+	.string "There's a strong TRAINER here!\n"
+	.string "This one's really strong!$"
 
 Route111_Text_ViviIntro:
-.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
-.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
-.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!$"
+	.string "You're stronger than Mommy? Wow!\p"
+	.string "But I'm strong, too!\n"
+	.string "Really! Honestly!$"
 
 Route111_Text_ViviDefeat:
-	.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
+	.string "Huh? Did I just lose?$"
 
 Route111_Text_ViviPostBattle:
-.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
-.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
+	.string "This stinks…\p"
+	.string "…Snivel… Grandma!$"
 
 Route111_Text_VickyIntro:
-.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
-.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
-.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
-	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "How dare you make my granddaughter\n"
+	.string "cry!\p"
+	.string "For that, I'm going to smack you!\n"
+	.string "Prepare to lose!$"
 
 Route111_Text_VickyDefeat:
-.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
-	.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
+	.string "Kwah! You are strong…\n"
+	.string "My granddaughter was right…$"
 
 Route111_Text_VickyPostBattle:
-.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!$"
+	.string "If you're not in any hurry,\n"
+	.string "visit with us awhile.$"
 
 Route111_Text_ToughToKeepWinningUpTheRanks:
-.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
-.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
-	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
+	.string "If you don't raise your POKéMON some\n"
+	.string "more, it could be tough to keep winning\l"
+	.string "up through the ranks.\p"
+	.string "I've heard the POKéMON LEAGUE's\n"
+	.string "ELITE FOUR are far stronger than\l"
+	.string "any GYM LEADER.$"
 
 Route111_Text_WinstrateFamilyDestroyedMe:
-.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
-.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
-.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
+	.string "I challenged the WINSTRATE family,\n"
+	.string "but four matches in a row is tough\l"
+	.string "going… They destroyed me.$"
 
 Route111_Text_RouteSignMauville:
-.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
-.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!$"
+	.string "ROUTE 111\n"
+	.string "{DOWN_ARROW} MAUVILLE CITY$"
 
 Route111_Text_WinstrateHouseSign:
-.string "Parabens, Lucas! Sua jornada\napenas comecou."
-	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
+	.string "“Our family's hearts beat as one!”\n"
+	.string "THE WINSTRATE'S HOUSE$"
 
 Route111_Text_RouteSign112:
-.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!"
-	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "ROUTE 111\n"
+	.string "{LEFT_ARROW} ROUTE 112$"
 
 Route111_Text_RouteSign113:
-.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
-.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
+	.string "ROUTE 111\n"
+	.string "{LEFT_ARROW} ROUTE 113$"
 
 Route111_Text_OldLadysRestStopSign:
-.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
-.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!$"
+	.string "OLD LADY'S REST STOP\n"
+	.string "“Come in and rest your tired bones.”$"
 
 Route111_Text_TrainerTipsSpAtkSpDef:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pTRAINER TIPS\p"
-.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
-.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou."
-.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
-.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!$"
+	.string "TRAINER TIPS\p"
+	.string "One of the indicators of a POKéMON's\n"
+	.string "powerfulness is SP. ATK. It stands for\l"
+	.string "“SPECIAL ATTACK.”\p"
+	.string "Likewise, SP. DEF stands for “SPECIAL\n"
+	.string "DEFENSE.”$"
 
 Route111_Text_ShouldBeMirageTowerAroundHere:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThere should be a tower made of sand\n"
-.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
-.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
-.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
-	.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
+	.string "There should be a tower made of sand\n"
+	.string "around here somewhere.\p"
+	.string "But for some reason, it can be seen\n"
+	.string "sometimes, and sometimes not.\p"
+	.string "That's why I call it the MIRAGE TOWER.$"
 
 Route111_Text_MirageTowerClearlyVisible:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pI see it!\n"
-.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
-.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
-.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
-.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
-	.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "I see it!\n"
+	.string "The tower of sand!\p"
+	.string "The sand tower they called a mirage\n"
+	.string "is clearly visible!\p"
+	.string "But it looks so fragile…\n"
+	.string "It could crumble away anytime…\p"
+	.string "I want to go inside it, but I can't\n"
+	.string "get my courage up for it…$"
 
 Route111_Text_ThatWasShockingSandRainedDown:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWhoa...\n"
-.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
-.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
-.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
-	.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "Whoa…\n"
+	.string "That was shocking.\p"
+	.string "Sand rained down in chunks all of\n"
+	.string "a sudden.\p"
+	.string "What was it like inside?\n"
+	.string "Were there sandy ghosts and such?$"
 
 Route111_Text_MirageTowerHasntBeenSeenSince:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pSince I spoke to you, the tower of sand\n"
-.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
-.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!$"
+	.string "Since I spoke to you, the tower of sand\n"
+	.string "hasn't been seen.\p"
+	.string "Perhaps it really was\n"
+	.string "the MIRAGE TOWER…$"
 
 Route111_Text_ClawFossilDisappeared:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pThe CLAW FOSSIL disappeared into\n"
-	.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "The CLAW FOSSIL disappeared into\n"
+	.string "the sand…$"
 
 Route111_Text_RootFossilDisappeared:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThe ROOT FOSSIL disappeared into\n"
-	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "The ROOT FOSSIL disappeared into\n"
+	.string "the sand…$"
 
 Route111_Text_MauvilleUncleToldMeToTakeRockSmash:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh, no!\p"
-.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
-.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
-.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
-.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
-.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
+	.string "Oh, no!\p"
+	.string "My uncle in MAUVILLE told me to take\n"
+	.string "ROCK SMASH with me if I was going to\l"
+	.string "ROUTE 111!\p"
+	.string "My uncle? He lives across from\n"
+	.string "the bike shop in MAUVILLE.$"
 
 Route111_Text_TrainerHillSign:
 	.string "{RIGHT_ARROW} TRAINER HILL ENTRANCE\p"
-.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!$"
+	.string "“Scale the heights, you hot-blooded\n"
+	.string "TRAINERS!”$"
 

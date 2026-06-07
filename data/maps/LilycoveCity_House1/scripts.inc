@@ -16,11 +16,11 @@ LilycoveCity_House1_EventScript_Kecleon::
 	end
 
 LilycoveCity_House1_Text_PokemonPartnersNotTools:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pPOKeMON are partners to people.\n"
-.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
-.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "POKéMON are partners to people.\n"
+	.string "They aren't our tools.\p"
+	.string "Unfortunately, there are some people\n"
+	.string "who fail to understand that…$"
 
 LilycoveCity_House1_Text_Kecleon:
-	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
+	.string "KECLEON: Ruroro?$"
 

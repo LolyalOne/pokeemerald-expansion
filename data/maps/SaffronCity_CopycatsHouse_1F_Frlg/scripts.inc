@@ -20,15 +20,15 @@ SaffronCity_CopycatsHouse_1F_EventScript_Chansey::
 	end
 
 SaffronCity_CopycatsHouse_1F_Text_DaughterIsSelfCentered::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pMy daughter is so self-centered.\n"
-.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!$"
+	.string "My daughter is so self-centered.\n"
+	.string "She has but a few friends.$"
 
 SaffronCity_CopycatsHouse_1F_Text_DaughterLikesToMimicPeople::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pMy daughter likes to mimic people.\n"
-.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
-.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
-.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou.$"
+	.string "My daughter likes to mimic people.\n"
+	.string "It's rather vexing.\p"
+	.string "Her mimicry has earned her the\n"
+	.string "nickname COPYCAT around here.$"
 
 SaffronCity_CopycatsHouse_1F_Text_Chansey::
-	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "CHANSEY: Chaan! Sii!$"
 

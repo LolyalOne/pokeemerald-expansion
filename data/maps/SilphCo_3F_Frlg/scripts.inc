@@ -35,36 +35,36 @@ SilphCo_3F_EventScript_Grunt::
 	end
 
 SilphCo_3F_Text_WhatAmIToDo::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI work for SILPH CO.\n"
-.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
+	.string "I work for SILPH CO.\n"
+	.string "What am I to do?$"
 
 SilphCo_3F_Text_YouAndYourMonsSavedUs::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p{PLAYER}!\n"
-	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
+	.string "{PLAYER}!\n"
+	.string "You and your POKéMON saved us!$"
 
 SilphCo_3F_Text_GruntIntro::
-	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
+	.string "Quit messing with us, kid!$"
 
 SilphCo_3F_Text_GruntDefeat::
-	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
+	.string "I give up!$"
 
 SilphCo_3F_Text_GruntPostBattle::
-.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
-.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!$"
+	.string "A hint? You can open doors with\n"
+	.string "a CARD KEY!$"
 
 SilphCo_3F_Text_JoseIntro::
-.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
-	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "I support TEAM ROCKET more than\n"
+	.string "I support SILPH CO.!$"
 
 SilphCo_3F_Text_JoseDefeat::
-.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!$"
+	.string "You really got me!$"
 
 SilphCo_3F_Text_JosePostBattle::
-.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
-.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
-	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
+	.string "Humph…\p"
+	.string "TEAM ROCKET said that if I helped\n"
+	.string "them, they'd let me study POKéMON.$"
 
 SilphCo_3F_Text_FloorSign::
-.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
-.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!$"
+	.string "SILPH CO. HEAD OFFICE\n"
+	.string "3F$"
 

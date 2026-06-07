@@ -31,32 +31,32 @@ RustboroCity_House1_EventScript_Hiker::
 	end
 
 RustboroCity_House1_Text_IllTradeIfYouWant:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHuh? My POKeMON is cute?\n"
-.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
-.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
+	.string "Huh? My POKéMON is cute?\n"
+	.string "Sure, I knew that.\p"
+	.string "But if you really want, I'm willing\n"
+	.string "to trade it to you.\p"
 	.string "I'll trade you my {STR_VAR_2} for\n"
-.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "a {STR_VAR_1} if you want.$"
 
 RustboroCity_House1_Text_PleaseBeGoodToMyPokemon:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pEheheh...\n"
-.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!$"
+	.string "Eheheh…\n"
+	.string "Please be good to my POKéMON.$"
 
 RustboroCity_House1_Text_DoesntLookLikeMonToMe:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pHuh? That doesn't look anything like\n"
-.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!$"
+	.string "Huh? That doesn't look anything like\n"
+	.string "a {STR_VAR_1} to me.$"
 
 RustboroCity_House1_Text_YouDontWantToThatsOkay:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh, if you don't want to, that's okay.\n"
-	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
+	.string "Oh, if you don't want to, that's okay.\n"
+	.string "But my POKéMON is cute, you know…$"
 
 RustboroCity_House1_Text_AnyPokemonCanBeCute:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pAny POKeMON can be cute if you raise\n"
-.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!$"
+	.string "Any POKéMON can be cute if you raise\n"
+	.string "it with care and kindness.$"
 
 RustboroCity_House1_Text_AllSortsOfPlaces:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pIn all sorts of places, there are all\n"
-.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
-.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
-	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "In all sorts of places, there are all\n"
+	.string "sorts of POKéMON and people.\p"
+	.string "I find that fascinating, so I go to all\n"
+	.string "sorts of places.$"
 

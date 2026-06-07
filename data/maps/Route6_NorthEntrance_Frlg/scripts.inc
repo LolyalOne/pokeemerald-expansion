@@ -84,28 +84,28 @@ Route6_NorthEntrance_Movement_BlockPlayerEntry::
 	step_end
 
 Route6_NorthEntrance_Text_ThirstyOnGuardDuty::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI'm on guard duty.\n"
-.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
-	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
+	.string "I'm on guard duty.\n"
+	.string "Gee, I'm thirsty, though!\p"
+	.string "Oh, wait there, the road's closed.$"
 
 Route6_NorthEntrance_Text_ThatTeaLooksTasty::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pOh, that TEA...\n"
-	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "Oh, that TEA…\n"
+	.string "It looks awfully tasty…$"
 
 Route6_NorthEntrance_Text_ThanksIllShareTeaWithGuards::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pHuh? I can have this drink?\n"
-.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!"
-.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
-.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
-.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
-.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
-	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "Huh? I can have this drink?\n"
+	.string "Gee, thanks!\l"
+	.string "… …\l"
+	.string "Glug, glug…\l"
+	.string "… …\l"
+	.string "Gulp…\l"
+	.string "If you want to go to SAFFRON\l"
+	.string "CITY…\l"
+	.string "… …\l"
+	.string "You can go on through.\p"
+	.string "I'll share this TEA with the other\n"
+	.string "guards!$"
 
 Route6_NorthEntrance_Text_HiHowsItGoing::
-.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "Hi, how's it going?$"
 

@@ -131,14 +131,6 @@ EverGrandeCity_ChampionsRoom_EventScript_BirchArrivesExitForHoF::
 	applymovement LOCALID_PLAYER, EverGrandeCity_ChampionsRoom_Movement_PlayerExit
 	waitmovement 0
 	setflag FLAG_HIDE_PETALBURG_GYM_GREETER
-	fadescreen FADE_TO_BLACK
-	delay 30
-	msgbox EverGrandeCity_ChampionsRoom_Text_SecretBoss, MSGBOX_DEFAULT
-	closemessage
-	trainerbattle_no_intro TRAINER_MK_SECRET_BOSS, EverGrandeCity_ChampionsRoom_Text_SecretBossDefeat
-	fadescreen FADE_TO_BLACK
-	msgbox EverGrandeCity_ChampionsRoom_Text_SecretBossAfter, MSGBOX_DEFAULT
-	closemessage
 	warp MAP_EVER_GRANDE_CITY_HALL_OF_FAME, 7, 16
 	waitstate
 	releaseall
@@ -229,135 +221,120 @@ EverGrandeCity_ChampionsRoom_Movement_BirchArrives:
 
 EverGrandeCity_ChampionsRoom_Text_IntroSpeech:
 	.string "WALLACE: Welcome, {PLAYER}{KUN}.\p"
-.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
-.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
-.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
-.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
-.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
-.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
-.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
-.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
-.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
-.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
-.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
-.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
-.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
-.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!"
-.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
-.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
-.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "That incident in SOOTOPOLIS CITY…\n"
+	.string "That was superb work, putting an end\l"
+	.string "to that crisis all by yourself.\p"
+	.string "Oops!\p"
+	.string "It wouldn't be fair to say that you\n"
+	.string "alone ended the crisis.\p"
+	.string "You overcame that difficult situation\n"
+	.string "by working as one with your POKéMON.\p"
+	.string "We TRAINERS raise POKéMON by giving\n"
+	.string "them items and by teaching them new\l"
+	.string "techniques for battle.\p"
+	.string "But we ourselves also learn many\n"
+	.string "things from POKéMON.\p"
+	.string "And this is where your achievements\n"
+	.string "are put to the test against what\l"
+	.string "others like you have achieved.\p"
+	.string "Now!\p"
+	.string "Who can most elegantly dance with\n"
+	.string "their POKéMON in HOENN?\p"
+	.string "Show me right here and now!$"
 
 EverGrandeCity_ChampionsRoom_Text_Defeat:
-.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!"
-.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
-.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
-.string "Parabens, Lucas! Sua jornada\napenas comecou."
+	.string "I, the CHAMPION, fall in defeat…\p"
+	.string "That was wonderful work.\n"
+	.string "You were elegant, infuriatingly so.\l"
+	.string "And yet it was utterly glorious!\p"
 	.string "Kudos to you, {PLAYER}{KUN}!\p"
-.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
-	.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
+	.string "You are a truly noble POKéMON\n"
+	.string "TRAINER!$"
 
 EverGrandeCity_ChampionsRoom_Text_PostBattleSpeech:
-.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
-.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Parabens, Lucas! Sua jornada\napenas comecou."
-.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
-.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
-.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
-.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
-.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
-.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
-.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!$"
+	.string "WALLACE: The POKéMON you sent into\n"
+	.string "battle…\p"
+	.string "At times they danced like a spring\n"
+	.string "breeze, and at times they struck\l"
+	.string "like lightning.\p"
+	.string "It was with light, yet surefooted,\n"
+	.string "elegance that you led your POKéMON.\p"
+	.string "Even I felt bedazzled by your\n"
+	.string "masterful performance!\p"
+	.string "You now stand at the glorious peak\n"
+	.string "of the POKéMON LEAGUE.\p"
+	.string "I now proclaim you to be the new\n"
+	.string "HOENN region…$"
 
 EverGrandeCity_ChampionsRoom_Text_MayAdvice:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pMAY: {PLAYER}{KUN}!\p"
-.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
-	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
+	.string "MAY: {PLAYER}{KUN}!\p"
+	.string "Here's some advice before you challenge\n"
+	.string "the CHAMPION…$"
 
 EverGrandeCity_ChampionsRoom_Text_MayItsAlreadyOver:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pMAY: Huh?\n"
-.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
-	.string "{PLAYER}{KUN}...\n"
-.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!"
-.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
+	.string "MAY: Huh?\n"
+	.string "What, what, what?\p"
+	.string "{PLAYER}{KUN}…\n"
+	.string "Could it be that…\l"
+	.string "It's already over?$"
 
 EverGrandeCity_ChampionsRoom_Text_BrendanAdvice:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pBRENDAN: {PLAYER}!\p"
-.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
+	.string "BRENDAN: {PLAYER}!\p"
+	.string "How would you like some advice before\n"
+	.string "you challenge the CHAMPION?…$"
 
 EverGrandeCity_ChampionsRoom_Text_BrendanYouveWon:
-	.string "BRENDAN: {PLAYER}...\p"
-.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
-	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
+	.string "BRENDAN: {PLAYER}…\p"
+	.string "Are you trying to tell me…\n"
+	.string "You've beaten the CHAMPION?$"
 
 EverGrandeCity_ChampionsRoom_Text_BirchArriveRatePokedex:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pPROF. BIRCH: See?\n"
+	.string "PROF. BIRCH: See?\n"
 	.string "What did I tell you, {RIVAL}?\p"
-.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
+	.string "Didn't I tell you that you don't need\n"
 	.string "to worry about {PLAYER}{KUN}?\p"
-.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
+	.string "… … … … … … … …\n"
 	.string "{PLAYER}{KUN}, you've finally done it.\p"
-.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!"
-.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
-.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
-	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
+	.string "When I heard that you defeated your\n"
+	.string "own father at the PETALBURG GYM,\l"
+	.string "I thought perhaps you had a chance…\p"
+	.string "But to think you've actually become\n"
+	.string "the CHAMPION!\p"
+	.string "Ah, yes!\p"
+	.string "What became of your POKéDEX?\n"
+	.string "Here, let me see.$"
 
 EverGrandeCity_ChampionsRoom_Text_BirchCongratulations:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pPROF. BIRCH: Anyways,\n"
-.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
-.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "PROF. BIRCH: Anyways,\n"
+	.string "congratulations!\p"
+	.string "Now, go proudly into the final room!$"
 
 EverGrandeCity_ChampionsRoom_Text_WallaceComeWithMe:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWALLACE: {PLAYER}{KUN}...\p"
-.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou."
-.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!$"
+	.string "WALLACE: {PLAYER}{KUN}…\p"
+	.string "No, let me rephrase that properly.\p"
+	.string "The new CHAMPION!\p"
+	.string "Come with me.$"
 
 EverGrandeCity_ChampionsRoom_Text_WallaceWaitOutside:
-.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
-.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
-.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!"
-	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
+	.string "WALLACE: I'm sorry, but…\p"
+	.string "From here on, only those TRAINERS who\n"
+	.string "have become CHAMPIONS may enter.\p"
+	.string "You'll have to wait outside with\n"
+	.string "PROF. BIRCH.$"
 
 EverGrandeCity_ChampionsRoom_Text_MayCongratulations:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pMAY: Groan...\p"
-.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
-.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
-.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
+	.string "MAY: Groan…\p"
+	.string "… … … … … … … …\n"
+	.string "… … … … … … … …\p"
+	.string "I'm just joking! That's okay!\n"
+	.string "That's the rule!\p"
 	.string "{PLAYER}{KUN}!\n"
-	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
+	.string "Honestly, congratulations!$"
 
 EverGrandeCity_ChampionsRoom_Text_BrendanCongratulations:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pBRENDAN: Whaaaat?! ... ... ... ... ...\n"
-.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
-.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!"
+	.string "BRENDAN: Whaaaat?! … … … … …\n"
+	.string "… … … … … … … …\p"
+	.string "It can't be helped if that's the rule.\p"
 	.string "{PLAYER}, way to go!\n"
-.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!$"
+	.string "Congratulations!$"
 
-
-EverGrandeCity_ChampionsRoom_Text_SecretBoss:
-	.string "???: Feliz aniversario, Lucas!\n"
-	.string "Antes de ir para o Hall da Fama,\l"
-	.string "tenho um ultimo presente para voce.\p"
-	.string "Um desafio final... O mestre dos ceus!$"
-
-EverGrandeCity_ChampionsRoom_Text_SecretBossDefeat:
-	.string "Inacreditavel! Voce realmente\n"
-	.string "e uma lenda, Lucas!\p"
-	.string "Parabens pelo seu dia!$"
-
-EverGrandeCity_ChampionsRoom_Text_SecretBossAfter:
-	.string "Obrigado por jogar.\n"
-	.string "Agora, siga para o Hall da Fama!$"

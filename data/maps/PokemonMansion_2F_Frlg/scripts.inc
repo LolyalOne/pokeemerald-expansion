@@ -30,35 +30,35 @@ PokemonMansion_2F_EventScript_Arnie::
 	end
 
 PokemonMansion_Text_PressSecretSwitch::
-.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
-.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "A secret switch!\p"
+	.string "Press it?$"
 
 PokemonMansion_Text_WhoWouldnt::
-	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "Who wouldn't?$"
 
 PokemonMansion_Text_NotQuiteYet::
-.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!$"
+	.string "Not quite yet!$"
 
 PokemonMansion_1F_Text_ArnieIntro::
-.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
+	.string "I can't get out!\n"
+	.string "This old place is one big puzzle.$"
 
 PokemonMansion_1F_Text_ArnieDefeat::
-.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
-	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
+	.string "Oh, no!\n"
+	.string "My bag of loot!$"
 
 PokemonMansion_1F_Text_ArniePostBattle::
-.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
+	.string "The switches here open and close\n"
+	.string "alternating sets of doors.$"
 
 PokemonMansion_1F_Text_NewMonDiscoveredInGuyanaJungle::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pDiary: July 5\n"
-.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "Diary: July 5\n"
+	.string "Guyana, South America\p"
+	.string "A new POKéMON was discovered deep\n"
+	.string "in the jungle.$"
 
 PokemonMansion_1F_Text_ChristenedDiscoveredMonMew::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pDiary: July 10\n"
-.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
-.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!$"
+	.string "Diary: July 10\n"
+	.string "We christened the newly discovered\l"
+	.string "POKéMON, MEW.$"
 

@@ -15,34 +15,34 @@ SevenIsland_TrainerTower_EventScript_TrainerTowerAheadSign::
 	end
 
 SevenIsland_TrainerTower_Text_DarioIntro::
-	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
+	.string "I sensed your approach.$"
 
 SevenIsland_TrainerTower_Text_DarioDefeat::
-.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
+	.string "Give up…$"
 
 SevenIsland_TrainerTower_Text_DarioPostBattle::
-.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
-.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
-	.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
+	.string "In your future, I sense that you\n"
+	.string "will meet many others.\p"
+	.string "I think you will be linked to each\n"
+	.string "other by a strange power.$"
 
 SevenIsland_TrainerTower_Text_RodetteIntro::
-.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
-	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "Somewhere on this island, peculiar\n"
+	.string "POKéMON are sleeping.$"
 
 SevenIsland_TrainerTower_Text_RodetteDefeat::
-	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "What an amazing TRAINER!$"
 
 SevenIsland_TrainerTower_Text_RodettePostBattle::
-.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
-.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
-.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
-.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou.$"
+	.string "Somewhere on this island, peculiar\n"
+	.string "POKéMON are sleeping.\p"
+	.string "Could it be that they're waiting\n"
+	.string "for you?$"
 
 SevenIsland_TrainerTower_Text_TrainerTowerSign::
-.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
-.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "TRAINER TOWER ENTRANCE\n"
+	.string "Rise to the Challenge, TRAINERS!$"
 
 SevenIsland_TrainerTower_Text_TrainerTowerAhead::
-.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "TRAINER TOWER AHEAD$"
 

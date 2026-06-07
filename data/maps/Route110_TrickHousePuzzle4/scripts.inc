@@ -28,43 +28,43 @@ Route110_TrickHousePuzzle4_EventScript_Paula::
 	end
 
 Route110_TrickHousePuzzle4_Text_WroteSecretCodeLockOpened:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p{PLAYER} wrote down the secret code\n"
-.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
-.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
-.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!$"
+	.string "{PLAYER} wrote down the secret code\n"
+	.string "on the door.\p"
+	.string "“TRICK MASTER is cool.”\n"
+	.string "… … … … … … … …\p"
+	.string "The lock clicked open!$"
 
 Route110_TrickHousePuzzle4_Text_CoraIntro:
-.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!$"
+	.string "It's too much bother to think this out.\n"
+	.string "I only wanted to battle!$"
 
 Route110_TrickHousePuzzle4_Text_CoraDefeat:
-.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
-.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!$"
+	.string "Even though I lost, I still like battling\n"
+	.string "the best!$"
 
 Route110_TrickHousePuzzle4_Text_CoraPostBattle:
-.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
-	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "Wouldn't you agree? You would go\n"
+	.string "anywhere if TRAINERS were there.$"
 
 Route110_TrickHousePuzzle4_Text_YujiIntro:
-.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
-.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!$"
+	.string "Heh! Boulders like this, I can brush\n"
+	.string "aside with one finger!$"
 
 Route110_TrickHousePuzzle4_Text_YujiDefeat:
-.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
-	.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "I can push boulders, but I can't solve\n"
+	.string "the puzzle…$"
 
 Route110_TrickHousePuzzle4_Text_YujiPostBattle:
-.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!$"
+	.string "It's not good enough to be brawny…\n"
+	.string "You have to use your head. Be brainy!$"
 
 Route110_TrickHousePuzzle4_Text_PaulaIntro:
-.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
-.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "The TRICK HOUSE is getting trickier,\n"
+	.string "isn't it?$"
 
 Route110_TrickHousePuzzle4_Text_PaulaDefeat:
-	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
+	.string "Aaak!$"
 
 Route110_TrickHousePuzzle4_Text_PaulaPostBattle:
-.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "Has anyone made it to the end?$"
 

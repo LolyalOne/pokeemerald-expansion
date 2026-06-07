@@ -16,33 +16,33 @@ SSAnne_1F_Room2_EventScript_Tyler::
 	end
 
 SSAnne_1F_Room2_Text_TylerIntro::
-.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
-.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou.$"
+	.string "I love POKéMON!\n"
+	.string "Do you?$"
 
 SSAnne_1F_Room2_Text_TylerDefeat::
-.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
-	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
+	.string "Wow! \n"
+	.string "You're great!$"
 
 SSAnne_1F_Room2_Text_TylerPostBattle::
-.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
-.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
-.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!$"
+	.string "Listen, listen!\n"
+	.string "Let me be your friend, okay?\p"
+	.string "Then we can trade POKéMON and\n"
+	.string "do stuff.$"
 
 SSAnne_1F_Room2_Text_AnnIntro::
-.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-	.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "I collected these POKéMON\n"
+	.string "from all around the world!$"
 
 SSAnne_1F_Room2_Text_AnnDefeat::
-.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
-	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "Oh, no!\n"
+	.string "I went around the world for these!$"
 
 SSAnne_1F_Room2_Text_AnnPostBattle::
-.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
-	.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "You hurt my poor POKéMON!\p"
+	.string "I demand that you heal them at a\n"
+	.string "POKéMON CENTER!$"
 
 SSAnne_1F_Room2_Text_CruisingAroundWorld::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWe are cruising around the world,\n"
-	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
+	.string "We are cruising around the world,\n"
+	.string "my children and I.$"
 

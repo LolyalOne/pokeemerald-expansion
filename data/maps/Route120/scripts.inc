@@ -360,70 +360,70 @@ Route120_EventScript_Callie::
 	end
 
 Route120_Text_StevenGreeting:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pSTEVEN: Hm? {PLAYER}{KUN}, hi.\n"
-.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
-.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
-.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
-.string "Parabens, Lucas! Sua jornada\napenas comecou."
-.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
-.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
-.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
-	.string "{PLAYER}{KUN}, are your POKeMON ready for\n"
-	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
+	.string "STEVEN: Hm? {PLAYER}{KUN}, hi.\n"
+	.string "It's been a while.\p"
+	.string "There's something here that you can't\n"
+	.string "see, right?\p"
+	.string "Now, if I were to use this device on\n"
+	.string "the invisible obstacle…\p"
+	.string "No, no. Rather than describing it,\n"
+	.string "I should just show you.\l"
+	.string "That would be more fun.\p"
+	.string "{PLAYER}{KUN}, are your POKéMON ready for\n"
+	.string "battle?$"
 
 Route120_Text_StevenIllWaitHere:
-.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Lucas, voce e o melhor! Sua\njornada apenas comecou.$"
+	.string "STEVEN: No?\p"
+	.string "I'll wait here, so you can get ready.$"
 
 Route120_Text_StevenReadyForBattle:
-	.string "STEVEN: {PLAYER}{KUN}, are your POKeMON\n"
-.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
+	.string "STEVEN: {PLAYER}{KUN}, are your POKéMON\n"
+	.string "ready for battle?$"
 
 Route120_Text_StevenShowMeYourPower:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pSTEVEN: {PLAYER}{KUN}, show me your true\n"
-.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
+	.string "STEVEN: {PLAYER}{KUN}, show me your true\n"
+	.string "power as a TRAINER!$"
 
 Route120_Text_StevenUsedDevonScope:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pSTEVEN used the DEVON SCOPE.\p"
-.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
-.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
-	.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "STEVEN used the DEVON SCOPE.\p"
+	.string "An invisible POKéMON became completely\n"
+	.string "visible!\p"
+	.string "The startled POKéMON attacked!$"
 
 Route120_Text_StevenGiveDevonScope:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pSTEVEN: I see...\n"
-.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
-.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
-.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
-.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
-	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
+	.string "STEVEN: I see…\n"
+	.string "Your battle style is intriguing.\p"
+	.string "Your POKéMON have obviously grown\n"
+	.string "since I first met you in DEWFORD.\p"
+	.string "I'd like you to have this\n"
+	.string "DEVON SCOPE.\p"
+	.string "Who knows, there may be other\n"
+	.string "concealed POKéMON.$"
 
 Route120_Text_StevenGoodbye:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pSTEVEN: {PLAYER}{KUN}.\p"
-.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!"
-.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
-.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
-	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
+	.string "STEVEN: {PLAYER}{KUN}.\p"
+	.string "I enjoy seeing POKéMON and TRAINERS\n"
+	.string "who strive together.\p"
+	.string "I think you're doing great.\p"
+	.string "Well, let's meet again somewhere.$"
 
 Kecleon_Text_SomethingUnseeable:
-	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
+	.string "Something unseeable is in the way.$"
 
 Kecleon_Text_WantToUseDevonScope:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pSomething unseeable is in the way.\p"
-	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "Something unseeable is in the way.\p"
+	.string "Want to use the DEVON SCOPE?$"
 
 Kecleon_Text_UseDevonScopeMonAttacked:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\p{PLAYER} used the DEVON SCOPE.\p"
-.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "{PLAYER} used the DEVON SCOPE.\p"
+	.string "An invisible POKéMON became completely\n"
+	.string "visible!\p"
+	.string "The startled POKéMON attacked!$"
 
 Route120_Text_RouteSignFortree:
-.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
-	.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
+	.string "ROUTE 120\n"
+	.string "{LEFT_ARROW} FORTREE CITY$"
 
 Route120_Text_RouteSign121:
 	.string "{RIGHT_ARROW} ROUTE 121\n"
-	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
+	.string "{LEFT_ARROW} ROUTE 120$"

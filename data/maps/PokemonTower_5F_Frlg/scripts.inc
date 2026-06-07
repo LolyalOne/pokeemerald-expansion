@@ -42,53 +42,53 @@ PokemonTower_5F_EventScript_Janae::
 	end
 
 PokemonTower_5F_Text_RestHereInPurifiedSpace::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pCome, child!\n"
-.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
+	.string "Come, child!\n"
+	.string "I have purified this space.\l"
+	.string "You can rest here.$"
 
 PokemonTower_5F_Text_TammyIntro::
-.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
-	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "Give…me…\n"
+	.string "your…all…$"
 
 PokemonTower_5F_Text_TammyDefeat::
-	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
+	.string "Gasp!$"
 
 PokemonTower_5F_Text_TammyPostBattle::
-.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
+	.string "I was under possession.$"
 
 PokemonTower_5F_Text_RuthIntro::
-.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
+	.string "You…shall…\n"
+	.string "join…us…$"
 
 PokemonTower_5F_Text_RuthDefeat::
-.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
+	.string "What a nightmare!$"
 
 PokemonTower_5F_Text_RuthPostBattle::
-	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "I was possessed.$"
 
 PokemonTower_5F_Text_KarinaIntro::
-	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
+	.string "Zombies!$"
 
 PokemonTower_5F_Text_KarinaDefeat::
-.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!$"
+	.string "Ha?$"
 
 PokemonTower_5F_Text_KarinaPostBattle::
-.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!$"
+	.string "I regained my senses.$"
 
 PokemonTower_5F_Text_JanaeIntro::
-.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
-.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
+	.string "Urgah…\n"
+	.string "Urff…$"
 
 PokemonTower_5F_Text_JanaeDefeat::
-	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
+	.string "Whoo!$"
 
 PokemonTower_5F_Text_JanaePostBattle::
-.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
-	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
+	.string "I fell to evil spirits despite my\n"
+	.string "training in the mountains…$"
 
 PokemonTower_5F_Text_PurifiedZoneMonsFullyHealed::
-.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
-.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
-	.string "{PLAYER}'s POKeMON were fully\n"
-	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
+	.string "Entered the purified and protected\n"
+	.string "zone.\p"
+	.string "{PLAYER}'s POKéMON were fully\n"
+	.string "healed.$"
 

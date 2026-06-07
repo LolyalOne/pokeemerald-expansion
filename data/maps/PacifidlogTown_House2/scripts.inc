@@ -91,57 +91,57 @@ PacifidlogTown_House2_EventScript_UnhappyAzurill::
 	end
 
 PacifidlogTown_House2_Text_ChairmansYoungerBrotherOnVacation:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pEr-hem!\p"
-.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
-.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
-.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
-.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
-	.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
+	.string "Er-hem!\p"
+	.string "I am the POKéMON FAN CLUB's most\n"
+	.string "important person, the CHAIRMAN's\l"
+	.string "younger brother.\p"
+	.string "I'm here enjoying my vacation with\n"
+	.string "POKéMON, yes, indeed.$"
 
 PacifidlogTown_House2_Text_AhYourPokemon:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pAh!\n"
-.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "Ah!\n"
+	.string "Your POKéMON…$"
 
 PacifidlogTown_House2_Text_AdoringPokemonTakeThis:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pIt clearly likes you very much.\p"
-.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
+	.string "It clearly likes you very much.\p"
+	.string "A POKéMON that adoring and adorable\n"
+	.string "deserves a TM like this, no?$"
 
 PacifidlogTown_House2_Text_PutInSomeMoreEffort:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pHmm...\n"
-.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
-.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
-	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
+	.string "Hmm…\n"
+	.string "It's not bad, but it's also not good.\p"
+	.string "You, as the TRAINER, need to put in\n"
+	.string "some more effort.$"
 
 PacifidlogTown_House2_Text_ViciousPokemonTakeThis:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pIt has a vicious look to it.\p"
-.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
+	.string "It has a vicious look to it.\p"
+	.string "A frightening POKéMON like that\n"
+	.string "deserves a TM like this.$"
 
 PacifidlogTown_House2_Text_ExplainReturnFrustration:
-.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
-.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
-.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
+	.string "If a POKéMON likes you a lot, RETURN's\n"
+	.string "power is enhanced.\p"
+	.string "If it doesn't like you, FRUSTRATION's\n"
+	.string "power goes up.$"
 
 PacifidlogTown_House2_Text_GetGoodTMInXDays:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pOh, yes. In about {STR_VAR_1} or so days,\n"
-.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
-.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
-.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "Oh, yes. In about {STR_VAR_1} or so days,\n"
+	.string "I should be getting a good TM or two.\p"
+	.string "You should come see me then.\n"
+	.string "I'll give you a TM that's suitable for\l"
+	.string "your POKéMON.$"
 
 PacifidlogTown_House2_Text_Rurii:
-.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "AZURILL: Rurii.$"
 
 PacifidlogTown_House2_Text_VeryFriendlyWithTrainer:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pIt appears to be very friendly with the\n"
-.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "It appears to be very friendly with the\n"
+	.string "TRAINER.$"
 
 PacifidlogTown_House2_Text_Rururi:
-.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
+	.string "AZURILL: Rururi!$"
 
 PacifidlogTown_House2_Text_DoesntLikeTrainerVeryMuch:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pIt doesn't appear to like the TRAINER\n"
-	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
+	.string "It doesn't appear to like the TRAINER\n"
+	.string "very much.$"
 

@@ -102,31 +102,31 @@ PokemonTower_2F_Movement_RivalExitDown::
 
 PokemonTower_2F_Text_RivalIntro::
 	.string "{RIVAL}: Hey, {PLAYER}!\n"
-.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
-.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
-.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
-.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
-.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!$"
+	.string "What brings you here?\l"
+	.string "Is your POKéMON dead?\p"
+	.string "Hey! It's alive!\p"
+	.string "I can at least make them faint!\n"
+	.string "Let's go!$"
 
 PokemonTower_2F_Text_RivalDefeat::
-.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
-.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!$"
+	.string "What?\n"
+	.string "You stinker!\p"
+	.string "I took it easy on you, too!$"
 
 PokemonTower_2F_Text_RivalPostBattle::
-.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
-.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
-.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
-.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
-.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!$"
+	.string "How's your POKéDEX coming?\n"
+	.string "I just caught a CUBONE!\p"
+	.string "I can't find the bigger MAROWAK.\n"
+	.string "Where could they be?\p"
+	.string "I bet there aren't any left!\p"
+	.string "Well, I better get going.\n"
+	.string "I've got a lot to accomplish,\l"
+	.string "unlike you.\p"
+	.string "Smell ya later!$"
 
 PokemonTower_2F_Text_SilphScopeCouldUnmaskGhosts::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pEven we could not identify the\n"
-.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
-	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "Even we could not identify the\n"
+	.string "wayward ghosts.\p"
+	.string "A SILPH SCOPE might be able to\n"
+	.string "unmask them.$"
 

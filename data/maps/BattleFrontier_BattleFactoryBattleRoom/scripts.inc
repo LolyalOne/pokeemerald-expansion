@@ -240,24 +240,71 @@ BattleFrontier_BattleFactoryBattleRoom_EventScript_ScientistsFaceBattle::
 	return
 
 BattleFrontier_BattleFactoryBattleRoom_Text_GetAMoveOn:
-    .string "Um brinde ao Lucas pelo seu\naniversário! Você é uma lenda em\lHoenn!$"
+	.string "Hey, hey!\n"
+	.string "Get a move on!$"
+
 BattleFrontier_BattleFactoryBattleRoom_Text_NolandImFactoryHead:
-    .string "Parabéns, Lucas! Hoje é o seu dia\nespecial e o mundo Pokémon celebra\lvocê; aproveite sua jornada, pois\lvocê é um treinador incrível e uma\llenda em Hoenn, e seu presente já\lestá esperando por você!$"
+	.string "Hey, my name's NOLAND!\n"
+	.string "I'm basically in charge of this place,\l"
+	.string "which is why I'm the FACTORY HEAD!\p"
+	.string "I had a look at your Battle Swap data.\p"
+	.string "You seem to have the right idea,\n"
+	.string "but you're still square in your head!\p"
+	.string "Listen up, okay? Knowledge isn't only\n"
+	.string "about reading books or doing desk work.\p"
+	.string "Just doing that sort of thing…\n"
+	.string "It may as well be useless!\p"
+	.string "You have to experience things with\n"
+	.string "your heart and your body, understand?\p"
+	.string "I'll take you on under the same\n"
+	.string "conditions as you.\p"
+	.string "I'll be using rental POKéMON, too!$"
+
 BattleFrontier_BattleFactoryBattleRoom_Text_ShakeOutKnowledgeBringItOn:
-    .string "Lucas, feliz ANIVERSÁRIO! Que este\ndia seja épico e todos os seus\ldesejos se realizem! Você é o\lmelhor! Não se esqueça de\lcomemorar muito!$"
+	.string "Shake out every last bit of your\n"
+	.string "knowledge and bring it on!$"
+
 BattleFrontier_BattleFactoryBattleRoom_Text_NolandLetsSeeFrontierPass:
-    .string "Lucas, você é o melhor! Já é uma\nlenda em Hoenn! Feliz aniversário,\lLucas! Prepare-se para grandes\lbatalhas!$"
+	.string "NOLAND: Smart going!\n"
+	.string "Let's see your FRONTIER PASS.$"
+
 BattleFrontier_BattleFactoryBattleRoom_Text_ReceivedKnowledgeSymbol:
-    .string "Um brinde ao Lucas! O mundo\nPokémon celebra você! Hoje é o seu\ldia, Lucas! Não se esqueça de\lcomemorar muito!$"
+	.string "The Knowledge Symbol was embossed\n"
+	.string "on the FRONTIER PASS!$"
+
 BattleFrontier_BattleFactoryBattleRoom_Text_NextTimeNoHoldsBarred:
-    .string "Parabéns, Lucas! Hoje é seu\naniversário e o mundo Pokémon\lcelebra você; que seu dia seja épico\le que você continue sendo esse\ltreinador incrível e o campeão dos\lnossos corações!$"
+	.string "Heh…\n"
+	.string "You're a pretty bright spark…\p"
+	.string "Next time, I'll come after you hard.\n"
+	.string "No holds barred, understand?\p"
+	.string "You keep up your studies!$"
+
 BattleFrontier_BattleFactoryBattleRoom_Text_HarderLookThanLastTime:
-    .string "Parabéns, Lucas! Hoje é um dia\nespecial, então saia por Hoenn e\lcapture todos os Pokémon que\lencontrar!$"
+	.string "NOLAND: Hey, hey! How's it going?\n"
+	.string "You keeping up with your studies?\p"
+	.string "…Oh?\p"
+	.string "You've taken on a harder look than\n"
+	.string "the last time I saw you.\p"
+	.string "Now, this should be fun!\n"
+	.string "I'm getting excited, hey!$"
+
 BattleFrontier_BattleFactoryBattleRoom_Text_AllRightBringItOn:
-    .string "Hoje é o seu dia, Lucas! Você é o\ncampeão do nosso coração e hoje\lcelebramos seu aniversário, então\lnão deixe de comemorar muito!$"
+	.string "All right!\n"
+	.string "Bring it on!$"
+
 BattleFrontier_BattleFactoryBattleRoom_Text_OutOfMyLeagueLetsSeePass:
-    .string "Feliz Aniversário, Lucas! Seu\npresente está esperando! O mundo\lPokémon celebra você e sua jornada\lque só começou! Que este dia seja\lépico!$"
+	.string "NOLAND: What the…\n"
+	.string "You're getting out of my league!\p"
+	.string "Sheesh!\n"
+	.string "Let's see that FRONTIER PASS!$"
+
 BattleFrontier_BattleFactoryBattleRoom_Text_KnowledgeSymbolTookGoldenShine:
-    .string "Feliz aniversário, Lucas! Você é um\ntreinador incrível e uma verdadeira\llenda em Hoenn! Um brinde ao seu\ldia especial!$"
+	.string "The Knowledge Symbol took on\n"
+	.string "a golden shine!$"
+
 BattleFrontier_BattleFactoryBattleRoom_Text_LastTimeILoseToYou:
-    .string "Feliz aniversário, Lucas! Você é o\ncampeão dos nossos corações!\lAproveite sua jornada e não esqueça\lde comemorar muito! Que seu dia\lseja épico, pois sua jornada apenas\lcomeçou. Um brinde ao Lucas!$"
+	.string "Pfft, man!\p"
+	.string "That's absolutely the last time\n"
+	.string "I lose to you!\p"
+	.string "We have to do this again, hey?$"
+

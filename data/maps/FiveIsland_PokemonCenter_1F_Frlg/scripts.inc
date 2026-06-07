@@ -23,12 +23,12 @@ FiveIsland_PokemonCenter_1F_EventScript_CooltrainerF::
 	end
 
 FiveIsland_PokemonCenter_1F_Text_OnMyWayToPrepareMeal::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pI'm on my way to prepare a meal\n"
-	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "I'm on my way to prepare a meal\n"
+	.string "for a certain high-society person.$"
 
 FiveIsland_PokemonCenter_1F_Text_YoureOnQuestToCatchEveryMon::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pYou're on a quest to catch every\n"
-.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
-.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!$"
+	.string "You're on a quest to catch every\n"
+	.string "single kind of POKéMON?\p"
+	.string "…How incredible. Please tell me if\n"
+	.string "you catch a strong one!$"
 

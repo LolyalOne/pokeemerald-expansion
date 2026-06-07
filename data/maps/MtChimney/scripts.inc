@@ -542,312 +542,312 @@ MtChimney_EventScript_SawyerRematch::
 	end
 
 MtChimney_Text_MeteoriteWillActivateVolcano:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pThe power contained in the METEORITE...\p"
-.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
-.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
-.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
-.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
+	.string "The power contained in the METEORITE…\p"
+	.string "By amplifying its power with this\n"
+	.string "machine, MT. CHIMNEY's volcanic\l"
+	.string "activity will instantly intensify…\p"
+	.string "Its energy will grow deep inside\n"
+	.string "the crater and…\l"
+	.string "Fufufu…$"
 
 MtChimney_Text_MaxieIntro:
-.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
-.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
-.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou."
-.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
-.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
-.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
-.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
-.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
-.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
-.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
-.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
-.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
-.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
-.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
-.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
-.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
-	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
+	.string "MAXIE: Hm?\n"
+	.string "Who are you?\p"
+	.string "… … … … … …\n"
+	.string "… … … … … …\p"
+	.string "I'd heard ARCHIE bemoaning a child\n"
+	.string "who's been meddling in TEAM AQUA's\l"
+	.string "affairs.\p"
+	.string "It must be you he meant.\p"
+	.string "Humph! So you're thinking of\n"
+	.string "interfering with us, TEAM MAGMA?\p"
+	.string "Now you listen.\n"
+	.string "Long ago, living things used the\l"
+	.string "land to live and grow.\p"
+	.string "That is why land is all important!\n"
+	.string "It is the cradle of all!\p"
+	.string "That is why TEAM MAGMA is dedicated\n"
+	.string "to the expansion of the land mass.\p"
+	.string "It is for further advancement of\n"
+	.string "humankind and POKéMON!\p"
+	.string "And for that, we need the power of\n"
+	.string "what sleeps within this mountain…\p"
+	.string "Oh! There was no need for you to\n"
+	.string "learn that much.\p"
+	.string "But, no matter!\n"
+	.string "I'll teach you the consequences of\l"
+	.string "meddling in our grand design!$"
 
 MtChimney_Text_MaxieDefeat:
-.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
-.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "What?!\p"
+	.string "I, MAXIE, was caught off guard?!$"
 
 MtChimney_Text_MaxieYouHaventSeenLastOfMagma:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pMAXIE: But, enough.\n"
-.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
-.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
-.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
-.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
-	.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "MAXIE: But, enough.\n"
+	.string "I will back off this time.\p"
+	.string "But don't think that this is the last\n"
+	.string "you've seen of TEAM MAGMA.\p"
+	.string "Fufufu…\p"
+	.string "Even without the METEORITE, if we\n"
+	.string "obtain that ORB… Fufufu…$"
 
 MtChimney_Text_TabithaIntro:
-.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
-.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
-.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
-.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
-.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!$"
+	.string "Hehehe!\p"
+	.string "So you've come all the way here!\p"
+	.string "But you're too late!\n"
+	.string "I've already delivered the METEORITE\l"
+	.string "from METEOR FALLS to the BOSS!$"
 
 MtChimney_Text_TabithaDefeat:
-.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
-.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "Hehehe…\p"
+	.string "Even though I've lost, if our leader\n"
+	.string "awakens that thing…$"
 
 MtChimney_Text_TabithaPostBattle:
-.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
-.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
-.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!$"
+	.string "BOSS, hurry!\n"
+	.string "Give it the METEORITE's energy!\p"
+	.string "Hehehe…$"
 
 MtChimney_Text_Grunt2Intro:
-.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
-.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
-	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
+	.string "We of TEAM MAGMA are working hard for\n"
+	.string "everyone's sake.\p"
+	.string "Like, if that thing's power made more\n"
+	.string "land, there'd be more places to live.\p"
+	.string "Everyone'd be happy!$"
 
 MtChimney_Text_Grunt2Defeat:
-.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
+	.string "Hunh?\n"
+	.string "What do you mean I lost?$"
 
 MtChimney_Text_Grunt2PostBattle:
-.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
-.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
-.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
-	.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "Our BOSS says, “It will make everyone\n"
+	.string "happy.”\p"
+	.string "But why does everyone keep getting\n"
+	.string "in our way?$"
 
 MtChimney_Text_Grunt1Intro:
-.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
-.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
-	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "If there were more land, I'd be able\n"
+	.string "to get a big house of my own!\p"
+	.string "I'm going to build it on hardened lava!$"
 
 MtChimney_Text_Grunt1Defeat:
-.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!$"
+	.string "My dream of a big house…$"
 
 MtChimney_Text_Grunt1PostBattle:
-.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
-	.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
+	.string "A kid like you, you ought to be\n"
+	.string "splashing about in the waves!$"
 
 MtChimney_Text_TeamAquaAlwaysMessingWithPlans:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThat annoying TEAM AQUA...\n"
-	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "That annoying TEAM AQUA…\n"
+	.string "They always mess with our plans!$"
 
 MtChimney_Text_MeteoritesPackAmazingPower:
-.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!$"
+	.string "METEORITES pack amazing power!$"
 
 MtChimney_Text_YouBetterNotMessWithUs:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYou'd better not mess with us!\p"
-.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
-.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!$"
+	.string "You'd better not mess with us!\p"
+	.string "We're trying to awaken that thing\n"
+	.string "for the benefit of everyone!$"
 
 MtChimney_Text_AquasNameSimilar:
-.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
-.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
+	.string "We're TEAM MAGMA!\p"
+	.string "They're TEAM AQUA!\p"
+	.string "It totally annoys me that they'd\n"
+	.string "use a name like ours!$"
 
 MtChimney_Text_DouseThemInFire:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYeah!\n"
-.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!$"
+	.string "Yeah!\n"
+	.string "Douse them in fire!$"
 
 MtChimney_Text_KeepMakingMoreLand:
-	.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "We're going to keep making more land!$"
 
 MtChimney_Text_Bufoh:
-	.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "Bufoh!$"
 
 MtChimney_Text_ArchieGoStopTeamMagma:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pARCHIE: Grr, {PLAYER}!\n"
-.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
-.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
-.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
-	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "ARCHIE: Grr, {PLAYER}!\n"
+	.string "I should've guessed you'd show up!\p"
+	.string "See for yourself what the fanatics\n"
+	.string "of TEAM MAGMA are up to!\p"
+	.string "They're trying to inject the stolen\n"
+	.string "METEORITE's power into the volcano!\p"
+	.string "Doing something like that will cause\n"
+	.string "the volcano's eruption!$"
 
 MtChimney_Text_ArchieIHaveMyHandsFull:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pARCHIE: Grrr...\p"
-.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
-.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
-.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
-	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "ARCHIE: Grrr…\p"
+	.string "I want to stop that MAXIE,\n"
+	.string "but I can't!\p"
+	.string "Not when I have my hands full battling\n"
+	.string "three opponents at once!$"
 
 MtChimney_Text_ArchieThankYou:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pARCHIE: {PLAYER}!\n"
-.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
-.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
-.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
-.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
-.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
-.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
-.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!"
-	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
+	.string "ARCHIE: {PLAYER}!\n"
+	.string "Thank you!\p"
+	.string "With your help, we thwarted TEAM\n"
+	.string "MAGMA's destructive plan!\p"
+	.string "But… You…\n"
+	.string "Whose side are you on?\p"
+	.string "Ah, it doesn't matter.\p"
+	.string "We will remain vigilant and keep up\n"
+	.string "our pursuit of TEAM MAGMA.\p"
+	.string "{PLAYER}, we shall meet again!$"
 
 MtChimney_Text_MagmaOutnumbersUs:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pDarn... TEAM MAGMA outnumbers us!\n"
-	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
+	.string "Darn… TEAM MAGMA outnumbers us!\n"
+	.string "We can't keep up with them!$"
 
 MtChimney_Text_LessHabitatForWaterPokemon:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pIf they expand the land, there'll be\n"
-	.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
+	.string "If they expand the land, there'll be\n"
+	.string "less habitats for WATER POKéMON!$"
 
 MtChimney_Text_MagmasNameSimilar:
-.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
-.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
-.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!$"
+	.string "We're TEAM AQUA!\p"
+	.string "They're TEAM MAGMA!\p"
+	.string "It burns me up that they'd use such\n"
+	.string "a confusing name!$"
 
 MtChimney_Text_Bushaa:
-.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
+	.string "Bushaa!$"
 
 MtChimney_Text_LavaCookiesJust200:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pLAVA COOKIES are MT. CHIMNEY's local\n"
-.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
-.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "LAVA COOKIES are MT. CHIMNEY's local\n"
+	.string "specialty.\p"
+	.string "Try one. It's just ¥200.$"
 
 MtChimney_Text_ThankYouDear:
-	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
+	.string "Thank you, dear!$"
 
 MtChimney_Text_YouveNotGotTheMoney:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh, dear. You can't buy a thing if\n"
-	.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
+	.string "Oh, dear. You can't buy a thing if\n"
+	.string "you've not got the money.$"
 
 MtChimney_Text_OhFineThen:
-.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "Oh, fine then.$"
 
 MtChimney_Text_MetoriteFittedOnMachine:
-.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
-.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
-	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
+	.string "A METEORITE is fitted on a mysterious\n"
+	.string "machine…\p"
+	.string "The machine seems to be storing\n"
+	.string "energy in the METEORITE.$"
 
 MtChimney_Text_RemoveTheMeteorite:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pA METEORITE is fitted on a mysterious\n"
-.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
-	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
+	.string "A METEORITE is fitted on a mysterious\n"
+	.string "machine…\p"
+	.string "Do you want to remove the METEORITE?$"
 
 MtChimney_Text_PlayerRemovedMeteorite:
 	.string "{PLAYER} removed the METEORITE from\n"
-.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!$"
+	.string "the mysterious machine.$"
 
 MtChimney_Text_PlayerLeftMeteorite:
 	.string "{PLAYER} left the METEORITE where\n"
-.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!$"
+	.string "it was.$"
 
 MtChimney_Text_MachineMakesNoResponse:
-.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
-	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
+	.string "This mysterious machine…\n"
+	.string "It makes no response whatsoever.$"
 
 MtChimney_Text_RouteSign:
 	.string "{DOWN_ARROW} JAGGED PATH\n"
-	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "LAVARIDGE TOWN AHEAD$"
 
 MtChimney_Text_ShelbyIntro:
-.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
-	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
+	.string "I've been to the hot springs and\n"
+	.string "refreshed my tired bones.\l"
+	.string "Right now I'm feeling strong!$"
 
 MtChimney_Text_ShelbyDefeat:
-.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
-.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!$"
+	.string "Oh, my goodness.\n"
+	.string "Now, aren't you something!$"
 
 MtChimney_Text_ShelbyPostBattle:
-.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
-.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!$"
+	.string "Well, well, I've lost. I can't call\n"
+	.string "myself an EXPERT now, can I?$"
 
 MtChimney_Text_ShelbyRegister:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pThank you, child. It was fun, as if\n"
-.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
-.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
-.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!$"
+	.string "Thank you, child. It was fun, as if\n"
+	.string "I were battling my own grandchild.\p"
+	.string "Please, come see me again for\n"
+	.string "a rematch.$"
 
 MtChimney_Text_ShelbyRematchIntro:
-.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
-.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
-	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "If you can mesh your heart with those\n"
+	.string "of your POKéMON, why, you should be\l"
+	.string "able to achieve great things.$"
 
 MtChimney_Text_ShelbyRematchDefeat:
-.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!$"
+	.string "Oh, my goodness.\n"
+	.string "Now, aren't you something!$"
 
 MtChimney_Text_ShelbyPostRematch:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pPerhaps your heart has become one\n"
-.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!$"
+	.string "Perhaps your heart has become one\n"
+	.string "with the hearts of your POKéMON.$"
 
 MtChimney_Text_MelissaIntro:
-.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
-.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "I've got the fire in me, baby.\n"
+	.string "I can't stand it! I have to battle!$"
 
 MtChimney_Text_MelissaDefeat:
-	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
+	.string "Ooh, that was a scorching-hot match!$"
 
 MtChimney_Text_MelissaPostBattle:
-.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
-.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "The heat of MT. CHIMNEY warms\n"
+	.string "me up, baby!$"
 
 MtChimney_Text_SheilaIntro:
-.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
-	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "I've finally made it to MT. CHIMNEY.\n"
+	.string "I want to make my POKéMON battle!$"
 
 MtChimney_Text_SheilaDefeat:
-.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
-	.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "The way you battle…\n"
+	.string "It's like a MT. CHIMNEY eruption!$"
 
 MtChimney_Text_SheilaPostBattle:
-.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
-.string "Parabens, Lucas! Sua jornada\napenas comecou."
-.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!"
-.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
-	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
+	.string "Like I said, I've finally made it to\n"
+	.string "MT. CHIMNEY. It would be a shame if\l"
+	.string "I only do a little sightseeing…\p"
+	.string "I want to get in some battles and buy\n"
+	.string "COOKIES as souvenirs.$"
 
 MtChimney_Text_ShirleyIntro:
-.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "Since I bathed in the hot springs,\n"
+	.string "I've been feeling great!\l"
+	.string "I'm sure I'm going to win!$"
 
 MtChimney_Text_ShirleyDefeat:
-.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
-	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "Yowch!\n"
+	.string "I'm getting a chill out of the water.$"
 
 MtChimney_Text_ShirleyPostBattle:
-.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
-.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
-	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "I'll have to take another dip in the\n"
+	.string "hot springs. Want to join me?\p"
+	.string "Just joking!$"
 
 MtChimney_Text_SawyerIntro:
-.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
-	.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "This is one fine mountain! Plenty of\n"
+	.string "hot people around for company!$"
 
 MtChimney_Text_SawyerDefeat:
-.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
+	.string "Oh, you're a real firebrand, too!$"
 
 MtChimney_Text_SawyerPostBattle:
-.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
-	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
+	.string "I think I need a dip in LAVARIDGE\n"
+	.string "HOT SPRING with the locals!$"
 
 MtChimney_Text_SawyerRegister:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI like little fireballs like you.\n"
-.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
+	.string "I like little fireballs like you.\n"
+	.string "Let me register you in my POKéNAV.$"
 
 MtChimney_Text_SawyerRematchIntro:
-.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!$"
+	.string "I'm happily surrounded by hot people\n"
+	.string "around these parts. I won't lose!$"
 
 MtChimney_Text_SawyerRematchDefeat:
-.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
-.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!$"
+	.string "Gosh, you're still the same\n"
+	.string "firebrand as before!$"
 
 MtChimney_Text_SawyerPostRematch:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pActually, it really is hot here.\n"
-	.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "Actually, it really is hot here.\n"
+	.string "I'm overdressed for these parts.$"

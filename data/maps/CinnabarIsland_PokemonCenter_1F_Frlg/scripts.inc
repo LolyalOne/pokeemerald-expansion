@@ -140,40 +140,40 @@ CinnabarIsland_PokemonCenter_1F_Movement_PlayerExitWest::
 	step_end
 
 CinnabarIsland_PokemonCenter_1F_Text_CinnabarGymLocked::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI came to visit the CINNABAR GYM,\n"
-.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
-.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
-.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
-.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
-.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!"
-.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
-.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!$"
+	.string "I came to visit the CINNABAR GYM,\n"
+	.string "but the door is locked tight.\p"
+	.string "There should be a key for it\n"
+	.string "somewhere.\p"
+	.string "Could it be in that burned-out\n"
+	.string "mansion?\p"
+	.string "The GYM LEADER's friend used to\n"
+	.string "live there, they say.$"
 
 CinnabarIsland_PokemonCenter_1F_Text_VisitUnionRoom::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pDo you have lots of friends?\p"
-.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
-.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
-.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
-.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
-.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
-	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
+	.string "Do you have lots of friends?\p"
+	.string "Linking up with the usual friends\n"
+	.string "is fun, of course.\p"
+	.string "But how about visiting the\n"
+	.string "UNION ROOM every so often?\p"
+	.string "Who knows, you may end up making\n"
+	.string "new friends.\p"
+	.string "I think it would be worth your time\n"
+	.string "to check the UNION ROOM.$"
 
 CinnabarIsland_PokemonCenter_1F_Text_EvolutionCanWaitForNewMoves::
-.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
-.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
-.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
-	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
+	.string "POKéMON can still learn techniques\n"
+	.string "after canceling evolution.\p"
+	.string "Evolution can wait until new moves\n"
+	.string "have been learned.$"
 
 CinnabarIsland_PokemonCenter_1F_Text_ReadyToSailToOneIsland::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pBILL: Hey, you kept me waiting!\n"
-.string "Lucas, voce e o melhor! Sua\njornada apenas comecou.$"
+	.string "BILL: Hey, you kept me waiting!\n"
+	.string "Ready to set sail to ONE ISLAND?$"
 
 CinnabarIsland_PokemonCenter_1F_Text_OhNotDoneYet::
-.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!$"
+	.string "Oh, you're still not done yet?$"
 
 CinnabarIsland_PokemonCenter_1F_Text_LetsGo::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWell, that's it.\n"
-	.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "Well, that's it.\n"
+	.string "Let's go!$"
 

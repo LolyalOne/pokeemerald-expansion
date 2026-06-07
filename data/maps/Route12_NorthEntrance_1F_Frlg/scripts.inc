@@ -6,6 +6,6 @@ Route12_NorthEntrance_1F_EventScript_Guard::
 	end
 
 Route12_NorthEntrance_1F_Text_LookoutSpotUpstairs::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThere's a lookout spot upstairs.\n"
-	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "There's a lookout spot upstairs.\n"
+	.string "The view is magnificent.$"
 

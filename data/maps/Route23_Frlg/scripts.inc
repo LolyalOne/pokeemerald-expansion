@@ -128,6 +128,6 @@ Route23_EventScript_VictoryRoadGateSign::
 	end
 
 Route23_Text_VictoryRoadGateSign::
-	.string "Feliz aniversario, Lucas! Nao se esqueca de comemorar muito!"
-	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "VICTORY ROAD GATE -\n"
+	.string "POKéMON LEAGUE$"
 

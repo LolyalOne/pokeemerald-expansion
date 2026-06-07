@@ -216,27 +216,27 @@ Route117_EventScript_Aisha::
 	end
 
 Route117_Text_DayCarePokemonHadNewMove:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI left my POKeMON at the DAY CARE.\p"
-.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
-	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
+	.string "I left my POKéMON at the DAY CARE.\p"
+	.string "When I got it back, it had a new move\n"
+	.string "that I didn't teach it.\l"
+	.string "I was really, really surprised.$"
 
 Route117_Text_ArentTheseFlowersPretty:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pWhat do you think?\n"
-.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
-.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
+	.string "What do you think?\n"
+	.string "Aren't these flowers pretty?\p"
+	.string "I planted them all!$"
 
 Route117_Text_AirIsTastyHere:
-.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!$"
+	.string "The air is tasty here!$"
 
 Route117_Text_RouteSignVerdanturf:
-.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
-	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
+	.string "ROUTE 117\n"
+	.string "{LEFT_ARROW} VERDANTURF TOWN$"
 
 Route117_Text_RouteSignMauville:
-.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
-	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
+	.string "ROUTE 117\n"
+	.string "{RIGHT_ARROW} MAUVILLE CITY$"
 
 Route117_Text_DayCareSign:
-.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
-.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "POKéMON DAY CARE\n"
+	.string "“Let us raise your POKéMON.”$"

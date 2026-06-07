@@ -44,95 +44,95 @@ FiveIsland_ResortGorgeous_EventScript_SelphysHouseSign::
 	end
 
 FiveIsland_ResortGorgeous_Text_DaisyIntro::
-.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
-.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou.$"
+	.string "With these hands, I will create\n"
+	.string "my victory!$"
 
 FiveIsland_ResortGorgeous_Text_DaisyDefeat::
-.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!$"
+	.string "The shame of this…\n"
+	.string "I'm red-faced…$"
 
 FiveIsland_ResortGorgeous_Text_DaisyPostBattle::
-.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
-.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!$"
+	.string "Uh-oh, my paint tubes have\n"
+	.string "scattered everywhere!$"
 
 FiveIsland_ResortGorgeous_Text_CelinaIntro::
-.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
-.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
-	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "Excuse me!\n"
+	.string "I'm trying to paint.\l"
+	.string "Please keep out of my sight!$"
 
 FiveIsland_ResortGorgeous_Text_CelinaDefeat::
-.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
-.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!$"
+	.string "This loss…\n"
+	.string "I feel like I'm whiting out…$"
 
 FiveIsland_ResortGorgeous_Text_CelinaPostBattle::
-.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
-	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "GILLIAN?\n"
+	.string "Please tilt your head slightly…\l"
+	.string "There! That's the look I want!$"
 
 FiveIsland_ResortGorgeous_Text_RaynaIntro::
-.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
-	.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "Hmm…\n"
+	.string "The angle, it is not quite there…$"
 
 FiveIsland_ResortGorgeous_Text_RaynaDefeat::
-.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!"
-	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "Oh…\n"
+	.string "My feelings, they are blue…$"
 
 FiveIsland_ResortGorgeous_Text_RaynaPostBattle::
-.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!$"
+	.string "The sky and the sea…\n"
+	.string "They are so fickle.\p"
+	.string "Their changing expressions make\n"
+	.string "them difficult to capture.$"
 
 FiveIsland_ResortGorgeous_Text_JackiIntro::
-.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
-	.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "I am visiting my friend's retreat,\n"
+	.string "if you must know.$"
 
 FiveIsland_ResortGorgeous_Text_JackiDefeat::
-	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "Oh, my, so strong.$"
 
 FiveIsland_ResortGorgeous_Text_JackiPostBattle::
-.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
-	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "I find it pleasurable to leisurely\n"
+	.string "battle in the gentle sea breeze.$"
 
 FiveIsland_ResortGorgeous_Text_GillianIntro::
-.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
-.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
+	.string "I'm thinking of having a pool\n"
+	.string "made specially for POKéMON.$"
 
 FiveIsland_ResortGorgeous_Text_GillianDefeat::
-.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "Oh, my goodness gracious!$"
 
 FiveIsland_ResortGorgeous_Text_GillianPostBattle::
-.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!"
-.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!$"
+	.string "A pool would be nice, but I must\n"
+	.string "say, a sun-room may be sublime.$"
 
 FiveIsland_ResortGorgeous_Text_DestinIntro::
-.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou."
-	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
+	.string "I'm a good runner.\n"
+	.string "I'm really fast!$"
 
 FiveIsland_ResortGorgeous_Text_DestinDefeat::
-.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
-.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!$"
+	.string "Oops!\n"
+	.string "I rushed things!$"
 
 FiveIsland_ResortGorgeous_Text_DestinPostBattle::
-.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
-	.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
+	.string "When I run with the wind, it feels\n"
+	.string "like I could fly!$"
 
 FiveIsland_ResortGorgeous_Text_TobyIntro::
-.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
-	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "I say, this marine life here at\n"
+	.string "this resort agrees with me.$"
 
 FiveIsland_ResortGorgeous_Text_TobyDefeat::
-.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
-.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "That's a shocker!\n"
+	.string "You must be joking.$"
 
 FiveIsland_ResortGorgeous_Text_TobyPostBattle::
-.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!"
-	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
+	.string "Getting so serious over this…\n"
+	.string "How nonsensical.$"
 
 FiveIsland_ResortGorgeous_Text_SelphyThanksYouMayGoNow::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pSELPHY: Thank you.\p"
-	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "SELPHY: Thank you.\p"
+	.string "You may go now.$"
 
 FiveIsland_ResortGorgeous_Text_SelphysHouse::
-.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
+	.string "SELPHY'S HOUSE$"
 

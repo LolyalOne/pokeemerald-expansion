@@ -28,27 +28,27 @@ PacifidlogTown_EventScript_TownSign::
 	end
 
 PacifidlogTown_Text_FastRunningCurrent:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThe sea between PACIFIDLOG and\n"
-.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
-.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
-.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou.$"
+	.string "The sea between PACIFIDLOG and\n"
+	.string "SLATEPORT has a fast-running tide.\p"
+	.string "If you decide to SURF, you could end\n"
+	.string "up swept away somewhere else.$"
 
 PacifidlogTown_Text_NeatHousesOnWater:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pSee, isn't it neat?\n"
-.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
-	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
+	.string "See, isn't it neat?\n"
+	.string "These houses are on water!\p"
+	.string "I was born here!$"
 
 PacifidlogTown_Text_SkyPillarTooScary:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThe SKY PILLAR?\p"
-.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
-.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
-.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
-.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
-.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
-	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
+	.string "The SKY PILLAR?\p"
+	.string "…Oh, you must mean that tall, tall\n"
+	.string "tower a little further out.\p"
+	.string "If you asked me, I wouldn't climb it.\n"
+	.string "It's too scary to get up that high.\p"
+	.string "Life at sea level in PACIFIDLOG,\n"
+	.string "that suits me fine.$"
 
 PacifidlogTown_Text_TownSign:
-.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
-.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
-	.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "PACIFIDLOG TOWN\p"
+	.string "“Where the morning sun smiles upon\n"
+	.string "the waters.”$"
 

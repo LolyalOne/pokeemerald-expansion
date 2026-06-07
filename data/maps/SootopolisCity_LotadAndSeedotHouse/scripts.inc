@@ -104,99 +104,99 @@ SootopolisCity_LotadAndSeedotHouse_EventScript_LotadSizeRecord::
 	end
 
 SootopolisCity_LotadAndSeedotHouse_Text_PleaseShowMeBigSeedot:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pDo you know the POKeMON SEEDOT?\n"
-.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
-.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
-.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
-.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
-.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
-.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
-.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
+	.string "Do you know the POKéMON SEEDOT?\n"
+	.string "It's hardly ever seen in SOOTOPOLIS.\p"
+	.string "Anyway, I love big SEEDOT.\n"
+	.string "The bigger the better.\p"
+	.string "But my younger brother, he says that\n"
+	.string "LOTAD is bigger.\p"
+	.string "That's silly.\n"
+	.string "SEEDOT has to be bigger than that!\p"
+	.string "Huh? Do you have a SEEDOT with you?\n"
+	.string "P-p-please, show me!$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_GoshMightBeBiggerThanLotad:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\p{STR_VAR_2}!\n"
-.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
-	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
+	.string "{STR_VAR_2}!\n"
+	.string "Oh, my gosh, this is a big one!\p"
+	.string "It might even beat the big LOTAD\n"
+	.string "my younger brother saw!\p"
+	.string "Thanks for showing me.\n"
+	.string "This is my thanks!$"
 
 @ Unused
 SootopolisCity_LotadAndSeedotHouse_Text_ReceivedPotion1:
-.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "{PLAYER} received a POTION.$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_BagCrammedFull1:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pHunh?\n"
-.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!$"
+	.string "Hunh?\n"
+	.string "Your BAG is crammed full.$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_SeenBiggerSeedot:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p{STR_VAR_2}, is it?\p"
-.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!$"
+	.string "{STR_VAR_2}, is it?\p"
+	.string "Hmm… I've seen a bigger SEEDOT\n"
+	.string "than this one.$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_ThatsNotSeedot:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh, now this is quite something...\n"
-	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "Oh, now this is quite something…\n"
+	.string "But it's not a SEEDOT!$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_DontHaveBigSeedot:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pYou don't have a big SEEDOT?\n"
-.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
-.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
-	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "You don't have a big SEEDOT?\n"
+	.string "That's too bad…\p"
+	.string "If you get a big SEEDOT, please\n"
+	.string "come show me.$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_BiggestSeedotInHistory:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThe biggest SEEDOT in history!\n"
+	.string "The biggest SEEDOT in history!\n"
 	.string "{STR_VAR_2}'s {STR_VAR_3} giant!\p"
-.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
-	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
+	.string "A SEEDOT bigger than a LOTAD\n"
+	.string "always wanted!$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_PleaseShowMeBigLotad:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pDo you know the POKeMON LOTAD?\n"
-.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
-.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
-.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
-.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
-.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
-	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "Do you know the POKéMON LOTAD?\n"
+	.string "It's rarely seen in SOOTOPOLIS.\p"
+	.string "I love, I mean love, big LOTAD!\p"
+	.string "My big brother says that SEEDOT is\n"
+	.string "bigger.\p"
+	.string "But that's wrong! Everyone knows that\n"
+	.string "LOTAD is a lot bigger.\p"
+	.string "Hunh? Do you have a LOTAD?\n"
+	.string "P-p-please show me!$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_WowMightBeBiggerThanSeedot:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\p{STR_VAR_2}!\n"
-.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
-.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
-.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
-	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
+	.string "{STR_VAR_2}!\n"
+	.string "Wow, that is big!\p"
+	.string "It might be even bigger than the huge\n"
+	.string "SEEDOT my big brother saw.\p"
+	.string "Thanks for showing me!\n"
+	.string "This is my thanks!$"
 
 @ Unused
 SootopolisCity_LotadAndSeedotHouse_Text_ReceivedPotion2:
-.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
+	.string "{PLAYER} received a POTION.$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_BagCrammedFull2:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pHunh?\n"
-	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "Hunh?\n"
+	.string "Your BAG is crammed full.$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_SeenBiggerLotad:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p{STR_VAR_2}?\p"
-.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
-.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!$"
+	.string "{STR_VAR_2}?\p"
+	.string "Hmm… I've seen a bigger LOTAD\n"
+	.string "than this one here.$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_ThatsNotLotad:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWell, isn't this something!\n"
-	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
+	.string "Well, isn't this something!\n"
+	.string "But it's no LOTAD!$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_DontHaveBigLotad:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pDon't you have a big LOTAD?\n"
-.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
-.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "Don't you have a big LOTAD?\n"
+	.string "How disappointing…\p"
+	.string "If you get a big LOTAD, please\n"
+	.string "come show me!$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_BiggestLotadInHistory:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pThe biggest LOTAD in history!\n"
+	.string "The biggest LOTAD in history!\n"
 	.string "{STR_VAR_2}'s {STR_VAR_3} colossus!\p"
-.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!"
-	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "A LOTAD bigger than a SEEDOT\n"
+	.string "always wanted!$"
 

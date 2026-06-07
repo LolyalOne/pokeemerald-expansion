@@ -120,12 +120,30 @@ BattleFrontier_BattlePalaceCorridor_Movement_AttendantEnterBattleRoom:
 	step_end
 
 BattleFrontier_BattlePalaceCorridor_Text_PeopleAndMonAreSame:
-    .string "Hoje é o seu dia, Lucas! Prepare-se\npara grandes batalhas, pois você é o\lmestre Pokémon que sempre quis\lser; parabéns e que este dia seja\lépico e inesquecível!$"
+	.string "People and POKéMON, they are but\n"
+	.string "the same…\p"
+	.string "Their individual nature makes them\n"
+	.string "good at certain things, and not good\l"
+	.string "at others.$"
+
 BattleFrontier_BattlePalaceCorridor_Text_LetMonDoWhatItLikes:
-    .string "Feliz aniversário, Lucas! O mundo\nPokémon celebra você hoje,\lprepare-se para grandes batalhas,\lpois a sua jornada como um\ltreinador incrível está apenas\lcomeçando!$"
+	.string "Rather than trying to make a POKéMON\n"
+	.string "do what it dislikes, try to let it do\l"
+	.string "what it likes and is good at doing.\p"
+	.string "Put yourself in the POKéMON's position\n"
+	.string "and consider what moves it would like.$"
+
 BattleFrontier_BattlePalaceCorridor_Text_MonDifferentWhenCornered:
-    .string "Lucas, que seu aniversário seja\népico! O mundo POKéMON celebra\lvocê! Um brinde ao Lucas, a lenda\lde Hoenn! Não se esqueça de\lcomemorar muito! Hoje é o seu dia,\lLucas! Capture todos os POKéMON\lhoje!$"
+	.string "A POKéMON's nature is a remarkable\n"
+	.string "thing…\p"
+	.string "Some POKéMON behave in a completely\n"
+	.string "different way when they are cornered.$"
+
 BattleFrontier_BattlePalaceCorridor_Text_BeginningToUnderstandNature:
-    .string "Lucas, hoje é o seu dia especial! O\nmundo Pokémon inteiro celebra você!\lParabéns, Lucas, você é um\ltreinador incrível!$"
+	.string "Are you beginning to understand how\n"
+	.string "a POKéMON's nature makes it behave?$"
+
 BattleFrontier_BattlePalaceCorridor_Text_HeartfeltBondBetweenYouAndMons:
-    .string "Feliz aniversário, Lucas! Que hoje\nvocê capture muitos Pokémon e\lcontinue sendo o campeão do nosso\lcoração!$"
+	.string "Ah… I see a strong, heartfelt bond\n"
+	.string "between you and your POKéMON…$"
+

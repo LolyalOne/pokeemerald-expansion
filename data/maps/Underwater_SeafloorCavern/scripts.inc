@@ -41,10 +41,10 @@ Underwater_SeafloorCavern_EventScript_CheckStolenSub::
 	end
 
 Underwater_SeafloorCavern_Text_SubExplorer1:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p“SUBMARINE EXPLORER 1” is painted\n"
-.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
-.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!"
-.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
-.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
+	.string "“SUBMARINE EXPLORER 1” is painted\n"
+	.string "on the hull.\p"
+	.string "This is the submarine TEAM AQUA\n"
+	.string "stole in SLATEPORT!\p"
+	.string "TEAM AQUA must have gone\n"
+	.string "ashore here.$"
 

@@ -54,16 +54,33 @@ AbandonedShip_Corridors_B1F_EventScript_Duncan::
 	end
 
 AbandonedShip_Corridors_B1F_Text_DuncanIntro:
-    .string "Lucas, feliz aniversário! Sua jornada\nem Hoenn é lendária, e o mundo\lPokémon celebra você hoje, o\lmelhor!$"
+	.string "When we go out to sea, we SAILORS\n"
+	.string "always bring our POKéMON.\l"
+	.string "How about a quick battle?$"
+
 AbandonedShip_Corridors_B1F_Text_DuncanDefeat:
-    .string "Hoje é o seu dia, Lucas! Você é uma\nlenda em Hoenn!$"
+	.string "Whoops, I'm sunk!$"
+
 AbandonedShip_Corridors_B1F_Text_DuncanPostBattle:
-    .string "Lucas! Feliz aniversário! Que este\ndia seja épico! Você é o campeão do\lnosso coração! Parabéns! Não se\lesqueça de comemorar muito,\lcapturar muitos POKeMON e se\lpreparar para grandes batalhas!$"
+	.string "The ship's bottom has sunk into the\n"
+	.string "depths.\p"
+	.string "If a POKéMON knew how to go underwater,\n"
+	.string "we might make some progress…$"
+
 AbandonedShip_Corridors_B1F_Text_YayItsAShip:
-    .string "Feliz aniversário, Lucas! Que dia\nespecial! Você é um amigo e\lTreinador incrível. Yay! Que sua\ljornada seja épica, hoje e sempre!$"
+	.string "Yay!\n"
+	.string "It's a ship!$"
+
 AbandonedShip_Corridors_B1F_Text_DoorIsLocked:
-    .string "Parabéns, Lucas! Que sua jornada\nseja épica e que todos os seus\ldesejos se realizem neste dia\lespecial! A porta está trancada.$"
+	.string "The door is locked.\p"
+	.string "“STORAGE” is painted on the door.$"
+
 AbandonedShip_Corridors_B1F_Text_InsertedStorageKey:
-    .string "Feliz Aniversário, Lucas! Hoje é o\nseu dia, que sua jornada Pokémon\lseja épica e traga muitas capturas!$"
+	.string "{PLAYER} inserted and turned the\n"
+	.string "STORAGE KEY.\p"
+	.string "The inserted KEY stuck fast,\n"
+	.string "but the door opened.$"
+
 AbandonedShip_Text_TheDoorIsOpen:
-    .string "Feliz Aniversário, Lucas! Você é o\ncampeão do nosso coração!$"
+	.string "The door is open.$"
+

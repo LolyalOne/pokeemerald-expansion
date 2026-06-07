@@ -20,13 +20,13 @@ SSAnne_1F_Room3_EventScript_Wigglytuff::
 	end
 
 SSAnne_1F_Room3_Text_CruiseIsElegantAndCozy::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pA world cruise is so elegant yet\n"
-.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!$"
+	.string "A world cruise is so elegant yet\n"
+	.string "cozy!$"
 
 SSAnne_1F_Room3_Text_AlwaysTravelWithWigglytuff::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI always travel with WIGGLYTUFF.\n"
-	.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "I always travel with WIGGLYTUFF.\n"
+	.string "I never leave home without it.$"
 
 SSAnne_1F_Room3_Text_Wigglytuff::
-	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
+	.string "WIGGLYTUFF: Puup pupuu!$"
 

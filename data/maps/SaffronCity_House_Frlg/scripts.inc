@@ -24,22 +24,22 @@ SaffronCity_House_EventScript_Letter::
 	end
 
 SaffronCity_House_Text_DontLookAtMyLetter::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\p...Thank you for writing.\n"
-.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
-.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
-	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
+	.string "…Thank you for writing.\n"
+	.string "I hope to see you soon!\p"
+	.string "…Hey!\n"
+	.string "Don't look at my letter!$"
 
 SaffronCity_House_Text_Pidgey::
-	.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "PIDGEY: Kurukkoo!$"
 
 SaffronCity_House_Text_GettingCopycatPokeDoll::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pThe COPYCAT is cute!\n"
-.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!$"
+	.string "The COPYCAT is cute!\n"
+	.string "I'm getting her a POKé DOLL.$"
 
 SaffronCity_House_Text_ExplainPPUp::
-.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
-.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
-	.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "I was given a PP UP as a gift.\p"
+	.string "It's used to increase the PP of\n"
+	.string "a POKéMON's move.\p"
+	.string "I should use it on a powerful move\n"
+	.string "with only a few PP.$"
 

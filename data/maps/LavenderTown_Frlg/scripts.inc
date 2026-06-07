@@ -47,42 +47,42 @@ LavenderTown_EventScript_PokemonTowerSign::
 	end
 
 LavenderTown_Text_DoYouBelieveInGhosts::
-	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
+	.string "Do you believe in ghosts?$"
 
 LavenderTown_Text_SoThereAreBelievers::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pReally?\n"
-.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
+	.string "Really?\n"
+	.string "So there are believers…$"
 
 LavenderTown_Text_JustImaginingWhiteHand::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHahaha, I guess not.\p"
-.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!$"
+	.string "Hahaha, I guess not.\p"
+	.string "That white hand on your shoulder…\n"
+	.string "I'm just imagining it.$"
 
 LavenderTown_Text_TownKnownAsMonGraveSite::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThis town is known as the grave\n"
-.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
-	.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "This town is known as the grave\n"
+	.string "site of POKéMON.\p"
+	.string "Memorial services are held in\n"
+	.string "POKéMON TOWER.$"
 
 LavenderTown_Text_GhostsAppearedInTower::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pGhosts appeared in POKeMON TOWER.\p"
-.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
-.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!$"
+	.string "Ghosts appeared in POKéMON TOWER.\p"
+	.string "I think they're the spirits of\n"
+	.string "POKéMON that the ROCKETS killed.$"
 
 LavenderTown_Text_TownSign::
-.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
-	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "LAVENDER TOWN\n"
+	.string "The Noble Purple Town$"
 
 LavenderTown_Text_SilphScopeNotice::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pNew SILPH SCOPE!\n"
-.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
-.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!$"
+	.string "New SILPH SCOPE!\n"
+	.string "Make the Invisible Plain to See!\p"
+	.string "SILPH CO.$"
 
 LavenderTown_Text_VolunteerPokemonHouse::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pLAVENDER VOLUNTEER\n"
-.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
+	.string "LAVENDER VOLUNTEER\n"
+	.string "POKéMON HOUSE$"
 
 LavenderTown_Text_PokemonTowerSign::
-.string "Parabens, Lucas! Sua jornada\napenas comecou."
-.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "POKéMON TOWER\n"
+	.string "Becalm the Spirits of POKéMON$"
 

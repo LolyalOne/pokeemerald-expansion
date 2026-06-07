@@ -103,116 +103,116 @@ CeladonCity_EventScript_GameCornerSign::
 	end
 
 CeladonCity_Text_GotMyKoffingInCinnabar::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI got my KOFFING in CINNABAR.\p"
-.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
-.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!$"
+	.string "I got my KOFFING in CINNABAR.\p"
+	.string "It's usually nice, but it breathes\n"
+	.string "poison when it's angry.$"
 
 CeladonCity_Text_GymIsGreatFullOfWomen::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHeheh! This GYM is great!\n"
-	.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
+	.string "Heheh! This GYM is great!\n"
+	.string "It's full of women!$"
 
 CeladonCity_Text_GameCornerIsBadForCitysImage::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pCELADON takes pride in its efforts\n"
-.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
-.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
-	.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "CELADON takes pride in its efforts\n"
+	.string "to keep the city beautiful.\p"
+	.string "That's why the new GAME CORNER is\n"
+	.string "bad for our city's image.$"
 
 CeladonCity_Text_BlewItAllAtSlots::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pMoan...\n"
-.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
-.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!$"
+	.string "Moan…\n"
+	.string "I blew it all at the slots!\p"
+	.string "I knew I should have cashed in my\n"
+	.string "COINS for prizes!$"
 
 CeladonCity_Text_MyTrustedPalPoliwrath::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThis is my trusted pal, POLIWRATH.\p"
-.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
+	.string "This is my trusted pal, POLIWRATH.\p"
+	.string "It evolved from a POLIWHIRL when\n"
+	.string "I used a WATER STONE.$"
 
 CeladonCity_Text_Poliwrath::
-	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
+	.string "POLIWRATH: Ribi ribit!$"
 
 CeladonCity_Text_GetLostOrIllPunchYou::
-.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
-.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
+	.string "What are you staring at?\n"
+	.string "Get lost, or I'll punch you.$"
 
 CeladonCity_Text_KeepOutOfTeamRocketsWay::
-	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "Keep out of TEAM ROCKET's way!$"
 
 CeladonCity_Text_ExplainXAccuracyDireHit::
-.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
-.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
-.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
-.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
-.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
-.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!$"
+	.string "TRAINER TIPS\p"
+	.string "X ACCURACY boosts the accuracy of\n"
+	.string "techniques.\p"
+	.string "DIRE HIT jacks up the likelihood\n"
+	.string "of critical hits.\p"
+	.string "Get your items at the CELADON\n"
+	.string "DEPT. STORE!$"
 
 CeladonCity_Text_CitySign::
-.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
-.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
+	.string "CELADON CITY\n"
+	.string "The City of Rainbow Dreams$"
 
 CeladonCity_Text_GymSign::
-.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
-.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
-.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "CELADON CITY POKéMON GYM\n"
+	.string "LEADER: ERIKA\l"
+	.string "The Nature-Loving Princess!$"
 
 CeladonCity_Text_MansionSign::
-	.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "CELADON MANSION$"
 
 CeladonCity_Text_DeptStoreSign::
-.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
-	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
+	.string "Find what you need at the\n"
+	.string "CELADON DEPT. STORE!$"
 
 CeladonCity_Text_GuardSpecProtectsFromStatus::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pTRAINER TIPS\p"
-.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
-.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
-.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
-	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "TRAINER TIPS\p"
+	.string "GUARD SPEC. protects POKéMON\n"
+	.string "from status-reduction moves during\l"
+	.string "battle.\p"
+	.string "Get your items at the\n"
+	.string "CELADON DEPT. STORE!$"
 
 CeladonCity_Text_PrizeExchangeSign::
-.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "COINS exchanged for prizes!\n"
+	.string "PRIZE EXCHANGE$"
 
 CeladonCity_Text_GameCornerSign::
-.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
-	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "ROCKET GAME CORNER\n"
+	.string "The playground for grown-ups!$"
 
 CeladonCity_Text_ScaldedTongueOnTea::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pAaaagh, ow...\n"
-.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
-.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
-.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
-.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "Aaaagh, ow…\n"
+	.string "I scalded my tongue!\p"
+	.string "This nice old lady in the MANSION\n"
+	.string "gave me some TEA.\p"
+	.string "But it was boiling hot!\n"
+	.string "Gotta cool it to drink it.$"
 
 Text_SoftboiledTeach::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHello, there!\p"
-.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
-.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
-.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
-.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
-.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!$"
+	.string "Hello, there!\p"
+	.string "I've seen you about, but I never\n"
+	.string "had a chance to chat.\p"
+	.string "It must be good luck that brought\n"
+	.string "us together finally.\p"
+	.string "I'd like to celebrate by teaching\n"
+	.string "you the move SOFTBOILED.$"
 
 Text_SoftboiledDeclined::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pI'll always be keeping an eye out\n"
-.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
-	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
+	.string "I'll always be keeping an eye out\n"
+	.string "for you.\p"
+	.string "I hope we can chat again.$"
 
 Text_SoftboiledWhichMon::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pSo, who's the POKeMON that gets\n"
-.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!$"
+	.string "So, who's the POKéMON that gets\n"
+	.string "the chance to learn SOFTBOILED?$"
 
 Text_SoftboiledTaught::
-	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
+	.string "I wish you the best of luck!$"
 
 CeladonCity_Text_SomeoneStoleSilphScope::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh, what am I to do...\p"
-.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
-.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
-.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
-	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
+	.string "Oh, what am I to do…\p"
+	.string "Someone stole our SILPH SCOPE.\p"
+	.string "The thief came running this way,\n"
+	.string "I'm sure of it.\p"
+	.string "But I lost sight of him!\n"
+	.string "Where'd he go?$"
 

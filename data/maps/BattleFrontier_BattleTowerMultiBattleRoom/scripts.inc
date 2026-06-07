@@ -438,36 +438,63 @@ BattleFrontier_BattleTowerMultiBattleRoom_Movement_WalkInPlaceLeft:
 	step_end
 
 BattleFrontier_BattleTowerMultiBattleRoom_Text_ReadyFor2ndOpponentSet:
-    .string "Hoje é o seu dia, Lucas! Parabéns!\nVocê é um treinador incrível e uma\lverdadeira lenda em Hoenn!$"
+	.string "The 2nd set of opponents is next.\n"
+	.string "Are you ready?$"
+
 BattleFrontier_BattleTowerMultiBattleRoom_Text_ReadyFor3rdOpponentSet:
-    .string "Feliz aniversário, Lucas! Que este\ndia seja épico! Você é o Mestre\lPokémon que sempre quis ser! Um\lbrinde ao Lucas! Capture todos os\lPokémon hoje!$"
+	.string "The 3rd set of opponents is next.\n"
+	.string "Are you ready?$"
+
 BattleFrontier_BattleTowerMultiBattleRoom_Text_ReadyFor4thOpponentSet:
-    .string "Feliz aniversário, Lucas! Não se\nesqueça de comemorar muito! Um\lbrinde ao Lucas! O mundo POKéMON\lcelebra você!$"
+	.string "The 4th set of opponents is next.\n"
+	.string "Are you ready?$"
+
 BattleFrontier_BattleTowerMultiBattleRoom_Text_ReadyFor5thOpponentSet:
-    .string "Lucas, feliz aniversário! Que este\ndia seja épico! Você é o mestre\lPOKéMON que sempre quis ser! Um\lbrinde ao Lucas, o campeão do nosso\lcoração!$"
+	.string "The 5th set of opponents is next.\n"
+	.string "Are you ready?$"
+
 BattleFrontier_BattleTowerMultiBattleRoom_Text_ReadyFor6thOpponentSet:
-    .string "Parabéns, Lucas! Hoje é seu dia\nespecial, então comemore muito!\lVocê é o melhor, e sua jornada está\lapenas começando!$"
+	.string "The 6th set of opponents is next.\n"
+	.string "Are you ready?$"
+
 BattleFrontier_BattleTowerMultiBattleRoom_Text_ReadyFor7thOpponentSet:
-    .string "Feliz aniversário, Lucas! Você é um\ntreinador incrível! Aproveite sua\ljornada e que todos os seus desejos\lse realizem!$"
+	.string "The 7th set of opponents is next.\n"
+	.string "Are you ready?$"
+
 @ Unused
 BattleFrontier_BattleTowerMultiBattleRoom_Text_2ndOpponentSetNext:
-    .string "Hoje é o seu dia, Lucas! O mundo\nPOKéMON celebra você! Feliz\laniversário, Lucas! Não se esqueça\lde comemorar muito!$"
+	.string "The 2nd set of opponents is next.\n"
+	.string "Do your best!$"
+
 @ Unused
 BattleFrontier_BattleTowerMultiBattleRoom_Text_3rdOpponentSetNext:
-    .string "Parabéns pelo seu aniversário,\nLucas! Que hoje você capture muitos\lPokémon e aproveite sua jornada;\lseu presente já está esperando por\lvocê!$"
+	.string "The 3rd set of opponents is next.\n"
+	.string "Do your best!$"
+
 @ Unused
 BattleFrontier_BattleTowerMultiBattleRoom_Text_4thOpponentSetNext:
-    .string "Um brinde ao Lucas! Prepare-se para\ngrandes batalhas! Hoje é o seu\laniversário, Lucas! O mundo\lPOKéMON celebra você!$"
+	.string "The 4th set of opponents is next.\n"
+	.string "Do your best!$"
+
 @ Unused
 BattleFrontier_BattleTowerMultiBattleRoom_Text_5thOpponentSetNext:
-    .string "Feliz aniversário, Lucas! Você é uma\nlenda em Hoenn e o campeão dos\lnossos corações!$"
+	.string "The 5th set of opponents is next.\n"
+	.string "Do your best!$"
+
 @ Unused
 BattleFrontier_BattleTowerMultiBattleRoom_Text_6thOpponentSetNext:
-    .string "Feliz aniversário, Lucas! Você é um\ntreinador incrível e uma lenda em\lHoenn!$"
+	.string "The 6th set of opponents is next.\n"
+	.string "Do your best!$"
+
 @ Unused
 BattleFrontier_BattleTowerMultiBattleRoom_Text_7thOpponentSetNext:
-    .string "Hoje é o seu dia, Lucas! Sua jornada\nestá apenas começando. Feliz\laniversário! Não se esqueça de\lcomemorar muito!$"
+	.string "The 7th set of opponents is next.\n"
+	.string "Do your best!$"
+
 gText_LinkStandby3::
-    .string "Hoje é o seu aniversário, Lucas!\nVocê é um treinador incrível!$"
+	.string "Link standby…$"
+
 gText_YourPartnerHasRetired::
-    .string "Feliz aniversário, Lucas! Você é um\namigo incrível e uma verdadeira\llenda em Hoenn, parabéns pelo seu\ldia!$"
+	.string "Your partner has retired.\p"
+	.string "Your BATTLE ROOM challenge\n"
+	.string "will be canceled.$"

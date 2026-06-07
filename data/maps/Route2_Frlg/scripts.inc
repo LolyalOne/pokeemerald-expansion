@@ -10,9 +10,9 @@ Route2_EventScript_DiglettsCaveSign::
 	end
 
 Route2_Text_RouteSign::
-.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!"
-	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
+	.string "ROUTE 2\n"
+	.string "VIRIDIAN CITY - PEWTER CITY$"
 
 Route2_Text_DiglettsCave::
-.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
+	.string "DIGLETT'S CAVE$"
 

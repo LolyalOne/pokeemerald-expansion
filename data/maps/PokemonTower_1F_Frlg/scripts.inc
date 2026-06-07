@@ -37,31 +37,31 @@ PokemonTower_1F_EventScript_WorkerF::
 	end
 
 PokemonTower_1F_Text_ErectedInMemoryOfDeadMons::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pPOKeMON TOWER was erected in the\n"
-.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!$"
+	.string "POKéMON TOWER was erected in the\n"
+	.string "memory of POKéMON that died.$"
 
 PokemonTower_1F_Text_ComeToPayRespectsSon::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pDid you come to pay respects?\p"
-.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
-	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "Did you come to pay respects?\p"
+	.string "Bless your POKéMON-loving heart,\n"
+	.string "son.$"
 
 PokemonTower_1F_Text_ComeToPayRespectsGirl::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pDid you come to pay respects?\p"
-.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
-.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!$"
+	.string "Did you come to pay respects?\p"
+	.string "Bless your POKéMON-loving heart,\n"
+	.string "girl.$"
 
 PokemonTower_1F_Text_CameToPrayForDepartedClefairy::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pI came to pray for my dearly\n"
-.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
-.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
-	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "I came to pray for my dearly\n"
+	.string "departed CLEFAIRY.\p"
+	.string "Sniff!\n"
+	.string "I'm awash in tears…$"
 
 PokemonTower_1F_Text_GrowlitheWhyDidYouDie::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pMy GROWLITHE...\n"
-.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
+	.string "My GROWLITHE…\n"
+	.string "Why did you die?$"
 
 PokemonTower_1F_Text_SenseSpiritsUpToMischief::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI am a CHANNELER.\p"
-.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
-	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "I am a CHANNELER.\p"
+	.string "There are spirits up to mischief.\n"
+	.string "I sense them high in the TOWER.$"
 

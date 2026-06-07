@@ -33,31 +33,31 @@ FourIsland_LoreleisHouse_EventScript_Doll::
 	end
 
 FourIsland_LoreleisHouse_Text_IfAnythingWereToHappenToIsland::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pLORELEI: There's something weighing\n"
-.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
-.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
-.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
-.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou."
-	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
+	.string "LORELEI: There's something weighing\n"
+	.string "heavily on my mind.\p"
+	.string "If anything were to happen on\n"
+	.string "the island where I was born…\p"
+	.string "I wouldn't know about it if I were\n"
+	.string "in the POKéMON LEAGUE.\p"
+	.string "I wonder if that would make me\n"
+	.string "irresponsible to my home…$"
 
 FourIsland_LoreleisHouse_Text_IllReturnToLeagueInShortWhile::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pLORELEI: So, you managed to solve\n"
-.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
-.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
-.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
-.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
-.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
-.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "LORELEI: So, you managed to solve\n"
+	.string "all the problems here?\p"
+	.string "That's wonderful.\p"
+	.string "That means there isn't any reason\n"
+	.string "for me to be here all the time.\p"
+	.string "Thank you…\p"
+	.string "I'll return to the POKéMON LEAGUE\n"
+	.string "in a short while.$"
 
 FourIsland_LoreleisHouse_Text_WillDoWhatICanHereAndNow::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI don't know what will happen in\n"
-.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
-.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!"
-.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!$"
+	.string "I don't know what will happen in\n"
+	.string "the future, but…\p"
+	.string "I will do what I can here and now.\n"
+	.string "That's all I can do.$"
 
 FourIsland_LoreleisHouse_Text_StuffedMonDollsGalore::
-.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!$"
+	.string "Stuffed POKéMON dolls galore!$"
 

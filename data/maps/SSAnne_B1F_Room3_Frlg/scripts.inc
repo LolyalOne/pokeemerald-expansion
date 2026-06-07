@@ -7,13 +7,13 @@ SSAnne_B1F_Room3_EventScript_Dylan::
 	end
 
 SSAnne_B1F_Room3_Text_DylanIntro::
-	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
+	.string "I like feisty kids like you!$"
 
 SSAnne_B1F_Room3_Text_DylanDefeat::
-.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
-.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "Argh!\n"
+	.string "Lost it!$"
 
 SSAnne_B1F_Room3_Text_DylanPostBattle::
-.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
-.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!$"
+	.string "Sea POKéMON live in deep water.\n"
+	.string "You'll need a ROD to fish them up!$"
 

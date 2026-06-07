@@ -634,96 +634,205 @@ BattleFrontier_BattlePikeRoomNormal_Movement_CameraPanDown:
 	step_end
 
 BattleFrontier_BattlePikeRoomNormal_Text_WillRestoreToFullHealth:
-    .string "Parabéns, Lucas! Capture todos os\nPokémon hoje! Feliz aniversário,\lLucas! Você é um treinador incrível!\lUm brinde ao Lucas! Que todos os\lseus desejos se realizem! Parabéns,\lLucas! O mundo Pokémon celebra\lvocê!$"
+	.string "Welcome…\n"
+	.string "You must be commended for your luck…\p"
+	.string "Your POKéMON shall be restored\n"
+	.string "to full health…$"
+
 BattleFrontier_BattlePikeRoomNormal_Text_EnjoyRestOfChallenge:
-    .string "Parabéns pelo seu aniversário,\nLucas! Você é um treinador incrível!\lUm brinde ao Lucas! Capture todos\los Pokémon hoje!$"
+	.string "I urge you to enjoy the rest of your\n"
+	.string "Battle Choice challenge…$"
+
 BattleFrontier_BattlePikeRoomNormal_Text_WillRestoreOneMon:
-    .string "Um brinde ao Lucas! Você é o mestre\nPOKÉMON que sempre quis ser! Feliz\laniversário, Lucas! Capture todos os\lPOKÉMON hoje! Parabéns, Lucas!\lVocê é o campeão do nosso coração!\lFeliz aniversário, Lucas! Sua jornada\lestá apenas começando.$"
+	.string "Ah, you're a lucky one.\n"
+	.string "I'm in somewhat-good spirits now.\p"
+	.string "I will restore one of your POKéMON\n"
+	.string "to full health.$"
+
 BattleFrontier_BattlePikeRoomNormal_Text_BestOfLuckFarewell:
-    .string "Um brinde ao aniversariante Lucas!\nCapture todos os POKéMON hoje!\lVocê é um treinador incrível e este\ldia é todo seu!$"
+	.string "The best of luck to you.\n"
+	.string "Farewell.$"
+
 @ Seems there was a planned room type where the player could choose to battle and would be healed if they won
 @ Possibly replaced/superseded by the hard battle room, which is the same but the battle isnt optional
 @ Unused
 BattleFrontier_BattlePikeRoomNormal_Text_CareForBattleWillRestoreMons:
-    .string "Parabéns, Lucas! O mundo Pokémon\ncelebra você! Feliz aniversário!\lPrepare-se para grandes batalhas e\lnão esqueça de comemorar muito!$"
+	.string "Excuse me…\p"
+	.string "Would you care for a battle?\n"
+	.string "I'll restore your POKéMON if you win.$"
+
 @ Unused
 BattleFrontier_BattlePikeRoomNormal_Text_NowShallWe:
-    .string "Feliz aniversário, Lucas! Aproveite\nsua jornada, pois o mundo Pokémon\lcelebra seu dia especial! Um brinde\la você!$"
+	.string "Very well…\n"
+	.string "Now, shall we?$"
+
 @ Unused
 BattleFrontier_BattlePikeRoomNormal_Text_HowUnsportingOfYou:
-    .string "Lucas, feliz aniversário! Aproveite\nsua jornada, prepare-se para grandes\lbatalhas e não esqueça de\lcomemorar muito!$"
+	.string "I see…\n"
+	.string "How unsporting of you…$"
+
 @ Unused
 BattleFrontier_BattlePikeRoomNormal_Text_WillRestoreMonsAsPromised:
-    .string "Um brinde ao Lucas! Você é o mestre\nPokémon que sempre quis ser! Lucas,\lque seu aniversário seja épico e\ltodos os seus desejos se realizem!\lHoje é o seu dia, você é o campeão\ldos nossos corações!$"
+	.string "Magnificent…\p"
+	.string "As promised, I shall restore your\n"
+	.string "POKéMON to full health.$"
+
 @ Unused
 BattleFrontier_BattlePikeRoomNormal_Text_BestOfLuckFarewell2:
-    .string "Feliz aniversário, Lucas! Sua jornada\nestá apenas começando, mas hoje o\ldia é todo seu e você já é o\lcampeão dos nossos corações!$"
+	.string "The best of luck to you.\n"
+	.string "Farewell.$"
+
 BattleFrontier_BattlePikeRoomNormal_Text_WatchOut:
-    .string "Lucas, você é o melhor! Prepare-se\npara grandes batalhas! Feliz\laniversário, Lucas! Capture todos os\lPokémon hoje!$"
+	.string "Oh, my!\p"
+	.string "Watch out!$"
+
 BattleFrontier_BattlePikeRoomNormal_Text_KirliaStop:
-    .string "Hoje o dia é todo seu, Lucas! Você é\no campeão do nosso coração! Feliz\laniversário! Você é um treinador\lincrível!$"
+	.string "Now, now!\n"
+	.string "KIRLIA, stop that!$"
+
 BattleFrontier_BattlePikeRoomNormal_Text_DusclopsStop:
-    .string "Lucas, você é o melhor! Você é uma\nlenda em Hoenn! Feliz aniversário,\lhoje o brinde é para você! Que tal\lcapturar todos os POKéMON para\lcelebrar seu dia?$"
+	.string "Now, now!\n"
+	.string "DUSCLOPS, stop that!$"
+
 BattleFrontier_BattlePikeRoomNormal_Text_KirliaUsedToxic:
-    .string "Feliz 23 de maio, Lucas! Você é um\ntreinador incrível!$"
+	.string "KIRLIA used TOXIC!$"
+
 BattleFrontier_BattlePikeRoomNormal_Text_KirliaUsedHypnosis:
-    .string "Feliz aniversário, Lucas! Você é o\nmelhor e uma verdadeira lenda em\lHoenn!$"
+	.string "KIRLIA used HYPNOSIS!$"
+
 BattleFrontier_BattlePikeRoomNormal_Text_KirliaUsedThunderWave:
-    .string "Feliz aniversário, Lucas! Prepare-se\npara grandes batalhas!$"
+	.string "KIRLIA used THUNDER WAVE!$"
+
 BattleFrontier_BattlePikeRoomNormal_Text_KirliaUsedWillOWisp:
-    .string "Feliz Aniversário, Lucas! Você é uma\nlenda em Hoenn!$"
+	.string "KIRLIA used WILL-O-WISP!$"
+
 BattleFrontier_BattlePikeRoomNormal_Text_DusclopsUsedWillOWisp:
-    .string "Hoje é o seu aniversário, Lucas!\nAproveite para capturar todos os\lPokémon neste dia especial!$"
+	.string "DUSCLOPS used WILL-O-WISP!$"
+
 BattleFrontier_BattlePikeRoomNormal_Text_DusclopsUsedIceBeam:
-    .string "Parabéns pelo seu aniversário,\nLucas! Um brinde a você; seu\lpresente já está esperando!$"
+	.string "DUSCLOPS used ICE BEAM!$"
+
 BattleFrontier_BattlePikeRoomNormal_Text_ThatsEnough:
-    .string "Feliz 23 de maio, Lucas! Você é uma\nlenda em Hoenn! Aproveite seu dia e\lsua jornada, pois todo o mundo\lPokémon celebra você!$"
+	.string "Look here!\n"
+	.string "That's quite enough!$"
+
 BattleFrontier_BattlePikeRoomNormal_Text_ApologizeForKirlia:
-    .string "Lucas, você é o melhor! Você é o\ncampeão do nosso coração e hoje é\lum dia especial, feliz aniversário!$"
+	.string "I must apologize to you…\p"
+	.string "My KIRLIA has a TIMID nature…$"
+
 BattleFrontier_BattlePikeRoomNormal_Text_ApologizeForDusclops:
-    .string "Hoje é o seu dia, Lucas! Que todos\nos seus sonhos se realizem!\lParabéns, Lucas! Capture todos os\lPokémon hoje!$"
+	.string "I must apologize to you…\p"
+	.string "My DUSCLOPS has a TIMID nature…$"
+
 BattleFrontier_BattlePikeRoomNormal_Text_AttacksWhenStartled:
-    .string "Hoje é o seu dia, Lucas! Você é o\nmestre Pokémon que sempre quis\lser! Feliz aniversário, Lucas! Você é\luma lenda em Hoenn! Hoje é o seu\ldia, Lucas! Prepare-se para grandes\lbatalhas!$"
+	.string "It attacks without warning if it is\n"
+	.string "startled by another person…\p"
+	.string "Are you and your POKéMON all right?$"
+
 BattleFrontier_BattlePikeRoomNormal_Text_ApologizeHopeMonsAreFine:
-    .string "Um brinde ao Lucas! O mundo\nPokémon celebra você! Feliz 23 de\lmaio, Lucas! Não se esqueça de\lcomemorar muito!$"
+	.string "I do apologize for what happened…\n"
+	.string "I do hope your POKéMON are fine.$"
+
 BattleFrontier_BattlePikeRoomNormal_Text_Silence:
-    .string "Um brinde ao Lucas! Que todos os\nseus desejos se realizem, pois o\lmundo Pokémon celebra o seu\laniversário!$"
+	.string "… … … … … …\n"
+	.string "… … … … … …$"
+
 BattleFrontier_BattlePikeRoomNormal_Text_BattleSomewhatToughTrainer:
-    .string "Um brinde ao Lucas! Sua jornada\nestá apenas começando. Hoje é o seu\ldia, Lucas! O seu presente está\lesperando por você! Lucas, que este\ldia seja épico! Você é o campeão\ldos nossos corações!$"
+	.string "Welcome…\p"
+	.string "Here, we will have you battle\n"
+	.string "a somewhat-tough TRAINER…$"
+
 BattleFrontier_BattlePikeRoomNormal_Text_RestoreToFullHealth:
-    .string "Lucas, que seu aniversário seja\népico! Você é o campeão dos nossos\lcorações! Um brinde ao Lucas! O\lmundo Pokémon celebra você!\lParabéns, Lucas! Você é um\ltreinador incrível!$"
+	.string "How wonderful…\p"
+	.string "To honor your victory, your POKéMON\n"
+	.string "shall be restored to full health…$"
+
 BattleFrontier_BattlePikeRoomNormal_Text_EnjoyRestOfChallenge2:
-    .string "Lucas, você é o melhor! Prepare-se\npara grandes batalhas! Feliz\laniversário, Lucas! Não se esqueça\lde comemorar muito!$"
+	.string "I urge you to enjoy the rest of your\n"
+	.string "Battle Choice challenge…$"
+
 BattleFrontier_BattlePikeRoomNormal_Text_ImThePikeQueen:
-    .string "Lucas, você é o melhor! Você é um\ntreinador incrível! Feliz aniversário,\lLucas! Prepare-se para grandes\lbatalhas! Feliz aniversário, Lucas!\lNão se esqueça de comemorar muito!\lParabéns, Lucas! O mundo POKéMON\lcelebra você! Lucas, você é o\lmelhor! O seu presente está\lesperando por você! Hoje é o seu\ldia, Lucas! Você é uma lenda em\lHoenn! Parabéns, Lucas! Não se\lesqueça de comemorar muito!$"
+	.string "I am LUCY…\n"
+	.string "I am the law here…\l"
+	.string "For I am the PIKE QUEEN…\p"
+	.string "You already know it, but to advance,\n"
+	.string "you must defeat me…\p"
+	.string "…I'm not one for idle chatter.\n"
+	.string "Hurry. Come on…$"
+
 BattleFrontier_BattlePikeRoomNormal_Text_HopeYouDidntUseUpLuck:
-    .string "Um brinde ao Lucas! Sua jornada\napenas começou. Feliz aniversário,\lLucas! Você é o campeão do nosso\lcoração!$"
+	.string "Your luck…\n"
+	.string "I hope you didn't use it all up here…$"
+
 BattleFrontier_BattlePikeRoomNormal_Text_LucyShowMeFrontierPass:
-    .string "Lucas, aproveite sua jornada e feliz\naniversário! O seu presente está\lesperando por você; parabéns,\lLucas, você é um treinador incrível!$"
+	.string "LUCY: … … … … … …\n"
+	.string "Show me your FRONTIER PASS…$"
+
 BattleFrontier_BattlePikeRoomNormal_Text_ReceivedLuckSymbol:
-    .string "Lucas, aproveite sua jornada! Você é\no campeão do nosso coração e hoje,\lno seu aniversário, celebra o mestre\lPokémon que sempre quis ser!$"
+	.string "The Luck Symbol was embossed on\n"
+	.string "the FRONTIER PASS!$"
+
 BattleFrontier_BattlePikeRoomNormal_Text_AllThereIsDisappear:
-    .string "Feliz aniversário, Lucas! Sua jornada\napenas começou. O seu presente de\laniversário está esperando por você!$"
+	.string "…That's all there is…\n"
+	.string "Disappear already…$"
+
 BattleFrontier_BattlePikeRoomNormal_Text_LucyYouAgain:
-    .string "Lucas, que este dia seja épico!\nPrepare-se para grandes batalhas!\lLucas, aproveite sua jornada! Sua\ljornada apenas começou. Hoje é o\lseu dia, Lucas! O mundo Pokémon\lcelebra você! Lucas, aproveite sua\ljornada! Você é o campeão do nosso\lcoração! Lucas, aproveite sua\ljornada! Você é uma lenda em Hoenn!\lFeliz aniversário, Lucas! Você é um\ltreinador incrível! Feliz aniversário,\lLucas! Você é uma lenda em Hoenn!\lUm brinde ao Lucas! Que todos os\lseus desejos se realizem!$"
+	.string "LUCY: …You again…\p"
+	.string "… … … … … …\p"
+	.string "…I've trampled flowers and braved\n"
+	.string "storms to get to where I am…\p"
+	.string "I don't feel any compulsion to keep\n"
+	.string "losing to the same opponent…\p"
+	.string "… … … … … …\n"
+	.string "Fine… I'll do it…$"
+
 BattleFrontier_BattlePikeRoomNormal_Text_NowComeOn:
-    .string "Parabéns, Lucas! Hoje é um dia\nespecial, então saia por aí e capture\ltodos os Pokémon! Você é o melhor,\laproveite muito o seu aniversário!$"
+	.string "Now!\n"
+	.string "Come on!$"
+
 BattleFrontier_BattlePikeRoomNormal_Text_LucyFrontierPass:
-    .string "Hoje é o seu dia, Lucas! Você é o\nmestre POKéMON que sempre quis\lser! Parabéns, Lucas! O mundo\lPOKéMON celebra você neste dia\lespecial!$"
+	.string "LUCY: … … … … … …\p"
+	.string "…FRONTIER PASS…$"
+
 BattleFrontier_BattlePikeRoomNormal_Text_LuckSymbolTookGoldenShine:
-    .string "Parabéns pelo seu dia, Lucas! Você\né o mestre POKéMON que sempre\lquis ser! Feliz aniversário, Lucas!\lSua jornada apenas começou.$"
+	.string "The Luck Symbol took on\n"
+	.string "a golden shine!$"
+
 BattleFrontier_BattlePikeRoomNormal_Text_IWontForget:
-    .string "Feliz aniversário, Lucas! Prepare-se\npara grandes batalhas! Lucas, você é\lo melhor! Capture todos os POKéMON\lhoje!$"
+	.string "…You, I won't forget…\n"
+	.string "…Ever…$"
+
 BattleFrontier_BattlePikeRoomNormal_Text_ChoseRoomNoHeal:
-    .string "Feliz aniversário, Lucas! Você é uma\nlenda em Hoenn, um treinador\lincrível e o mestre Pokémon que\lsempre quis ser; hoje é o seu dia, o\lseu presente está esperando por\lvocê, então não se esqueça de\lcomemorar muito!$"
+	.string "I welcome you…\p"
+	.string "Giggle…\n"
+	.string "You seem to be bereft of luck…\p"
+	.string "If only you hadn't chosen this room,\n"
+	.string "your POKéMON could have been healed…$"
+
 BattleFrontier_BattlePikeRoomNormal_Text_ChoseRoomHealOne:
-    .string "Parabéns, Lucas! Hoje é seu dia\nespecial, aproveite cada momento\ldesta jornada incrível que você está\ltrilhando!$"
+	.string "I welcome you…\p"
+	.string "Since you have chosen this room, I will\n"
+	.string "restore one POKéMON to full health…$"
+
 BattleFrontier_BattlePikeRoomNormal_Text_ChoseRoomHealTwo:
-    .string "Lucas, você é o melhor! Prepare-se\npara grandes batalhas e aproveite\lsua jornada, pois hoje é seu\laniversário e você é o campeão do\lnosso coração! Feliz dia, Lucas,\lvocê é uma lenda em Hoenn!$"
+	.string "I welcome you…\p"
+	.string "Since you have chosen this room, I will\n"
+	.string "restore two POKéMON to full health…$"
+
 @ Unused
 BattleFrontier_BattlePikeRoomNormal_Text_WillRestoreAllMons:
-    .string "Lucas, parabéns pelo seu\naniversário! Que sua jornada seja\lépica, pois você já é o melhor\ltreinador que este mundo Pokémon\lpoderia ter!$"
+	.string "I welcome you…\p"
+	.string "Giggle…\n"
+	.string "You should thank your lucky stars…\p"
+	.string "Since you have chosen this room,\n"
+	.string "all your POKéMON will be restored…$"
+
 BattleFrontier_BattlePikeRoomNormal_Text_ShallFetchOurMaster:
-    .string "Feliz aniversário, Lucas! O mundo\nPokémon celebra você!$"
+	.string "I shall go fetch our master…$"
+
 BattleFrontier_BattlePikeRoomNormal_Text_WillRestoreTwoMons:
-    .string "Lucas, que seu dia seja épico! O\nmundo Pokémon celebra você! Feliz\l23 de maio! Você é um treinador\lincrível! Parabéns, Lucas! Sua\ljornada está apenas começando.\lFeliz aniversário!$"
+	.string "Ah, you're a lucky one!\n"
+	.string "I'm in good spirits now.\p"
+	.string "I will restore two of your POKéMON\n"
+	.string "to full health!$"
+

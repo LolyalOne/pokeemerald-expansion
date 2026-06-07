@@ -45,21 +45,21 @@ BattleFrontier_Mart_EventScript_Boy::
 	end
 
 BattleFrontier_Mart_Text_ChaperonGrandson:
-.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
-.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
-	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
+	.string "We came here to chaperon our\n"
+	.string "grandson.\p"
+	.string "But since we're here, we thought\n"
+	.string "we should get some souvenirs.$"
 
 BattleFrontier_Mart_Text_ProteinMakeNiceGift:
-.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou."
-.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
-.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
+	.string "Dear, what do you think of this?\n"
+	.string "Wouldn't this make a nice gift?\p"
+	.string "It's…PRO…TE…IN?\n"
+	.string "It sounds delicious, doesn't it?$"
 
 BattleFrontier_Mart_Text_FacilitiesDontAllowItems:
-.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou."
-.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
-.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
-.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
-	.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "A lot of the BATTLE FRONTIER's\n"
+	.string "facilities don't allow the use of items\l"
+	.string "during battles.\p"
+	.string "That rule makes things tougher than\n"
+	.string "they already are!$"
 

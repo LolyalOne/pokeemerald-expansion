@@ -272,61 +272,166 @@ BattleFrontier_BattlePike_EventScript_CloseCurtain::
 	return
 
 BattleFrontier_BattlePikeLobby_Text_WelcomeToBattlePike:
-    .string "Lucas, que este dia seja épico e\ncheio de vitórias! Parabéns pelo seu\laniversário, seu presente está te\lesperando! Aproveite, o campeão do\lnosso coração!$"
+	.string "Where the luck of TRAINERS\n"
+	.string "is put to the test…\p"
+	.string "Welcome to the BATTLE PIKE…\p"
+	.string "I am your guide to the BATTLE PIKE…$"
+
 BattleFrontier_BattlePikeLobby_Text_TakeChallenge:
-    .string "Parabéns, Lucas! Hoje é um dia\nespecial, e você continua sendo uma\llenda em Hoenn!$"
+	.string "Would you like to take the Battle\n"
+	.string "Choice challenge?$"
+
 BattleFrontier_BattlePikeLobby_Text_ExplainBattlePike:
-    .string "Um brinde ao Lucas! Não se esqueça\nde comemorar muito! Lucas, que este\ldia seja épico! Prepare-se para\lgrandes batalhas! Lucas, você é o\lmelhor! Você é o campeão do nosso\lcoração! Parabéns, Lucas! O seu\lpresente está esperando por você!\lLucas, você é o melhor! Prepare-se\lpara grandes batalhas! Lucas, você é\lo melhor! Capture todos os POKéMON\lhoje! Lucas, que este dia seja épico!\lO mundo POKéMON celebra você!\lLucas, você é o melhor! Você é o\lmestre POKéMON que sempre quis\lser! Um brinde ao Lucas! Prepare-se\lpara grandes batalhas! Um brinde ao\lLucas! Prepare-se para grandes\lbatalhas! Lucas, aproveite sua\ljornada! Não se esqueça de\lcomemorar muito! Feliz 23 de maio,\lLucas! Prepare-se para grandes\lbatalhas! Parabéns, Lucas! Não se\lesqueça de comemorar muito! Lucas,\laproveite sua jornada! O mundo\lPOKéMON celebra você! Um brinde ao\lLucas! Não se esqueça de comemorar\lmuito! Lucas, aproveite sua jornada!\lQue todos os seus desejos se\lrealizem! Feliz aniversário, Lucas!\lSua jornada apenas começou.$"
+	.string "Here we conduct an event we call\n"
+	.string "the Battle Choice.\p"
+	.string "The Battle Choice rules are very\n"
+	.string "simple…\p"
+	.string "Choose one of three paths and make\n"
+	.string "your way to the goal room at the end\l"
+	.string "of the BATTLE PIKE. It's that simple.\p"
+	.string "However, what happens on the chosen\n"
+	.string "path depends entirely on the luck\l"
+	.string "of the challenger…\p"
+	.string "If you reach the goal, you will be\n"
+	.string "rewarded with Battle Points.\p"
+	.string "If you want to interrupt your\n"
+	.string "challenge, please have a word with\l"
+	.string "our staff in the big rooms on the way.\p"
+	.string "If you don't save before interrupting,\n"
+	.string "you will be disqualified.$"
+
 BattleFrontier_BattlePikeLobby_Text_LookForwardToSeeingYou:
-    .string "Parabéns, Lucas! Você é o campeão\ndo nosso coração! Hoje é o seu dia\lespecial, Lucas, você é uma\lverdadeira lenda em Hoenn!$"
+	.string "We look forward to seeing you\n"
+	.string "on another occasion…$"
+
 BattleFrontier_BattlePikeLobby_Text_WhichChallengeMode:
-    .string "Feliz 23 de maio, Lucas! Que seu\naniversário seja uma jornada épica!\lCapture todos os POKéMON hoje e\laproveite cada momento! Você é o\lmestre POKéMON que sempre quis\lser!$"
+	.string "You have the choice of two courses,\n"
+	.string "Level 50 and Open Level.\l"
+	.string "Which will you challenge?$"
+
 BattleFrontier_BattlePikeLobby_Text_NotEnoughValidMonsLv50:
-    .string "Parabéns, Lucas! Feliz 23 de maio!\nVocê é um treinador incrível e uma\llenda em Hoenn. Aproveite seu dia e\lcontinue sua jornada épica!$"
+	.string "I beg your pardon, but…\p"
+	.string "You do not have three eligible\n"
+	.string "POKéMON for the Battle Choice event.\p"
+	.string "You must have three different POKéMON\n"
+	.string "of Level 50 or less to enter.\p"
+	.string "They also must be holding different\n"
+	.string "kinds of items.\p"
+	.string "EGGS{STR_VAR_1}.$"
+
 BattleFrontier_BattlePikeLobby_Text_NotEnoughValidMonsEnd:
-    .string "Feliz aniversário, Lucas! Que todos\nos seus desejos se realizem! Você é\luma lenda em Hoenn!$"
+	.string "Please come see me when\n"
+	.string "you are ready…$"
+
 BattleFrontier_BattlePikeLobby_Text_NotEnoughValidMonsLvOpen:
-    .string "Feliz aniversário, Lucas! Aproveite\nsua jornada e comemore muito, pois\lo mundo Pokémon celebra você hoje!\lSeu presente está te esperando!$"
+	.string "I beg your pardon, but…\p"
+	.string "You do not have three eligible\n"
+	.string "POKéMON for the Battle Choice event.\p"
+	.string "You must have three different\n"
+	.string "POKéMON to enter.\p"
+	.string "They also must be holding different\n"
+	.string "kinds of items.\p"
+	.string "EGGS{STR_VAR_1}.$"
+
 BattleFrontier_BattlePikeLobby_Text_PleaseChooseThreeMons:
-    .string "Feliz aniversário, Lucas! Que hoje\nseja um dia de grandes batalhas e\lmuita comemoração!$"
+	.string "Please choose the three POKéMON\n"
+	.string "you wish to enter in the challenge…$"
+
 BattleFrontier_BattlePikeLobby_Text_SaveBeforeChallenge:
-    .string "Feliz aniversário, Lucas! O mundo\nPOKéMON celebra você! Prepare-se\lpara grandes batalhas hoje e que\ltodos os seus desejos se realizem!$"
+	.string "Before starting your Battle Choice\n"
+	.string "challenge, I must save the game.\l"
+	.string "Is that acceptable?$"
+
 BattleFrontier_BattlePikeLobby_Text_StepThisWay:
-    .string "Hoje é o seu dia especial, Lucas! O\nmundo Pokémon inteiro celebra o seu\laniversário!$"
+	.string "Please step this way…$"
+
 BattleFrontier_BattlePikeLobby_Text_ChallengeEndedRecordResults:
-    .string "Feliz aniversário, Lucas! Você é um\ntreinador incrível e o melhor de\ltodos! Aproveite este 23 de maio\lpara capturar todos os Pokémon!$"
+	.string "Your challenge has ended…\p"
+	.string "I shall record your results.\n"
+	.string "Please wait…$"
+
 BattleFrontier_BattlePikeLobby_Text_PossessLuckInAbundance:
-    .string "Feliz aniversário, Lucas! Você é um\ntreinador incrível e merece o\lmelhor! Seu presente está esperando\lpor você!$"
+	.string "You have completed the challenge…\p"
+	.string "I must say… You seem to possess luck\n"
+	.string "in abundance…$"
+
 BattleFrontier_BattlePikeLobby_Text_ShallRecordResults:
-    .string "Feliz aniversário, Lucas! Capture\ntodos os Pokémon hoje! Parabéns,\lsua jornada está apenas começando!$"
+	.string "I shall record your results.\n"
+	.string "Please wait…$"
+
 @ Unused
 BattleFrontier_BattlePikeLobby_Text_AwardYouTheseBattlePoints2:
-    .string "Lucas, feliz aniversário! Que este\ndia seja épico e que todos os seus\ldesejos se realizem! Um brinde ao\lMestre Pokémon! Parabéns, Lucas!\lSua jornada apenas começou!$"
+	.string "To commemorate your completion of\n"
+	.string "the Battle Choice challenge, we award\l"
+	.string "you these Battle Point(s)…$"
+
 @ Unused
 BattleFrontier_BattlePikeLobby_Text_ReachedBattlePointLimit:
-    .string "Um brinde ao Lucas! Prepare-se para\ngrandes batalhas! Lucas, aproveite\lsua jornada! Sua aventura está\lapenas começando. Feliz aniversário,\lLucas! Você é um treinador incrível!\lHoje é o seu dia, Lucas! Você é uma\llenda em Hoenn!$"
+	.string "You appear to have reached the limit\n"
+	.string "for Battle Points…\p"
+	.string "Please exchange some Battle Points\n"
+	.string "for prizes, then return…$"
+
 BattleFrontier_BattlePikeLobby_Text_FailedToSaveBeforeQuitting:
-    .string "Hoje é o seu dia, Lucas! O mundo\nPokémon celebra você! Um brinde ao\lLucas! Que todos os seus desejos se\lrealizem! Lucas, que este dia seja\lépico! Prepare-se para grandes\lbatalhas! Lucas, aproveite sua\ljornada! O seu presente está\lesperando por você! Parabéns,\lLucas! Você é um treinador incrível!$"
+	.string "I beg your pardon, but…\p"
+	.string "You failed to save before you quit\n"
+	.string "your challenge the last time.\p"
+	.string "Because of that, your challenge so far\n"
+	.string "has been disqualified. I am sorry…$"
+
 BattleFrontier_BattlePikeLobby_Text_SnatchedVictoryFromQueen:
-    .string "Feliz 23 de maio, Lucas! Você é o\nmestre Pokémon que sempre quis\lser! Aproveite sua jornada! O seu\lpresente está esperando por você!\lParabéns, Lucas! Você é o campeão\ldos nossos corações!$"
+	.string "Congratulations…\p"
+	.string "You have snatched victory from the\n"
+	.string "PIKE QUEEN and cleared the event…$"
+
 BattleFrontier_BattlePikeLobby_Text_AwardYouTheseBattlePoints:
-    .string "Lucas, aproveite sua jornada e que\ntodos os seus desejos se realizem!\lHoje é o seu dia, Lucas! Feliz\laniversário, sua jornada apenas\lcomeçou!$"
+	.string "In recognition of your amazing luck,\n"
+	.string "we award you these Battle Point(s)…$"
+
 BattleFrontier_BattlePikeLobby_Text_OneRoomAwayFromGoal:
-    .string "Um brinde ao Lucas! Feliz\naniversário! Sua jornada apenas\lcomeçou, que este dia seja épico e\lque você capture muitos Pokémon\lhoje!$"
+	.string "Arrgh! I blew my chance!\n"
+	.string "I was one room away from the goal!\p"
+	.string "In this place, you'd better watch out\n"
+	.string "for poison, freezing, and so on.$"
+
 BattleFrontier_BattlePikeLobby_Text_NeverHadToBattleTrainer:
-    .string "Hoje é o seu dia, Lucas! O seu\npresente está esperando por você!\lFeliz aniversário, Lucas! Você é o\lmestre POKéMON que sempre quis\lser! Parabéns, Lucas! Não se\lesqueça de comemorar muito!$"
+	.string "I've completed the challenge 10 times\n"
+	.string "now, but I've never had to battle\l"
+	.string "a TRAINER once.$"
+
 BattleFrontier_BattlePikeLobby_Text_ThinkAbilitiesUsefulHere:
-    .string "Lucas, aproveite sua jornada e\naceite este presente especial de\laniversário; capture muitos Pokémon\le celebre muito, pois você é o\lcampeão do nosso coração!$"
+	.string "Listen! Listen!\p"
+	.string "Don't you think that the special\n"
+	.string "abilities of POKéMON will be useful\l"
+	.string "here?$"
+
 @ Unused
 BattleFrontier_BattlePikeLobby_Text_TrainersWhicheverPathIChoose:
-    .string "Lucas, aproveite sua jornada! Que\ntodos os seus desejos se realizem\lneste dia tão especial! Parabéns,\lnosso campeão! Um brinde ao Lucas,\lum treinador incrível!$"
+	.string "What is this weird place?\n"
+	.string "I can't figure it out at all!\p"
+	.string "I've taken the challenge a bunch\n"
+	.string "of times, but all I ever do is run into\l"
+	.string "TRAINERS whichever path I choose.$"
+
 BattleFrontier_BattlePikeLobby_Text_RulesAreListed:
-    .string "Lucas, que este dia seja épico! O\nmundo POKéMON celebra o seu\laniversário hoje!$"
+	.string "The Battle Choice's rules are listed.$"
+
 BattleFrontier_BattlePikeLobby_Text_ReadWhichHeading:
-    .string "Feliz aniversário, Lucas! Que este\ndia seja épico! Você é o mestre\lPokémon que sempre quis ser!$"
+	.string "Which heading do you want to read?$"
+
 BattleFrontier_BattlePikeLobby_Text_ExplainPokenavBagRules:
-    .string "Lucas, você é o melhor! Capture\ntodos os Pokémon hoje! Feliz\laniversário, Lucas! Que sua jornada\lseja incrível.$"
+	.string "The BAG and POKéNAV may not be used\n"
+	.string "during a Battle Choice challenge.$"
+
 BattleFrontier_BattlePikeLobby_Text_ExplainHeldItemRules:
-    .string "Parabéns, Lucas! Hoje é seu dia\nespecial, sua jornada apenas\lcomeçou; você é o melhor, aproveite\lcada segundo e um brinde à nossa\llenda de Hoenn!$"
+	.string "During a Battle Choice challenge,\n"
+	.string "any BERRY or HERB held by POKéMON\l"
+	.string "will be effective only once.$"
+
 BattleFrontier_BattlePikeLobby_Text_ExplainMonOrderRules:
-    .string "Feliz aniversário, Lucas! Como hoje\né o seu dia especial, tenho um\lpresente incrível para o maior\lcampeão de Hoenn!$"
+	.string "During a Battle Choice challenge,\n"
+	.string "the sequence of POKéMON cannot be\l"
+	.string "changed.\p"
+	.string "The sequence must be set before\n"
+	.string "starting your challenge.$"
+

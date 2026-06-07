@@ -6,75 +6,75 @@ Route6_EventScript_UndergroundPathSign::
 	end
 
 Route6_Text_RickyIntro::
-.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
-.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou.$"
+	.string "Who's there?\n"
+	.string "Quit listening in on us!$"
 
 Route6_Text_RickyDefeat::
-.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!$"
+	.string "I just can't win!$"
 
 Route6_Text_RickyPostBattle::
-.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
-	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
+	.string "Whisper…\n"
+	.string "Whisper…$"
 
 Route6_Text_NancyIntro::
-.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
-.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!$"
+	.string "Excuse me!\n"
+	.string "This is a private conversation!$"
 
 Route6_Text_NancyDefeat::
-.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
-	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "Ugh!\n"
+	.string "I hate losing.$"
 
 Route6_Text_NancyPostBattle::
-.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
-.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!$"
+	.string "Whisper…\n"
+	.string "Whisper…$"
 
 Route6_Text_KeigoIntro::
-.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!$"
+	.string "There aren't many bugs out here.$"
 
 Route6_Text_KeigoDefeat::
-.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
-	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "No!\n"
+	.string "You're kidding!$"
 
 Route6_Text_KeigoPostBattle::
-.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
-	.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "I like bugs, so I'm going back to\n"
+	.string "VIRIDIAN FOREST.$"
 
 Route6_Text_JeffIntro::
-.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!$"
+	.string "Huh?\n"
+	.string "You want to talk to me?$"
 
 Route6_Text_JeffDefeat::
-.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
-	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
+	.string "This stinks…\n"
+	.string "I couldn't beat your challenge…$"
 
 Route6_Text_JeffPostBattle::
-.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
-	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "I should bring more POKéMON with\n"
+	.string "me. I'll feel safer that way.$"
 
 Route6_Text_IsabelleIntro::
-.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
-	.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
+	.string "Me?\n"
+	.string "Well, okay. I'll play!$"
 
 Route6_Text_IsabelleDefeat::
-.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!$"
+	.string "Things just didn't work…$"
 
 Route6_Text_IsabellePostBattle::
-.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
-.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!$"
+	.string "I want to get stronger.\n"
+	.string "What's your secret?$"
 
 Route6_Text_ElijahIntro::
-.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "I've never seen you around.\n"
+	.string "Are you good?$"
 
 Route6_Text_ElijahDefeat::
-.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!$"
+	.string "You're too good!$"
 
 Route6_Text_ElijahPostBattle::
-.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
-.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
-	.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
+	.string "Are my POKéMON weak?\n"
+	.string "Or, am I just bad?\l"
+	.string "Which do you think?$"
 
 Route6_Text_UndergroundPathSign::
-.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
-	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
+	.string "UNDERGROUND PATH\n"
+	.string "CERULEAN CITY - VERMILION CITY$"
 

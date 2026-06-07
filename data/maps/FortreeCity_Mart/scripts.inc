@@ -38,18 +38,18 @@ FortreeCity_Mart_EventScript_Boy::
 	end
 
 FortreeCity_Mart_Text_SuperRepelBetter:
-.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
-.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
-.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
-	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "SUPER REPEL lasts a long time,\n"
+	.string "and it gets the job done.\p"
+	.string "It's much better than an ordinary\n"
+	.string "REPEL.$"
 
 FortreeCity_Mart_Text_StockUpOnItems:
-.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
-.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
-.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!"
-	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
+	.string "I always stock up on more items than\n"
+	.string "I'm sure I'll need.\p"
+	.string "You never know what might happen.\n"
+	.string "Better to be safe than sorry!$"
 
 FortreeCity_Mart_Text_RareCandyMakesMonGrow:
-.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
-	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
+	.string "A RARE CANDY makes a POKéMON grow\n"
+	.string "immediately by one level.$"
 

@@ -32,12 +32,12 @@ FuchsiaCity_Mart_Items::
 	end
 
 FuchsiaCity_Mart_Text_DontTheyHaveSafariZonePennants::
-.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
-.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
-.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
+	.string "Don't they have any pennants\n"
+	.string "promoting the SAFARI ZONE?\p"
+	.string "How about some paper lanterns?\n"
+	.string "Aren't there even any calendars?$"
 
 FuchsiaCity_Mart_Text_DidYouTryXSpeed::
-.string "Parabens, Lucas! Sua jornada\napenas comecou."
-	.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "Did you try X SPEED?\n"
+	.string "It speeds up a POKéMON in battle.$"
 

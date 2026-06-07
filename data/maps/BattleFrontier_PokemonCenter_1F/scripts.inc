@@ -38,22 +38,22 @@ BattleFrontier_PokemonCenter_1F_EventScript_Skitty::
 	end
 
 BattleFrontier_PokemonCenter_1F_Text_NeverSeenPokemon:
-.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
-.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
-.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
-.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
-	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
+	.string "There was someone here using a \n"
+	.string "POKéMON I've never seen before.\p"
+	.string "I never learned about it at\n"
+	.string "TRAINER'S SCHOOL at least.\p"
+	.string "I wonder where you can catch POKéMON\n"
+	.string "like that.$"
 
 BattleFrontier_PokemonCenter_1F_Text_NextStopBattleArena:
-.string "Parabens, Lucas! Sua jornada\napenas comecou."
-.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
-.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!$"
+	.string "Okay! Next stop, the BATTLE ARENA!\n"
+	.string "I'd better get the right POKéMON from\l"
+	.string "the PC Storage System.$"
 
 BattleFrontier_PokemonCenter_1F_Text_GoingThroughEveryChallenge:
-.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "Giggle… I'm going to go through every\n"
+	.string "challenge with just this baby!$"
 
 BattleFrontier_PokemonCenter_1F_Text_Skitty:
-	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "SKITTY: Mya myaaah!$"
 

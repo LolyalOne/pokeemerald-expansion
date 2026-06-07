@@ -6,8 +6,8 @@ SSAnne_3F_Corridor_EventScript_Sailor::
 	end
 
 SSAnne_3F_Corridor_Text_CaptainTeachesCutToMons::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pOur CAPTAIN is a sword master.\n"
-.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
-.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "Our CAPTAIN is a sword master.\n"
+	.string "He's awesome at using CUT.\p"
+	.string "They say he even teaches CUT\n"
+	.string "to POKéMON!$"
 

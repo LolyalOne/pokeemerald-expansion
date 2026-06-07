@@ -73,59 +73,59 @@ CeruleanCity_BikeShop_EventScript_Bicycle::
 	end
 
 CeruleanCity_BikeShop_Text_WelcomeToBikeShop::
-.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!"
-.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
-.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!$"
+	.string "Hi!\n"
+	.string "Welcome to our BIKE SHOP.\p"
+	.string "Have we got just the BIKE for\n"
+	.string "you!$"
 
 CeruleanCity_BikeShop_Text_SorryYouCantAffordIt::
-.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
-.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
+	.string "Sorry!\n"
+	.string "You can't afford it!$"
 
 CeruleanCity_BikeShop_Text_OhBikeVoucherHereYouGo::
-.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
-.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!$"
+	.string "Oh, that's…\p"
+	.string "A BIKE VOUCHER!\p"
+	.string "Okay!\n"
+	.string "Here you go!$"
 
 CeruleanCity_BikeShop_Text_ExchangedVoucherForBicycle::
 	.string "{PLAYER} exchanged the\n"
-.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!$"
+	.string "BIKE VOUCHER for a BICYCLE.$"
 
 CeruleanCity_BikeShop_Text_ThankYouComeAgain::
-.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!$"
+	.string "Thank you!\n"
+	.string "Come back again sometime!$"
 
 CeruleanCity_BikeShop_Text_HowDoYouLikeNewBicycle::
-.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
-.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
+	.string "How do you like your new BICYCLE?\n"
+	.string "Do you like how it rides?\p"
+	.string "You can take it out on CYCLING\n"
+	.string "ROAD and even into caves!$"
 
 CeruleanCity_BikeShop_Text_MakeRoomForBicycle::
-.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!"
-.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "You better make room for your\n"
+	.string "BICYCLE!$"
 
 CeruleanCity_BikeShop_Text_CityBikeGoodEnoughForMe::
-.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
-.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!$"
+	.string "A plain city bike is good enough\n"
+	.string "for me.\p"
+	.string "After all, you can't put a shopping\n"
+	.string "basket on a mountain bike.$"
 
 CeruleanCity_BikeShop_Text_BikesCoolButExpensive::
-.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
-	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
+	.string "These bikes are cool, but they're\n"
+	.string "way expensive!$"
 
 CeruleanCity_BikeShop_Text_WowYourBikeIsCool::
-.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
+	.string "Wow.\n"
+	.string "Your BIKE is really cool!$"
 
 @ Unused
 CeruleanCity_BikeShop_Text_GermanFoldableBicyleFinallyOnMarket::
-.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
-	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
+	.string "ついに　はつばい！\p"
+	.string "ドイツ　せい　さいこうきゅう\n"
+	.string "おりたたみ　じてんしゃ！$"
 
 CeruleanCity_BikeShop_Text_ShinyNewBicycle::
-.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!$"
+	.string "A shiny new BICYCLE!$"
 

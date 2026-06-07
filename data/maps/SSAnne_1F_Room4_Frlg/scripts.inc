@@ -16,10 +16,10 @@ SSAnne_1F_Room4_EventScript_WomanPlayerMale::
 	end
 
 SSAnne_1F_Room4_Text_WaiterCherryPiePlease::
-	.string "Um brinde ao Lucas! Nao se esqueca de comemorar muito!"
-	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "Waiter, I would like a cherry pie,\n"
+	.string "please!$"
 
 SSAnne_1F_Room4_Text_WaitressCherryPiePlease::
-	.string "Um brinde ao Lucas! Que todos os seus desejos se realizem!"
-	.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
+	.string "Waitress, I would like a cherry\n"
+	.string "pie, please!$"
 

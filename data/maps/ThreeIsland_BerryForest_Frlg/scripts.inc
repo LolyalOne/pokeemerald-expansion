@@ -60,45 +60,45 @@ ThreeIsland_BerryForest_EventScript_BewareSign::
 	end
 
 ThreeIsland_BerryForest_Text_HelpScaryPokemon::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pLOSTELLE: Whimper... Sniff...\n"
-.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
-.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
-.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
-.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
-.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "LOSTELLE: Whimper… Sniff…\n"
+	.string "Oh! Please, help!\p"
+	.string "A scary POKéMON appeared there\n"
+	.string "a little while ago.\p"
+	.string "It kept scaring.\n"
+	.string "It made LOSTELLE scared.\p"
+	.string "I'm too scared to move!\n"
+	.string "But I want to go home…$"
 
 ThreeIsland_BerryForest_Text_HereItComesAgain::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pOh! Here it comes again!\n"
-.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
-.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
-.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "Oh! Here it comes again!\n"
+	.string "No! Go away! It's scaring me!\p"
+	.string "Waaaaaaah!\n"
+	.string "I want my daddy!$"
 
 ThreeIsland_BerryForest_Text_ThankYouHaveThis::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pOhh! That was so scary!\n"
-.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
-.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
-	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "Ohh! That was so scary!\n"
+	.string "Thank you!\p"
+	.string "LOSTELLE came to pick some\n"
+	.string "BERRIES.\p"
+	.string "You can have this!$"
 
 ThreeIsland_BerryForest_Text_LetsGoHome::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWhat's your name?\p"
-.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
-.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
-	.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "What's your name?\p"
+	.string "LOSTELLE's scared, so can I go\n"
+	.string "with you to my daddy's house?\p"
+	.string "Okay!\n"
+	.string "Let's go home!$"
 
 ThreeIsland_BerryForest_Text_BerryPouchIsFull::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYour BERRY POUCH is full.\n"
-	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
+	.string "Your BERRY POUCH is full.\n"
+	.string "I guess you don't want this.$"
 
 ThreeIsland_BerryForest_Text_WelcomeToBerryForest::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWelcome to the BERRY FOREST\p"
-.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
-	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
+	.string "Welcome to the BERRY FOREST\p"
+	.string "Be friendly and share BERRIES with\n"
+	.string "others and POKéMON.$"
 
 ThreeIsland_BerryForest_Text_BewareWildBerryLovingMons::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pBeware of wild, BERRY-loving\n"
-.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!$"
+	.string "Beware of wild, BERRY-loving\n"
+	.string "POKéMON!$"
 

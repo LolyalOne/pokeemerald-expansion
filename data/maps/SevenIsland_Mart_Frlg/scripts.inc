@@ -39,19 +39,19 @@ SevenIsland_Mart_EventScript_Fisher::
 	end
 
 SevenIsland_Mart_Text_MonHavePersonalitiesOfTheirOwn::
-.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
-.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
-	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "POKéMON have personalities of their\n"
+	.string "own, just like people.\p"
+	.string "My PIKACHU has a HASTY nature,\n"
+	.string "so it grew to be a speedy POKéMON.$"
 
 SevenIsland_Mart_Text_PreparationsCompleteForRuins::
-.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
-	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "Okay, preparations are complete\n"
+	.string "for me to explore the RUINS.$"
 
 SevenIsland_Mart_Text_NeedToFishOnSevenIsland::
-.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
-.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!$"
+	.string "I need to fish on SEVEN ISLAND.\p"
+	.string "That will complete my fishing tour\n"
+	.string "of the SEVII ISLANDS.\p"
+	.string "I'd better stock up on some\n"
+	.string "POKé BALLS first, though.$"
 

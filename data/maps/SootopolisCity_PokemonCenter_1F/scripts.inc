@@ -44,27 +44,27 @@ SootopolisCity_PokemonCenter_1F_EventScript_WomanNoLegendaries::
 	end
 
 SootopolisCity_PokemonCenter_1F_Text_WallaceToughestInHoenn:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWALLACE is rumored to be the toughest\n"
-.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!"
-.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
-.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
-.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
-	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "WALLACE is rumored to be the toughest\n"
+	.string "TRAINER in the whole HOENN region.\p"
+	.string "This town's GYM is led by the TRAINER\n"
+	.string "who taught WALLACE.\p"
+	.string "But the ELITE FOUR… They're said to be\n"
+	.string "even stronger than WALLACE's mentor.\p"
+	.string "How strong could they be?$"
 
 SootopolisCity_PokemonCenter_1F_Text_EveryoneTakenRefuge:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pEveryone in town has taken refuge\n"
-.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
-.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
-	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
+	.string "Everyone in town has taken refuge\n"
+	.string "and won't come out of their homes.\p"
+	.string "Even I would rather not venture\n"
+	.string "outside.$"
 
 SootopolisCity_PokemonCenter_1F_Text_AlwaysBeFriendsWithPokemon:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWhenever, wherever, and whatever\n"
-.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
-.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
-	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
+	.string "Whenever, wherever, and whatever\n"
+	.string "happens, I will always be friends with\l"
+	.string "POKéMON.\p"
+	.string "Because it's fun to be with POKéMON!$"
 
 SootopolisCity_PokemonCenter_1F_Text_ArentPokemonOurFriends:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pAren't POKeMON our friends?\p"
-.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!$"
+	.string "Aren't POKéMON our friends?\p"
+	.string "Why are they going wild this way?$"
 

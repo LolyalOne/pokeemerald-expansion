@@ -465,150 +465,150 @@ CeladonCity_GameCorner_EventScript_UnusableSlotMachine3::
 	end
 
 CeladonCity_GameCorner_Text_CanExchangeCoinsNextDoor::
-.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
-	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "Welcome!\p"
+	.string "You can exchange your COINS for\n"
+	.string "fabulous prizes next door.$"
 
 CeladonCity_GameCorner_Text_WelcomeBuySomeCoins::
-.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
-.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "Welcome to ROCKET GAME CORNER!\p"
+	.string "Do you need some game COINS?\n"
+	.string "Would you like to buy some?$"
 
 CeladonCity_GameCorner_Text_ComePlaySometime::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pNo?\n"
-.string "Lucas, voce e o melhor! Sua\njornada apenas comecou.$"
+	.string "No?\n"
+	.string "Please come play sometime!$"
 
 CeladonCity_GameCorner_Text_SorryDontHaveCoinCase::
-.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
-	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
+	.string "Oh, I'm sorry.\n"
+	.string "You don't have a COIN CASE.$"
 
 CeladonCity_GameCorner_Text_CoinCaseIsFull::
-.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
-.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!$"
+	.string "Whoops!\n"
+	.string "Your COIN CASE is full.$"
 
 CeladonCity_GameCorner_Text_CantAffordCoins::
-.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!$"
+	.string "You can't afford the COINS.$"
 
 CeladonCity_GameCorner_Text_HereAreYourCoins::
-.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
-.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!$"
+	.string "Thank you.\n"
+	.string "Here are your COINS!$"
 
 CeladonCity_GameCorner_Text_RumoredTeamRocketRunsThisPlace::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pKeep this quiet.\p"
-.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!$"
+	.string "Keep this quiet.\p"
+	.string "It's rumored that this place is run\n"
+	.string "by TEAM ROCKET.$"
 
 CeladonCity_GameCorner_Text_ThinkMachinesHaveDifferentOdds::
-.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
-	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "I think these machines have\n"
+	.string "different odds.$"
 
 CeladonCity_GameCorner_Text_DoYouWantToPlay::
-.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!$"
+	.string "Kid, do you want to play?$"
 
 CeladonCity_GameCorner_Text_Received10CoinsFromMan::
 	.string "{PLAYER} received 10 COINS\n"
-.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!$"
+	.string "from the man.$"
 
 CeladonCity_GameCorner_Text_DontNeedMyCoins::
-	.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "You don't need my COINS!$"
 
 CeladonCity_GameCorner_Text_WinsComeAndGo::
-.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
-.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!$"
+	.string "Wins seem to come and go.\n"
+	.string "Nothing's a sure thing.$"
 
 CeladonCity_GameCorner_Text_WinOrLoseItsOnlyLuck::
-.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
-.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "These slot games…\n"
+	.string "Win or lose, it's only by luck.$"
 
 CeladonCity_GameCorner_Text_GymGuyAdvice::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pHey!\p"
-.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
-.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
-.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
-.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
-.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
-.string "Parabens, Lucas! Sua jornada\napenas comecou."
-.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
-.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!$"
+	.string "Hey!\p"
+	.string "You have better things to do,\n"
+	.string "champ in the making!\p"
+	.string "CELADON GYM's LEADER is ERIKA.\p"
+	.string "She is a user of GRASS-type\n"
+	.string "POKéMON, and at one with nature.\p"
+	.string "She might appear docile because of\n"
+	.string "her flower arranging…\p"
+	.string "But she's not one to be taken\n"
+	.string "lightly!$"
 
 CeladonCity_GameCorner_Text_RareMonsForCoins::
-.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
-.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
-.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "They offer rare POKéMON that can\n"
+	.string "be exchanged for your COINS.\p"
+	.string "But, I just can't seem to win!$"
 
 CeladonCity_GameCorner_Text_SoEasyToGetHooked::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pGames are scary!\n"
-.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "Games are scary!\n"
+	.string "It's so easy to get hooked!$"
 
 CeladonCity_GameCorner_Text_WantSomeCoins::
-.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
-	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "What's up?\n"
+	.string "Want some COINS?$"
 
 CeladonCity_GameCorner_Text_Received20CoinsFromNiceGuy::
 	.string "{PLAYER} received 20 COINS\n"
-	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
+	.string "from the nice guy.$"
 
 CeladonCity_GameCorner_Text_YouHaveLotsOfCoins::
-.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "You have lots of COINS!$"
 
 CeladonCity_GameCorner_Text_NeedMoreCoinsForMonIWant::
-.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!$"
+	.string "Darn! I need more COINS for the\n"
+	.string "POKéMON I want!$"
 
 CeladonCity_GameCorner_Text_HereAreSomeCoinsShoo::
-.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
-	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
+	.string "Hey, what? You're throwing me off!\n"
+	.string "Here are some COINS, so shoo!$"
 
 CeladonCity_GameCorner_Text_Received20CoinsFromMan::
 	.string "{PLAYER} received 20 COINS\n"
-.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!$"
+	.string "from the man.$"
 
 CeladonCity_GameCorner_Text_YouveGotPlentyCoins::
-.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
-	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
+	.string "You've got plenty of your own\n"
+	.string "COINS!$"
 
 CeladonCity_GameCorner_Text_WatchReelsClosely::
-.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
-.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
+	.string "The trick is to watch the reels\n"
+	.string "closely.$"
 
 CeladonCity_GameCorner_Text_GruntIntro::
-.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
-	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
+	.string "I'm guarding this poster!\n"
+	.string "Go away, or else!$"
 
 CeladonCity_GameCorner_Text_GruntDefeat::
-	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
+	.string "Dang!$"
 
 CeladonCity_GameCorner_Text_GruntPostBattle::
-.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
-.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
-.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!$"
+	.string "The TEAM ROCKET HIDEOUT might\n"
+	.string "be discovered!\p"
+	.string "I better tell BOSS!$"
 
 CeladonCity_GameCorner_Text_SwitchBehindPosterPushIt::
-.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
-.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
-	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "Hey!\p"
+	.string "A switch behind the poster!?\n"
+	.string "Let's push it!$"
 
 CeladonCity_GameCorner_Text_CoinCaseIsRequired::
-	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
+	.string "A COIN CASE is required…$"
 
 CeladonCity_GameCorner_Text_DontHaveCoinCase::
-.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
+	.string "Oops!\n"
+	.string "Don't have the COIN CASE!$"
 
 CeladonCity_GameCorner_Text_SlotMachineWantToPlay::
-.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
-	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "A slot machine!\n"
+	.string "Want to play?$"
 
 CeladonCity_GameCorner_Text_OutOfOrder::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOUT OF ORDER\n"
-.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "OUT OF ORDER\n"
+	.string "This is broken.$"
 
 CeladonCity_GameCorner_Text_OutToLunch::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pOUT TO LUNCH\n"
-	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
+	.string "OUT TO LUNCH\n"
+	.string "This is reserved.$"
 
 CeladonCity_GameCorner_Text_SomeonesKeys::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pSomeone's keys!\n"
-	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
+	.string "Someone's keys!\n"
+	.string "They'll be back.$"
 

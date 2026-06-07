@@ -40,39 +40,39 @@ CeladonCity_Restaurant_EventScript_FatMan::
 	end
 
 CeladonCity_Restaurant_Text_TakingBreakRightNow::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pHi!\p"
-.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
-	.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
+	.string "Hi!\p"
+	.string "Sorry, but we're taking a break\n"
+	.string "right now.$"
 
 CeladonCity_Restaurant_Text_OftenGoToDrugstore::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pMy POKeMON are weak, so I often\n"
-	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "My POKéMON are weak, so I often\n"
+	.string "have to go to the DRUGSTORE.$"
 
 CeladonCity_Restaurant_Text_PsstBasementUnderGameCorner::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pPsst! There's a basement under the\n"
-.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "Psst! There's a basement under the\n"
+	.string "GAME CORNER, I hear.$"
 
 CeladonCity_Restaurant_Text_ManLostItAllAtSlots::
-.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
-.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
-	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "Munch…\p"
+	.string "The man at that table lost it all\n"
+	.string "at the slots.$"
 
 CeladonCity_Restaurant_Text_TakeThisImBusted::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pGo ahead! Laugh!\n"
-.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
-.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
-.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
-	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "Go ahead! Laugh!\n"
+	.string "I'm flat-out busted!\p"
+	.string "No more slots for me!\n"
+	.string "I'm going straight!\p"
+	.string "Here!\n"
+	.string "I won't be needing this anymore!$"
 
 CeladonCity_Restaurant_Text_ReceivedCoinCaseFromMan::
 	.string "{PLAYER} received a COIN CASE\n"
-	.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
+	.string "from the man.$"
 
 CeladonCity_Restaurant_Text_MakeRoomForThis::
-	.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "Make room for this!$"
 
 CeladonCity_Restaurant_Text_ThoughtIdWinItBack::
-.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
-	.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "I always thought I was going to\n"
+	.string "win it back…$"
 

@@ -51,43 +51,43 @@ Route15_WestEntrance_2F_EventScript_GetAideRequestInfo::
 	return
 
 Route15_WestEntrance_2F_Text_GiveItemIfCaughtEnough::
-.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
-.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
+	.string "Hi! Remember me?\n"
+	.string "I'm one of PROF. OAK's AIDES.\p"
+	.string "If your POKéDEX has complete data\n"
 	.string "on {STR_VAR_1} species, I'm supposed to\l"
-.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
-.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
+	.string "give you a reward.\p"
+	.string "PROF. OAK entrusted me with the\n"
 	.string "{STR_VAR_2} for you.\p"
 	.string "So, {PLAYER}, let me ask you.\p"
-.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
-.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!$"
+	.string "Have you gathered data on at least\n"
+	.string "{STR_VAR_1} kinds of POKéMON?$"
 
 Route15_WestEntrance_2F_Text_GreatHereYouGo::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pGreat! You have caught or owned\n"
-	.string "{STR_VAR_3} kinds of POKeMON!\p"
-.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou."
-.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!$"
+	.string "Great! You have caught or owned\n"
+	.string "{STR_VAR_3} kinds of POKéMON!\p"
+	.string "Congratulations!\n"
+	.string "Here you go!$"
 
 Route15_WestEntrance_2F_Text_ReceivedItemFromAide::
 	.string "{PLAYER} received the {STR_VAR_2}\n"
-	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "from the AIDE.$"
 
 Route15_WestEntrance_2F_Text_ExplainExpShare::
-.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
-.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
-.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
-.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "EXP. SHARE is an item to be held\n"
+	.string "by a POKéMON.\p"
+	.string "The POKéMON will receive a share\n"
+	.string "of the EXP. Points without having\l"
+	.string "to battle.$"
 
 Route15_WestEntrance_2F_Text_LargeShiningBird::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pLet's see what the binoculars have\n"
-.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
-.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "Let's see what the binoculars have\n"
+	.string "to show…\p"
+	.string "A large, shining bird is flying\n"
+	.string "toward the sea.$"
 
 Route15_WestEntrance_2F_Text_SmallIslandOnHorizon::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pLet's see what the binoculars have\n"
-.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
-.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
-	.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
+	.string "Let's see what the binoculars have\n"
+	.string "to show…\p"
+	.string "It looks like a small island on\n"
+	.string "the horizon!$"
 

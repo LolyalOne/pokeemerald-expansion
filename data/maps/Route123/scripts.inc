@@ -171,28 +171,28 @@ Route123_EventScript_RematchFernando::
 	end
 
 Route123_Text_LoveGrassMonsHaveAny:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pI love GRASS-type POKeMON!\p"
-.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!$"
+	.string "I love GRASS-type POKéMON!\p"
+	.string "Do you have any GRASS-type POKéMON?$"
 
 Route123_Text_YouLikeGrassMonsTooHaveThis:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh?\p"
-.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
-.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
-.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
-	.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "Oh?\p"
+	.string "You like GRASS-type POKéMON, too,\n"
+	.string "don't you?\p"
+	.string "I'm so happy, you can have this!\n"
+	.string "It's a token of our friendship.$"
 
 Route123_Text_CheckTreesWithMyGrassMon:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pI check trees with my GRASS-type\n"
-	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
+	.string "I check trees with my GRASS-type\n"
+	.string "POKéMON. I'm like a tree doctor.$"
 
 Route123_Text_RouteSign:
 	.string "{RIGHT_ARROW} ROUTE 123\n"
-	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
+	.string "{LEFT_ARROW} ROUTE 118$"
 
 Route123_Text_RouteSignMtPyre:
 	.string "{UP_ARROW} MT. PYRE\n"
-	.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "“Forbidden to the faint of heart.”$"
 
 Route123_Text_BerryMastersHouse:
-.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "BERRY MASTER'S HOUSE$"
 

@@ -7,87 +7,87 @@ SixIsland_OutcastIsland_EventScript_Rocket::
 	end
 
 SixIsland_OutcastIsland_Text_RocketIntro::
-.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!"
-.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!$"
+	.string "There're no rare POKéMON around\n"
+	.string "these parts! Not a one!\p"
+	.string "That burns me up, man.\n"
+	.string "I'll take it out on you!$"
 
 SixIsland_OutcastIsland_Text_RocketDefeat::
-	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "…Huh?$"
 
 SixIsland_OutcastIsland_Text_RocketPostBattle::
-.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
-	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
+	.string "So listen, you haven't seen any\n"
+	.string "rare POKéMON, have you?$"
 
 SixIsland_OutcastIsland_Text_TylorIntro::
-.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
-	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "I'm having no luck at all.\n"
+	.string "A battle'd be a change of pace!$"
 
 SixIsland_OutcastIsland_Text_TylorDefeat::
-	.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "Nope, no luck at all…$"
 
 SixIsland_OutcastIsland_Text_TylorPostBattle::
-.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
-.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
+	.string "I can't very well go home without\n"
+	.string "catching something, though.$"
 
 SixIsland_OutcastIsland_Text_MymoIntro::
-.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
-.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
-	.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
+	.string "Gasp… Gasp…\p"
+	.string "I swam here from SIX ISLE PORT\n"
+	.string "in one go.$"
 
 SixIsland_OutcastIsland_Text_MymoDefeat::
-.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
-.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
+	.string "Gasp…\n"
+	.string "Gasp…$"
 
 SixIsland_OutcastIsland_Text_MymoPostBattle::
-.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
-.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!$"
+	.string "I'm only at the halfway point…\n"
+	.string "I'm beat…$"
 
 SixIsland_OutcastIsland_Text_NicoleIntro::
-.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
-.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!$"
+	.string "It's not so easy sending POKéMON\n"
+	.string "out while swimming, you know?$"
 
 SixIsland_OutcastIsland_Text_NicoleDefeat::
-.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
-	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "I didn't lose to you at swimming.\n"
+	.string "This doesn't bother me.$"
 
 SixIsland_OutcastIsland_Text_NicolePostBattle::
-.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
-.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
+	.string "Are you headed for the island up\n"
+	.string "past here?\p"
+	.string "I didn't see anything interesting\n"
+	.string "there.$"
 
 SixIsland_OutcastIsland_Text_AvaIntro::
-.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
-.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!$"
+	.string "AVA: Let's have a two-on-two\n"
+	.string "marine battle!$"
 
 SixIsland_OutcastIsland_Text_AvaDefeat::
-.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
-.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!$"
+	.string "AVA: Oh, you're amazing!\n"
+	.string "Even better, you're on your own!$"
 
 SixIsland_OutcastIsland_Text_AvaPostBattle::
-.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
-.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
+	.string "AVA: You know, I do prefer the\n"
+	.string "sea over any pool.$"
 
 SixIsland_OutcastIsland_Text_AvaNotEnoughMons::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pAVA: You're challenging us to\n"
-.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
-.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
-.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "AVA: You're challenging us to\n"
+	.string "a battle?\p"
+	.string "You'll need at least two POKéMON\n"
+	.string "if you want to do that.$"
 
 SixIsland_OutcastIsland_Text_GebIntro::
-.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
-	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "GEB: Big Sister, help!\n"
+	.string "Please battle with me!$"
 
 SixIsland_OutcastIsland_Text_GebDefeat::
-.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
-.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!$"
+	.string "GEB: Wow, Big Sister, this person's\n"
+	.string "really good!$"
 
 SixIsland_OutcastIsland_Text_GebPostBattle::
-.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
-	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "GEB: I'm hanging onto my sister\n"
+	.string "because I can't touch the bottom.$"
 
 SixIsland_OutcastIsland_Text_GebNotEnoughMons::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pGEB: Please battle against me and\n"
-.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!"
-.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "GEB: Please battle against me and\n"
+	.string "my sister!\p"
+	.string "…Oh, you don't have two POKéMON?$"

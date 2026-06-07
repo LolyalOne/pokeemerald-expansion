@@ -32,26 +32,26 @@ PokemonMansion_1F_EventScript_Johnson::
 	end
 
 PokemonMansion_1F_Text_TedIntro::
-.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
-.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!$"
+	.string "Who are you?\n"
+	.string "There shouldn't be anyone here.$"
 
 PokemonMansion_1F_Text_TedDefeat::
-	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
+	.string "Ouch!$"
 
 PokemonMansion_1F_Text_TedPostBattle::
-.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
-	.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "A key? I don't know what you're\n"
+	.string "talking about.$"
 
 PokemonMansion_1F_Text_JohnsonIntro::
-.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "W-w-waah! You startled me!\n"
+	.string "I thought you were a ghost.$"
 
 PokemonMansion_1F_Text_JohnsonDefeat::
-.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!$"
+	.string "Tch!\n"
+	.string "I can't get any wins.$"
 
 PokemonMansion_1F_Text_JohnsonPostBattle::
-.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
-.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
+	.string "I was exploring here by myself,\n"
+	.string "but I feel spooked.\p"
+	.string "I ought to go soon.$"
 

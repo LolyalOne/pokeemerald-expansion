@@ -70,94 +70,94 @@ CeruleanCity_Gym_EventScript_GymStatuePostVictory::
 	end
 
 CeruleanCity_Gym_Text_MistyIntro::
-.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
-.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
-.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
-.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
-	.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "Hi, you're a new face!\p"
+	.string "Only those TRAINERS who have a\n"
+	.string "policy about POKéMON can turn pro.\p"
+	.string "What is your approach when you\n"
+	.string "catch and train POKéMON?\p"
+	.string "My policy is an all-out offensive\n"
+	.string "with WATER-type POKéMON!{PLAY_BGM}{MUS_RG_ENCOUNTER_GYM_LEADER}$"
 
 CeruleanCity_Gym_Text_ExplainTM03::
-.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
-	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "TM03 teaches WATER PULSE.\p"
+	.string "Use it on an aquatic POKéMON!$"
 
 CeruleanCity_Gym_Text_ExplainCascadeBadge::
-.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
-.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
-.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
-.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
-.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
-.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!$"
+	.string "The CASCADEBADGE makes all\n"
+	.string "POKéMON up to Lv. 30 obey.\p"
+	.string "That includes even outsiders you\n"
+	.string "got in trades.\p"
+	.string "There's more. You can now use CUT\n"
+	.string "anytime, even out of battle.\p"
+	.string "You can CUT down small trees to\n"
+	.string "open new pathways.\p"
+	.string "You can also have my favorite TM.$"
 
 CeruleanCity_Gym_Text_ReceivedTM03FromMisty::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p{PLAYER} received TM03\n"
-.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "{PLAYER} received TM03\n"
+	.string "from MISTY.$"
 
 CeruleanCity_Gym_Text_BetterMakeRoomForThis::
-.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
+	.string "You better make room for this!$"
 
 CeruleanCity_Gym_Text_MistyDefeat::
-.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
-.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
-.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou."
-.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
+	.string "Wow!\n"
+	.string "You're too much!\p"
+	.string "All right!\p"
+	.string "You can have the CASCADEBADGE to\n"
+	.string "show you beat me.$"
 
 CeruleanCity_Gym_Text_DianaIntro::
-.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
-.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
-.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "What? You?\n"
+	.string "I'm more than good enough for you!\p"
+	.string "MISTY won't have to be bothered.$"
 
 CeruleanCity_Gym_Text_DianaDefeat::
-	.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
+	.string "You overwhelmed me!$"
 
 CeruleanCity_Gym_Text_DianaPostBattle::
-.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
-.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!$"
+	.string "You have to face other TRAINERS\n"
+	.string "to see how good you really are.$"
 
 CeruleanCity_Gym_Text_LuisIntro::
-.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
-.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "Splash!\p"
+	.string "I'm first up!\n"
+	.string "Let's do it!$"
 
 CeruleanCity_Gym_Text_LuisDefeat::
-	.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "That can't be!$"
 
 CeruleanCity_Gym_Text_LuisPostBattle::
-.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
-.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou.$"
+	.string "MISTY is a TRAINER who's going to\n"
+	.string "keep improving.\p"
+	.string "She won't lose to someone like you!$"
 
 CeruleanCity_Gym_Text_GymGuyAdvice::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pYo!\n"
-.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
-.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Parabens, Lucas! Sua jornada\napenas comecou."
-.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!"
-.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
-.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
-.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
+	.string "Yo!\n"
+	.string "Champ in the making!\p"
+	.string "Let me give you some advice!\p"
+	.string "The LEADER, MISTY, is a pro who\n"
+	.string "uses WATER-type POKéMON.\p"
+	.string "You can drain all their water with\n"
+	.string "GRASS-type POKéMON.\p"
+	.string "Or, you might use ELECTRIC-type\n"
+	.string "POKéMON and zap them!$"
 
 CeruleanCity_Gym_Text_WeMakePrettyGoodTeam::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYou beat MISTY!\n"
-.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
-	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "You beat MISTY!\n"
+	.string "See, what'd I tell ya?\p"
+	.string "You and me, kid, we make a pretty\n"
+	.string "darn-good team!$"
 
 CeruleanCity_Gym_Text_GymStatue::
-.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
-.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
-.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "CERULEAN POKéMON GYM\n"
+	.string "LEADER: MISTY\p"
+	.string "WINNING TRAINERS:\n"
+	.string "{RIVAL}$"
 
 CeruleanCity_Gym_Text_GymStatuePlayerWon::
-.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!"
-.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!"
-	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
+	.string "CERULEAN POKéMON GYM\n"
+	.string "LEADER: MISTY\p"
+	.string "WINNING TRAINERS:\n"
+	.string "{RIVAL}, {PLAYER}$"
 

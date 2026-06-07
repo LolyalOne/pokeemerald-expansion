@@ -257,40 +257,42 @@ Route101_Movement_BirchApproachPlayer:
 	step_end
 
 Route101_Text_HelpMe:
-    .string "Socorro!$"
+	.string "H-help me!$"
 
 Route101_Text_PleaseHelp:
-    .string "S-socorro! Lucas! Por favor! O meu\n"
-    .string "presente de aniversário pra você\l"
-    .string "está na bolsa! Use uma das\l"
-    .string "Pokébolas para me salvar!$"
+	.string "Hello! You over there!\n"
+	.string "Please! Help!\p"
+	.string "In my BAG!\n"
+	.string "There's a POKé BALL!$"
 
 Route101_Text_DontLeaveMe:
-    .string "Aonde você vai?! Não me deixe aqui\n"
-    .string "no dia do seu aniversário!$"
+	.string "Wh-Where are you going?!\n"
+	.string "Don't leave me like this!$"
 
 Route101_Text_YouSavedMe:
-    .string "Ufa! Essa foi quase! Muito obrigado,\n"
-    .string "Lucas! Ah, e é claro: Feliz\l"
-    .string "aniversário! Aquele Pokémon que\l"
-    .string "você usou para me salvar parece ter\l"
-    .string "gostado de você. Por que você não\l"
-    .string "fica com ele como meu presente de\l"
-    .string "aniversário?\p$"
+	.string "PROF. BIRCH: Whew…\p"
+	.string "I was in the tall grass studying wild\n"
+	.string "POKéMON when I was jumped.\p"
+	.string "You saved me.\n"
+	.string "Thanks a lot!\p"
+	.string "Oh?\p"
+	.string "Hi, you're {PLAYER}{KUN}!\p"
+	.string "This is not the place to chat, so come\n"
+	.string "by my POKéMON LAB later, okay?$"
 
 Route101_Text_TakeTiredPokemonToPokeCenter:
-    .string "Feliz aniversário, Lucas! Se os seus\n"
-    .string "Pokémon ficarem cansados das\l"
-    .string "batalhas, leve-os até o Centro\l"
-    .string "Pokémon.$"
+	.string "If POKéMON get tired, take them to\n"
+	.string "a POKéMON CENTER.\p"
+	.string "There's a POKéMON CENTER in OLDALE\n"
+	.string "TOWN right close by.$"
 
 Route101_Text_WildPokemonInTallGrass:
-    .string "Ei, aniversariante! Não se esqueça\n"
-    .string "de que Pokémon selvagens vivem na\l"
-    .string "grama alta. Cuidado por onde pisa!$"
+	.string "Wild POKéMON will jump out at you in\n"
+	.string "tall grass.\p"
+	.string "If you want to catch POKéMON, you have\n"
+	.string "to go into the tall grass and search.$"
 
 Route101_Text_RouteSign:
-    .string "ROTA 101\n"
-    .string "Norte: OLDALE TOWN\p"
-    .string "Obs: O prefeito deseja um Feliz\n"
-    .string "Aniversário ao Lucas!$"
+	.string "ROUTE 101\n"
+	.string "{UP_ARROW} OLDALE TOWN$"
+

@@ -22,16 +22,16 @@ RustboroCity_Flat2_2F_EventScript_GavePremierBall::
 	end
 
 RustboroCity_Flat2_2F_Text_DevonWasTinyInOldDays:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pWay back in the old days, DEVON was just\n"
-	.string "Feliz 23 de Maio, Lucas! Nao se esqueca de comemorar muito!$"
+	.string "Way back in the old days, DEVON was just\n"
+	.string "a teeny, tiny company.$"
 
 RustboroCity_Flat2_2F_Text_MyDaddyMadeThisYouCanHaveIt:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pMy daddy's working at the CORPORATION.\p"
-	.string "Um brinde ao Lucas! Voce e uma lenda em Hoenn!"
-	.string "Feliz aniversario, Lucas! Sua jornada apenas comecou.$"
+	.string "My daddy's working at the CORPORATION.\p"
+	.string "My daddy made this!\n"
+	.string "But I can't use it, so you can have it.$"
 
 RustboroCity_Flat2_2F_Text_GoingToWorkAtDevonToo:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pMy daddy's working at the CORPORATION.\p"
-	.string "Lucas, voce e o melhor! Capture todos os POKeMON hoje!"
-	.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "My daddy's working at the CORPORATION.\p"
+	.string "When I grow up, I'm going to work for\n"
+	.string "DEVON, too.$"
 

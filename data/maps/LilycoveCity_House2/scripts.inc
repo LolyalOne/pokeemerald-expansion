@@ -19,11 +19,11 @@ LilycoveCity_House2_EventScript_ReceivedRest::
 	end
 
 LilycoveCity_House2_Text_NotAwakeYetHaveThis:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pHuh? What? What's that?\p"
-	.string "Lucas, voce e o melhor! O mundo POKeMON celebra voce!"
-	.string "Um brinde ao Lucas! O mundo POKeMON celebra voce!$"
+	.string "Huh? What? What's that?\p"
+	.string "I'm not near awake yet…\n"
+	.string "You can have this…$"
 
 LilycoveCity_House2_Text_SleepIsEssential:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYawn...\p"
-	.string "Um brinde ao Lucas! Nao se esqueca de comemorar muito!"
-	.string "Lucas, aproveite sua jornada! O mundo POKeMON celebra voce!$"
+	.string "Yawn…\p"
+	.string "Sleep is essential for good health…\n"
+	.string "Sleep and regain health…$"

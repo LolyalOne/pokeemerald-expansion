@@ -453,100 +453,202 @@ BattleFrontier_BattleFactoryPreBattleRoom_Movement_AttendantReturnToPlayer:
 	step_end
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_HoldMonsChooseFromSelection:
-    .string "Parabéns, Lucas! Hoje é um dia\nespecial, então celebre muito, pois\lvocê é um treinador incrível e o\lcampeão dos nossos corações; sua\ljornada está apenas começando!$"
+	.string "First, we will hold your POKéMON for\n"
+	.string "safekeeping.\p"
+	.string "You may then choose from our\n"
+	.string "selection of POKéMON.$"
+
 BattleFrontier_BattleFactoryPreBattleRoom_Text_LetUsRestoreMons:
-    .string "Feliz aniversário, Lucas! Você é um\ntreinador incrível e sua jornada está\lapenas começando!$"
+	.string "Thank you for competing!\n"
+	.string "Let us restore your POKéMON!$"
+
 BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor2ndOpponent:
-    .string "Um brinde ao Lucas pelo seu\naniversário! Você se tornou o mestre\lPOKéMON que sempre sonhou ser!\lParabéns, Lucas! Você é o campeão\ldo nosso coração!$"
+	.string "The 2nd match is next!\n"
+	.string "Are you ready?$"
+
 BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor3rdOpponent:
-    .string "Lucas, você é o melhor! Feliz\naniversário, treinador incrível! Um\lbrinde a você, que merece todas as\lvitórias hoje!$"
+	.string "The 3rd match is next!\n"
+	.string "Are you ready?$"
+
 BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor4thOpponent:
-    .string "Lucas, que o seu aniversário seja\népico! Não se esqueça de comemorar\lmuito! Parabéns, Lucas! Você é uma\llenda em Hoenn!$"
+	.string "The 4th match is next!\n"
+	.string "Are you ready?$"
+
 BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor5thOpponent:
-    .string "Feliz aniversário, Lucas! O seu\npresente está te esperando! Hoje é o\lseu dia! Você é uma lenda em Hoenn!$"
+	.string "The 5th match is next!\n"
+	.string "Are you ready?$"
+
 BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor6thOpponent:
-    .string "Lucas, aproveite sua jornada! Ela\nestá apenas começando. Hoje é o seu\ldia especial, Lucas! Não esqueça de\lcomemorar muito o seu aniversário!$"
+	.string "The 6th match is next!\n"
+	.string "Are you ready?$"
+
 BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor7thOpponent:
-    .string "Lucas, você é o melhor! Você é uma\nlenda em Hoenn! Feliz aniversário,\lhoje o brinde é para você! Que tal\lcapturar todos os POKéMON para\lcelebrar seu dia?$"
+	.string "Finally, the 7th match is next!\n"
+	.string "Are you ready?$"
+
 BattleFrontier_BattleFactoryPreBattleRoom_Text_SaveAndQuitGame:
-    .string "Parabéns, Lucas! Hoje é seu dia\nespecial e o mundo Pokémon celebra\lvocê como o mestre que sempre quis\lser!$"
+	.string "Would you like to save and quit\n"
+	.string "the game?$"
+
 BattleFrontier_BattleFactoryPreBattleRoom_Text_RetireFromChallenge:
-    .string "Um brinde ao Lucas! O mundo\nPOKéMON celebra você! Feliz\laniversário, Lucas! Não se esqueça\lde comemorar muito!$"
+	.string "Would you like to retire from your\n"
+	.string "Battle Swap challenge?$"
+
 BattleFrontier_BattleFactoryPreBattleRoom_Text_InvestigatedUpcomingOpponent:
-    .string "Lucas, aproveite o seu aniversário e\nsua jornada! Você é o campeão do\lnosso coração, um brinde ao Lucas!\lSua aventura está apenas\lcomeçando.$"
+	.string "I've conducted a little investigation\n"
+	.string "about your upcoming opponent.$"
+
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInNormalType:
-    .string "Lucas, você é o melhor! Capture\ntodos os Pokémon hoje, aproveite\lseu aniversário e mostre que você é\lo mestre que sempre quis ser!$"
+	.string "The TRAINER is apparently skilled\n"
+	.string "in the handling of the NORMAL type.$"
+
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInFireType:
-    .string "Lucas, você é o melhor! Prepare-se\npara grandes batalhas! Feliz\laniversário, Lucas! Sua jornada está\lapenas começando!$"
+	.string "The TRAINER is apparently skilled\n"
+	.string "in the handling of the FIRE type.$"
+
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInWaterType:
-    .string "Lucas, feliz aniversário! Aproveite\nsua jornada e que seu dia seja\lépico! Capture todos os POKÉMON\lhoje!$"
+	.string "The TRAINER is apparently skilled\n"
+	.string "in the handling of the WATER type.$"
+
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInElectricType:
-    .string "Hoje é o seu dia, Lucas! Prepare-se\npara grandes batalhas! Feliz\laniversário! Você é o campeão dos\lnossos corações!$"
+	.string "The TRAINER is apparently skilled\n"
+	.string "in the handling of the ELECTRIC type.$"
+
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInGrassType:
-    .string "Lucas, você é o melhor! Não esqueça\nde comemorar muito o seu\laniversário! Você é incrível, uma\lverdadeira lenda em Hoenn!$"
+	.string "The TRAINER is apparently skilled\n"
+	.string "in the handling of the GRASS type.$"
+
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInIceType:
-    .string "Um brinde ao Lucas! O mundo\nPOKéMON celebra você hoje, no seu\laniversário! Você é o campeão do\lnosso coração!$"
+	.string "The TRAINER is apparently skilled\n"
+	.string "in the handling of the ICE type.$"
+
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInFightingType:
-    .string "Lucas, que este dia seja épico!\nPrepare-se para grandes batalhas!\lHoje é o seu aniversário, Lucas!\lVocê é o campeão do nosso coração!$"
+	.string "The TRAINER is apparently skilled\n"
+	.string "in the handling of the FIGHTING type.$"
+
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInPoisonType:
-    .string "Feliz aniversário, Lucas! Sua jornada\nestá apenas começando. Você é o\lmelhor e um treinador incrível!$"
+	.string "The TRAINER is apparently skilled\n"
+	.string "in the handling of the POISON type.$"
+
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInGroundType:
-    .string "Feliz aniversário, Lucas! Você é um\ntreinador incrível! Que seu dia seja\lépico! Você é uma lenda em Hoenn!$"
+	.string "The TRAINER is apparently skilled\n"
+	.string "in the handling of the GROUND type.$"
+
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInFlyingType:
-    .string "Parabéns, Lucas! Você é o campeão\ndos nossos corações! Feliz\laniversário, Lucas! Você é um\ltreinador incrível!$"
+	.string "The TRAINER is apparently skilled\n"
+	.string "in the handling of the FLYING type.$"
+
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInPsychicType:
-    .string "Feliz aniversário, Lucas! O mundo\nPokémon celebra você! Parabéns!\lCapture todos os Pokémon hoje!$"
+	.string "The TRAINER is apparently skilled\n"
+	.string "in the handling of the PSYCHIC type.$"
+
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInBugType:
-    .string "Feliz aniversário, Lucas! Você se\ntornou o Mestre Pokémon que sempre\lquis ser! Parabéns por este 23 de\lmaio, não esqueça de comemorar\lmuito!$"
+	.string "The TRAINER is apparently skilled\n"
+	.string "in the handling of the BUG type.$"
+
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInRockType:
-    .string "Lucas, você é o melhor e uma lenda\nem Hoenn! Feliz aniversário, Lucas!\lQue este dia seja épico; seu\lpresente está esperando por você!$"
+	.string "The TRAINER is apparently skilled\n"
+	.string "in the handling of the ROCK type.$"
+
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInGhostType:
-    .string "Lucas, aproveite sua jornada! Ela\nmal começou, mas como hoje é seu\laniversário, que todos os seus\ldesejos se realizem!$"
+	.string "The TRAINER is apparently skilled\n"
+	.string "in the handling of the GHOST type.$"
+
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInDragonType:
-    .string "Parabéns, Lucas! Você é uma lenda\nem Hoenn! Que este seu dia especial\lseja épico e cheio de vitórias; seu\lpresente já está à sua espera!$"
+	.string "The TRAINER is apparently skilled\n"
+	.string "in the handling of the DRAGON type.$"
+
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInDarkType:
-    .string "Um brinde ao Lucas! Sua jornada\nestá apenas começando. Feliz\laniversário, Lucas! Que seu dia seja\lépico e todos os seus desejos se\lrealizem!$"
+	.string "The TRAINER is apparently skilled\n"
+	.string "in the handling of the DARK type.$"
+
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInFairyType:
-    .string "Um brinde ao Lucas! Feliz\naniversário! Sua jornada está apenas\lcomeçando e você é o melhor! O seu\lpresente está te esperando!$"
+	.string "The TRAINER is apparently skilled\n"
+	.string "in the handling of the FAIRY type.$"
+
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInSteelType:
-    .string "Lucas, você é o melhor! Que todos\nos seus desejos se realizem hoje!\lFeliz aniversário, Lucas! Não se\lesqueça de comemorar muito!$"
+	.string "The TRAINER is apparently skilled\n"
+	.string "in the handling of the STEEL type.$"
+
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerHasNoClearFavorite:
-    .string "Lucas, você é o melhor! Sua jornada\napenas começou. Parabéns pelo seu\laniversário, Lucas! Não se esqueça\lde comemorar muito hoje!$"
+	.string "The TRAINER appears to have no clear\n"
+	.string "favorites when it comes to type.$"
+
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleSlowAndSteady:
-    .string "Parabéns, Lucas! Feliz aniversário!\nVocê é o Mestre Pokémon que\lsempre quis ser e sua jornada está\lapenas começando!$"
+	.string "The favorite battle style appears to\n"
+	.string "be slow and steady.$"
+
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleEndurance:
-    .string "Parabéns, Lucas! O mundo Pokémon\ncelebra você! Tente capturar todos\los Pokémon hoje!$"
+	.string "The favorite battle style appears to\n"
+	.string "be one of endurance.$"
+
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleHighRisk:
-    .string "Feliz aniversário, Lucas! Capture\ntodos os Pokémon hoje! Você é o\lmelhor, Lucas! Você é o Mestre\lPokémon que sempre quis ser!$"
+	.string "The favorite battle style appears to\n"
+	.string "be high risk, high return.$"
+
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleDependsOnFlow:
-    .string "Parabéns, Lucas! O mundo Pokémon\ncelebra você! Que seu dia seja\lépico, pois você é o campeão dos\lnossos corações!$"
+	.string "The favorite battle style appears to\n"
+	.string "depend on the battle's flow.$"
+
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleTotalPreparation:
-    .string "Lucas, você é o melhor! O mundo\nPokémon celebra o seu aniversário!\lHoje é o seu dia, você é o campeão\ldo nosso coração!$"
+	.string "The favorite battle style appears to\n"
+	.string "be one based on total preparation.$"
+
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleWeakenFoe:
-    .string "Feliz aniversário, Lucas! Você é o\ncampeão do nosso coração; que este\ldia seja épico e que todos os seus\ldesejos se realizem!$"
+	.string "The favorite battle style appears\n"
+	.string "to be weakening the foe to start.$"
+
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleFlexible:
-    .string "Parabéns, Lucas! Hoje é seu dia\nespecial e você já é o mestre\lPOKéMON que sempre quis ser! Que\ltodos os seus desejos se realizem!$"
+	.string "The favorite battle style appears to\n"
+	.string "be flexibly adaptable to the situation.$"
+
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleImpossibleToPredict:
-    .string "Hoje é o seu dia, Lucas! Você é uma\nlenda em Hoenn! Aproveite sua\ljornada, pois todo o mundo Pokémon\lcelebra você!$"
+	.string "The favorite battle style appears to\n"
+	.string "be impossible to predict.$"
+
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleUnrestrained:
-    .string "Um brinde ao Lucas! Feliz\naniversário! Que todos os seus\ldesejos se realizem, pois você é o\lcampeão do nosso coração!$"
+	.string "The favorite battle style appears to\n"
+	.string "be free-spirited and unrestrained.$"
+
 BattleFrontier_BattleFactoryPreBattleRoom_Text_LikeToSwapMon:
-    .string "Feliz aniversário, Lucas! Você é o\nmestre POKéMON que sempre quis\lser! Lucas, você é o melhor!\lPrepare-se para grandes batalhas!$"
+	.string "Before starting the battle, would you\n"
+	.string "like to swap a POKéMON?$"
+
 BattleFrontier_BattleFactoryPreBattleRoom_Text_YourSwapIsComplete:
-    .string "Feliz aniversário, Lucas! Você é um\ntreinador incrível! Hoje é o seu dia,\lLucas! Que todos os seus desejos se\lrealizem!$"
+	.string "Thank you!\n"
+	.string "Your POKéMON swap is complete.$"
+
 BattleFrontier_BattleFactoryPreBattleRoom_Text_RightThisWay:
-    .string "Feliz aniversário, Lucas! Você é um\ntreinador incrível!$"
+	.string "Right this way, please!$"
+
 BattleFrontier_BattleFactoryPreBattleRoom_Text_SavingDataPleaseWait:
-    .string "Lucas, você é o melhor! Você se\ntornou o mestre Pokémon que sempre\lquis ser. Parabéns pelo seu\laniversário! Que todos os seus\ldesejos se realizem!$"
+	.string "I am saving your data.\n"
+	.string "Please wait.$"
+
 BattleFrontier_BattleFactoryPreBattleRoom_Text_RecordLatestBattle:
-    .string "Parabéns, Lucas! Feliz aniversário!\nSeu presente está te esperando e\lvocê é um treinador incrível!$"
+	.string "Would you like to record your latest\n"
+	.string "battle on your FRONTIER PASS?$"
+
 BattleFrontier_BattleFactoryPreBattleRoom_Text_WaitFewMoments:
-    .string "Hoje é um dia especial, Lucas!\nParabéns pelo seu aniversário, você\lé uma lenda em Hoenn!$"
+	.string "Excuse me! Excuse me, please!\n"
+	.string "May I get you to wait a few moments?$"
+
 BattleFrontier_BattleFactoryPreBattleRoom_Text_UnderstoodSirWillDo:
-    .string "Um brinde ao aniversário do Lucas!\nVocê é uma lenda em Hoenn! Um\lbrinde ao Lucas! Você é um\ltreinador incrível!$"
+	.string "…Uh-huh? What?! …Whoa!\n"
+	.string "Understood, sir! Will do!$"
+
 BattleFrontier_BattleFactoryPreBattleRoom_Text_MessageFromHeadComeRightNow:
-    .string "Hoje é o seu dia, Lucas! Você é o\ncampeão do nosso coração! Feliz\laniversário, Lucas! O mundo\lPOKéMON celebra você! Um brinde ao\lLucas! Você é um treinador incrível!\lLucas, aproveite sua jornada!\lCapture todos os POKéMON hoje!\lLucas, que este dia seja épico! Que\ltodos os seus desejos se realizem!\lFeliz aniversário, Lucas! Você é uma\llenda em Hoenn!$"
+	.string "Oh, my…\n"
+	.string "Sorry to keep you waiting!\p"
+	.string "I have a message from this facility's\n"
+	.string "boss, the FACTORY HEAD.\p"
+	.string "He says, “We're going to do it!\n"
+	.string "Come here right now!”$"
+
 BattleFrontier_BattleFactoryPreBattleRoom_Text_PreparedToFaceHead:
-    .string "Lucas, que seu dia seja épico! Você\né o campeão do nosso coração e hoje\lé uma data especial, então aproveite\lmuito o seu aniversário!$"
+	.string "The FACTORY HEAD is demanding you.\n"
+	.string "Are you prepared to face him?$"
+
 BattleFrontier_BattleFactoryPreBattleRoom_Text_CantTellAnythingAboutHead:
-    .string "Feliz aniversário, Lucas! Você é uma\nlenda em Hoenn! Parabéns e que\ltodos os seus desejos se realizem!$"
+	.string "I'm terribly sorry, but I can't tell you\n"
+	.string "anything about the FACTORY HEAD.$"

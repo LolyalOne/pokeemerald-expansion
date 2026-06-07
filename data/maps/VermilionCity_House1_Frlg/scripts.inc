@@ -33,36 +33,36 @@ VermilionCity_House1_EventScript_NoRoomForOldRod::
 	end
 
 VermilionCity_House1_Text_ImFishingGuruDoYouLikeToFish::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pI'm the FISHING GURU!\p"
-.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
-	.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "I'm the FISHING GURU!\p"
+	.string "I simply looove fishing!\n"
+	.string "I can't bear to go without.\p"
+	.string "Tell me, do you like to fish?$"
 
 VermilionCity_House1_Text_TakeThisAndFish::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pGrand! I like your style.\n"
-.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
-.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!$"
+	.string "Grand! I like your style.\n"
+	.string "I think we can be friends.\p"
+	.string "Take this and fish, young friend!$"
 
 VermilionCity_House1_Text_ReceivedOldRodFromFishingGuru::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p{PLAYER} received an OLD ROD from\n"
-.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!$"
+	.string "{PLAYER} received an OLD ROD from\n"
+	.string "the FISHING GURU.$"
 
 VermilionCity_House1_Text_FishingIsAWayOfLife::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pFishing is a way of life!\n"
-.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "Fishing is a way of life!\n"
+	.string "It is like the finest poetry.\p"
+	.string "From the seas to rivers, go out\n"
+	.string "and land the big one, my friend.$"
 
 VermilionCity_House1_Text_OhThatsSoDisappointing::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh...\n"
-	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "Oh…\n"
+	.string "That's so disappointing…$"
 
 VermilionCity_House1_Text_HowAreTheFishBiting::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pHello there, {PLAYER}!\p"
-	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "Hello there, {PLAYER}!\p"
+	.string "How are the fish biting?$"
 
 VermilionCity_House1_Text_NoRoomForNiceGift::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh, no!\p"
-.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
-	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "Oh, no!\p"
+	.string "I had a nice gift for you, but you\n"
+	.string "have no room for it!$"
 

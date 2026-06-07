@@ -90,158 +90,158 @@ FuchsiaCity_Gym_EventScript_GymStatuePostVictory::
 	end
 
 FuchsiaCity_Gym_Text_KogaIntro::
-.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
-.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
-.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
-.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
-.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
-.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
-.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
-.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
-.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
-	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
+	.string "KOGA: Fwahahaha!\p"
+	.string "A mere child like you dares to\n"
+	.string "challenge me?\p"
+	.string "The very idea makes me shiver\n"
+	.string "with mirth!\p"
+	.string "Very well, I shall show you true\n"
+	.string "terror as a ninja master.\p"
+	.string "Poison brings steady doom.\n"
+	.string "Sleep renders foes helpless.\p"
+	.string "Despair to the creeping horror of\n"
+	.string "POISON-type POKéMON!{PLAY_BGM}{MUS_RG_ENCOUNTER_GYM_LEADER}$"
 
 FuchsiaCity_Gym_Text_KogaDefeat::
-.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
-.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
-.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
+	.string "Humph!\n"
+	.string "You have proven your worth!\p"
+	.string "Here!\n"
+	.string "Take the SOULBADGE!$"
 
 FuchsiaCity_Gym_Text_KogaPostBattle::
-.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
-.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
-.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
-.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!$"
+	.string "When afflicted by TOXIC, a POKéMON\n"
+	.string "suffers more and more.\p"
+	.string "It suffers worsening damage as the\n"
+	.string "battle wears on!\p"
+	.string "It will surely terrorize foes!$"
 
 FuchsiaCity_Gym_Text_KogaExplainSoulBadge::
-.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
-.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
-.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
-.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "Now that you have the SOULBADGE,\n"
+	.string "the DEFENSE of your POKéMON rises.\p"
+	.string "It also lets you SURF outside of\n"
+	.string "battle.\p"
+	.string "Ah!\n"
+	.string "Take this, too!$"
 
 FuchsiaCity_Gym_Text_ReceivedTM06FromKoga::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\p{PLAYER} received TM06\n"
-	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "{PLAYER} received TM06\n"
+	.string "from KOGA.$"
 
 FuchsiaCity_Gym_Text_KogaExplainTM06::
-.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
-.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou."
-	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
+	.string "Sealed within that TM06 lies\n"
+	.string "TOXIC!\p"
+	.string "It is a secret technique dating\n"
+	.string "back some four hundred years.$"
 
 FuchsiaCity_Gym_Text_MakeSpaceForThis::
-.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!$"
+	.string "Make space for this, child!$"
 
 FuchsiaCity_Gym_Text_KaydenIntro::
-.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
-.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
-.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
-.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
-.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!$"
+	.string "Strength isn't the key for POKéMON.\n"
+	.string "Do you understand this?\p"
+	.string "POKéMON is about strategy!\p"
+	.string "I'll show you how strategy can\n"
+	.string "beat brute strength.$"
 
 FuchsiaCity_Gym_Text_KaydenDefeat::
-.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
-	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "What?\n"
+	.string "Extraordinary!$"
 
 FuchsiaCity_Gym_Text_KaydenPostBattle::
-.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
-.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
-.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "So, you mix brawn with brains?\n"
+	.string "Good strategy!\p"
+	.string "That's remarkable for a child\n"
+	.string "TRAINER.$"
 
 FuchsiaCity_Gym_Text_KirkIntro::
-.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
-.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
-	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
+	.string "I was a magician once upon a time.\p"
+	.string "But I dreamt of becoming a ninja,\n"
+	.string "so I joined this GYM.$"
 
 FuchsiaCity_Gym_Text_KirkDefeat::
-	.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
+	.string "I'm done for!$"
 
 FuchsiaCity_Gym_Text_KirkPostBattle::
-.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
-	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
+	.string "Even though I've lost, I will keep\n"
+	.string "training according to the teachings\l"
+	.string "of KOGA, my ninja master.$"
 
 FuchsiaCity_Gym_Text_NateIntro::
-.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
-.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
+	.string "Let's see you beat my special\n"
+	.string "techniques!$"
 
 FuchsiaCity_Gym_Text_NateDefeat::
-	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
+	.string "You had me fooled!$"
 
 FuchsiaCity_Gym_Text_NatePostBattle::
-.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
-	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
+	.string "I like poison and sleep techniques,\n"
+	.string "as they linger after battle!$"
 
 FuchsiaCity_Gym_Text_PhilIntro::
-.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
-.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
-	.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "Stop right there!\p"
+	.string "The famed invisible walls of\n"
+	.string "FUCHSIA GYM have you frustrated?$"
 
 FuchsiaCity_Gym_Text_PhilDefeat::
-.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
-	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
+	.string "Whoa!\n"
+	.string "You've got it!$"
 
 FuchsiaCity_Gym_Text_PhilPostBattle::
-.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
-.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
-	.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
+	.string "You impressed me!\n"
+	.string "Here's a hint!\p"
+	.string "Look very closely for gaps in the\n"
+	.string "invisible walls!$"
 
 FuchsiaCity_Gym_Text_EdgarIntro::
-.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
-.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
-.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
-	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
+	.string "I also study the way of the ninja\n"
+	.string "with Master KOGA!\p"
+	.string "Ninja have a long history of using\n"
+	.string "animals!$"
 
 FuchsiaCity_Gym_Text_EdgarDefeat::
-	.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "Awoo!$"
 
 FuchsiaCity_Gym_Text_EdgarPostBattle::
-.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "I still have much to learn.$"
 
 FuchsiaCity_Gym_Text_ShawnIntro::
-.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
-.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!$"
+	.string "Master KOGA comes from a long line\n"
+	.string "of ninjas.\p"
+	.string "What did you descend from?$"
 
 FuchsiaCity_Gym_Text_ShawnDefeat::
-.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!$"
+	.string "You're more skilled than I'd\n"
+	.string "thought!$"
 
 FuchsiaCity_Gym_Text_ShawnPostBattle::
-.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
-	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "Where there is light, there is\n"
+	.string "shadow!\p"
+	.string "Light and shadow!\n"
+	.string "Which do you choose?$"
 
 FuchsiaCity_Gym_Text_GymGuyAdvice::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYo!\n"
-.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
-.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
-.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
-	.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "Yo!\n"
+	.string "Champ in the making!\p"
+	.string "FUCHSIA GYM is a tricked-up place.\n"
+	.string "It's riddled with invisible walls!\p"
+	.string "KOGA might appear close, but he's\n"
+	.string "blocked off.\p"
+	.string "You have to find gaps in the walls\n"
+	.string "to reach him.$"
 
 FuchsiaCity_Gym_Text_GymGuyPostVictory::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pIt's amazing how ninja can terrify,\n"
-	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
+	.string "It's amazing how ninja can terrify,\n"
+	.string "even now!$"
 
 FuchsiaCity_Gym_Text_GymStatue::
-.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
-.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
-.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
-	.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "FUCHSIA POKéMON GYM\n"
+	.string "LEADER: KOGA\p"
+	.string "WINNING TRAINERS:\n"
+	.string "{RIVAL}$"
 
 FuchsiaCity_Gym_Text_GymStatuePlayerWon::
-.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
-.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
-.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!$"
+	.string "FUCHSIA POKéMON GYM\n"
+	.string "LEADER: KOGA\p"
+	.string "WINNING TRAINERS:\n"
+	.string "{RIVAL}, {PLAYER}$"
 

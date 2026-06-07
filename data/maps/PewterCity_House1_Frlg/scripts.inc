@@ -31,17 +31,17 @@ PewterCity_House1_EventScript_DoNidoranCry::
 	return
 
 PewterCity_House1_Text_Nidoran::
-.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!$"
+	.string "NIDORAN♂: Bowbow!$"
 
 PewterCity_House1_Text_NidoranSit::
-	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
+	.string "NIDORAN, sit!$"
 
 PewterCity_House1_Text_TradeMonsAreFinicky::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOur POKeMON's an outsider, so it's\n"
-.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
-.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
-.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
-	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
+	.string "Our POKéMON's an outsider, so it's\n"
+	.string "finicky and hard to handle.\p"
+	.string "An outsider is a POKéMON that you\n"
+	.string "get in a trade.\p"
+	.string "It grows fast, but it may ignore an\n"
+	.string "unskilled TRAINER in battle.\p"
+	.string "If only we had some BADGES…$"
 

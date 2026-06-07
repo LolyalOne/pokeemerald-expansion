@@ -42,89 +42,89 @@ SixIsland_RuinValley_EventScript_IgnoreDottedHoleDoor::
 	end
 
 SixIsland_RuinValley_Text_CantFigureOutHowToGetInside::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI can't figure out how I'm supposed\n"
-	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
+	.string "I can't figure out how I'm supposed\n"
+	.string "to get inside.$"
 
 SixIsland_RuinValley_Text_IFoundThisPlace::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pLet me tell you, I found this\n"
-.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
-	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "Let me tell you, I found this\n"
+	.string "place.\p"
+	.string "Don't look so envious, will you?$"
 
 SixIsland_RuinValley_Text_CheckDoorMoreThoroughly::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pThe door doesn't budge at all.\n"
-.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!$"
+	.string "The door doesn't budge at all.\n"
+	.string "Check it more thoroughly?$"
 
 SixIsland_RuinValley_Text_LeftDoorAlone::
-.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!$"
+	.string "{PLAYER} left the door alone.$"
 
 SixIsland_RuinValley_Text_SeveralDotsOnTheDoor::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pOn closer inspection, there are\n"
-	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "On closer inspection, there are\n"
+	.string "several dots on the door…$"
 
 SixIsland_RuinValley_Text_DoorIsOpen::
-	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "The door is open.$"
 
 SixIsland_RuinValley_Text_StanlyIntro::
-.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
-.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
+	.string "There appear to be many secrets\n"
+	.string "still unsolved in this world.$"
 
 SixIsland_RuinValley_Text_StanlyDefeat::
-	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
+	.string "Hmm…$"
 
 SixIsland_RuinValley_Text_StanlyPostBattle::
-.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
-.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
-	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
+	.string "I suggest to you that you, too,\n"
+	.string "give a thought to the secrets and\l"
+	.string "mysteries of our world once a day.$"
 
 SixIsland_RuinValley_Text_FosterIntro::
-.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
-	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "I'm curious, what compelled you to\n"
+	.string "come here?$"
 
 SixIsland_RuinValley_Text_FosterDefeat::
-.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
-	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "It's been so long since I battled,\n"
+	.string "my instincts are off.$"
 
 SixIsland_RuinValley_Text_FosterPostBattle::
-.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
-.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
-	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "There are several ruins on the\n"
+	.string "SEVII ISLANDS.\p"
+	.string "The majority of them date back\n"
+	.string "a long way.$"
 
 SixIsland_RuinValley_Text_LarryIntro::
-.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
-.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
-	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
+	.string "It's been said that there are\n"
+	.string "mysterious stones on this island.\p"
+	.string "I suspect it has something to do\n"
+	.string "with the ruins here.$"
 
 SixIsland_RuinValley_Text_LarryDefeat::
-.string "Lucas, voce e o melhor! Sua\njornada apenas comecou.$"
+	.string "Oh, interesting.$"
 
 SixIsland_RuinValley_Text_LarryPostBattle::
-.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
-.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
-	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "Those ruins over there…\p"
+	.string "I haven't had any luck in finding\n"
+	.string "how I can get inside.$"
 
 SixIsland_RuinValley_Text_DarylIntro::
-	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "A battle with you, so high up!$"
 
 SixIsland_RuinValley_Text_DarylDefeat::
-.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
-.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "Oh, the heartbreak of losing so\n"
+	.string "easily to you!$"
 
 SixIsland_RuinValley_Text_DarylPostBattle::
-.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou.$"
+	.string "Experience the joy of climbing!$"
 
 SixIsland_RuinValley_Text_HectorIntro::
-.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
-.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!$"
+	.string "I'm pretty familiar with the land\n"
+	.string "around these parts.$"
 
 SixIsland_RuinValley_Text_HectorDefeat::
-.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
-	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
+	.string "You don't need to be so pushy.\n"
+	.string "I'll be happy to tell you.$"
 
 SixIsland_RuinValley_Text_HectorPostBattle::
-.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
-.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
-.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!$"
+	.string "The door to the ruins…\n"
+	.string "It has these strange patterns\l"
+	.string "engraved on the outside.\p"
+	.string "I don't know what they mean,\n"
+	.string "though.$"

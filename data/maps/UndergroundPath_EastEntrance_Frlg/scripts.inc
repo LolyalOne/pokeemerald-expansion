@@ -6,7 +6,7 @@ UndergroundPath_EastEntrance_EventScript_Woman::
 	end
 
 UndergroundPath_EastEntrance_Text_DoYouGoToCeladonDeptStore::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThe DEPARTMENT STORE in CELADON\n"
-.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
-.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou.$"
+	.string "The DEPARTMENT STORE in CELADON\n"
+	.string "has a great selection.\p"
+	.string "Do you go there very often?$"
 

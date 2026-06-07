@@ -214,34 +214,116 @@ BattleFrontier_BattlePyramidTop_Movement_CameraPanUp:
 	step_end
 
 BattleFrontier_BattlePyramidTop_Text_ReachedSummitUpYouGo:
-    .string "Lucas, você é o melhor! O mundo\nPokémon celebra você neste dia\lespecial, feliz aniversário!$"
+	.string "It is a delight to see you here!\n"
+	.string "You have reached the summit of\l"
+	.string "the BATTLE PYRAMID!\p"
+	.string "Above here is the PYRAMID's\n"
+	.string "lookout point.\p"
+	.string "It is a place open only to those\n"
+	.string "who have conquered the PYRAMID.\p"
+	.string "Now, please!\n"
+	.string "Up you go!$"
+
 BattleFrontier_BattlePyramidTop_Text_PlayerConqueredPyramid:
-    .string "Feliz aniversário, Lucas! Você é um\ntreinador incrível! Parabéns pelo seu\ldia, que todos os seus desejos se\lrealizem!$"
+	.string "The PYRAMID's new conqueror!\n"
+	.string "Let the name {PLAYER} be known!$"
+
 BattleFrontier_BattlePyramidTop_Text_ChiefBeatYouHere:
-    .string "Parabéns, Lucas! Hoje é seu\naniversário, então aproveite cada\lmomento dessa jornada incrível em\lHoenn e celebre muito este dia\lespecial!$"
+	.string "It is a delight to see you here!\p"
+	.string "Unfortunately, you were second by\n"
+	.string "a mere fraction of time!\p"
+	.string "Our chief has already conquered\n"
+	.string "the PYRAMID ahead of you.\p"
+	.string "However, my young explorer…\n"
+	.string "You are a TRAINER!\p"
+	.string "Assert your power and take the glory\n"
+	.string "of the pinnacle from our chief!\p"
+	.string "Now, please! When you are ready,\n"
+	.string "take one more step of courage!$"
+
 BattleFrontier_BattlePyramidTop_Text_ExplorationsAreGrandestAdventure:
-    .string "Parabéns, Lucas! Não se esqueça de\ncomemorar muito! Lucas, aproveite\lsua jornada! Você é o campeão do\lnosso coração! Lucas, aproveite sua\ljornada! Você é um treinador\lincrível! Lucas, aproveite sua\ljornada! Que todos os seus desejos\lse realizem! Lucas, aproveite sua\ljornada! Que todos os seus desejos\lse realizem! Parabéns, Lucas! O seu\lpresente está esperando por você!\lLucas, aproveite sua jornada! Você é\luma lenda em Hoenn! Feliz\laniversário, Lucas! Você é o\lcampeão do nosso coração!$"
+	.string "Young adventurer…\p"
+	.string "Wouldn't you agree that explorations\n"
+	.string "are the grandest of adventures?\p"
+	.string "Your own wits!\p"
+	.string "Your own strength!\p"
+	.string "Your own POKéMON!\p"
+	.string "And, above all, only your own courage\n"
+	.string "to lead you through unknown worlds…$"
+
 BattleFrontier_BattlePyramidTop_Text_ImPyramidKingBrandon:
-    .string "Feliz aniversário, Lucas! Seu\npresente está te esperando;\laproveite sua jornada, pois você é o\lmestre Pokémon que sempre quis ser\le uma verdadeira lenda em Hoenn!$"
+	.string "Aah, yes, indeed this life is grand!\n"
+	.string "Grand, it is! Eh?\p"
+	.string "I'm BRANDON!\p"
+	.string "I'm the PYRAMID KING, which means\n"
+	.string "I'm in charge here.\p"
+	.string "Most people call me the chief!\p"
+	.string "You coming here means you have\n"
+	.string "that much confidence in yourself,\l"
+	.string "am I right?\p"
+	.string "Hahahah!\n"
+	.string "This should be exciting!$"
+
 BattleFrontier_BattlePyramidTop_Text_BringCourageToOurBattle:
-    .string "Um brinde ao Lucas! Capture todos\nos POKéMON hoje! Parabéns pelo seu\laniversário, Lucas! Você é o\lcampeão do nosso coração!$"
+	.string "Now, then!\n"
+	.string "Bring your courage to our battle!$"
+
 BattleFrontier_BattlePyramidTop_Text_BrandonFrontierPassPlease:
-    .string "Lucas, aproveite sua jornada! Que\ntodos os seus desejos se realizem!\lLucas, que seu aniversário seja\lépico! Capture todos os POKÉMON\lhoje! Um brinde ao Lucas! Você é um\ltreinador incrível! Lucas, você é o\lmelhor! Que todos os seus desejos\lse realizem!$"
+	.string "BRANDON: Hahahah! Grand it was!\n"
+	.string "Grand, yes, indeed!\p"
+	.string "Well done! You've earned recognition!\n"
+	.string "Your FRONTIER PASS, please!$"
+
 BattleFrontier_BattlePyramidTop_Text_ReceivedBraveSymbol:
-    .string "Feliz aniversário, Lucas! O mundo\nPokémon celebra você! Parabéns por\leste 23 de maio, você é um\ltreinador incrível!$"
+	.string "The Brave Symbol was embossed on\n"
+	.string "the FRONTIER PASS!$"
+
 BattleFrontier_BattlePyramidTop_Text_LookForwardToNextMeeting:
-    .string "Parabéns, Lucas! O mundo POKéMON\ncelebra você hoje! Que seu\laniversário seja épico, Lucas! O seu\lpresente está esperando por você!$"
+	.string "Young explorer!\n"
+	.string "I look forward to our next meeting!$"
+
 BattleFrontier_BattlePyramidTop_Text_BrandonYouveReturned:
-    .string "Um brinde ao Lucas! Não se esqueça\nde comemorar muito! Lucas,\laproveite sua jornada! O mundo\lPOKÉMON celebra você! Hoje é o seu\ldia, Lucas! Você é o mestre\lPOKÉMON que sempre quis ser! Feliz\l23 de maio, Lucas! Não se esqueça\lde comemorar muito! Feliz\laniversário, Lucas! Prepare-se para\lgrandes batalhas! Um brinde ao\lLucas! Capture todos os POKÉMON\lhoje! Hoje é o seu dia, Lucas! Você\lé uma lenda em Hoenn! Um brinde ao\lLucas! O seu presente está\lesperando por você! Lucas, você é o\lmelhor! Prepare-se para grandes\lbatalhas! Feliz 23 de maio, Lucas!\lQue todos os seus desejos se\lrealizem! Lucas, aproveite sua\ljornada! Capture todos os POKÉMON\lhoje! Hoje é o seu dia, Lucas! Que\ltodos os seus desejos se realizem!$"
+	.string "BRANDON: …You've finally returned,\n"
+	.string "young explorer…\p"
+	.string "Your love of adventure seems to come\n"
+	.string "deep from within your heart…\p"
+	.string "Yes… You are exactly as I was in\n"
+	.string "my own youth…\p"
+	.string "… … …Ah…\p"
+	.string "The passionate!\p"
+	.string "The dangerous!\p"
+	.string "The desperate!\p"
+	.string "Those days of death-defying,\n"
+	.string "life-affirming adventures are back…$"
+
 BattleFrontier_BattlePyramidTop_Text_MyCourageIsOffMeter:
-    .string "Feliz aniversário, Lucas! Você é o\ncampeão dos nossos corações! Um\lbrinde ao Lucas! Prepare-se para\lgrandes batalhas! Lucas, você é o\lmelhor! Prepare-se para grandes\lbatalhas!$"
+	.string "Now, then!\p"
+	.string "I sense my own courage is off\n"
+	.string "the meter!$"
+
 BattleFrontier_BattlePyramidTop_Text_EverythingYouHave:
-    .string "Lucas, você é o melhor! O mundo\nPokémon celebra o seu aniversário!\lLucas, aproveite sua jornada! Você é\lo mestre Pokémon que sempre quis\lser!$"
+	.string "Everything you have!\n"
+	.string "I'm braced for it all!$"
+
 BattleFrontier_BattlePyramidTop_Text_BrandonRemarkableHaveThis:
-    .string "Lucas, você é incrível e hoje o dia é\ntodo seu! Feliz aniversário! Seu\lpresente está te esperando,\laproveite sua jornada e capture\ltodos os Pokémon!$"
+	.string "BRANDON: Hahahah!\n"
+	.string "Remarkable!\l"
+	.string "Yes, it's grand, indeed!\p"
+	.string "Young explorer!\p"
+	.string "You've bested me through and through!\n"
+	.string "Here! I want you to have this!$"
+
 BattleFrontier_BattlePyramidTop_Text_BraveSymbolTookGoldenShine:
-    .string "Hoje é seu dia, Lucas! Capture todos\nos Pokémon e que todos os seus\ldesejos de aniversário se realizem!$"
+	.string "The Brave Symbol took on\n"
+	.string "a golden shine!$"
+
 BattleFrontier_BattlePyramidTop_Text_FarewellForNow:
-    .string "Feliz aniversário, Lucas! Você é um\ntreinador incrível e hoje o mundo\lPokémon inteiro celebra o seu dia!$"
+	.string "Ah, yes! It just goes to show that\n"
+	.string "I have much to learn still!\p"
+	.string "May our paths cross again!\n"
+	.string "Farewell for now, young explorer!$"
+
 BattleFrontier_BattlePyramidTop_Text_StepForwardWhenReady:
-    .string "Feliz aniversário, Lucas! Sua jornada\napenas começou. Lucas, que este dia\lseja épico! Sua jornada apenas\lcomeçou.$"
+	.string "Now, when you are ready, take courage\n"
+	.string "and step forward.$"
+

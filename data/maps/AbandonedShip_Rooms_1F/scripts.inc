@@ -32,24 +32,46 @@ AbandonedShip_Rooms_1F_EventScript_ThaliaRematch::
 	end
 
 AbandonedShip_Rooms_1F_Text_TakingALookAround:
-    .string "Lucas, feliz aniversário! Que sua\naventura seja inesquecível!$"
+	.string "Ships of this sort are rare, so I'm\n"
+	.string "taking a look around.\p"
+	.string "Hmhm…\n"
+	.string "There appear to be other cabins…$"
+
 AbandonedShip_Rooms_1F_Text_ThaliaIntro:
-    .string "Feliz aniversário, Lucas! Sua\ndeterminação para ser Mestre\lPokémon é inspiradora! Que este dia\lespecial celebre você e sua incrível\ljornada pelo mundo Pokémon!$"
+	.string "What on earth would compel you to\n"
+	.string "come here? You must be curious!$"
+
 AbandonedShip_Rooms_1F_Text_ThaliaDefeat:
-    .string "Feliz aniversário, Lucas! Hoje o dia\né todo seu, afinal, você se tornou\luma verdadeira lenda em Hoenn!$"
+	.string "Not just curious, but also strong…$"
+
 AbandonedShip_Rooms_1F_Text_ThaliaPostBattle:
-    .string "Lucas, que este dia seja épico! Você\né uma lenda em Hoenn! Aproveite sua\ljornada e prepare-se para grandes\lbatalhas! Um brinde ao Lucas e ao\lseu aniversário! Sua aventura\lapenas começou!$"
+	.string "The man next door…\p"
+	.string "He says he's just sightseeing,\n"
+	.string "but I don't know about that.$"
+
 AbandonedShip_Rooms_1F_Text_ThaliaRegister:
-    .string "Feliz Aniversário, Lucas! Que sua\njornada Pokémon seja épica e cheia\lde vitórias! Você é um TREINADOR\lincrível, e o mundo Pokémon celebra\lvocê hoje!$"
+	.string "You're such a tough TRAINER!\n"
+	.string "Let me register you as a memento!$"
+
 AbandonedShip_Rooms_1F_Text_ThaliaRematchIntro:
-    .string "Feliz ANIVERSÁRIO, Lucas! Que você\ncapture todos os POKeMON hoje! Um\lbrinde a você e à jornada que\lapenas começou!$"
+	.string "What on earth would compel you to\n"
+	.string "come back? You must really be curious!$"
+
 AbandonedShip_Rooms_1F_Text_ThaliaRematchDefeat:
-    .string "Feliz Aniversário, Lucas! Você é uma\nlenda em Hoenn!$"
+	.string "Aren't you too strong?$"
+
 AbandonedShip_Rooms_1F_Text_ThaliaPostRematch:
-    .string "Feliz aniversário, Lucas! Que a sua\njornada seja épica, mas fique\latento... Tenho certeza de que\laquele homem está aprontando\lalguma coisa! Parabéns, você é o\lcampeão do nosso coração!$"
+	.string "I'm sure that man's up to something!\n"
+	.string "He just acts so suspiciously!$"
+
 AbandonedShip_Rooms_1F_Text_DemetriusIntro:
-    .string "Hoje é o seu aniversário, Lucas! Não\nse esqueça de comemorar muito! Um\lbrinde ao Lucas! O mundo POKéMON\lcelebra você!$"
+	.string "Waaah!\n"
+	.string "I've been found! …Huh?$"
+
 AbandonedShip_Rooms_1F_Text_DemetriusDefeat:
-    .string "Feliz aniversário, Lucas! Hoje o dia\né todo seu, afinal, você se tornou\luma verdadeira lenda em Hoenn!$"
+	.string "Oh, you're not my mom.$"
+
 AbandonedShip_Rooms_1F_Text_DemetriusPostBattle:
-    .string "Feliz aniversário, Lucas! Sua jornada\nestá apenas começando. Um brinde\lao Lucas! Você já é uma lenda em\lHoenn!$"
+	.string "I'm in trouble with my mom, so I ran.\n"
+	.string "Keep it a secret where I am!$"
+

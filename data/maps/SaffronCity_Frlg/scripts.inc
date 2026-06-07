@@ -124,117 +124,117 @@ SaffronCity_EventScript_TrainerFanClubSign::
 	end
 
 SaffronCity_Text_WhatDoYouWantGetLost::
-.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
-.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!$"
+	.string "What do you want?\n"
+	.string "Get lost!$"
 
 SaffronCity_Text_BossTakeTownForTeamRocket::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pBOSS said he'll take this town\n"
-	.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "BOSS said he'll take this town\n"
+	.string "in the name of TEAM ROCKET!$"
 
 SaffronCity_Text_DontGetDefiantOrIllHurtYou::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pDon't get defiant!\n"
-	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
+	.string "Don't get defiant!\n"
+	.string "Or I'll have to hurt you!$"
 
 SaffronCity_Text_SaffronBelongsToTeamRocket::
-.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!$"
+	.string "SAFFRON belongs to TEAM ROCKET!$"
 
 SaffronCity_Text_CriminalLifeMakesMeFeelAlive::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pMy life as a criminal makes me feel\n"
-.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
+	.string "My life as a criminal makes me feel\n"
+	.string "so alive!$"
 
 SaffronCity_Text_WatchWhereYoureWalking::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pOw!\n"
-.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "Ow!\n"
+	.string "Watch where you're walking!$"
 
 SaffronCity_Text_WeCanExploitMonsAroundWorld::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWith SILPH under control, we can\n"
-.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!"
-.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!$"
+	.string "With SILPH under control, we can\n"
+	.string "exploit POKéMON around the world!\p"
+	.string "We'll get stinking rich, yeahah!$"
 
 SaffronCity_Text_YouBeatTeamRocket::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYou beat TEAM ROCKET all alone?\n"
-	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "You beat TEAM ROCKET all alone?\n"
+	.string "That's amazing!$"
 
 SaffronCity_Text_SafeToGoOutAgain::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pYeah! TEAM ROCKET is gone!\n"
-.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!$"
+	.string "Yeah! TEAM ROCKET is gone!\n"
+	.string "It's safe to go out again!$"
 
 SaffronCity_Text_PeopleComingBackToSaffron::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pPeople fled from here in droves\n"
-.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
-.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
-	.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "People fled from here in droves\n"
+	.string "when those ROCKETS came.\p"
+	.string "They should be flocking back to\n"
+	.string "SAFFRON now.$"
 
 SaffronCity_Text_FlewHereOnPidgeot::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI flew here on my PIDGEOT when\n"
-.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
-.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!$"
+	.string "I flew here on my PIDGEOT when\n"
+	.string "I read about SILPH.\p"
+	.string "It's already over?\n"
+	.string "I missed the media action…$"
 
 SaffronCity_Text_Pidgeot::
-.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "PIDGEOT: Bi bibii!$"
 
 SaffronCity_Text_SawRocketBossEscaping::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI saw the ROCKET BOSS escaping\n"
-.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
+	.string "I saw the ROCKET BOSS escaping\n"
+	.string "SILPH's building.$"
 
 SaffronCity_Text_ImASecurityGuard::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI'm a security guard.\p"
-.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!$"
+	.string "I'm a security guard.\p"
+	.string "Suspicious kids I don't allow in!$"
 
 SaffronCity_Text_HesTakingASnooze::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p...\n"
-.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
-.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "…\n"
+	.string "Snore…\p"
+	.string "Hah! He's taking a snooze!$"
 
 SaffronCity_Text_CitySign::
-.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
-	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "SAFFRON CITY\n"
+	.string "Shining, Golden Land of Commerce$"
 
 SaffronCity_Text_FightingDojo::
-	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
+	.string "FIGHTING DOJO$"
 
 SaffronCity_Text_GymSign::
-.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
-.string "Parabens, Lucas! Sua jornada\napenas comecou."
-.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "SAFFRON CITY POKéMON GYM\n"
+	.string "LEADER: SABRINA\l"
+	.string "The Master of PSYCHIC POKéMON!$"
 
 SaffronCity_Text_FullHealCuresStatus::
-.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
-.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
-.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou."
-.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
-	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
+	.string "TRAINER TIPS\p"
+	.string "FULL HEAL cures all ailments like\n"
+	.string "burns, paralysis, poisoning,\l"
+	.string "freezing, and sleep.\p"
+	.string "It costs a bit more, but it's more\n"
+	.string "convenient than buying other items.$"
 
 SaffronCity_Text_GreatBallImprovedCatchRate::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pTRAINER TIPS\p"
-.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
-.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
-.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!$"
+	.string "TRAINER TIPS\p"
+	.string "The new GREAT BALL offers improved\n"
+	.string "catching rates.\p"
+	.string "Try it on those hard-to-catch\n"
+	.string "POKéMON.$"
 
 SaffronCity_Text_SilphCoSign::
-	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
+	.string "SILPH CO. OFFICE BUILDING$"
 
 SaffronCity_Text_MrPsychicsHouse::
-	.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "MR. PSYCHIC'S HOUSE$"
 
 SaffronCity_Text_SilphsLatestProduct::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pSILPH's latest product!\n"
-	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "SILPH's latest product!\n"
+	.string "Release to be determined…$"
 
 SaffronCity_Text_TrainerFanClubSign::
-.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "POKéMON TRAINER FAN CLUB\p"
+	.string "Many TRAINERS have scribbled their\n"
+	.string "names on this sign.$"
 
 SaffronCity_Text_HowCanClubNotRecognizeLance::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThis FAN CLUB...\n"
-.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
-.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
-.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
-.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
-	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "This FAN CLUB…\n"
+	.string "No one here has a clue!\p"
+	.string "How could they not recognize\n"
+	.string "the brilliance that is LANCE?\p"
+	.string "He stands for justice!\n"
+	.string "He's cool, and yet passionate!\l"
+	.string "He's the greatest, LANCE!$"
 

@@ -302,192 +302,192 @@ BattleFrontier_Lounge7_EventScript_Gentleman::
 	end
 
 BattleFrontier_Lounge7_Text_LeftTutorIntro:
-.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
-.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou."
-.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
-.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou."
-.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
-.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!"
-.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
-.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
-.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
-.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
-.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!$"
+	.string "Buhahaha!\p"
+	.string "You couldn't tell it from looking now,\n"
+	.string "but I used to be one tough TRAINER.\p"
+	.string "I had a reputation as the toughest\n"
+	.string "BEAUTY around, I tell you!\p"
+	.string "… … … … … …\p"
+	.string "What is it now?\n"
+	.string "You don't believe me.\p"
+	.string "I'm not like that blowhard woman over\n"
+	.string "there. I'm actually talented!\p"
+	.string "Let me prove it to you.\n"
+	.string "I can teach your POKéMON special and\l"
+	.string "yet cute moves.\p"
+	.string "But my lessons don't come free.\n"
+	.string "How about paying for the moves I teach\l"
+	.string "with a wee bit of Battle Points?$"
 
 BattleFrontier_Lounge7_Text_LeftTutorWelcomeBack:
-.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
-.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
-.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!$"
+	.string "Buhahaha!\p"
+	.string "Are you back to learn special and\n"
+	.string "yet cute POKéMON moves?$"
 
 BattleFrontier_Lounge7_Text_TeachWhichMove:
-.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
-	.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "Fine, fine, look here!\n"
+	.string "Which move should I teach?$"
 
 BattleFrontier_Lounge7_Text_MoveWillBeXBattlePoints:
 	.string "The move {STR_VAR_1}, is it?\n"
-	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "That will be {STR_VAR_2} Battle Points, okay?$"
 
 BattleFrontier_Lounge7_Text_TeachMoveToWhichMon:
-.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!$"
+	.string "Fine, fine, now pick the POKéMON\n"
+	.string "I should teach the move to.$"
 
 BattleFrontier_Lounge7_Text_HaventGotEnoughPoints:
-.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!$"
+	.string "What the…\n"
+	.string "You haven't got enough Battle Points!$"
 
 BattleFrontier_Lounge7_Text_IllTakeBattlePoints:
-.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
+	.string "Do you see how skilled I am now?\n"
+	.string "I'll take your Battle Points, thanks!$"
 
 BattleFrontier_Lounge7_Text_YouDontWantTo:
-.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!"
-.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "What's that?\n"
+	.string "You don't want to…\p"
+	.string "If you want to see how skilled I am,\n"
+	.string "you come see me anytime!$"
 
 BattleFrontier_Lounge7_Text_RightTutorIntro:
-.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
-.string "Parabens, Lucas! Sua jornada\napenas comecou."
-.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
-.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
-.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
-.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
-.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
-.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
-.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
-	.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "Ihihihi!\p"
+	.string "I know it's hard to see now, but I used\n"
+	.string "to be one fantastic TRAINER.\p"
+	.string "I had a reputation as the most\n"
+	.string "invincible SWIMMER around, I tell you!\p"
+	.string "… … … … … …\p"
+	.string "What's wrong?\n"
+	.string "You don't believe me.\p"
+	.string "I'm not like that buffoonish woman over\n"
+	.string "there. I'm actually experienced!\p"
+	.string "I can prove it to you.\n"
+	.string "I can teach your POKéMON hard and\l"
+	.string "yet pretty moves.\p"
+	.string "But my lessons don't come free.\n"
+	.string "How about paying for the moves I teach\l"
+	.string "with a wee bit of Battle Points?$"
 
 BattleFrontier_Lounge7_Text_RightTutorWelcomeBack:
-.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
-	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "Ihihihi!\p"
+	.string "Have you come to learn hard and\n"
+	.string "yet pretty POKéMON moves?$"
 
 BattleFrontier_Lounge7_Text_ThinkLadiesDontGetAlong:
-.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
-.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
-.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!$"
+	.string "Those ladies, the way they bad-mouth\n"
+	.string "each other, you probably think that\l"
+	.string "they don't get along.\p"
+	.string "But if that were true, they wouldn't\n"
+	.string "stay out here together, would they?$"
 
 BattleFrontier_Lounge7_Text_LadiesWereStrongAndBeautiful:
-.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
-.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
-.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
-.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
-.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!$"
+	.string "When I was just a wee YOUNGSTER,\n"
+	.string "those ladies were strong and beautiful.\p"
+	.string "They were idols among us TRAINERS.\p"
+	.string "Even now, age hasn't dulled their\n"
+	.string "abilities.\p"
+	.string "In fact, their POKéMON moves have\n"
+	.string "grown even more polished.\p"
+	.string "But… For some reason, I can't help\n"
+	.string "but feel this…\p"
+	.string "Time is so cruel…$"
 
 BattleFrontier_Lounge7_Text_SoftboiledDesc::
-.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
-.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
-.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
+	.string "Recovers up to\n"
+	.string "half the user's\n"
+	.string "maximum HP.$"
 
 BattleFrontier_Lounge7_Text_SeismicTossDesc::
-.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!$"
+	.string "Inflicts damage\n"
+	.string "identical to the\n"
+	.string "user's level.$"
 
 BattleFrontier_Lounge7_Text_DreamEaterDesc::
-.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
-.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
-.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
+	.string "Recovers half the\n"
+	.string "damage inflicted\n"
+	.string "on a sleeping foe.$"
 
 BattleFrontier_Lounge7_Text_MegaPunchDesc::
-.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!"
-.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
-.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
+	.string "A strong punch\n"
+	.string "thrown with\n"
+	.string "incredible power.$"
 
 BattleFrontier_Lounge7_Text_MegaKickDesc::
-.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
-	.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
+	.string "An extremely\n"
+	.string "powerful kick with\n"
+	.string "intense force.$"
 
 BattleFrontier_Lounge7_Text_BodySlamDesc::
-.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
-	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
+	.string "A full-body slam\n"
+	.string "that may cause\n"
+	.string "paralysis.$"
 
 BattleFrontier_Lounge7_Text_RockSlideDesc::
-.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
-.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
-	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "Large boulders\n"
+	.string "are hurled. May\n"
+	.string "cause flinching.$"
 
 BattleFrontier_Lounge7_Text_CounterDesc::
-.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou.$"
+	.string "Retaliates any\n"
+	.string "physical hit with\n"
+	.string "double the power.$"
 
 BattleFrontier_Lounge7_Text_ThunderWaveDesc::
-.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
-.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
-	.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "A weak jolt of\n"
+	.string "electricity that\n"
+	.string "paralyzes the foe.$"
 
 BattleFrontier_Lounge7_Text_SwordsDanceDesc::
-.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
-.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
-	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "A fighting dance\n"
+	.string "that sharply\n"
+	.string "raises ATTACK.$"
 
 BattleFrontier_Lounge7_Text_DefenseCurlDesc::
-.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
+	.string "Curls up to con-\n"
+	.string "ceal weak spots\n"
+	.string "and raise DEFENSE.$"
 
 BattleFrontier_Lounge7_Text_SnoreDesc::
-.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "A loud attack\n"
+	.string "that can be used\n"
+	.string "only while asleep.$"
 
 BattleFrontier_Lounge7_Text_MudSlapDesc::
-.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
-.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
-	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
+	.string "Hurls mud in the\n"
+	.string "foe's face to re-\n"
+	.string "duce its accuracy.$"
 
 BattleFrontier_Lounge7_Text_SwiftDesc::
-.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
-.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
-.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
+	.string "Sprays star-\n"
+	.string "shaped rays\n"
+	.string "that never miss.$"
 
 BattleFrontier_Lounge7_Text_IcyWindDesc::
-.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
-.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou."
-.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "A chilling attack\n"
+	.string "that lowers the\n"
+	.string "foe's SPEED.$"
 
 BattleFrontier_Lounge7_Text_EndureDesc::
-.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
-.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
-.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "Endures any at-\n"
+	.string "tack for 1 turn,\n"
+	.string "leaving 1HP.$"
 
 BattleFrontier_Lounge7_Text_PsychUpDesc::
-.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
-.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!$"
+	.string "Copies the foe's\n"
+	.string "effect(s) and\n"
+	.string "gives to the user.$"
 
 BattleFrontier_Lounge7_Text_IcePunchDesc::
-.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
-	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "An icy punch\n"
+	.string "that may\n"
+	.string "freeze the foe.$"
 
 BattleFrontier_Lounge7_Text_ThunderPunchDesc::
-.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
-	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
+	.string "An electrified\n"
+	.string "punch that may\n"
+	.string "paralyze the foe.$"
 
 BattleFrontier_Lounge7_Text_FirePunchDesc::
-.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
-.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
-	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "A fiery punch\n"
+	.string "that may burn\n"
+	.string "the foe.$"

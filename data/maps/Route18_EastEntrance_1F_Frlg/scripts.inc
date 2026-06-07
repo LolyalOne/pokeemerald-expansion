@@ -110,13 +110,13 @@ Route18_EastEntrance_1F_Movement_WalkRight::
 	step_end
 
 Route18_EastEntrance_1F_Text_NeedBicycleForCyclingRoad::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYou need a BICYCLE to go out on\n"
-	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "You need a BICYCLE to go out on\n"
+	.string "CYCLING ROAD!$"
 
 Route18_EastEntrance_1F_Text_CyclingRoadAllUphillFromHere::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pCYCLING ROAD is all uphill from\n"
-	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "CYCLING ROAD is all uphill from\n"
+	.string "here.$"
 
 Route18_EastEntrance_1F_Text_ExcuseMe::
-	.string "Feliz 23 de Maio, Lucas! Sua jornada apenas comecou.$"
+	.string "Excuse me!$"
 

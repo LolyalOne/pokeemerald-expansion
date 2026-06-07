@@ -53,16 +53,16 @@ OldaleTown_Mart_EventScript_Boy::
 	end
 
 OldaleTown_Mart_Text_PokeBallsAreSoldOut:
-.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
-.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!$"
+	.string "The clerk says they're all sold out.\n"
+	.string "I can't buy any POKé BALLS.$"
 
 OldaleTown_Mart_Text_ImGoingToBuyPokeBalls:
-.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!$"
+	.string "I'm going to buy a bunch of POKé BALLS\n"
+	.string "and catch a bunch of POKéMON!$"
 
 OldaleTown_Mart_Text_RestoreHPWithPotion:
-.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
-.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
-.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
-.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
+	.string "If a POKéMON gets hurt and loses its HP\n"
+	.string "and faints, it won't be able to battle.\p"
+	.string "To prevent your POKéMON from fainting,\n"
+	.string "restore its HP with a POTION.$"
 

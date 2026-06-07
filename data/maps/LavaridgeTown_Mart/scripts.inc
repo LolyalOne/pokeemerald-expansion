@@ -33,13 +33,13 @@ LavaridgeTown_Mart_EventScript_OldWoman::
 	end
 
 LavaridgeTown_Mart_Text_XSpeedFirstStrike:
-.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
-.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "Use X SPEED to add to a POKéMON's\n"
+	.string "SPEED in battle.\p"
+	.string "That will help it get in the first\n"
+	.string "strike--a decided advantage!$"
 
 LavaridgeTown_Mart_Text_LocalSpecialtyOnMtChimney:
-.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
-.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou.$"
+	.string "On MT. CHIMNEY's peak, there's a local\n"
+	.string "specialty that you can buy only there.\p"
+	.string "Give it to a POKéMON--it will be elated.$"
 

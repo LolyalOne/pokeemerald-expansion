@@ -6,6 +6,6 @@ FourIsland_House1_EventScript_FatMan::
 	end
 
 FourIsland_House1_Text_YoureAwfullyHeavy::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pThere! Boing!\n"
-	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
+	.string "There! Boing!\n"
+	.string "You're awfully heavy!$"
 

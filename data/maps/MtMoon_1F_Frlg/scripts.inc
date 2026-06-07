@@ -46,94 +46,94 @@ MtMoon_1F_EventScript_Robby::
 	end
 
 MtMoon_1F_Text_MarcosIntro::
-.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
-.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
-.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!$"
+	.string "WHOA!\n"
+	.string "You shocked me!\l"
+	.string "…Oh, you're just a kid!$"
 
 MtMoon_1F_Text_MarcosDefeat::
-.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
-	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
+	.string "Wow!\n"
+	.string "Shocked again!$"
 
 MtMoon_1F_Text_MarcosPostBattle::
-.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!$"
+	.string "Kids like you shouldn't be\n"
+	.string "wandering around here in the dark.$"
 
 MtMoon_1F_Text_JoshIntro::
-.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
-	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
+	.string "Did you come to explore the cave,\n"
+	.string "too?$"
 
 MtMoon_1F_Text_JoshDefeat::
-.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
-	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "Losing stinks!\n"
+	.string "It's so uncool.$"
 
 MtMoon_1F_Text_JoshPostBattle::
-.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
-	.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
+	.string "I came all the way down here to\n"
+	.string "show off to girls.$"
 
 MtMoon_1F_Text_MiriamIntro::
-.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou.$"
+	.string "Wow! It's way bigger in here than\n"
+	.string "I thought!$"
 
 MtMoon_1F_Text_MiriamDefeat::
-.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "Oh!\n"
+	.string "I lost it!$"
 
 MtMoon_1F_Text_MiriamPostBattle::
-.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
-.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "How do you get out of here?\n"
+	.string "It's so big, I may get lost.$"
 
 MtMoon_1F_Text_JovanIntro::
-.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
-.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
+	.string "What!\n"
+	.string "Don't sneak up on me!$"
 
 MtMoon_1F_Text_JovanDefeat::
-.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
+	.string "My POKéMON won't do!$"
 
 MtMoon_1F_Text_JovanPostBattle::
-.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
-	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
+	.string "I have to find stronger POKéMON.\n"
+	.string "Where might they be?$"
 
 MtMoon_1F_Text_IrisIntro::
-.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!"
-.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
-.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!$"
+	.string "What?\n"
+	.string "I'm waiting for my friends to find\l"
+	.string "me here.$"
 
 MtMoon_1F_Text_IrisDefeat::
-	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
+	.string "I lost?$"
 
 MtMoon_1F_Text_IrisPostBattle::
-.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
-	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
+	.string "I came because I heard there are\n"
+	.string "some very rare fossils here.$"
 
 MtMoon_1F_Text_KentIntro::
-.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "Suspicious men are in the cave.\n"
+	.string "What about you?$"
 
 MtMoon_1F_Text_KentDefeat::
-.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
+	.string "You got me!$"
 
 MtMoon_1F_Text_KentPostBattle::
-.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
-.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!$"
+	.string "I saw them!\n"
+	.string "I'm sure they're from TEAM ROCKET!$"
 
 MtMoon_1F_Text_RobbyIntro::
-.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
-	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
+	.string "You need to go through this cave\n"
+	.string "to get to CERULEAN CITY.$"
 
 MtMoon_1F_Text_RobbyDefeat::
-.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!$"
+	.string "I lost.$"
 
 MtMoon_1F_Text_RobbyPostBattle::
-.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
-.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "ZUBAT is tough!\n"
+	.string "But if you can catch one, you'll\l"
+	.string "be able to count on it.$"
 
 MtMoon_1F_Text_ZubatIsABloodsucker::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pBeware!\n"
-.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou.$"
+	.string "Beware!\n"
+	.string "ZUBAT is a bloodsucker!$"
 
 MtMoon_1F_Text_BrockHelpsExcavateFossils::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHi, I'm excavating for fossils here\n"
-.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
-	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "Hi, I'm excavating for fossils here\n"
+	.string "under MT. MOON.\p"
+	.string "Sometimes, BROCK of PEWTER GYM\n"
+	.string "lends me a hand.$"

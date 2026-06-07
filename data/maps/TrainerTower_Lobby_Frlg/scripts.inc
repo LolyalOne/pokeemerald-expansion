@@ -223,120 +223,120 @@ TrainerTower_Lobby_EventScript_BaldingMan::
 @ All Trainer Tower text (Lobby and Roof) is interleaved here
 
 TrainerTower_Lobby_Text_WelcomeToTrainerTower::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pHello!\p"
-.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!$"
+	.string "Hello!\p"
+	.string "Welcome to TRAINER TOWER where\n"
+	.string "TRAINERS gather from all over!$"
 
 TrainerTower_Lobby_Text_TrainersUpToFloorNum::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pTRAINERS from all over the world\n"
-.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
-	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
+	.string "TRAINERS from all over the world\n"
+	.string "gather here to battle.\p"
+	.string "Let me see…\p"
+	.string "Right now, there are TRAINERS only\n"
+	.string "up to Floor {STR_VAR_1}.$"
 
 TrainerTower_Lobby_Text_TrainersUpEighthFloor::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pTRAINERS are awaiting your\n"
-.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "TRAINERS are awaiting your\n"
+	.string "challenge up to the eighth floor.$"
 
 TrainerTower_Lobby_Text_LikeToChallengeTrainers::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWould you like to challenge the\n"
-	.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "Would you like to challenge the\n"
+	.string "waiting TRAINERS?$"
 
 TrainerTower_Lobby_Text_StartClockGetSetGo::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pOkay, I'll get the clock started,\n"
-.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
-.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
-	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "Okay, I'll get the clock started,\n"
+	.string "so give it everything you have.\p"
+	.string "On your marks…\p"
+	.string "Get set…\p"
+	.string "Go!$"
 
 TrainerTower_Lobby_Text_PleaseVisitUsAgain::
-	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
+	.string "Please do visit us again!$"
 
 TrainerTower_Lobby_Text_TooBadComeBackTryAgain::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pThat was too bad.\p"
-.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
-.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!$"
+	.string "That was too bad.\p"
+	.string "I think you put in a tremendous\n"
+	.string "effort in your battling.\p"
+	.string "Please come back and try again!$"
 
 TrainerTower_Lobby_Text_GiveItYourBest::
-.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!$"
+	.string "I hope you give it your best.$"
 
 TrainerTower_Lobby_Text_MoveCounterHereWhenTrainersSwitch::
-.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
-.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
-.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
-.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
+	.string "When the TRAINERS switch places,\n"
+	.string "the movement can be hectic.\p"
+	.string "To avoid the stampede, we moved\n"
+	.string "the reception counter here.\p"
+	.string "I'm sorry for the inconvenience.$"
 
 TrainerTower_Roof_Text_ImOwnerBattledPerfectly::
-.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
-.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
-.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
-.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!"
-.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou."
-.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
-	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "Hello…\p"
+	.string "I am the owner of this TOWER…\p"
+	.string "How the sky soars above this\n"
+	.string "rooftop…\p"
+	.string "The caress of the winds up here…\p"
+	.string "It's all so perfect…\p"
+	.string "The way you battled…\n"
+	.string "It, too, was perfection…$"
 
 TrainerTower_Roof_Text_ThisIsForYou::
-	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
+	.string "This is for you…$"
 
 TrainerTower_Roof_Text_DoneItInRecordTime::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh!\n"
-.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
-.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
-.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
-.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
-.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
-.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
-.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "Oh!\n"
+	.string "Stupendous!\p"
+	.string "It's marvelous how you've come up\n"
+	.string "here so quickly.\p"
+	.string "The fact is, you've done it in\n"
+	.string "record time…\p"
+	.string "I'll have your record posted at\n"
+	.string "the reception counter.$"
 
 TrainerTower_Roof_Text_TookSweetTimeGettingHere::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYou seem to have taken your sweet\n"
-.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!$"
+	.string "You seem to have taken your sweet\n"
+	.string "time getting here…$"
 
 TrainerTower_Roof_Text_IdLikeToSeeBetterTime::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWhat I would like to see is a\n"
-.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "What I would like to see is a\n"
+	.string "better time out of you…\p"
+	.string "I'm counting on you.\p"
+	.string "Until then, farewell…$"
 
 TrainerTower_Text_XMinYZSec::
-.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "{STR_VAR_1} min. {STR_VAR_2}.{STR_VAR_3} sec.$"
 
 TrainerTower_Lobby_Text_HereAreTheResults::
-.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "せいせきひょうです$"
 
 TrainerTower_Lobby_Text_NeedTwoMonsForDouble::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThis is a two-on-two battle.\p"
-.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!$"
+	.string "This is a two-on-two battle.\p"
+	.string "You may not battle unless you have\n"
+	.string "at least two POKéMON.$"
 
 TrainerTower_Lobby_Text_ExplainTrainerTower::
-.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
-.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
-.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
-.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
-.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
-.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
-.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
-.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
-.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!$"
+	.string "Here at TRAINER TOWER, there is an\n"
+	.string "event called TIME ATTACK.\p"
+	.string "You will be timed on how quickly\n"
+	.string "you can get from the reception\l"
+	.string "counter to the OWNER on the roof.\p"
+	.string "The best times will be recorded on\n"
+	.string "the Time Board.\p"
+	.string "Try competing with friends to see\n"
+	.string "who can beat it the fastest.\p"
+	.string "You will not earn any EXP. Points\n"
+	.string "or money by beating TRAINERS here.$"
 
 TrainerTower_Lobby_Text_ThanksForCompeting::
-	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "Thank you for competing!$"
 
 TrainerTower_Lobby_Text_WonderWhatKindsOfTrainers::
-.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!"
-.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
-.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
-.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!$"
+	.string "I'm here to see how good I am.\p"
+	.string "I wonder what kinds of TRAINERS\n"
+	.string "are waiting for me?\p"
+	.string "It's nerve-racking!$"
 
 TrainerTower_Lobby_Text_StairsTougherThanAnyBattle::
-.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
-.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
-.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
-.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!$"
+	.string "Gasp, gasp…\n"
+	.string "Gasp…\p"
+	.string "Never mind battling! These stairs…\n"
+	.string "They're tougher than any battle…$"
 

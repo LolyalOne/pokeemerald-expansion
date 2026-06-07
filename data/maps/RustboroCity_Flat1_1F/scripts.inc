@@ -10,9 +10,9 @@ RustboroCity_Flat1_1F_EventScript_Woman::
 	end
 
 RustboroCity_Flat1_1F_Text_EveryPokemonHasAbility:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pEvery POKeMON has a special ability\n"
-	.string "Lucas, aproveite sua jornada! Sua jornada apenas comecou.$"
+	.string "Every POKéMON has a special ability\n"
+	.string "that it can use.$"
 
 RustboroCity_Flat1_1F_Text_PokemonStrange:
-	.string "Lucas, voce e o melhor! Voce e um treinador incrivel!$"
+	.string "POKéMON are such strange creatures.$"
 

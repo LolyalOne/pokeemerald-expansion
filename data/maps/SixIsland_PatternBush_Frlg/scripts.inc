@@ -78,158 +78,158 @@ SixIsland_PatternBush_EventScript_Layton::
 	end
 
 SixIsland_PatternBush_Text_BethanyIntro::
-.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!$"
+	.string "I'm curious, how do you raise your\n"
+	.string "POKéMON?$"
 
 SixIsland_PatternBush_Text_BethanyDefeat::
-.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
+	.string "You raise your POKéMON with a\n"
+	.string "whole lot of love!$"
 
 SixIsland_PatternBush_Text_BethanyPostBattle::
-.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
-	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "In the same way your mother raised\n"
+	.string "you full of love, you should raise\l"
+	.string "your POKéMON.$"
 
 SixIsland_PatternBush_Text_AllisonIntro::
-.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
-.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!$"
+	.string "I'm working to preserve the natural\n"
+	.string "ecology of POKéMON here.$"
 
 SixIsland_PatternBush_Text_AllisonDefeat::
-.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
-.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!$"
+	.string "Oh, for someone so young, you are\n"
+	.string "tremendous!$"
 
 SixIsland_PatternBush_Text_AllisonPostBattle::
-.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
-.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
-	.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
+	.string "I'm not saying that you shouldn't\n"
+	.string "catch POKéMON.\p"
+	.string "I just want people to raise their\n"
+	.string "POKéMON responsibly.$"
 
 SixIsland_PatternBush_Text_GarretIntro::
-.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
-.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!$"
+	.string "I caught a BUG POKéMON that lives\n"
+	.string "only around here!$"
 
 SixIsland_PatternBush_Text_GarretDefeat::
-.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!"
-.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
+	.string "Heheh…\n"
+	.string "Isn't my POKéMON awesome?$"
 
 SixIsland_PatternBush_Text_GarretPostBattle::
-.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "There's a girl near the BUSH who\n"
+	.string "measures HERACROSS for TRAINERS.$"
 
 SixIsland_PatternBush_Text_JonahIntro::
-.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
-.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!$"
+	.string "You know, it just doesn't feel right\n"
+	.string "if I don't use BUG POKéMON.$"
 
 SixIsland_PatternBush_Text_JonahDefeat::
-.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
-.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!$"
+	.string "It's okay, losing is a fun part of\n"
+	.string "POKéMON's appeal, too.$"
 
 SixIsland_PatternBush_Text_JonahPostBattle::
-.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
-.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
-	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
+	.string "By the way, “appeal” is a weird\n"
+	.string "word, if you think about it.\p"
+	.string "Like, is it like an orange peel?\n"
+	.string "Or like a ringing bell?$"
 
 SixIsland_PatternBush_Text_VanceIntro::
-.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "Yeah, yeah, yeah!\n"
+	.string "Look at all the BUG POKéMON!$"
 
 SixIsland_PatternBush_Text_VanceDefeat::
-.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
-	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
+	.string "I got beat while I was still busy\n"
+	.string "celebrating!$"
 
 SixIsland_PatternBush_Text_VancePostBattle::
-.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
-	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
+	.string "I'm going to bring my little brother\n"
+	.string "here next time.$"
 
 SixIsland_PatternBush_Text_NashIntro::
-.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
-	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
+	.string "Look, look! There are funny\n"
+	.string "patterns on the ground.$"
 
 SixIsland_PatternBush_Text_NashDefeat::
-.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
+	.string "Super awesome!$"
 
 SixIsland_PatternBush_Text_NashPostBattle::
-.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
-.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
-.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!$"
+	.string "The funny patterns on the ground…\p"
+	.string "They look like the patterns on my\n"
+	.string "grandpa's clothes.$"
 
 SixIsland_PatternBush_Text_CordellIntro::
-.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
-.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!$"
+	.string "I bet you think I'm just some guy,\n"
+	.string "don't you, eh?$"
 
 SixIsland_PatternBush_Text_CordellDefeat::
-.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
-	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
+	.string "I bet you think I'm weak,\n"
+	.string "don't you, eh?$"
 
 SixIsland_PatternBush_Text_CordellPostBattle::
-.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
-.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!$"
+	.string "Ayup, you townies come around all\n"
+	.string "so dandy with a hat that flashy…\p"
+	.string "How about giving me that?$"
 
 SixIsland_PatternBush_Text_DaliaIntro::
-.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
-.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
+	.string "Take a deep breath.\n"
+	.string "Isn't the air delicious?$"
 
 SixIsland_PatternBush_Text_DaliaDefeat::
-.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
-	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
+	.string "If you'd like, I can teach you how\n"
+	.string "to breathe properly.$"
 
 SixIsland_PatternBush_Text_DaliaPostBattle::
-.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
-.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
-	.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "First, exhale.\n"
+	.string "Blow everything out.\p"
+	.string "When you can't exhale anymore,\n"
+	.string "inhale the clean air!\p"
+	.string "Isn't it refreshing?$"
 
 SixIsland_PatternBush_Text_JoanaIntro::
-.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
-	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
+	.string "I love BUG POKéMON.\n"
+	.string "That's why I'm here all the time.\p"
+	.string "Am I the only girl like that?$"
 
 SixIsland_PatternBush_Text_JoanaDefeat::
-.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
-	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "I lost, but I'm still laughing.\n"
+	.string "Am I the only girl like that?$"
 
 SixIsland_PatternBush_Text_JoanaPostBattle::
-.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
-.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
-.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!$"
+	.string "I'm going to keep on collecting\n"
+	.string "BUG POKéMON.\p"
+	.string "Am I the only girl like that?$"
 
 SixIsland_PatternBush_Text_RileyIntro::
-.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
-	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
+	.string "This is a good spot.\n"
+	.string "I'll pitch my tent here.$"
 
 SixIsland_PatternBush_Text_RileyDefeat::
-.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!$"
+	.string "Wimped out…$"
 
 SixIsland_PatternBush_Text_RileyPostBattle::
-.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
-.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!$"
+	.string "I'm going to observe the night sky\n"
+	.string "here.$"
 
 SixIsland_PatternBush_Text_MarcyIntro::
-.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
-	.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "Oh, yuck!\n"
+	.string "I think a bug stung me!$"
 
 SixIsland_PatternBush_Text_MarcyDefeat::
-.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
-	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
+	.string "It wasn't a bug.\n"
+	.string "I cut my shin on some grass.$"
 
 SixIsland_PatternBush_Text_MarcyPostBattle::
-.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
-	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
+	.string "A little cut like that…\n"
+	.string "A little spit's enough to cure it!$"
 
 SixIsland_PatternBush_Text_LaytonIntro::
-.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
-.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou.$"
+	.string "Have you noticed something odd\n"
+	.string "about these parts?$"
 
 SixIsland_PatternBush_Text_LaytonDefeat::
-.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
-	.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "Have you taken a good look around\n"
+	.string "your feet?$"
 
 SixIsland_PatternBush_Text_LaytonPostBattle::
-.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
-.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
-.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
-.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
+	.string "There are places here in PATTERN\n"
+	.string "BUSH where grass won't grow.\p"
+	.string "What could be the cause of such\n"
+	.string "a phenomenon?$"
 

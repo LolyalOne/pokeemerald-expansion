@@ -31,30 +31,30 @@ CinnabarIsland_PokemonLab_Entrance_EventScript_TestingRoomSign::
 	end
 
 CinnabarIsland_Gym_Text_PhotoOfBlaineAndFuji::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pIt's a photo of BLAINE and\n"
-.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
-.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou."
-.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!$"
+	.string "It's a photo of BLAINE and\n"
+	.string "MR. FUJI.\p"
+	.string "They're standing shoulder to\n"
+	.string "shoulder with big grins.$"
 
 CinnabarIsland_PokemonLab_Entrance_Text_StudyMonsExtensively::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWe study POKeMON extensively\n"
-.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
-.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
-	.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
+	.string "We study POKéMON extensively\n"
+	.string "every day.\p"
+	.string "People often bring us rare POKéMON\n"
+	.string "for examination.$"
 
 CinnabarIsland_PokemonLab_Entrance_Text_PhotoOfLabFounderDrFuji::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pA photo of the LAB's founder...\n"
-.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!$"
+	.string "A photo of the LAB's founder…\n"
+	.string "DR. FUJI?!$"
 
 CinnabarIsland_PokemonLab_Entrance_Text_MeetingRoomSign::
-.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
-	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "POKéMON LAB\n"
+	.string "Meeting Room$"
 
 CinnabarIsland_PokemonLab_Entrance_Text_RAndDRoomSign::
-.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!$"
+	.string "POKéMON LAB\n"
+	.string "R & D Room$"
 
 CinnabarIsland_PokemonLab_Entrance_Text_TestingRoomSign::
-.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
-	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
+	.string "POKéMON LAB\n"
+	.string "Testing Room$"
 

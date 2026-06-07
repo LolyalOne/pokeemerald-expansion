@@ -85,4 +85,6 @@ BattleFrontier_BattleArenaCorridor_Movement_AttendantMoveOutOfWay:
 	step_end
 
 BattleFrontier_BattleArenaCorridor_Text_PleaseStepIn:
-    .string "Um brinde ao Lucas! Prepare-se para\ngrandes batalhas! Feliz aniversário,\lLucas! Você é o campeão do nosso\lcoração!$"
+	.string "Your battles shall be waged in\n"
+	.string "the next room. Please step in!$"
+

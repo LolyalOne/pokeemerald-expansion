@@ -23,10 +23,10 @@ MauvilleCity_PokemonCenter_2F_EventScript_Youngster::
 	end
 
 MauvilleCity_PokemonCenter_2F_Text_Youngster:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pDid you know that you can link battle\n"
-.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
-.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
-.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
-	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "Did you know that you can link battle\n"
+	.string "at the COLOSSEUM here?\p"
+	.string "They put up your record on the wall\n"
+	.string "for everyone to see.\p"
+	.string "It's embarrassing if you lose more\n"
+	.string "often than you win…$"
 

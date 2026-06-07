@@ -42,7 +42,7 @@ Route106_EventScript_Ned::
 	end
 
 Route106_Text_TrainerTips:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pTRAINER TIPS\p"
-.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "TRAINER TIPS\p"
+	.string "Advice on catching POKéMON with a ROD:\n"
+	.string "Press the A Button if you get a bite.$"
 

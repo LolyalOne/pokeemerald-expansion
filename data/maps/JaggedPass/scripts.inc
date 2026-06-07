@@ -148,119 +148,119 @@ JaggedPass_EventScript_Autumn::
 	end
 
 JaggedPass_Text_EricIntro:
-.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
-.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
-.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
-.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
-	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
+	.string "MT. CHIMNEY's JAGGED PASS…\p"
+	.string "Now this is what I've always wanted\n"
+	.string "in a mountain.\p"
+	.string "This jagged bumpiness…\n"
+	.string "It rocks my soul!$"
 
 JaggedPass_Text_EricDefeat:
-	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
+	.string "Losing left me bitter!$"
 
 JaggedPass_Text_EricPostBattle:
-.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!"
-.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!$"
+	.string "Yes, I did lose at POKéMON…\p"
+	.string "But, when it comes to the love of\n"
+	.string "the mountains, I have you beat!$"
 
 JaggedPass_Text_DianaIntro:
-.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
-.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
+	.string "This place isn't your casual hike.\n"
+	.string "It's not suited for a picnic.$"
 
 JaggedPass_Text_DianaDefeat:
-.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!$"
+	.string "Ohhh, no!\n"
+	.string "The ground is too bumpy…$"
 
 JaggedPass_Text_DianaPostBattle:
-.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
-.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!$"
+	.string "Did you know?\p"
+	.string "Some people cleverly ride their\n"
+	.string "bicycles up this horribly bumpy pass.$"
 
 JaggedPass_Text_DianaRegister:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pWill you ever be back in this area?\n"
-	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "Will you ever be back in this area?\n"
+	.string "If you do return, I'd like a rematch.$"
 
 JaggedPass_Text_DianaRematchIntro:
-.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!$"
+	.string "Picnics are fun wherever you go.\n"
+	.string "Just like POKéMON!$"
 
 JaggedPass_Text_DianaRematchDefeat:
-.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
+	.string "I only lost because the ground is\n"
+	.string "too bumpy!$"
 
 JaggedPass_Text_DianaPostRematch:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI'll forget about losing and just\n"
-.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!$"
+	.string "I'll forget about losing and just\n"
+	.string "enjoy this bumpy hike.$"
 
 JaggedPass_Text_EthanIntro:
-.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
-	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
+	.string "JAGGED PASS is hard to walk on.\n"
+	.string "It's a good place for training.$"
 
 JaggedPass_Text_EthanDefeat:
-.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
-.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "It was all over while we were still\n"
+	.string "trying to find a good footing…$"
 
 JaggedPass_Text_EthanPostBattle:
-.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
-.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
+	.string "If I had an ACRO BIKE, I'd be able to\n"
+	.string "jump ledges.$"
 
 JaggedPass_Text_EthanRegister:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pWhen I get more used to this bumpiness,\n"
-.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
-	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
+	.string "When I get more used to this bumpiness,\n"
+	.string "I'll be sure to win!\p"
+	.string "Can you register me in your POKéNAV?$"
 
 JaggedPass_Text_EthanRematchIntro:
-.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
-	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "I got used to this bumpiness.\n"
+	.string "I sing while I climb now.$"
 
 JaggedPass_Text_EthanRematchDefeat:
-.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
-.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
+	.string "It's still not easy to battle on this\n"
+	.string "bumpy ground…$"
 
 JaggedPass_Text_EthanPostRematch:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI should get an ACRO BIKE from RYDEL\n"
-.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "I should get an ACRO BIKE from RYDEL\n"
+	.string "in MAUVILLE CITY…$"
 
 JaggedPass_Text_GruntIntro:
-.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
-	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
+	.string "Wah!\n"
+	.string "What are you doing here?\p"
+	.string "What am I doing in a place like this?\p"
+	.string "What business is it of yours?$"
 
 JaggedPass_Text_GruntDefeat:
-.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
-	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "Urrrgh…\p"
+	.string "I should've ducked into our HIDEOUT\n"
+	.string "right away…$"
 
 JaggedPass_Text_GoWhereverYouWant:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOkay, oh-kay!\n"
-.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
-.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!$"
+	.string "Okay, oh-kay!\n"
+	.string "I admit it--you're strong!\p"
+	.string "Don't worry about me.\n"
+	.string "Go wherever you want!$"
 
 JaggedPass_Text_BoulderShakingInResponseToEmblem:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pOh! This boulder is shaking in response\n"
-.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "Oh! This boulder is shaking in response\n"
+	.string "to the MAGMA EMBLEM!$"
 
 JaggedPass_Text_JulioIntro:
-.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
-.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "Aiyeeh! It's awfully scary to shoot\n"
+	.string "down the mountain in one go!$"
 
 JaggedPass_Text_JulioDefeat:
-	.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
+	.string "I feel like I'm falling apart…$"
 
 JaggedPass_Text_JulioPostBattle:
-.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
-	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
+	.string "My bicycle bounced around so much,\n"
+	.string "my rear end's sore…$"
 
 JaggedPass_Text_AutumnIntro:
-.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-	.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "I climb this hill every day.\n"
+	.string "I have confidence in my strength!$"
 
 JaggedPass_Text_AutumnDefeat:
-.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
-	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "Hmm…\n"
+	.string "What went wrong?$"
 
 JaggedPass_Text_AutumnPostBattle:
-.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
-.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
+	.string "What is that odd rock protrusion\n"
+	.string "a little up the hill from here?$"
 

@@ -67,40 +67,40 @@ LilycoveCity_MoveDeletersHouse_EventScript_LastMonWithSurf::
 	end
 
 LilycoveCity_MoveDeletersHouse_Text_ICanMakeMonForgetMove:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pUh...\n"
-.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
-.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "Uh…\n"
+	.string "Oh, yes, I'm the MOVE DELETER.\p"
+	.string "I can make POKéMON forget their moves.\p"
+	.string "Would you like me to do that?$"
 
 LilycoveCity_MoveDeletersHouse_Text_WhichMonShouldForget:
-	.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
+	.string "Which POKéMON should forget a move?$"
 
 LilycoveCity_MoveDeletersHouse_Text_WhichMoveShouldBeForgotten:
-	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "Which move should be forgotten?$"
 
 LilycoveCity_MoveDeletersHouse_Text_MonOnlyKnowsOneMove:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p{STR_VAR_1} knows only one move\n"
-	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
+	.string "{STR_VAR_1} knows only one move\n"
+	.string "so it can't be forgotten…$"
 
 LilycoveCity_MoveDeletersHouse_Text_MonsMoveShouldBeForgotten:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHm! {STR_VAR_1}'s {STR_VAR_2}?\n"
-	.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "Hm! {STR_VAR_1}'s {STR_VAR_2}?\n"
+	.string "That move should be forgotten?$"
 
 LilycoveCity_MoveDeletersHouse_Text_MonHasForgottenMove:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pIt worked to perfection!\p"
+	.string "It worked to perfection!\p"
 	.string "{STR_VAR_1} has forgotten\n"
-	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
+	.string "{STR_VAR_2} completely.$"
 
 LilycoveCity_MoveDeletersHouse_Text_ComeAgain:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pCome again if there are moves that\n"
-.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "Come again if there are moves that\n"
+	.string "need to be forgotten.$"
 
 LilycoveCity_MoveDeletersHouse_Text_EggCantForgetMoves:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pWhat?\n"
-	.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
+	.string "What?\n"
+	.string "No EGG should know any moves.$"
 
 LilycoveCity_MoveDeletersHouse_Text_CantForgetSurf:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pHm!\p"
+	.string "Hm!\p"
 	.string "Your {STR_VAR_1} doesn't seem willing\n"
-.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!$"
+	.string "to forget SURF.$"
 

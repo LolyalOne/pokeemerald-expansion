@@ -40,8 +40,8 @@ CeruleanCity_House3_EventScript_AlreadyTraded::
 	end
 
 CeruleanCity_House3_Text_PleaseTradeWithMyHusband::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pMy husband likes trading POKeMON.\p"
-.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
-.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
-.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!$"
+	.string "My husband likes trading POKéMON.\p"
+	.string "You're collecting POKéMON for your\n"
+	.string "POKéDEX, aren't you?\p"
+	.string "Would you please trade with him?$"
 

@@ -56,5 +56,6 @@
   "data/maps/BattleFrontier_Lounge1/scripts.inc",
   "data/maps/BattleFrontier_Lounge5/scripts.inc",
   "data/maps/BattleFrontier_Lounge9/scripts.inc",
-  "data/maps/BattleFrontier_Lounge8/scripts.inc"
+  "data/maps/BattleFrontier_Lounge8/scripts.inc",
+  "data/maps/BattleFrontier_ExchangeServiceCorner/scripts.inc"
 ]

@@ -74,26 +74,26 @@ EverGrandeCity_PokemonCenter_1F_Movement_ScottExit:
 	step_end
 
 EverGrandeCity_PokemonCenter_1F_Text_LeagueAfterVictoryRoad:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pThe POKeMON LEAGUE is only a short\n"
-.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
-	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
+	.string "The POKéMON LEAGUE is only a short\n"
+	.string "distance after the VICTORY ROAD.\p"
+	.string "If you've come this far, what choice\n"
+	.string "do you have but to keep going?$"
 
 EverGrandeCity_PokemonCenter_1F_Text_BelieveInYourPokemon:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pThe long and harrowing VICTORY ROAD...\p"
-.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
-.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
-.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
+	.string "The long and harrowing VICTORY ROAD…\p"
+	.string "It's like reliving the path one has\n"
+	.string "traveled in life…\p"
+	.string "Believe in your POKéMON and give it\n"
+	.string "your very best!$"
 
 EverGrandeCity_PokemonCenter_1F_Text_ScottHappyForYou:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pSCOTT: {PLAYER}{KUN}, you've clawed your\n"
-.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
-.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
-.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
+	.string "SCOTT: {PLAYER}{KUN}, you've clawed your\n"
+	.string "way up to face the POKéMON LEAGUE!\p"
+	.string "I'm happy for you!\n"
+	.string "You made my cheering worthwhile!\p"
 	.string "{PLAYER}{KUN}, if you were to become\n"
-.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
-.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
+	.string "the POKéMON LEAGUE CHAMPION…\p"
+	.string "I'll get in touch with you then.\p"
 	.string "Okay, {PLAYER}{KUN}.\n"
-.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!$"
+	.string "Go for greatness!$"
 

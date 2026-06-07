@@ -31,27 +31,27 @@ PokemonMansion_3F_EventScript_Braydon::
 	end
 
 PokemonMansion_1F_Text_SimonIntro::
-.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "This place is, like, huge!$"
 
 PokemonMansion_1F_Text_SimonDefeat::
-.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!$"
+	.string "Ayah!$"
 
 PokemonMansion_1F_Text_SimonPostBattle::
-	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
+	.string "I wonder where my partner went.$"
 
 PokemonMansion_1F_Text_BraydonIntro::
-	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "My mentor once lived here.$"
 
 PokemonMansion_1F_Text_BraydonDefeat::
-.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
-	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
+	.string "Whew!\n"
+	.string "Overwhelming!$"
 
 PokemonMansion_1F_Text_BraydonPostBattle::
-.string "Parabens, Lucas! Sua jornada\napenas comecou."
-.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!$"
+	.string "So, you're stuck?\n"
+	.string "Try jumping off over there!$"
 
 PokemonMansion_1F_Text_MewGaveBirthToMewtwo::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pDiary: Feb. 6\n"
-.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
-.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "Diary: Feb. 6\n"
+	.string "MEW gave birth.\p"
+	.string "We named the newborn MEWTWO.$"
 

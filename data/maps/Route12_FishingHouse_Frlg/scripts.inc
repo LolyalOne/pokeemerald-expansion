@@ -99,91 +99,91 @@ Route12_FishingHouse_EventScript_MagikarpRecordSignRecordSet::
 	end
 
 Route12_FishingHouse_Text_DoYouLikeToFish::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI'm the FISHING GURU's younger\n"
-.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
-.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
-.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!$"
+	.string "I'm the FISHING GURU's younger\n"
+	.string "brother.\p"
+	.string "I simply looove fishing!\n"
+	.string "I can't bear to go without.\p"
+	.string "Tell me, do you like to fish?$"
 
 Route12_FishingHouse_Text_TakeThisAndFish::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pGrand! I like your style.\n"
-.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
-	.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
+	.string "Grand! I like your style.\n"
+	.string "I think we can be friends.\p"
+	.string "Take this and fish, young friend!$"
 
 Route12_FishingHouse_Text_ReceivedSuperRod::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\p{PLAYER} received a SUPER ROD from\n"
-.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!$"
+	.string "{PLAYER} received a SUPER ROD from\n"
+	.string "the FISHING GURU's brother.$"
 
 Route12_FishingHouse_Text_IfYouCatchBigMagikarpShowMe::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pFishing is a way of life!\n"
-.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
-.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
-.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
-.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
-.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
-	.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "Fishing is a way of life!\n"
+	.string "It is like the finest poetry.\p"
+	.string "From the seas to rivers, go out\n"
+	.string "and land the big one, my friend.\p"
+	.string "Now, I have a request.\p"
+	.string "If you catch a big MAGIKARP \n"
+	.string "with that ROD, I want to see it.\p"
+	.string "As much as I love to fish, I also\n"
+	.string "love seeing gigantic MAGIKARP.$"
 
 Route12_FishingHouse_Text_OhThatsDisappointing::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh...\n"
-	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
+	.string "Oh…\n"
+	.string "That's so disappointing…$"
 
 Route12_FishingHouse_Text_TryFishingBringMeMagikarp::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHello there, {PLAYER}!\n"
-.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
-.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
-.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
-.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
-.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
+	.string "Hello there, {PLAYER}!\n"
+	.string "Have you been fishing?\p"
+	.string "Try fishing with the SUPER ROD in\n"
+	.string "any body of water.\p"
+	.string "You'll find different POKéMON in\n"
+	.string "different places.\p"
+	.string "Oh, and don't forget to bring me\n"
+	.string "gigantic MAGIKARP.$"
 
 Route12_FishingHouse_Text_OhMagikarpAllowMeToSee::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pOh? {PLAYER}?\n"
-.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
-	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
+	.string "Oh? {PLAYER}?\n"
+	.string "Why, if it isn't a MAGIKARP!\p"
+	.string "Allow me to see it, quick!$"
 
 Route12_FishingHouse_Text_WhoaXInchesTakeThis::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p... ... ...Whoa!\n"
+	.string "… … …Whoa!\n"
 	.string "{STR_VAR_2} inches!\p"
-.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
-.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!$"
+	.string "You have a rare appreciation for\n"
+	.string "the fine, poetic aspects of fishing!\p"
+	.string "You must take this.\n"
+	.string "I insist!$"
 
 Route12_FishingHouse_Text_LookForwardToGreaterRecords::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI'll look forward to seeing greater\n"
-.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
+	.string "I'll look forward to seeing greater\n"
+	.string "records from you!$"
 
 Route12_FishingHouse_Text_HuhXInchesSameSizeAsLast::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHuh?\n"
+	.string "Huh?\n"
 	.string "{STR_VAR_2} inches?\p"
-.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
-	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "This is the same size as the one\n"
+	.string "I saw before.$"
 
 Route12_FishingHouse_Text_HmmXInchesDoesntMeasureUp::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pHmm...\n"
+	.string "Hmm…\n"
 	.string "This one is {STR_VAR_2} inches long.\p"
-.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!"
-.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
+	.string "It doesn't measure up to the\n"
+	.string "{STR_VAR_3}-inch one you brought before.$"
 
 Route12_FishingHouse_Text_DoesntLookLikeMagikarp::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pUh... That doesn't look much like\n"
-.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "Uh… That doesn't look much like\n"
+	.string "a MAGIKARP.$"
 
 Route12_FishingHouse_Text_NoRoomForGift::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh, no!\p"
-.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
+	.string "Oh, no!\p"
+	.string "I had a gift for you, but you have\n"
+	.string "no room for it.$"
 
 Route12_FishingHouse_Text_MostGiganticMagikarpXInches::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pThe most gigantic MAGIKARP\n"
-.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!$"
+	.string "The most gigantic MAGIKARP\n"
+	.string "I have ever witnessed…\p"
+	.string "{STR_VAR_3} inches!$"
 
 Route12_FishingHouse_Text_BlankChartOfSomeSort::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pIt's a blank chart of some sort.\p"
-.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!$"
+	.string "It's a blank chart of some sort.\p"
+	.string "It has spaces for writing in\n"
+	.string "records of some kind.$"
 

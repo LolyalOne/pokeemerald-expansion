@@ -219,114 +219,114 @@ LilycoveCity_LilycoveMuseum_2F_EventScript_ShowToughPainting::
 	end
 
 LilycoveCity_LilycoveMuseum_2F_Text_ThisIsExhibitHall:
-.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!$"
+	.string "This is our special exhibit hall.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_ExplainExhibitHall:
-.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
-.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
-.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
-.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
-.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
-.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!"
-.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
-.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
-	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "As you can plainly see, there is not\n"
+	.string "a single painting on exhibit.\p"
+	.string "Here, I don't wish to exhibit works of\n"
+	.string "so-called classical art.\p"
+	.string "Such classical works you can see on\n"
+	.string "our ground floor.\p"
+	.string "I wish to exhibit work that is far\n"
+	.string "different from the classics.\p"
+	.string "Art, after all, is not restricted to old,\n"
+	.string "famous works!\p"
+	.string "This exhibit hall, I wish to fill it with…\p"
+	.string "Modern and vibrant artworks of\n"
+	.string "POKéMON seemingly ready to spring\l"
+	.string "forth into glorious life!$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_PleaseObtainPaintingsForExhibit:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI beg your pardon. I didn't intend\n"
-.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
-.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
-.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
-.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Parabens, Lucas! Sua jornada\napenas comecou."
-.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
-.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!"
-	.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
+	.string "I beg your pardon. I didn't intend\n"
+	.string "to monopolize the conversation.\p"
+	.string "Now, as you are young, and yet\n"
+	.string "obviously well traveled…\p"
+	.string "You must encounter lively POKéMON\n"
+	.string "and works of art depicting them.\p"
+	.string "If you were to come across such\n"
+	.string "a painting, may we ask you to obtain\l"
+	.string "the artist's permission to exhibit\l"
+	.string "it here?$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_WishToFillExhibit:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI wish to fill this exhibit hall with\n"
-.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
-.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
+	.string "I wish to fill this exhibit hall with\n"
+	.string "modern and vibrant paintings of\l"
+	.string "POKéMON.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_ThanksAddedNewPainting:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pThanks to you, we've added a new\n"
-.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
-.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
-.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "Thanks to you, we've added a new\n"
+	.string "painting to our collection!\p"
+	.string "I've heard it depicts your POKéMON.\n"
+	.string "Truly magnificent!\p"
+	.string "Thank you so very, very much!$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_ItsYouPlayer:
-.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
-	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
+	.string "Ah! It's you!\n"
+	.string "{PLAYER}!$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_PaintingsAttractedMoreGuests:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pIsn't this marvelous?\n"
-.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
-.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
-.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+	.string "Isn't this marvelous?\n"
+	.string "This collection of paintings!\p"
+	.string "Each one of them flawless!\n"
+	.string "None better than another!\p"
+	.string "These paintings have attracted\n"
+	.string "more guests to our ART MUSEUM.\p"
 	.string "Sincerely, I thank you, {PLAYER}.\n"
-.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!$"
+	.string "This is my dream come true!$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_TokenOfGratitude:
-	.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "This is merely a token of my gratitude.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_KeepThisForYou:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI will keep this for you until we\n"
-	.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "I will keep this for you until we\n"
+	.string "meet again.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_HonorToHaveYouVisit:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pAh, so good to see you, {PLAYER}!\p"
-.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
-.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!"
-.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
-.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
+	.string "Ah, so good to see you, {PLAYER}!\p"
+	.string "It's an honor to have you visit us\n"
+	.string "on your busy journeys.\p"
+	.string "Please, relax and do enjoy your\n"
+	.string "visit with us.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_ItsPinkPictureFrame:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pIt's a picture frame with pink-colored\n"
-.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!$"
+	.string "It's a picture frame with pink-colored\n"
+	.string "adornments.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_ItsYellowPictureFrame:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pIt's a picture frame with\n"
-.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!$"
+	.string "It's a picture frame with\n"
+	.string "yellow-colored adornments.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_ItsBluePictureFrame:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pIt's a picture frame with\n"
-	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "It's a picture frame with\n"
+	.string "blue-colored adornments.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_ItsRedPictureFrame:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pIt's a picture frame with\n"
-.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "It's a picture frame with\n"
+	.string "red-colored adornments.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_ItsGreenPictureFrame:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pIt's a picture frame with\n"
-.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
+	.string "It's a picture frame with\n"
+	.string "green-colored adornments.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_ItsPaintingOfPokemon:
-	.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "It's a painting of POKéMON.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_NewPaintingsSurprisedMe:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pI've been away awhile, so the new\n"
-.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
-.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!$"
+	.string "I've been away awhile, so the new\n"
+	.string "paintings up here surprised me.\p"
+	.string "I wish someone would paint my POKéMON\n"
+	.string "this pretty.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_NewPaintingsRatherAmusing:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pWell... So this is where they show\n"
-.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
-	.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "Well… So this is where they show\n"
+	.string "the topical POKéMON paintings.\p"
+	.string "I see, these new paintings are indeed\n"
+	.string "rather amusing.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_ThesePaintingsOfYourPokemon:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pWow, is that right?\n"
-.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!"
-.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "Wow, is that right?\n"
+	.string "These paintings are of your POKéMON.\p"
+	.string "Isn't that just the ultimate joy for\n"
+	.string "a TRAINER?$"
 

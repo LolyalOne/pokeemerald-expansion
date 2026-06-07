@@ -10,13 +10,13 @@ SSAnne_2F_Room5_EventScript_LittleBoy::
 	end
 
 SSAnne_2F_Room5_Text_HaveYouGoneToSafariZone::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pHave you gone to the SAFARI ZONE\n"
-	.string "Um brinde ao Lucas! Capture todos os POKeMON hoje!"
-	.string "Parabens, Lucas! Voce e o campeao do nosso coracao!"
-	.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "Have you gone to the SAFARI ZONE\n"
+	.string "in FUCHSIA CITY?\p"
+	.string "There are many kinds of rare\n"
+	.string "POKéMON.$"
 
 SSAnne_2F_Room5_Text_WeThinkSafariZoneIsAwesome::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pMe and my daddy think the SAFARI\n"
-	.string "Parabens, Lucas! O mundo POKeMON celebra voce!"
-	.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "Me and my daddy think the SAFARI\n"
+	.string "ZONE is awesome!\l"
+	.string "I wish we could go there again.$"
 

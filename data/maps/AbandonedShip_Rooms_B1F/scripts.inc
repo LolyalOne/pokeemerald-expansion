@@ -11,4 +11,8 @@ AbandonedShip_Rooms_B1F_EventScript_FatMan::
 	end
 
 AbandonedShip_Rooms_B1F_Text_GettingQueasy:
-    .string "Feliz aniversário, Lucas! Você é um\namigo incrível! Urrrrppp... Lucas,\laproveite a sua jornada! Hoje, 23 de\lmaio, é o seu dia especial. Você já\lé uma lenda em Hoenn, mas sua\ljornada está apenas começando!\lParabéns!$"
+	.string "Urrrrppp…\p"
+	.string "I'm getting queasy just being aboard\n"
+	.string "this ship…\p"
+	.string "It's not even moving, but…$"
+

@@ -84,8 +84,8 @@ CinnabarIsland_PokemonLab_Lounge_EventScript_NormaAlreadyTraded::
 	end
 
 CinnabarIsland_PokemonLab_Lounge_Text_FoundFossilInMtMoon::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pI found this most remarkable fossil\n"
-.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
-.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "I found this most remarkable fossil\n"
+	.string "inside MT. MOON.\p"
+	.string "I think it's of a rare, prehistoric\n"
+	.string "POKéMON.$"
 

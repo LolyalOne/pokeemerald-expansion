@@ -28,21 +28,21 @@ PacifidlogTown_PokemonCenter_1F_EventScript_OldMan::
 	end
 
 PacifidlogTown_PokemonCenter_1F_Text_WhatColorTrainerCard:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWhat color is your TRAINER CARD?\n"
-	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
+	.string "What color is your TRAINER CARD?\n"
+	.string "Mine's copper!$"
 
 PacifidlogTown_PokemonCenter_1F_Text_OnColonyOfCorsola:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pPACIFIDLOG TOWN floats on top of\n"
-.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
-.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!"
-.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!$"
+	.string "PACIFIDLOG TOWN floats on top of\n"
+	.string "a colony of CORSOLA.\p"
+	.string "If I told you that, would you believe\n"
+	.string "me?$"
 
 PacifidlogTown_PokemonCenter_1F_Text_AncestorsLivedOnBoats:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pThe ancestors of the people in\n"
-.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
-.string "Parabens, Lucas! Sua jornada\napenas comecou."
-.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
-	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
+	.string "The ancestors of the people in\n"
+	.string "PACIFIDLOG were said to have been\l"
+	.string "born on boats and then lived and died \l"
+	.string "aboard them.\p"
+	.string "I understand that they lived that way\n"
+	.string "because they were searching for\l"
+	.string "something.$"
 

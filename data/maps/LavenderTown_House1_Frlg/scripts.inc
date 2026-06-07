@@ -25,18 +25,18 @@ LavenderTown_House1_EventScript_Cubone::
 	end
 
 LavenderTown_House1_Text_Cubone::
-.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "CUBONE: Kyarugoo!$"
 
 LavenderTown_House1_Text_RocketsKilledCubonesMother::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThose horrible ROCKETS!\n"
-.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
-.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
-	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "Those horrible ROCKETS!\n"
+	.string "They deserve no mercy!\p"
+	.string "That poor CUBONE's mother…\p"
+	.string "It was killed trying to escape from\n"
+	.string "TEAM ROCKET.$"
 
 LavenderTown_House1_Text_GhostOfPokemonTowerIsGone::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThe ghost of POKeMON TOWER is\n"
-.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
-.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
-.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!$"
+	.string "The ghost of POKéMON TOWER is\n"
+	.string "gone!\p"
+	.string "Someone must have soothed its\n"
+	.string "restless spirit!$"
 

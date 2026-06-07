@@ -843,134 +843,134 @@ PewterCity_Movement_WalkInPlaceLeft::
 	step_end
 
 Text_DreamEaterTeach::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYawn!\n"
-.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
-.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!"
-.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
-.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
-.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
-.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
-.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
+	.string "Yawn!\n"
+	.string "I must have dozed off in the sun.\p"
+	.string "I had this weird dream about\n"
+	.string "a DROWZEE eating my dream.\p"
+	.string "And…\n"
+	.string "I learned how to eat dreams…\p"
+	.string "Oogh, this is too spooky!\p"
+	.string "Let me teach it to a POKéMON so\n"
+	.string "I can forget about it!$"
 
 Text_DreamEaterDeclined::
-	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
+	.string "…Snore…$"
 
 Text_DreamEaterWhichMon::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWhich POKeMON wants to learn\n"
-	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "Which POKéMON wants to learn\n"
+	.string "DREAM EATER?$"
 
 Text_DreamEaterTaught::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p...ZZZ...\n"
-.string "Lucas, voce e o melhor! Sua\njornada apenas comecou.$"
+	.string "…ZZZ…\n"
+	.string "I…can't eat…anymore…$"
 
 PewterCity_Text_ClefairyCameFromMoon::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pCLEFAIRY came from the moon.\n"
-.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
-	.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "CLEFAIRY came from the moon.\n"
+	.string "That's what the rumor is.\p"
+	.string "They appeared after MOON STONES\n"
+	.string "fell on MT. MOON.$"
 
 PewterCity_Text_BrockOnlySeriousTrainerHere::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pThere aren't many serious POKeMON\n"
-.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
-.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
-.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
-.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!$"
+	.string "There aren't many serious POKéMON\n"
+	.string "TRAINERS here.\p"
+	.string "They're all like BUG CATCHERS,\n"
+	.string "you know, just hobbyists.\p"
+	.string "But PEWTER GYM's BROCK isn't like\n"
+	.string "that, not one bit.$"
 
 PewterCity_Text_DidYouCheckOutMuseum::
-	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
+	.string "Did you check out the MUSEUM?$"
 
 PewterCity_Text_WerentThoseFossilsAmazing::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pWeren't those fossils from MT. MOON\n"
-	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "Weren't those fossils from MT. MOON\n"
+	.string "amazing?$"
 
 PewterCity_Text_ReallyYouHaveToGo::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pReally?\n"
-	.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "Really?\n"
+	.string "You absolutely have to go!$"
 
 PewterCity_Text_ThisIsTheMuseum::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThis is it, the MUSEUM.\p"
-.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
-	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "This is it, the MUSEUM.\p"
+	.string "You have to pay to get in, but it's\n"
+	.string "worth it. See you around!$"
 
 PewterCity_Text_DoYouKnowWhatImDoing::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pPsssst!\n"
-	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
+	.string "Psssst!\n"
+	.string "Do you know what I'm doing?$"
 
 PewterCity_Text_ThatsRightItsHardWork::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThat's right!\n"
-	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
+	.string "That's right!\n"
+	.string "It's hard work!$"
 
 PewterCity_Text_SprayingRepelToKeepWildMonsOut::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI'm spraying REPEL to keep wild\n"
-	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
+	.string "I'm spraying REPEL to keep wild\n"
+	.string "POKéMON out of my garden!$"
 
 PewterCity_Text_BrocksLookingForChallengersFollowMe::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pYou're a TRAINER, right?\p"
-.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
-.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
+	.string "You're a TRAINER, right?\p"
+	.string "BROCK's looking for new\n"
+	.string "challengers. Follow me!$"
 
 PewterCity_Text_GoTakeOnBrock::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pIf you have the right stuff,\n"
-.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
+	.string "If you have the right stuff,\n"
+	.string "go take on BROCK!$"
 
 PewterCity_Text_TrainerTipsEarningEXP::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pTRAINER TIPS\p"
-.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
-	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "TRAINER TIPS\p"
+	.string "All POKéMON that appear in battle,\n"
+	.string "however briefly, earn EXP Points.$"
 
 PewterCity_Text_CallPoliceIfInfoOnThieves::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pNOTICE!\p"
-.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
-.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
-.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
-	.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "NOTICE!\p"
+	.string "Thieves have been stealing POKéMON\n"
+	.string "fossils from MT. MOON.\p"
+	.string "Please call the PEWTER POLICE if\n"
+	.string "you have any information.$"
 
 PewterCity_Text_MuseumOfScience::
-	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
+	.string "PEWTER MUSEUM OF SCIENCE$"
 
 PewterCity_Text_GymSign::
-.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
-.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!"
-	.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "PEWTER CITY POKéMON GYM\n"
+	.string "LEADER: BROCK\l"
+	.string "The Rock-Solid POKéMON TRAINER!$"
 
 PewterCity_Text_CitySign::
-.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!$"
+	.string "PEWTER CITY\n"
+	.string "A Stone Gray City$"
 
 PewterCity_Text_OhPlayer::
-.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!$"
+	.string "Oh, {PLAYER}{KUN}!$"
 
 PewterCity_Text_AskedToDeliverThis::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI'm glad I caught up to you.\n"
-.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
-.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
-	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
+	.string "I'm glad I caught up to you.\n"
+	.string "I'm PROF. OAK's AIDE.\p"
+	.string "I've been asked to deliver this,\n"
+	.string "so here you go.$"
 
 PewterCity_Text_ReceivedRunningShoesFromAide::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\p{PLAYER} received the\n"
-	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "{PLAYER} received the\n"
+	.string "RUNNING SHOES from the AIDE.$"
 
 PewterCity_Text_SwitchedShoesWithRunningShoes::
 	.string "{PLAYER} switched shoes with the\n"
-.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!$"
+	.string "RUNNING SHOES.$"
 
 PewterCity_Text_ExplainRunningShoes::
-.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
-	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "Press the B Button to run.\n"
+	.string "But only where there's room to run!$"
 
 PewterCity_Text_MustBeGoingBackToLab::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWell, I must be going back to\n"
-.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
+	.string "Well, I must be going back to\n"
+	.string "the LAB.\p"
+	.string "Bye-bye!$"
 
 PewterCity_Text_RunningShoesLetterFromMom::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThere's a letter attached...\p"
+	.string "There's a letter attached…\p"
 	.string "Dear {PLAYER},\p"
-.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
-.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!"
-.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
-.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "Here is a pair of RUNNING SHOES\n"
+	.string "for my beloved challenger.\p"
+	.string "Remember, I'll always cheer for\n"
+	.string "you! Don't ever give up!\p"
+	.string "From Mom$"
 

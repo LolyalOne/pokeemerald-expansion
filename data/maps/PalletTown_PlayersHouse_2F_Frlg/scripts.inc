@@ -30,11 +30,11 @@ PalletTown_PlayersHouse_2F_EventScript_Sign::
 
 PalletTown_PlayersHouse_2F_Text_PlayedWithNES::
 	.string "{PLAYER} played with the NES.\p"
-.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
-.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!$"
+	.string "…Okay!\n"
+	.string "It's time to go!$"
 
 PalletTown_PlayersHouse_2F_Text_PressLRForHelp::
-.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
-	.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "It's a posted notice…\p"
+	.string "If you're confused, ask for HELP!\n"
+	.string "Press the L or R Button!$"
 

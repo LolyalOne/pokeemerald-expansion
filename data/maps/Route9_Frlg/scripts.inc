@@ -6,108 +6,108 @@ Route9_EventScript_RouteSign::
 	end
 
 Route9_Text_AliciaIntro::
-.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
-	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "You have POKéMON with you!\n"
+	.string "You're mine!$"
 
 Route9_Text_AliciaDefeat::
-.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!$"
+	.string "You deceived me…$"
 
 Route9_Text_AliciaPostBattle::
-.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
-.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
-.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!"
-	.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "The tunnel coming up is pitch-black\n"
+	.string "inside.\p"
+	.string "You'll need FLASH to get through\n"
+	.string "there.$"
 
 Route9_Text_ChrisIntro::
-.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
-.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
+	.string "Who's that walking there with those\n"
+	.string "good-looking POKéMON?$"
 
 Route9_Text_ChrisDefeat::
-.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!$"
+	.string "Out like a light!$"
 
 Route9_Text_ChrisPostBattle::
-	.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "Keep walking!$"
 
 Route9_Text_DrewIntro::
-.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
-.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!$"
+	.string "I'm taking the ROCK TUNNEL to\n"
+	.string "go to LAVENDER…$"
 
 Route9_Text_DrewDefeat::
-	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
+	.string "Can't measure up…$"
 
 Route9_Text_DrewPostBattle::
-.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!$"
+	.string "Are you off to ROCK TUNNEL, too?$"
 
 Route9_Text_CaitlinIntro::
-	.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
+	.string "Don't you dare patronize me!$"
 
 Route9_Text_CaitlinDefeat::
-.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!"
-.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "No!\n"
+	.string "You're too much.$"
 
 Route9_Text_CaitlinPostBattle::
-.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!$"
+	.string "You're obviously talented.\n"
+	.string "Good luck to you!$"
 
 Route9_Text_JeremyIntro::
-.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-	.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "Bwahaha!\n"
+	.string "Great! I was bored, eh!$"
 
 Route9_Text_JeremyDefeat::
-.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
-.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
-	.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "Keep it coming, eh!\p"
+	.string "Oh wait.\n"
+	.string "I'm out of POKéMON!$"
 
 Route9_Text_JeremyPostBattle::
-.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
-	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "You sure had guts standing up to\n"
+	.string "me there, eh?$"
 
 Route9_Text_BriceIntro::
-.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
-	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
+	.string "Hahaha!\n"
+	.string "Aren't you a little toughie!$"
 
 Route9_Text_BriceDefeat::
-	.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "What's that?$"
 
 Route9_Text_BricePostBattle::
-.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
-	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
+	.string "Hahaha!\n"
+	.string "Kids should be tough!$"
 
 Route9_Text_BrentIntro::
-.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
-	.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "I got up early every day to raise\n"
+	.string "my POKéMON from cocoons!$"
 
 Route9_Text_BrentDefeat::
-.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
-	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
+	.string "WHAT?\p"
+	.string "What a total waste of time!$"
 
 Route9_Text_BrentPostBattle::
-.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
-.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
+	.string "I have to collect more than bugs\n"
+	.string "to get stronger…$"
 
 Route9_Text_AlanIntro::
-.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
-	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "Hahahaha!\n"
+	.string "Bring it on!$"
 
 Route9_Text_AlanDefeat::
-.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
-	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
+	.string "Hahahaha!\n"
+	.string "You beat me fair!$"
 
 Route9_Text_AlanPostBattle::
-.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
-	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "Hahahaha!\n"
+	.string "Us hearty guys always laugh!$"
 
 Route9_Text_ConnerIntro::
-.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!$"
+	.string "Go, my super BUG POKéMON!$"
 
 Route9_Text_ConnerDefeat::
-.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "My bugs…$"
 
 Route9_Text_ConnerPostBattle::
-.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
-	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
+	.string "If you don't like BUG POKéMON,\n"
+	.string "you bug me!$"
 
 Route9_Text_RouteSign::
-.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
-	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
+	.string "ROUTE 9\n"
+	.string "CERULEAN CITY - ROCK TUNNEL$"
 

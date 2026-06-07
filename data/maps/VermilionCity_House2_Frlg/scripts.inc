@@ -36,22 +36,22 @@ VermilionCity_House2_EventScript_AlreadyTraded::
 	end
 
 VermilionCity_House2_Text_DoYouHaveMonWantToTradeForMyMon::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHi!\n"
+	.string "Hi!\n"
 	.string "Do you have a {STR_VAR_1}?\p"
-	.string "Lucas, aproveite sua jornada! Capture todos os POKeMON hoje!"
-	.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
+	.string "Want to trade it for my\n"
+	.string "{STR_VAR_2}?$"
 
 VermilionCity_House2_Text_ThatsTooBad::
-	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
+	.string "That's too bad.$"
 
 VermilionCity_House2_Text_ThisIsNoMon::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p...This is no {STR_VAR_1}.\p"
-	.string "Feliz 23 de Maio, Lucas! Nao se esqueca de comemorar muito!"
-	.string "Feliz aniversario, Lucas! Voce e um treinador incrivel!$"
+	.string "…This is no {STR_VAR_1}.\p"
+	.string "If you get one, please trade it\n"
+	.string "to me!$"
 
 VermilionCity_House2_Text_ThankYou::
-	.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
+	.string "Thank you!$"
 
 VermilionCity_House2_Text_HowIsMyOldMon::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHow is my old {STR_VAR_2}?\p"
-	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
+	.string "How is my old {STR_VAR_2}?\p"
+	.string "My {STR_VAR_1} is doing great!$"

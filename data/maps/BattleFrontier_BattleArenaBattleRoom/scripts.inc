@@ -484,68 +484,146 @@ BattleFrontier_BattleArenaBattleRoom_Movement_GretaWalkBackToCenter:
 	step_end
 
 BattleFrontier_BattleArenaBattleRoom_Text_PlayerStepForward:
-    .string "ÁRBITRO: TREINADOR Lucas! Hoje é o\nseu aniversário, um dia especial!\lSua jornada está apenas começando.$"
+	.string "REFEREE: TRAINER {PLAYER}!\n"
+	.string "Step forward, please!$"
+
 BattleFrontier_BattleArenaBattleRoom_Text_OpponentStepForward:
-    .string "ÁRBITRO: TREINADOR {STR_VAR_1}!\nParabéns, Lucas! Feliz aniversário!\lQue todos os seus desejos se\lrealizem!$"
+	.string "REFEREE: TRAINER {STR_VAR_1}!\n"
+	.string "Step forward, please!$"
+
 BattleFrontier_BattleArenaBattleRoom_Text_SetKOTourneyBegin:
-    .string "Parabéns, Lucas! Você é o mestre\nPokémon que sempre quis ser!\lAproveite o seu aniversário e\lcomemore muito!$"
+	.string "REFEREE: Set KO Tourney!\n"
+	.string "Begin!$"
+
 BattleFrontier_BattleArenaBattleRoom_Text_WinnerIsPlayer:
-    .string "Um brinde ao Lucas! Hoje é um dia\nduplamente especial: parabéns pelo\lseu aniversário e por ser o campeão\ldo nosso coração!$"
+	.string "REFEREE: The winner is {PLAYER}!$"
+
 BattleFrontier_BattleArenaBattleRoom_Text_WinnerIsOpponent:
-    .string "Parabéns pelo seu aniversário,\nLucas! Que todos os seus desejos se\lrealizem nesta incrível jornada\lPokémon!$"
+	.string "REFEREE: The winner is {STR_VAR_1}!$"
+
 BattleFrontier_BattleArenaBattleRoom_Text_MonsWillBeRestored:
-    .string "Parabéns, Lucas! Aproveite o seu\naniversário e continue brilhando\lcomo a lenda que você é em Hoenn!$"
+	.string "Your POKéMON will be restored to\n"
+	.string "full health.$"
+
 BattleFrontier_BattleArenaBattleRoom_Text_ReadyFor2ndOpponent:
-    .string "Lucas, aproveite sua jornada! Que\ndia especial! Parabéns pelo seu\laniversário, Lucas! O mundo\lPOKéMON celebra você!$"
+	.string "Next up, your second opponent!\n"
+	.string "Are you ready to move on?$"
+
 BattleFrontier_BattleArenaBattleRoom_Text_ReadyFor3rdOpponent:
-    .string "Um brinde ao Lucas! Você é uma\nlenda em Hoenn e hoje é o seu dia\lespecial, então comemore muito,\lcampeão!$"
+	.string "Next up, your third opponent!\n"
+	.string "Are you ready to move on?$"
+
 BattleFrontier_BattleArenaBattleRoom_Text_ReadyFor4thOpponent:
-    .string "Um brinde ao Lucas pelo seu\naniversário! Capture todos os\lPOKéMON hoje e que todos os seus\ldesejos se realizem!$"
+	.string "Next up, your fourth opponent!\n"
+	.string "Are you ready to move on?$"
+
 BattleFrontier_BattleArenaBattleRoom_Text_ReadyFor5thOpponent:
-    .string "Parabéns, Lucas! Feliz aniversário!\nO seu presente está esperando por\lvocê!$"
+	.string "Next up, your fifth opponent!\n"
+	.string "Are you ready to move on?$"
+
 BattleFrontier_BattleArenaBattleRoom_Text_ReadyFor6thOpponent:
-    .string "Lucas, que seu aniversário seja\népico! Você é um treinador incrível!\lParabéns, que todos os seus desejos\lse realizem!$"
+	.string "Next up, your sixth opponent!\n"
+	.string "Are you ready to move on?$"
+
 BattleFrontier_BattleArenaBattleRoom_Text_ReadyFor7thOpponent:
-    .string "Lucas, que este dia seja épico! Você\né o campeão do nosso coração! Feliz\laniversário, Lucas! Você é um\ltreinador incrível!$"
+	.string "Next up, your seventh opponent!\n"
+	.string "Are you ready to move on?$"
+
 BattleFrontier_BattleArenaBattleRoom_Text_SaveAndShutDown:
-    .string "Hoje é o seu dia, Lucas! Feliz\naniversário e parabéns por ser um\ltreinador incrível!$"
+	.string "Would you like to save the game and\n"
+	.string "shut down now?$"
+
 BattleFrontier_BattleArenaBattleRoom_Text_RetireFromChallenge:
-    .string "Feliz aniversário, Lucas! Seu\npresente está esperando por você!\lAproveite a sua jornada, Lucas! Ela\lestá apenas começando!$"
+	.string "Would you like to retire from your\n"
+	.string "Set KO Tourney challenge?$"
+
 BattleFrontier_BattleArenaBattleRoom_Text_SavingPleaseWait:
-    .string "Feliz aniversário, Lucas! Você é uma\nlenda em Hoenn, então prepare-se\lpara grandes batalhas!$"
+	.string "I am saving your game data.\n"
+	.string "Please wait.$"
+
 BattleFrontier_BattleArenaBattleRoom_Text_RecordLastBattle:
-    .string "Lucas, que seu dia seja épico!\nCapture muitos POKéMON hoje! Feliz\l23 de maio! Que todos os seus\ldesejos se realizem!$"
+	.string "Would you like to record your last\n"
+	.string "battle on your FRONTIER PASS?$"
+
 BattleFrontier_BattleArenaBattleRoom_Text_NowFaceTycoon:
-    .string "Parabéns, Lucas! Que seu\naniversário seja épico e repleto de\lgrandes batalhas! Aproveite a\ljornada, capture muitos Pokémon e\lrealize todos os seus desejos. Você\lé o campeão do nosso coração!$"
+	.string "My dear challenger!\p"
+	.string "Your skill level is truly astounding!\p"
+	.string "We now would like you to face our\n"
+	.string "leader, the ARENA TYCOON!$"
+
 BattleFrontier_BattleArenaBattleRoom_Text_PreparedForTycoon:
-    .string "Feliz aniversário, Lucas! Que todos\nos seus desejos se realizem! Hoje é\lo seu dia, e sua jornada está apenas\lcomeçando!$"
+	.string "A battle with the ARENA TYCOON!\n"
+	.string "Are you prepared?$"
+
 BattleFrontier_BattleArenaBattleRoom_Text_MakeWayForGreta:
-    .string "Feliz aniversário, Lucas! Comemore\nbastante, pois sua jornada está\lapenas começando!$"
+	.string "REFEREE: The ARENA TYCOON!\n"
+	.string "Make way for GRETA!$"
+
 BattleFrontier_BattleArenaBattleRoom_Text_GretaYoureChallenger:
-    .string "Um brinde ao Lucas! Que todos os\nseus desejos se realizem! Feliz 23\lde Maio, Lucas! Prepare-se para\lgrandes batalhas! Feliz aniversário,\lLucas! Não se esqueça de comemorar\lmuito!$"
+	.string "GRETA: Hey!\n"
+	.string "Howdy!\p"
+	.string "…Wait, are you the challenger?$"
+
 BattleFrontier_BattleArenaBattleRoom_Text_IsThatRight:
-    .string "Feliz aniversário, Lucas! Você é o\ncampeão do nosso coração, capture\ltodos os Pokémon hoje!$"
+	.string "Is that right? Hmm…\n"
+	.string "Hmhm…$"
+
 BattleFrontier_BattleArenaBattleRoom_Text_YouLookWeakTakeThingsEasy:
-    .string "Hoje é o seu dia, Lucas! Capture\ntodos os POKéMON hoje! Lucas,\laproveite sua jornada! Você é o\lMestre POKéMON que sempre quis\lser! Lucas, você é o melhor! Capture\ltodos os POKéMON hoje! Feliz\laniversário, Lucas! Capture todos os\lPOKéMON hoje! Hoje é o seu dia,\lLucas! Que todos os seus desejos se\lrealizem! Hoje é o seu dia, Lucas!\lVocê é uma lenda em Hoenn!$"
+	.string "I don't know how to say it, but…\n"
+	.string "To put it bluntly, you look pretty weak.\l"
+	.string "Are you sure you're up for me?\p"
+	.string "Hmm…\p"
+	.string "Well, all right!\n"
+	.string "We'll take things easy to start with!$"
+
 BattleFrontier_BattleArenaBattleRoom_Text_IgniteMyPassionForBattle:
-    .string "Feliz aniversário, Lucas! Que este\ndia seja épico! O mundo Pokémon\lcelebra você, a maior lenda de\lHoenn!$"
+	.string "Okay! Let's see you ignite my passion\n"
+	.string "for battle!$"
+
 BattleFrontier_BattleArenaBattleRoom_Text_GretaYoureToughAfterAll:
-    .string "Feliz aniversário, Lucas! Você é o\nMestre Pokémon que sempre quis\lser! Um brinde ao seu dia! Sua\ljornada apenas começou, então\lcapture todos os Pokémon hoje!\lFeliz 23 de maio!$"
+	.string "GRETA: Ow, wait a second!\n"
+	.string "You are tough after all!\p"
+	.string "I like you!\n"
+	.string "Let's see your FRONTIER PASS.$"
+
 BattleFrontier_BattleArenaBattleRoom_Text_ReceivedGutsSymbol:
-    .string "Feliz 23 de maio, Lucas! Você é um\ntreinador incrível. Feliz aniversário!\lSua jornada está apenas começando!$"
+	.string "The Guts Symbol was embossed on\n"
+	.string "the FRONTIER PASS!$"
+
 BattleFrontier_BattleArenaBattleRoom_Text_GoingToBeFunNextTime:
-    .string "Lucas, que este dia seja épico! O\nmundo POKÉMON celebra você! Feliz\l23 de maio, Lucas! Um brinde ao\lLucas! Capture todos os POKÉMON\lhoje!$"
+	.string "Hmm…\p"
+	.string "It's going to be fun the next time!\n"
+	.string "I'm looking forward to it!$"
+
 BattleFrontier_BattleArenaBattleRoom_Text_GretaLookingForwardToSeeingAgain:
-    .string "Lucas, aproveite sua jornada! Ela\nestá apenas começando. Feliz 23 de\lmaio, Lucas! Você é o campeão do\lnosso coração! Lucas, aproveite sua\ljornada! Ela está apenas começando.\lLucas, você é o melhor! O mundo\lPokémon celebra você! Feliz\laniversário, Lucas! Você é o\lcampeão do nosso coração!$"
+	.string "GRETA: Hey! Howdy!\n"
+	.string "You finally won your way up to me!\p"
+	.string "I was getting worried waiting for you!\n"
+	.string "I was really looking forward to seeing\l"
+	.string "you again!$"
+
 BattleFrontier_BattleArenaBattleRoom_Text_SoAreYouReady:
-    .string "Um brinde ao Lucas! Feliz\naniversário! Prepare-se para grandes\lbatalhas, pois sua jornada apenas\lcomeçou!$"
+	.string "… … …\n"
+	.string "So, are you ready?$"
+
 BattleFrontier_BattleArenaBattleRoom_Text_WontAllowHalfheartedEffort:
-    .string "Um brinde ao Lucas! O seu presente\nestá esperando por você! Feliz\laniversário, Lucas! Sua jornada\lapenas começou.$"
+	.string "I won't allow a halfhearted effort!\n"
+	.string "Be ready for a thrashing!$"
+
 BattleFrontier_BattleArenaBattleRoom_Text_LetsGetThisStarted:
-    .string "Lucas, que este dia seja épico! Você\né um treinador incrível! Hoje é o seu\laniversário, Lucas! Você é o\lcampeão do nosso coração!$"
+	.string "Come on, REFEREE!\n"
+	.string "Let's get this started!$"
+
 BattleFrontier_BattleArenaBattleRoom_Text_GretaBlownAway:
-    .string "Feliz aniversário, Lucas! Aproveite\nsua jornada e capture todos os\lPokémon hoje! Um brinde ao Lucas, a\llenda de Hoenn!$"
+	.string "GRETA: Gaaah! Blown away!\n"
+	.string "Let's see your FRONTIER PASS!$"
+
 BattleFrontier_BattleArenaBattleRoom_Text_GutsSymbolTookGoldenShine:
-    .string "Lucas, você é o melhor! O mundo\nPokémon celebra você! Feliz\laniversário, Lucas! Capture todos os\lPokémon hoje!$"
+	.string "The Guts Symbol took on\n"
+	.string "a golden shine!$"
+
 BattleFrontier_BattleArenaBattleRoom_Text_IfWeBattleAgainWontLose:
-    .string "Feliz aniversário, Lucas! Sua jornada\nmal começou, então aproveite o seu\ldia e capture todos os Pokémon!\lVocê é o campeão do nosso coração!$"
+	.string "Arrrgh!\n"
+	.string "This is so infuriating!\p"
+	.string "If we ever battle again, I won't lose!\n"
+	.string "Don't you forget it! Bye-bye!$"

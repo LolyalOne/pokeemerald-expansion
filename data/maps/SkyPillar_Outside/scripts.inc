@@ -137,33 +137,33 @@ SkyPillar_Outside_EventScript_ClosedDoor::
 	end
 
 SkyPillar_Outside_Text_DoorIsClosed:
-.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "The door is closed.$"
 
 SkyPillar_Outside_Text_OpenedDoorToSkyPillar:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWALLACE: Oh, my, I'm terribly sorry!\p"
-.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
-.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
-.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!$"
+	.string "WALLACE: Oh, my, I'm terribly sorry!\p"
+	.string "In my haste, I didn't notice that\n"
+	.string "I'd left you behind!\p"
+	.string "I've opened the locked door of\n"
+	.string "the SKY PILLAR.\p"
+	.string "{PLAYER}{KUN}, let's be on our way!$"
 
 SkyPillar_Outside_Text_EarthquakeNotMomentToWaste:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWALLACE: It's an earthquake!\p"
-.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
+	.string "WALLACE: It's an earthquake!\p"
+	.string "There's not a moment to waste!\n"
+	.string "We've got to hurry!$"
 
 SkyPillar_Outside_Text_SituationGettingWorse:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pWALLACE: Hmm...\n"
-	.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "WALLACE: Hmm…\n"
+	.string "The situation is getting worse…$"
 
 SkyPillar_Outside_Text_GotToGoBackForSootopolis:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWALLACE: This isn't good...\p"
-.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
+	.string "WALLACE: This isn't good…\p"
+	.string "The weather distortion is spreading\n"
+	.string "even here…\p"
 	.string "{PLAYER}{KUN}.\p"
-.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
-.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
-.string "Parabens, Lucas! Sua jornada\napenas comecou."
-.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
-	.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "RAYQUAZA should be farther up\n"
+	.string "from here.\p"
+	.string "I'm worried about SOOTOPOLIS.\n"
+	.string "I've got to go back.\p"
+	.string "Everything is in your hands now.\n"
+	.string "Don't fail us!$"

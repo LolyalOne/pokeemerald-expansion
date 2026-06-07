@@ -52,17 +52,17 @@ MossdeepCity_House2_Movement_WingullExitEast:
 	step_end
 
 MossdeepCity_House2_Text_SisterMailsBoyfriendInFortree:
-.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
-.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
-	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "My little sister exchanges MAIL with\n"
+	.string "her boyfriend in FORTREE.\p"
+	.string "I don't envy her one bit at all.$"
 
 MossdeepCity_House2_Text_PokemonCarriesMailBackAndForth:
-.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
-.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!$"
+	.string "Even though I can't see my friend in\n"
+	.string "FORTREE, my POKéMON carries MAIL\l"
+	.string "back and forth for us.\p"
+	.string "I'm not lonesome, even though we're\n"
+	.string "apart.$"
 
 MossdeepCity_House2_Text_Wingull:
-.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!$"
+	.string "WINGULL: Pihyoh!$"
 

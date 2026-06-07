@@ -6,6 +6,6 @@ Route5_EventScript_UndergroundPathSign::
 	end
 
 Route5_Text_UndergroundPathSign::
-	.string "Hoje e o seu dia, Lucas! Sua jornada apenas comecou."
-	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
+	.string "UNDERGROUND PATH\n"
+	.string "CERULEAN CITY - VERMILION CITY$"
 

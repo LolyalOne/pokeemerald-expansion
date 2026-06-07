@@ -59,20 +59,20 @@ MirageTower_4F_EventScript_CollapseMirageTower::
 	end
 
 MirageTower_4F_Text_TakeRootFossil:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pYou found the ROOT FOSSIL.\p"
-.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
-.string "Parabens, Lucas! Sua jornada\napenas comecou."
-	.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "You found the ROOT FOSSIL.\p"
+	.string "If this FOSSIL is taken, the ground\n"
+	.string "around it will likely crumble away…\p"
+	.string "Take the ROOT FOSSIL anyway?$"
 
 MirageTower_4F_Text_LeftRootFossilAlone:
-.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
+	.string "{PLAYER} left the ROOT FOSSIL alone.$"
 
 MirageTower_4F_Text_TakeClawFossil:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYou found the CLAW FOSSIL.\p"
-.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
-	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "You found the CLAW FOSSIL.\p"
+	.string "If this FOSSIL is taken, the ground\n"
+	.string "around it will likely crumble away…\p"
+	.string "Take the CLAW FOSSIL anyway?$"
 
 MirageTower_4F_Text_LeaveClawFossilAlone:
-.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
+	.string "{PLAYER} left the CLAW FOSSIL alone.$"
 

@@ -628,164 +628,164 @@ DewfordTown_EventScript_PhraseNotTrendyEnough::
 	end
 
 DewfordTown_Text_TinyIslandCommunity:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pDEWFORD is a tiny island community.\n"
-.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
-.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "DEWFORD is a tiny island community.\n"
+	.string "If something gets trendy here,\l"
+	.string "everyone picks up on it right away.$"
 
 DewfordTown_Text_TownSign:
-.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
-	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
+	.string "DEWFORD TOWN\n"
+	.string "“A tiny island in the blue sea.”$"
 
 DewfordTown_Text_GymSign:
-.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
-.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "DEWFORD TOWN POKéMON GYM\n"
+	.string "LEADER: BRAWLY\l"
+	.string "“A big wave in fighting!”$"
 
 DewfordTown_Text_HallSign:
-.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "DEWFORD HALL\n"
+	.string "“Everyone's information exchange!”$"
 
 Route104_Text_LandedInDewfordDeliverLetter:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pMR. BRINEY: Ahoy!\n"
-.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
-.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
-.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!$"
+	.string "MR. BRINEY: Ahoy!\n"
+	.string "We've hit land in DEWFORD.\p"
+	.string "I suppose you're off to deliver that\n"
+	.string "LETTER to, who was it now, STEVEN!$"
 
 DewfordTown_Text_SetSailBackToPetalburg:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pMR. BRINEY: Have you delivered your\n"
-.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
-.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
-.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "MR. BRINEY: Have you delivered your\n"
+	.string "LETTER?\p"
+	.string "Or were you meaning to sail back to\n"
+	.string "PETALBURG?$"
 
 DewfordTown_Text_PetalburgWereSettingSail2:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pMR. BRINEY: PETALBURG it is, then!\p"
-.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
-	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "MR. BRINEY: PETALBURG it is, then!\p"
+	.string "Anchors aweigh!\n"
+	.string "PEEKO, we're setting sail, my darling!$"
 
 DewfordTown_Text_GoDeliverIllBeWaiting:
-.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
+	.string "MR. BRINEY: Then you go on and deliver\n"
+	.string "the LETTER. I'll be waiting.$"
 
 DewfordTown_Text_BrineyLandedInDewford:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pMR. BRINEY: Ahoy!\n"
-.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
-.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
-	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "MR. BRINEY: Ahoy!\n"
+	.string "We've hit land in DEWFORD!\p"
+	.string "You just go on and tell me whenever\n"
+	.string "you want to set sail again!$"
 
 DewfordTown_Text_WhereAreWeBound:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pMR. BRINEY: Ahoy!\n"
-.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
-.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
+	.string "MR. BRINEY: Ahoy!\n"
+	.string "For you, I'll go out to sea anytime!\p"
+	.string "Now, my friend, where are we bound?$"
 
 DewfordTown_Text_PetalburgWereSettingSail:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pMR. BRINEY: PETALBURG, is it?\p"
-.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
-.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!$"
+	.string "MR. BRINEY: PETALBURG, is it?\p"
+	.string "Anchors aweigh!\n"
+	.string "PEEKO, we're setting sail, my darling!$"
 
 DewfordTown_Text_SlateportWereSettingSail:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pMR. BRINEY: SLATEPORT, is it?\p"
-.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
-	.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "MR. BRINEY: SLATEPORT, is it?\p"
+	.string "Anchors aweigh!\n"
+	.string "PEEKO, we're setting sail, my darling!$"
 
 DewfordTown_Text_JustTellMeWhenYouNeedToSetSail:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pMR. BRINEY: You just tell me whenever\n"
-.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!$"
+	.string "MR. BRINEY: You just tell me whenever\n"
+	.string "you need to set sail again!$"
 
 DewfordTown_Text_GettingItchToFish:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pThis is a renowned fishing spot.\n"
-.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!$"
+	.string "This is a renowned fishing spot.\n"
+	.string "Are you getting the itch to fish?$"
 
 DewfordTown_Text_GiveYouOneOfMyRods:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pI hear you, and I like what\n"
-.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
-.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!$"
+	.string "I hear you, and I like what\n"
+	.string "you're saying!\p"
+	.string "I'll give you one of my fishing RODS.$"
 
 DewfordTown_Text_ThrowInFishingAdvice:
-.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
-.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
-.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
-.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
-.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
-.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
-.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "And, as an added bonus, I'll even throw\n"
+	.string "in a little fishing advice!\p"
+	.string "First, you want to face the water,\n"
+	.string "then use the ROD.\p"
+	.string "Focus your mind…\n"
+	.string "If you get a bite, pull on the ROD.\p"
+	.string "Sometimes you can snag something\n"
+	.string "immediately, but with bigger catches,\l"
+	.string "you need to time the pulls on your ROD\l"
+	.string "to haul them in.$"
 
 DewfordTown_Text_ThatsTooBadThen:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pOh, is that so?\n"
-	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
+	.string "Oh, is that so?\n"
+	.string "That's too bad, then.$"
 
 DewfordTown_Text_HowsYourFishing:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pYo!\n"
-	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
+	.string "Yo!\n"
+	.string "How's your fishing?$"
 
 DewfordTown_Text_GreatHaulInSomeBigOnes:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pIs that right! That's great!\n"
-	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "Is that right! That's great!\n"
+	.string "Haul in some big ones!$"
 
 DewfordTown_Text_FishingAdvice:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pOh, hey, don't get down on yourself!\n"
-.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
-.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
-.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
-.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
-.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
-.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "Oh, hey, don't get down on yourself!\n"
+	.string "I'll give you a little fishing advice.\p"
+	.string "First, you want to face the water,\n"
+	.string "then use the ROD.\p"
+	.string "Focus your mind…\n"
+	.string "If you get a bite, pull the ROD.\p"
+	.string "Sometimes you can snag something\n"
+	.string "immediately, but with bigger catches,\l"
+	.string "you need to time the pulls on your ROD\l"
+	.string "to haul them in.$"
 
 DewfordTown_Text_XIsTheBiggestHappeningThingRight:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI like what's hip, happening, and trendy.\n"
-.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
-.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
+	.string "I like what's hip, happening, and trendy.\n"
+	.string "I'm always checking it out.\p"
+	.string "Listen, have you heard about this new\n"
 	.string "“{STR_VAR_1}”?\p"
-.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
-.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
-.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
-	.string "“{STR_VAR_1}”...\l"
-.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
-.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
+	.string "That's right!\n"
+	.string "Of course you know!\p"
+	.string "I mean, sheesh,\n"
+	.string "“{STR_VAR_1}”…\l"
+	.string "It's the hottest thing in cool!\p"
+	.string "Wherever you're from,\n"
 	.string "“{STR_VAR_1}”\l"
-	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "is the biggest happening thing, right?$"
 
 DewfordTown_Text_TellMeWhatsNewAndIn:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pHunh?\n"
-.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
-.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!$"
+	.string "Hunh?\n"
+	.string "It's not the hip and happening thing?\p"
+	.string "Well, hey, you have to tell me,\n"
+	.string "what's new and what's “in”?$"
 
 DewfordTown_Text_OfCourseIKnowAboutThat:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pHunh?\n"
+	.string "Hunh?\n"
 	.string "“{STR_VAR_2}”?\p"
-.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
-.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
-.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
-.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
+	.string "… …\p"
+	.string "…Uh… Yeah! That's right!\n"
+	.string "Yeah, I knew that! Knew it all along!\p"
+	.string "Of course I know about that!\n"
 	.string "“{STR_VAR_2},” right?\p"
-.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
+	.string "Yeah, that's it, it's there!\n"
 	.string "Isn't “{STR_VAR_2}”\l"
-.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
-	.string "“{STR_VAR_1}”...\n"
-.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
+	.string "the coolest, or what?\p"
+	.string "It's the hippest thing in hip.\n"
+	.string "You think I'd not know about it?\p"
+	.string "“{STR_VAR_1}”…\n"
+	.string "It's, like, so five minutes ago.\p"
 	.string "Now, “{STR_VAR_2}” is\n"
-	.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "what's vital and in tune with the times!$"
 
 DewfordTown_Text_XHuhIThinkYIsCool:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pHmm...\n"
+	.string "Hmm…\n"
 	.string "“{STR_VAR_2},” huh?\p"
-.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
+	.string "But personally, I think\n"
 	.string "“{STR_VAR_1}”\l"
-	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
+	.string "is what's real in cool.$"
 
 DewfordTown_Text_HearOfAnyTrendsComeShareWithMe:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pWell, if you hear of any happening new\n"
-	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
+	.string "Well, if you hear of any happening new\n"
+	.string "trends, come share them with me, okay?$"
 
 DewfordTown_Text_YeahDefinitionOfInRightNow:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pYeah, absolutely right!\p"
+	.string "Yeah, absolutely right!\p"
 	.string "“{STR_VAR_1}” is the\n"
-.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou.$"
+	.string "definition of “in” right now.$"

@@ -82,101 +82,101 @@ FiveIsland_MemorialPillar_EventScript_MemorialLemonadeAlreadyPlaced::
 	end
 
 FiveIsland_MemorialPillar_Text_MiloIntro::
-.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
-.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!$"
+	.string "I'm the eldest of the BIRD\n"
+	.string "BROTHERS.\p"
+	.string "The best thing about birds…\n"
+	.string "It has to be the beak.$"
 
 FiveIsland_MemorialPillar_Text_MiloDefeat::
-.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!$"
+	.string "Oh, so sharp!$"
 
 FiveIsland_MemorialPillar_Text_MiloPostBattle::
-.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
-.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!$"
+	.string "You can fly to FOUR ISLAND from\n"
+	.string "here.$"
 
 FiveIsland_MemorialPillar_Text_ChazIntro::
-.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
-.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
-	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
+	.string "I'm the middle kid of the BIRD\n"
+	.string "BROTHERS.\p"
+	.string "The best thing about birds…\n"
+	.string "It has to be the wings.$"
 
 FiveIsland_MemorialPillar_Text_ChazDefeat::
-	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
+	.string "Flap, flap!$"
 
 FiveIsland_MemorialPillar_Text_ChazPostBattle::
-.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
-	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
+	.string "There was a really somber guy\n"
+	.string "over that way.$"
 
 FiveIsland_MemorialPillar_Text_HaroldIntro::
-.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
-.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
-.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
-	.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "I'm the youngest of the BIRD\n"
+	.string "BROTHERS.\p"
+	.string "The best thing about birds…\n"
+	.string "It has to be the down.$"
 
 FiveIsland_MemorialPillar_Text_HaroldDefeat::
-.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
+	.string "Down is so comfy…\n"
+	.string "It makes me drowsy…$"
 
 FiveIsland_MemorialPillar_Text_HaroldPostBattle::
-.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
-	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
+	.string "It fills me with happiness when\n"
+	.string "bird POKéMON beg playfully…$"
 
 FiveIsland_MemorialPillar_Text_ScrubScrub::
-.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "Scrub, scrub…$"
 
 FiveIsland_MemorialPillar_Text_YourMonsLookHealthy::
-.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
-.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
+	.string "Hello…\n"
+	.string "Your POKéMON look healthy…$"
 
 FiveIsland_MemorialPillar_Text_ThisIsWhereIBuriedMyOnix::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThis is where I buried my ONIX...\n"
-	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "This is where I buried my ONIX…\n"
+	.string "It was named TECTONIX…$"
 
 FiveIsland_MemorialPillar_Text_HereLiesTectonixLemonadeOffering::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p“Here lies TECTONIX” is engraved\n"
-.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
-	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
+	.string "“Here lies TECTONIX” is engraved\n"
+	.string "on a boulder.\p"
+	.string "There is a LEMONADE placed as an\n"
+	.string "offering in front of the grave.$"
 
 FiveIsland_MemorialPillar_Text_LeaveAnotherLemonadeOffering::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWould you like to leave another\n"
-	.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "Would you like to leave another\n"
+	.string "LEMONADE as an offering?$"
 
 FiveIsland_MemorialPillar_Text_PlacedCanOfLemonade::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\p{PLAYER} placed a can of LEMONADE\n"
-.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!$"
+	.string "{PLAYER} placed a can of LEMONADE\n"
+	.string "in front of the grave.$"
 
 FiveIsland_MemorialPillar_Text_ThankYouPleaseTakeThis::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pTh-thank you...\p"
-.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
-.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
-.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
-.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
-.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!$"
+	.string "Th-thank you…\p"
+	.string "That was my TECTONIX's favorite\n"
+	.string "drink…\p"
+	.string "I don't even know you, but your\n"
+	.string "act of kindness…\p"
+	.string "It's uplifted me a little.\p"
+	.string "Can you please take this as my\n"
+	.string "thanks?$"
 
 FiveIsland_MemorialPillar_Text_BeGoodToYourMonsToo::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pPlease be good to your POKeMON,\n"
-	.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "Please be good to your POKéMON,\n"
+	.string "too.$"
 
 FiveIsland_MemorialPillar_Text_DontHaveRoomForIt::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pIf you don't have room for it,\n"
-	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
+	.string "If you don't have room for it,\n"
+	.string "I'll hold it for you till next time.$"
 
 FiveIsland_MemorialPillar_Text_StillHaveThingAsMyThanks::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pOh, it's you from that time...\p"
-.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
-.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!$"
+	.string "Oh, it's you from that time…\p"
+	.string "I still have that thing I wanted\n"
+	.string "you to have as my thanks.$"
 
 FiveIsland_MemorialPillar_Text_ScrubScrubTectonix::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pScrub, scrub...\p"
-.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
-	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "Scrub, scrub…\p"
+	.string "… … …\n"
+	.string "TECTONIX…$"
 
 FiveIsland_MemorialPillar_Text_HereLiesTectonix::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pBoulders and rocks are neatly piled\n"
-.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
-.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou."
-	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "Boulders and rocks are neatly piled\n"
+	.string "up as a cairn.\p"
+	.string "“Here lies TECTONIX” is engraved\n"
+	.string "on a boulder.$"
 

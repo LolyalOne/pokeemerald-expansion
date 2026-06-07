@@ -7,13 +7,13 @@ SSAnne_1F_Room7_EventScript_Thomas::
 	end
 
 SSAnne_1F_Room7_Text_ThomasIntro::
-.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!"
-.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
-.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
+	.string "I am but a solitary traveler…\p"
+	.string "My sole companions and friends are\n"
+	.string "POKéMON I caught on my journeys…$"
 
 SSAnne_1F_Room7_Text_ThomasDefeat::
-.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou.$"
+	.string "My, my friends…$"
 
 SSAnne_1F_Room7_Text_ThomasPostBattle::
-	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
+	.string "You should be nice to friends!$"
 

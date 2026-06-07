@@ -47,55 +47,55 @@ SSAnne_CaptainsOffice_EventScript_Book::
 	end
 
 SSAnne_CaptainsOffice_Text_CaptainIFeelSeasick::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pCAPTAIN: Ooargh...\n"
-.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
-.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "CAPTAIN: Ooargh…\n"
+	.string "I feel hideous…\l"
+	.string "Urrp! Seasick…$"
 
 SSAnne_CaptainsOffice_Text_RubbedCaptainsBack::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\p{PLAYER} rubbed the CAPTAIN's\n"
-.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
+	.string "{PLAYER} rubbed the CAPTAIN's\n"
+	.string "back!\p"
+	.string "Rub-rub…\n"
+	.string "Rub-rub…$"
 
 SSAnne_CaptainsOffice_Text_ThankYouHaveHMForCut::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pCAPTAIN: Whew! Thank you!\n"
-.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!"
-.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
-.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
-.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
-.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
-.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "CAPTAIN: Whew! Thank you!\n"
+	.string "I'm feeling much better now.\p"
+	.string "You want to see my hidden CUT\n"
+	.string "technique?\p"
+	.string "I could show you my prized CUT\n"
+	.string "technique if I weren't so ill…\p"
+	.string "I know! You can have this!\n"
+	.string "This HIDDEN MACHINE!\p"
+	.string "Teach CUT to your POKéMON, and\n"
+	.string "you can see it CUT anytime!$"
 
 SSAnne_CaptainsOffice_Text_ObtainedHM01FromCaptain::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\p{PLAYER} obtained HM01\n"
-.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!$"
+	.string "{PLAYER} obtained HM01\n"
+	.string "from the CAPTAIN!$"
 
 SSAnne_CaptainsOffice_Text_ExplainCut::
-.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
-.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
-.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
-.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!$"
+	.string "Using CUT, you can chop down\n"
+	.string "small trees.\p"
+	.string "Why not try it with the trees\n"
+	.string "around VERMILION CITY?$"
 
 SSAnne_CaptainsOffice_Text_SSAnneWillSetSailSoon::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pCAPTAIN: ...Whew!\p"
-.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
-.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
-.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
-	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
+	.string "CAPTAIN: …Whew!\p"
+	.string "Now that I'm not sick anymore,\n"
+	.string "I guess it's time.\p"
+	.string "The S.S. ANNE will set sail soon!\p"
+	.string "Farewell, until our return to\n"
+	.string "VERMILION CITY!$"
 
 SSAnne_CaptainsOffice_Text_YouHaveNoRoomForThis::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pOh, no!\n"
-.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!$"
+	.string "Oh, no!\n"
+	.string "You have no room for this!$"
 
 SSAnne_CaptainsOffice_Text_YuckShouldntHaveLooked::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pYuck!\n"
-.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!$"
+	.string "Yuck!\n"
+	.string "Shouldn't have looked!$"
 
 SSAnne_CaptainsOffice_Text_HowToConquerSeasickness::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHow to Conquer Seasickness...\n"
-	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
+	.string "How to Conquer Seasickness…\n"
+	.string "The CAPTAIN's reading this!$"
 

@@ -44,37 +44,37 @@ Route12_NorthEntrance_2F_EventScript_ExplainTM27::
 
 @ Male and female text identical, differ (presumably) in JP
 Route12_NorthEntrance_2F_Text_TakeTMDontNeedAnymoreMale::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pMy POKeMON's ashes are stored in\n"
-.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
-.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
-	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
+	.string "My POKéMON's ashes are stored in\n"
+	.string "POKéMON TOWER.\p"
+	.string "You can have this TM.\n"
+	.string "I don't need it anymore…$"
 
 Route12_NorthEntrance_2F_Text_TakeTMDontNeedAnymoreFemale::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pMy POKeMON's ashes are stored in\n"
-.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
+	.string "My POKéMON's ashes are stored in\n"
+	.string "POKéMON TOWER.\p"
+	.string "You can have this TM.\n"
+	.string "I don't need it anymore…$"
 
 Route12_NorthEntrance_2F_Text_ReceivedTM27FromLittleGirl::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p{PLAYER} received TM27\n"
-.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!$"
+	.string "{PLAYER} received TM27\n"
+	.string "from the little girl.$"
 
 Route12_NorthEntrance_2F_Text_ExplainTM27::
-.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
-.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
-.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!$"
+	.string "TM27 is a move called RETURN…\p"
+	.string "If you treat your POKéMON good,\n"
+	.string "it will return your love by working\l"
+	.string "its hardest in battle.$"
 
 Route12_NorthEntrance_2F_Text_DontHaveRoomForThis::
-	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "You don't have room for this.$"
 
 Route12_NorthEntrance_2F_Text_TheresManFishing::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pLet's see what the binoculars have\n"
-.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
-	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
+	.string "Let's see what the binoculars have\n"
+	.string "to show…\p"
+	.string "There's a man fishing!$"
 
 Route12_NorthEntrance_2F_Text_ItsPokemonTower::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pLet's see what the binoculars have\n"
-.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!$"
+	.string "Let's see what the binoculars have\n"
+	.string "to show…\p"
+	.string "It's POKéMON TOWER!$"
 

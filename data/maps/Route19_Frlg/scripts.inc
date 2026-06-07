@@ -6,156 +6,156 @@ Route19_EventScript_RouteSign::
 	end
 
 Route19_Text_RichardIntro::
-.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
-	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "I have to exercise and warm up\n"
+	.string "before going out for a swim.$"
 
 Route19_Text_RichardDefeat::
-	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
+	.string "All warmed up!$"
 
 Route19_Text_RichardPostBattle::
-.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
-	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
+	.string "Thanks, kid!\n"
+	.string "I'm ready for a swim.$"
 
 Route19_Text_ReeceIntro::
-.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!$"
+	.string "Wait! Slow down!\n"
+	.string "You'll have a heart attack!$"
 
 Route19_Text_ReeceDefeat::
-.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
-	.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
+	.string "Ooh!\n"
+	.string "That's chilly!$"
 
 Route19_Text_ReecePostBattle::
-.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!"
-	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "Watch out for TENTACOOL.\n"
+	.string "They sting so painfully.$"
 
 Route19_Text_MatthewIntro::
-.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
-	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "I love swimming!\n"
+	.string "What about you?$"
 
 Route19_Text_MatthewDefeat::
-.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "Belly flop!$"
 
 Route19_Text_MatthewPostBattle::
-.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!$"
+	.string "I can beat even marine POKéMON\n"
+	.string "at swimming.$"
 
 Route19_Text_DouglasIntro::
-.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!$"
+	.string "What's beyond the horizon?$"
 
 Route19_Text_DouglasDefeat::
-	.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "Glub!$"
 
 Route19_Text_DouglasPostBattle::
-.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
-	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
+	.string "I see a couple of islands over\n"
+	.string "yonder!$"
 
 Route19_Text_DavidIntro::
-.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
-	.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
+	.string "I tried diving for POKéMON, but it\n"
+	.string "was a no-go.$"
 
 Route19_Text_DavidDefeat::
-.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!$"
+	.string "Help!$"
 
 Route19_Text_DavidPostBattle::
-.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
-	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "I guess you have to fish for sea\n"
+	.string "POKéMON.$"
 
 Route19_Text_TonyIntro::
-.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!"
-	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
+	.string "I look at the sea to forget all\n"
+	.string "the bad things that happened.$"
 
 Route19_Text_TonyDefeat::
-.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
-.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
+	.string "Ooh!\n"
+	.string "Traumatic!$"
 
 Route19_Text_TonyPostBattle::
-.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
-	.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "I'm looking at the sea to forget\n"
+	.string "the bad thing that happened!$"
 
 Route19_Text_AnyaIntro::
-.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!"
-	.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "Oh, I just love your ride!\n"
+	.string "Can I have it if I win?$"
 
 Route19_Text_AnyaDefeat::
-	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
+	.string "Oh! I lost!$"
 
 Route19_Text_AnyaPostBattle::
-.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou."
-.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
-	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
+	.string "It's still a long way to go to\n"
+	.string "SEAFOAM ISLANDS…\p"
+	.string "I want to go back to FUCHSIA…$"
 
 Route19_Text_AliceIntro::
-.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
-	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
+	.string "Swimming's great!\n"
+	.string "Sunburns aren't!$"
 
 Route19_Text_AliceDefeat::
-	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
+	.string "Shocker!$"
 
 Route19_Text_AlicePostBattle::
-.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!$"
+	.string "My boyfriend wanted to swim to\n"
+	.string "SEAFOAM ISLANDS.$"
 
 Route19_Text_AxleIntro::
-.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
-	.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
+	.string "Ahoy, there!\n"
+	.string "These waters are treacherous!$"
 
 Route19_Text_AxleDefeat::
-.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!"
-	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "Ooh!\n"
+	.string "Dangerous!$"
 
 Route19_Text_AxlePostBattle::
-.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
-	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "M-my legs! They cramped up!\n"
+	.string "Glub, glub…$"
 
 Route19_Text_ConnieIntro::
-.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
-	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
+	.string "I swam here with my friends…\n"
+	.string "I'm tired…$"
 
 Route19_Text_ConnieDefeat::
-.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!$"
+	.string "I'm exhausted…$"
 
 Route19_Text_ConniePostBattle::
-.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
-.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
-.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
-	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "If I were to ride a POKéMON on\n"
+	.string "the sea, I'd like a LAPRAS.\p"
+	.string "LAPRAS is so big, I bet it\n"
+	.string "would keep me dry on water.$"
 
 Route19_Text_RouteSign::
-.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
-.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
+	.string "SEA ROUTE 19\n"
+	.string "FUCHSIA CITY - SEAFOAM ISLANDS$"
 
 Route19_Text_LiaIntro::
-.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!$"
+	.string "LIA: I'm looking after my brother.\n"
+	.string "He just became a TRAINER.$"
 
 Route19_Text_LiaDefeat::
-.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "LIA: That's no way to treat my\n"
+	.string "little brother!$"
 
 Route19_Text_LiaPostBattle::
-.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
-.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
-.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
-	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
+	.string "LIA: Do you have a younger\n"
+	.string "brother?\p"
+	.string "I hope you're teaching him all\n"
+	.string "sorts of things.$"
 
 Route19_Text_LiaNotEnoughMons::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pLIA: I want to battle together\n"
-.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
-	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
+	.string "LIA: I want to battle together\n"
+	.string "with my little brother.\p"
+	.string "Don't you have two POKéMON?$"
 
 Route19_Text_LucIntro::
-.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
-.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
+	.string "LUC: My big sis taught me how\n"
+	.string "to swim and train POKéMON.$"
 
 Route19_Text_LucDefeat::
-.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
-	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
+	.string "LUC: Oh, wow!\n"
+	.string "Someone tougher than my big sis!$"
 
 Route19_Text_LucPostBattle::
-.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
-.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!$"
+	.string "LUC: My big sis is strong and nice.\n"
+	.string "I think she's awesome!$"
 
 Route19_Text_LucNotEnoughMons::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pLUC: I don't want to if I can't\n"
-.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Lucas, voce e o melhor! Sua\njornada apenas comecou.$"
+	.string "LUC: I don't want to if I can't\n"
+	.string "battle you with my big sis.\p"
+	.string "Don't you have two POKéMON?$"

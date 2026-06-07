@@ -20,23 +20,23 @@ SootopolisCity_House3_EventScript_Girl::
 	end
 
 SootopolisCity_House3_Text_JuanHasManyFansDoYou:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pYou're a POKeMON TRAINER, aren't you?\p"
-.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
-	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "You're a POKéMON TRAINER, aren't you?\p"
+	.string "SOOTOPOLIS's JUAN has many fans.\n"
+	.string "Even more than his student WALLACE!\p"
+	.string "Do you have any?$"
 
 SootopolisCity_House3_Text_YouMustBePrettyStrong:
-.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!$"
+	.string "Oh, then you must be pretty strong.$"
 
 SootopolisCity_House3_Text_LonesomeTryWorkingHarder:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh, dear...\n"
-.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
-.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
-.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
+	.string "Oh, dear…\n"
+	.string "That's a little lonesome.\p"
+	.string "Try working a little harder to get\n"
+	.string "a fan following.$"
 
 SootopolisCity_House3_Text_TrainerFanClubWasWild:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pDedicated fans come over from even\n"
-.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
-.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!"
-.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
+	.string "Dedicated fans come over from even\n"
+	.string "outside of HOENN.\p"
+	.string "It was really wild when I went to the\n"
+	.string "TRAINER FAN CLUB in LILYCOVE.$"
 

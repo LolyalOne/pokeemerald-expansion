@@ -315,78 +315,78 @@ Route110_TrickHousePuzzle7_EventScript_Everett::
 	end
 
 Route110_TrickHousePuzzle7_Text_WroteSecretCodeLockOpened::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p{PLAYER} wrote down the secret code\n"
-.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
-.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
-.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!$"
+	.string "{PLAYER} wrote down the secret code\n"
+	.string "on the door.\p"
+	.string "“TRICK MASTER is huggable.”\n"
+	.string "… … … … … … … …\p"
+	.string "The lock clicked open!$"
 
 Route110_TrickHousePuzzle7_Text_JoshuaIntro:
-.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
-.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!$"
+	.string "The TRICK MASTER always vanishes\n"
+	.string "like smoke. How does he do it?$"
 
 Route110_TrickHousePuzzle7_Text_JoshuaDefeat:
-.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!$"
+	.string "Aiyeeeh! You're much too strong!\n"
+	.string "How do you do it?$"
 
 Route110_TrickHousePuzzle7_Text_JoshuaPostBattle:
-.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
-.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "I wish I could appear and disappear as\n"
+	.string "if I were smoke, too.$"
 
 Route110_TrickHousePuzzle7_Text_PatriciaIntro:
-.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
-.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!$"
+	.string "Going around the same spot…\n"
+	.string "It begets ill fortune…$"
 
 Route110_TrickHousePuzzle7_Text_PatriciaDefeat:
-.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
-	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
+	.string "Defeated!\n"
+	.string "It's a bad sign…$"
 
 Route110_TrickHousePuzzle7_Text_PatriciaPostBattle:
-.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
-	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
+	.string "I've circled the same spot over ten\n"
+	.string "times now… It's ill fortune…$"
 
 Route110_TrickHousePuzzle7_Text_AlexisIntro:
-.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
-	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
+	.string "Whoever wins will get through here\n"
+	.string "first. That's the feeling I get.$"
 
 Route110_TrickHousePuzzle7_Text_AlexisDefeat:
-.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
-.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!$"
+	.string "Oh!\n"
+	.string "Well, go ahead, then!$"
 
 Route110_TrickHousePuzzle7_Text_AlexisPostBattle:
-.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
-.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou.$"
+	.string "You're solving all the puzzles in the\n"
+	.string "TRICK HOUSE. That's the feeling I get.$"
 
 Route110_TrickHousePuzzle7_Text_MarielaIntro:
-.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!"
-	.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "Nufufufu, here at last!\n"
+	.string "Let's get right with it!$"
 
 Route110_TrickHousePuzzle7_Text_MarielaDefeat:
-	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "You're so casual about winning!$"
 
 Route110_TrickHousePuzzle7_Text_MarielaPostBattle:
-.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
-	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "Humph! I'm not upset!\n"
+	.string "Not me!$"
 
 Route110_TrickHousePuzzle7_Text_AlvaroIntro:
-	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
+	.string "I ever so closely watched you coming!$"
 
 Route110_TrickHousePuzzle7_Text_AlvaroDefeat:
-	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
+	.string "This outcome I didn't see coming…$"
 
 Route110_TrickHousePuzzle7_Text_AlvaroPostBattle:
-.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
-.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
-	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "Well, anyway, we both picked a weird\n"
+	.string "place to get acquainted.\p"
+	.string "As one weirdo to another,\n"
+	.string "let's do our best!$"
 
 Route110_TrickHousePuzzle7_Text_EverettIntro:
-	.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
+	.string "It's awfully cramped in here…$"
 
 Route110_TrickHousePuzzle7_Text_EverettDefeat:
-	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
+	.string "Oh, yes, strong you are.$"
 
 Route110_TrickHousePuzzle7_Text_EverettPostBattle:
-.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!"
-	.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "I was hoping to switch places with you\n"
+	.string "when I beat you, but…$"
 

@@ -10,106 +10,106 @@ Route3_EventScript_RouteSign::
 	end
 
 Route3_Text_TunnelFromCeruleanTiring::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pWhew... I better take a rest...\n"
-.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
-.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
+	.string "Whew… I better take a rest…\n"
+	.string "Groan…\p"
+	.string "That tunnel from CERULEAN takes a\n"
+	.string "lot out of you!$"
 
 Route3_Text_ColtonIntro::
-.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!$"
+	.string "Hey!\n"
+	.string "I saw you in VIRIDIAN FOREST!$"
 
 Route3_Text_ColtonDefeat::
-	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
+	.string "You beat me again!$"
 
 Route3_Text_ColtonPostBattle::
-.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
-	.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "There are other kinds of POKéMON\n"
+	.string "than the ones you find in forests.$"
 
 Route3_Text_BenIntro::
-.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
-.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
-	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "Hi!\n"
+	.string "I like shorts!\p"
+	.string "They're delightfully comfy and\n"
+	.string "easy to wear!$"
 
 Route3_Text_BenDefeat::
-.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!$"
+	.string "I don't believe it!$"
 
 Route3_Text_BenPostBattle::
-.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
-.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
-.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
-.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "Are you using a POKéMON CENTER's\n"
+	.string "PC for storing your POKéMON?\p"
+	.string "Each BOX can hold up to\n"
+	.string "30 POKéMON.$"
 
 Route3_Text_JaniceIntro::
-.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
-	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "Excuse me!\n"
+	.string "You looked at me, didn't you?$"
 
 Route3_Text_JaniceDefeat::
-.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "You're mean!$"
 
 Route3_Text_JanicePostBattle::
-.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
-	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
+	.string "You shouldn't be staring if you\n"
+	.string "don't want to battle!$"
 
 Route3_Text_GregIntro::
-.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
-.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!$"
+	.string "Are you a TRAINER?\n"
+	.string "Let's get with it right away!$"
 
 Route3_Text_GregDefeat::
-.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "If I had new POKéMON, I would've\n"
+	.string "won!$"
 
 Route3_Text_GregPostBattle::
-.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
-	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
+	.string "If a POKéMON BOX on the PC gets\n"
+	.string "full, just switch to another BOX.$"
 
 Route3_Text_SallyIntro::
-.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
-	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
+	.string "That look you gave me…\n"
+	.string "It's so intriguing!$"
 
 Route3_Text_SallyDefeat::
-	.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
+	.string "Be nice!$"
 
 Route3_Text_SallyPostBattle::
-.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
-	.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "You can avoid battles by not\n"
+	.string "letting TRAINERS see you.$"
 
 Route3_Text_CalvinIntro::
-.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
-	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
+	.string "Hey! You're not wearing shorts!\n"
+	.string "What's wrong with you?$"
 
 Route3_Text_CalvinDefeat::
-.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!"
-	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
+	.string "Lost!\n"
+	.string "Lost! Lost!$"
 
 Route3_Text_CalvinPostBattle::
-.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!"
-.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!$"
+	.string "I always wear shorts, even in\n"
+	.string "winter. That's my policy.$"
 
 Route3_Text_JamesIntro::
-.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
-.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
+	.string "I'll battle you with the POKéMON\n"
+	.string "I just caught.$"
 
 Route3_Text_JamesDefeat::
-	.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
+	.string "Done like dinner!$"
 
 Route3_Text_JamesPostBattle::
-.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
-	.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
+	.string "Trained POKéMON are stronger than\n"
+	.string "the wild ones.$"
 
 Route3_Text_RobinIntro::
-.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
-	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
+	.string "Eek!\n"
+	.string "Did you touch me?$"
 
 Route3_Text_RobinDefeat::
-	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
+	.string "That's it?$"
 
 Route3_Text_RobinPostBattle::
-.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
-	.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "ROUTE 4 is at the foot of\n"
+	.string "MT. MOON.$"
 
 Route3_Text_RouteSign::
-.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
-.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
+	.string "ROUTE 3\n"
+	.string "MT. MOON AHEAD$"
 

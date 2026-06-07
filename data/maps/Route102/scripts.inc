@@ -74,26 +74,36 @@ Route102_EventScript_Allen::
 	end
 
 Route102_Text_WatchMeCatchPokemon:
-    .string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWALLY: {PLAYER}...\n"
-    .string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
-    .string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
-    .string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
-    .string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
-    .string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "WALLY: {PLAYER}…\n"
+	.string "POKéMON hide in tall grass like this,\l"
+	.string "don't they?\p"
+	.string "Please watch me and see if I can\n"
+	.string "catch one properly.\p"
+	.string "…Whoa!$"
+
 Route102_Text_WallyIDidIt:
-    .string "WALLY: Eu consegui... É o meu... Meu\npróprio Pokémon! Muito obrigado por\lme ajudar, Lucas! E feliz\laniversário! Você é um amigo\lincrível e um treinador espetacular,\lque o seu dia seja totalmente épico!$"
+	.string "WALLY: I did it… It's my…\n"
+	.string "My POKéMON!$"
+
 Route102_Text_LetsGoBack:
-    .string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p{PLAYER}, thank you!\n"
-    .string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!$"
+	.string "{PLAYER}, thank you!\n"
+	.string "Let's go back to the GYM!$"
+
 Route102_Text_ImNotVeryTall:
-    .string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pI'm...not very tall, so I sink right\n"
-    .string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
-    .string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
-    .string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
-    .string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
+	.string "I'm…not very tall, so I sink right\n"
+	.string "into tall grass.\p"
+	.string "The grass goes up my nose and…\n"
+	.string "Fwafwafwafwafwa…\p"
+	.string "Fwatchoo!$"
+
 Route102_Text_CatchWholeBunchOfPokemon:
-    .string "Feliz aniversário, Lucas! Você é um\namigo incrível. Eu vou capturar um\lmonte de POKéMON hoje para\lcomemorar, então aproveite o seu\ldia especial e capture todos os\lPOKéMON que encontrar!$"
+	.string "I'm going to catch a whole bunch of\n"
+	.string "POKéMON!$"
+
 Route102_Text_RouteSignOldale:
-    .string "Feliz aniversário, Lucas! Aproveite\nmuito a sua jornada! Você já é uma\llenda em Hoenn, e hoje, no seu dia\lespecial, que todos os seus desejos\lse realizem!$"
+	.string "ROUTE 102\n"
+	.string "{RIGHT_ARROW} OLDALE TOWN$"
+
 Route102_Text_RouteSignPetalburg:
-    .string "Lucas, feliz aniversário! Que o seu\ndia seja absolutamente épico! Vá lá\lfora e capture muitos Pokémon hoje\lpara comemorar! Feliz 23 de maio,\lLucas! O seu presente de aniversário\ljá está esperando por você!$"
+	.string "ROUTE 102\n"
+	.string "{LEFT_ARROW} PETALBURG CITY$"

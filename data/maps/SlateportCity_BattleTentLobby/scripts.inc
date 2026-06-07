@@ -273,35 +273,35 @@ SlateportCity_BattleTentLobby_EventScript_ExitRules::
 	end
 
 SlateportCity_BattleTentLobby_Text_CouldntFindMonForMe:
-.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
-.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
-.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
-.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
-	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "So, like, I couldn't find myself any\n"
+	.string "POKéMON that were, like, for me.\p"
+	.string "So, I figured, like, hey, I should file\n"
+	.string "a complaint to the guy there?\p"
+	.string "And he wouldn't hear me out, like, hey!\n"
+	.string "So, like, total bummer, man!\p"
+	.string "Hey, like, you! Zip it, you know?\n"
+	.string "Just, you know, take this!$"
 
 SlateportCity_BattleTentLobby_Text_ExplainTorment:
-.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
-.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
-.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
-.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
-.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
-.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "That's, like, TM41, you know?\n"
+	.string "Hey, it's TORMENT, you hearing me?\p"
+	.string "Like, it won't let the other guy\n"
+	.string "use the same move twice in a row, see?\p"
+	.string "Hey, now, you listen here, like,\n"
+	.string "I'm not laying a torment on you!$"
 
 SlateportCity_BattleTentLobby_Text_IllTryUsingBugMons:
-.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
-.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!"
-.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!"
-.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!"
-	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "I don't really like BUG POKéMON,\n"
+	.string "but maybe I'll try using some for\l"
+	.string "a change of pace.\p"
+	.string "Who knows, I might even get to like\n"
+	.string "them!$"
 
 SlateportCity_BattleTentLobby_Text_BattleEvenWithoutToughMons:
-.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
-.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "You can battle all you want here even\n"
+	.string "if you don't have any tough POKéMON.$"
 
 SlateportCity_BattleTentLobby_Text_NiceIfMoreSelection:
-.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
-	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
+	.string "Wouldn't it be nice if they had more of\n"
+	.string "a selection?$"
 

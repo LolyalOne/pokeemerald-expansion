@@ -25,18 +25,18 @@ SSAnne_1F_Room6_EventScript_DeclineHealMale::
 	end
 
 SSAnne_1F_Room6_Text_TakeAShortRest::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pYou look tired. Would you like to\n"
-.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!$"
+	.string "You look tired. Would you like to\n"
+	.string "take a short rest?$"
 
 SSAnne_1F_Room6_Text_GladEveryoneIsRefreshed::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI'm glad to see that everyone is\n"
-	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
+	.string "I'm glad to see that everyone is\n"
+	.string "looking refreshed and chipper.$"
 
 SSAnne_1F_Room6_Text_SorryYouLookLikeMyBrother::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pOh, I'm sorry for fussing over you.\n"
-	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
+	.string "Oh, I'm sorry for fussing over you.\n"
+	.string "You look like my little brother…$"
 
 SSAnne_1F_Room6_Text_SorryYouLookLikeMySister::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh, I'm sorry for fussing over you.\n"
-.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
+	.string "Oh, I'm sorry for fussing over you.\n"
+	.string "You look like my little sister…$"
 

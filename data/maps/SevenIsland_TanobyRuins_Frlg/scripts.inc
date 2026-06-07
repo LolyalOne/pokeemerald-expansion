@@ -2,54 +2,54 @@ SevenIsland_TanobyRuins_Frlg_MapScripts::
 	.byte 0
 
 SevenIsland_TanobyRuins_Text_BrandonIntro::
-.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
-.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!$"
+	.string "Do you know anything about this\n"
+	.string "stone chamber?$"
 
 SevenIsland_TanobyRuins_Text_BrandonDefeat::
-.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
-.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
+	.string "That was uncalled for.\n"
+	.string "You didn't have to be so rough.$"
 
 SevenIsland_TanobyRuins_Text_BrandonPostBattle::
-.string "Parabens, Lucas! Sua jornada\napenas comecou."
-.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
-.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "The TANOBY RUINS date back at\n"
+	.string "least 1,500 years.\p"
+	.string "But it's a baffling mystery as to\n"
+	.string "why it was built in the first place.$"
 
 SevenIsland_TanobyRuins_Text_BenjaminIntro::
-.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
-	.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
+	.string "A mystic POKéMON is said to sleep\n"
+	.string "inside here.$"
 
 SevenIsland_TanobyRuins_Text_BenjaminDefeat::
-	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
+	.string "I'm not much good in battle.$"
 
 SevenIsland_TanobyRuins_Text_BenjaminPostBattle::
-.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
-.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
-	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
+	.string "I hear there are other ruins like\n"
+	.string "the one here.\p"
+	.string "Might they be the resting places\n"
+	.string "of other mystic POKéMON?$"
 
 SevenIsland_TanobyRuins_Text_EdnaIntro::
-.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou."
-	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "CLIFFORD is teaching me how to\n"
+	.string "paint.$"
 
 SevenIsland_TanobyRuins_Text_EdnaDefeat::
-.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
-.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!$"
+	.string "We might get in trouble for being\n"
+	.string "noisy here.$"
 
 SevenIsland_TanobyRuins_Text_EdnaPostBattle::
-.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
-.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
-	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
+	.string "I said that I wanted to paint an\n"
+	.string "old building.\p"
+	.string "So CLIFFORD brought me here.$"
 
 SevenIsland_TanobyRuins_Text_CliffordIntro::
-.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
-	.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "Today, in addition to our lesson,\n"
+	.string "we came to see the chamber.$"
 
 SevenIsland_TanobyRuins_Text_CliffordDefeat::
-	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
+	.string "My, how extraordinary.$"
 
 SevenIsland_TanobyRuins_Text_CliffordPostBattle::
-.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
-.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
-.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
-.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!$"
+	.string "Ah, so you are studying POKéMON\n"
+	.string "on your own…\p"
+	.string "Yes, you certainly are quite the\n"
+	.string "extraordinary person, indeed.$"

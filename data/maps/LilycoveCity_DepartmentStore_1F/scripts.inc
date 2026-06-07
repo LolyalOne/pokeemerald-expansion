@@ -139,45 +139,45 @@ LilycoveCity_DepartmentStore_1F_EventScript_FloorNamesSign::
 	end
 
 LilycoveCity_DepartmentStore_1F_Text_WelcomeToDeptStore:
-	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
+	.string "Welcome to LILYCOVE DEPARTMENT STORE.$"
 
 LilycoveCity_DepartmentStore_1F_Text_IBuyAllSortsOfThings:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWhenever I come to the DEPARTMENT\n"
-.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
-	.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "Whenever I come to the DEPARTMENT\n"
+	.string "STORE, I always end up buying all sorts\l"
+	.string "of things because it's so fun.$"
 
 LilycoveCity_DepartmentStore_1F_Text_MomBuyingMeFurniture:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pToday, my mom is going to buy me some\n"
-	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
+	.string "Today, my mom is going to buy me some\n"
+	.string "nice furniture.$"
 
 LilycoveCity_DepartmentStore_1F_Text_BuyingSomethingForAzumarill:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI'm buying something for my AZUMARILL\n"
-	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "I'm buying something for my AZUMARILL\n"
+	.string "as a reward for winning a CONTEST.$"
 
 LilycoveCity_DepartmentStore_1F_Text_Azumarill:
-	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
+	.string "AZUMARILL: Maririroo!$"
 
 LilycoveCity_DepartmentStore_1F_Text_FloorNamesSign:
-.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
-.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
-.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
-.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
-.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
-.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
-	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "1F: SERVICE COUNTER\n"
+	.string "    LOTTERY CORNER\p"
+	.string "2F: TRAINER'S ZONE\p"
+	.string "3F: BATTLE COLLECTION\p"
+	.string "4F: TM CORNER\p"
+	.string "5F: POKé DOLL FLOOR\p"
+	.string "ROOFTOP: ROOFTOP PLAZA$"
 
 @ Unused
 LilycoveCity_DepartmentStore_1F_Text_WirelessCommIsFun:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWireless Communication is a\n"
-.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
-.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
-.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
-.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
-.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
-	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "Wireless Communication is a\n"
+	.string "lot of fun, isn't it?\p"
+	.string "I think it lets you do things that\n"
+	.string "weren't possible before.\p"
+	.string "For instance, you can now trade\n"
+	.string "with people you couldn't before.\p"
+	.string "I think it's going to be exciting!$"
 
 @ Unused
 LilycoveCity_DepartmentStore_1F_Text_SpreadWordAboutWirelessComm:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pI want to spread the word about how\n"
-	.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "I want to spread the word about how\n"
+	.string "fun Wireless Communication can be.$"
 

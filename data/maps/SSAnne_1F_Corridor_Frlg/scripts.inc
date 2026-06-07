@@ -10,16 +10,16 @@ SSAnne_1F_Corridor_EventScript_Sailor::
 	end
 
 SSAnne_1F_Corridor_Text_LeStrongSilentType::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pBonjour!\n"
-.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!"
-.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
-.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
-.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
-	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "Bonjour!\n"
+	.string "I am le waiter on this ship!\p"
+	.string "I will be happy to serve you\n"
+	.string "anything you please!\p"
+	.string "… … …\n"
+	.string "Ah! Le strong silent type!$"
 
 SSAnne_1F_Corridor_Text_PassengersAreRestless::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pThe passengers are restless from\n"
-.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
-.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
-	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "The passengers are restless from\n"
+	.string "this long voyage.\p"
+	.string "You might be challenged by the\n"
+	.string "more bored ones!$"
 

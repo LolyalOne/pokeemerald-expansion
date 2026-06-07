@@ -135,185 +135,185 @@ FortreeCity_Gym_EventScript_GymStatue::
 	end
 
 FortreeCity_Gym_Text_GymGuideAdvice:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYo, how's it going, CHAMPION-\n"
+	.string "Yo, how's it going, CHAMPION-\n"
 	.string "bound {PLAYER}?\p"
-.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
-.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
-.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
-.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
-	.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "FORTREE GYM LEADER WINONA is\n"
+	.string "a master of FLYING-type POKéMON.\p"
+	.string "She's waiting at the back of this GYM,\n"
+	.string "behind the rotating doors.\p"
+	.string "She's waiting for new challengers\n"
+	.string "who are trying to take wing!\p"
+	.string "Okay, go for it!$"
 
 FortreeCity_Gym_Text_GymGuidePostVictory:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pYou did it!\n"
-	.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
+	.string "You did it!\n"
+	.string "You've achieved liftoff!$"
 
 FortreeCity_Gym_Text_JaredIntro:
-.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
-.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!$"
+	.string "Behold the elegant battle style of\n"
+	.string "BIRD POKéMON!$"
 
 FortreeCity_Gym_Text_JaredDefeat:
-.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
-.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "You…\n"
+	.string "You're strong…$"
 
 FortreeCity_Gym_Text_JaredPostBattle:
-.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
-.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
-	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
+	.string "A TRAINER has to be smart to keep\n"
+	.string "up with unexpected turns of events.\p"
+	.string "Do you have the smarts to get to\n"
+	.string "our LEADER?$"
 
 FortreeCity_Gym_Text_EdwardoIntro:
-.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
-.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
-.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "The lovers of BIRD POKéMON aspire\n"
+	.string "to join this GYM.\p"
+	.string "As a member of the FORTREE GYM,\n"
+	.string "I'm not allowed to lose!$"
 
 FortreeCity_Gym_Text_EdwardoDefeat:
-.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
-	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
+	.string "It was too much of a load for me\n"
+	.string "to bear…$"
 
 FortreeCity_Gym_Text_EdwardoPostBattle:
-.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
-.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
-.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!"
-.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!$"
+	.string "The world is huge, and there are\n"
+	.string "countless tough TRAINERS.\p"
+	.string "I'm going to keep training and make\n"
+	.string "myself even stronger.$"
 
 FortreeCity_Gym_Text_FlintIntro:
-.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
-.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
-	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
+	.string "There's no need for WINONA, our GYM\n"
+	.string "LEADER, to deal with you!\p"
+	.string "I'm plenty good enough for you!$"
 
 FortreeCity_Gym_Text_FlintDefeat:
-.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
-.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "WINONA, I…\n"
+	.string "I lost!$"
 
 FortreeCity_Gym_Text_FlintPostBattle:
-.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Parabens, Lucas! Sua jornada\napenas comecou."
-.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!$"
+	.string "WINONA is cute and she's strong.\n"
+	.string "She's the ultimate LEADER!\p"
+	.string "Blush…$"
 
 FortreeCity_Gym_Text_AshleyIntro:
-.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "WINONA taught me personally!\n"
+	.string "You can't beat me easily!$"
 
 FortreeCity_Gym_Text_AshleyDefeat:
-.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!$"
+	.string "I was beaten…$"
 
 FortreeCity_Gym_Text_AshleyPostBattle:
-.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
-	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
+	.string "Thanks to WINONA, the people of\n"
+	.string "FORTREE can live without fear.$"
 
 FortreeCity_Gym_Text_HumbertoIntro:
-.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
-.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
-.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
-.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!$"
+	.string "When WINONA takes to battle, her face\n"
+	.string "shines with beautiful determination…\p"
+	.string "I'm not letting you witness that\n"
+	.string "lovely sight!$"
 
 FortreeCity_Gym_Text_HumbertoDefeat:
-.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "Urk!\n"
+	.string "I couldn't stop you.$"
 
 FortreeCity_Gym_Text_HumbertoPostBattle:
-.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
-.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!$"
+	.string "You'd better watch it!\n"
+	.string "Don't get distracted staring at WINONA\l"
+	.string "or you'll go crashing down in a heap!$"
 
 FortreeCity_Gym_Text_DariusIntro:
-.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
-.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
-.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!$"
+	.string "You'd better know that there are all\n"
+	.string "sorts of FLYING-type POKéMON.\p"
+	.string "You do know that, right?$"
 
 FortreeCity_Gym_Text_DariusDefeat:
-	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
+	.string "You seem to know your stuff!$"
 
 FortreeCity_Gym_Text_DariusPostBattle:
-.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
-.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
-.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "Sure, you beat me all right.\n"
+	.string "But you'd better watch it! Our LEADER\l"
+	.string "WINONA's POKéMON are all business.$"
 
 FortreeCity_Gym_Text_WinonaIntro:
-.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
-.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
-.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
-.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
-	.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
+	.string "I am WINONA. I am the LEADER of\n"
+	.string "the FORTREE POKéMON GYM.\p"
+	.string "I have become one with BIRD POKéMON\n"
+	.string "and have soared the skies…\p"
+	.string "However grueling the battle, we have\n"
+	.string "triumphed with grace…\p"
+	.string "Witness the elegant choreography\n"
+	.string "of BIRD POKéMON and I!$"
 
 FortreeCity_Gym_Text_WinonaDefeat:
-.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
-.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
-.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
-.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
-.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "Never before have I seen a TRAINER\n"
+	.string "command POKéMON with more grace\l"
+	.string "than I…\p"
+	.string "In recognition of your prowess,\n"
+	.string "I present to you this GYM BADGE.$"
 
 FortreeCity_Gym_Text_ReceivedFeatherBadge:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\p{PLAYER} received the FEATHER BADGE\n"
-	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
+	.string "{PLAYER} received the FEATHER BADGE\n"
+	.string "from WINONA.$"
 
 FortreeCity_Gym_Text_ExplainFeatherBadgeTakeThis:
-.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
-.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
-.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
-.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
-.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
-	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "With the FEATHER BADGE, all POKéMON up\n"
+	.string "to LV 70, even those received through\l"
+	.string "trades, will obey your every command.\p"
+	.string "You will also be able to use\n"
+	.string "the HM move FLY outside of battle.\p"
+	.string "And this…\n"
+	.string "This is a gift from me.$"
 
 FortreeCity_Gym_Text_ExplainAerialAce:
-.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
-.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
-.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
-	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "TM40 contains AERIAL ACE.\p"
+	.string "Its speed…\n"
+	.string "No POKéMON should be able to avoid it.\p"
+	.string "… … … … … …$"
 
 FortreeCity_Gym_Text_RegisteredWinona:
-.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!$"
+	.string "Registered GYM LEADER WINONA\n"
+	.string "in the POKéNAV.$"
 
 FortreeCity_Gym_Text_WinonaPostBattle:
-.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
+	.string "Though I fell to you, I will remain\n"
+	.string "devoted to BIRD POKéMON.$"
 
 FortreeCity_Gym_Text_GymStatue:
-	.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "FORTREE CITY POKéMON GYM$"
 
 FortreeCity_Gym_Text_GymStatueCertified:
-.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
-.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!$"
+	.string "FORTREE CITY POKéMON GYM\p"
+	.string "WINONA'S CERTIFIED TRAINERS:\n"
+	.string "{PLAYER}$"
 
 FortreeCity_Gym_Text_WinonaPreRematch:
-.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
-.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
-.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
-.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
-.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
-.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
+	.string "WINONA: We humans can never escape\n"
+	.string "gravity's pull on the ground.\p"
+	.string "But by striving for excellence,\n"
+	.string "we have the power to soar!\p"
+	.string "You have scaled the pinnacle as\n"
+	.string "the reigning CHAMPION.\p"
+	.string "Please, allow me to see your power\n"
+	.string "at full flight!$"
 
 FortreeCity_Gym_Text_WinonaRematchDefeat:
-	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "I failed to reach your height again…$"
 
 FortreeCity_Gym_Text_WinonaPostRematch:
-.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
-.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
-	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
+	.string "WINONA: Even though I have lost,\n"
+	.string "the wings of my heart remain unbroken.\p"
+	.string "I can rise and soar again and\n"
+	.string "yet again.\p"
+	.string "I am convinced of it!$"
 
 FortreeCity_Gym_Text_WinonaRematchNeedTwoMons:
-.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
-.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
-.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
-.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
-.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
-.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
-.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
-.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
-	.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "WINONA: We humans can never escape\n"
+	.string "gravity's pull on the ground.\p"
+	.string "But by striving for excellence,\n"
+	.string "we have the power to soar!\p"
+	.string "You have scaled the pinnacle as\n"
+	.string "the reigning CHAMPION.\p"
+	.string "Please, allow me to see your power\n"
+	.string "at full flight!\p"
+	.string "Oh, no… Do you have but one\n"
+	.string "POKéMON with you?\p"
+	.string "Please return with two POKéMON\n"
+	.string "at the very least.$"

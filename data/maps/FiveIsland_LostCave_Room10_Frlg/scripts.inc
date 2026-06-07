@@ -62,18 +62,18 @@ FiveIsland_LostCave_Room10_Movement_SelphyApproach::
 	step_end
 
 FiveIsland_LostCave_Room10_Text_SelphyIntro::
-.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-	.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "W-what do you intend to do with\n"
+	.string "me?$"
 
 FiveIsland_LostCave_Room10_Text_SelphyDefeat::
-.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
-	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
+	.string "Oh… I was afraid that you meant to\n"
+	.string "harm me.$"
 
 FiveIsland_LostCave_Room10_Text_MayIAskYouToTakeMeHome::
-.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
-.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
-.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
-.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
-.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
-	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "I am so glad that you happened\n"
+	.string "here.\p"
+	.string "I grew rather bored of walking,\n"
+	.string "and I am feeling fatigued.\p"
+	.string "May I ask you to take me home\n"
+	.string "from here?$"
 

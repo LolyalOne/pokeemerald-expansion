@@ -6,10 +6,10 @@ OldaleTown_House1_EventScript_Woman::
 	end
 
 OldaleTown_House1_Text_LeftPokemonGoesOutFirst:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pWhen a POKeMON battle starts, the one\n"
-.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
-.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
-.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
-.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!$"
+	.string "When a POKéMON battle starts, the one\n"
+	.string "at the left of the list goes out first.\p"
+	.string "So, when you get more POKéMON in your\n"
+	.string "party, try switching around the order\l"
+	.string "of your POKéMON.\p"
+	.string "It could give you an advantage.$"
 

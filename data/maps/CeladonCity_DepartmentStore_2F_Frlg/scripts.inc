@@ -61,21 +61,21 @@ CeladonCity_DepartmentStore_2F_TMs::
 	end
 
 CeladonCity_DepartmentStore_2F_Text_SuperRepelMorePowerfulRepel::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pSUPER REPEL keeps weak POKeMON at\n"
-.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
-	.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
+	.string "SUPER REPEL keeps weak POKéMON at\n"
+	.string "bay…\p"
+	.string "Hmm, it's a more powerful REPEL.$"
 
 CeladonCity_DepartmentStore_2F_Text_BuyReviveForLongOutings::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pFor long outings, you should buy\n"
-.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!$"
+	.string "For long outings, you should buy\n"
+	.string "REVIVE.$"
 
 CeladonCity_DepartmentStore_2F_Text_FloorSign::
-.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
+	.string "Top-Grade Items for TRAINERS!\p"
+	.string "2F: TRAINER'S MARKET$"
 
 CeladonCity_DepartmentStore_2F_Text_LanceComesToBuyCapes::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pWe have a customer, LANCE, who\n"
-.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
-.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
-	.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "We have a customer, LANCE, who\n"
+	.string "occasionally comes.\p"
+	.string "He always buys capes.\p"
+	.string "I wonder… Does he have many\n"
+	.string "identical capes at home?$"

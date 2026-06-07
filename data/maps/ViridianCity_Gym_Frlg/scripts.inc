@@ -105,173 +105,173 @@ ViridianCity_Gym_EventScript_GymStatuePostVictory::
 	end
 
 ViridianCity_Gym_Text_GiovanniIntro::
-.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
-.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
-.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
-.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
-.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
-.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
+	.string "Fwahahaha!\n"
+	.string "Welcome to my hideout!\p"
+	.string "It shall be so until I can restore\n"
+	.string "TEAM ROCKET to its former glory.\p"
+	.string "But, you have found me again.\n"
+	.string "So be it.\l"
+	.string "This time, I'm not holding back!\p"
+	.string "Once more, you shall face\n"
+	.string "GIOVANNI, the greatest TRAINER!{PLAY_BGM}{MUS_RG_ENCOUNTER_ROCKET}$"
 
 ViridianCity_Gym_Text_GiovanniDefeat::
-.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
-.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
-.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
-.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "Ha!\n"
+	.string "That was a truly intense fight.\l"
+	.string "You have won!\p"
+	.string "As proof, here is the EARTHBADGE!\n"
+	.string "{PAUSE_MUSIC}{PLAY_BGM}{MUS_OBTAIN_BADGE}{PAUSE 0xFE}{PAUSE 0x56}{RESUME_MUSIC}$"
 
 ViridianCity_Gym_Text_GiovanniPostBattle::
-.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
-.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
-.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
-.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
-.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-	.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
+	.string "Having lost in this fashion, \n"
+	.string "I can't face my followers.\l"
+	.string "I have betrayed their trust.\p"
+	.string "As of today, TEAM ROCKET is\n"
+	.string "finished forever!\p"
+	.string "As for myself, I shall dedicate\n"
+	.string "my life to training again.\p"
+	.string "Let us meet again someday!\n"
+	.string "Farewell!$"
 
 ViridianCity_Gym_Text_ExplainEarthBadgeTakeThis::
-.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
-.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
-.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
-.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
-.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
-.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
-	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
+	.string "The EARTHBADGE makes POKéMON of\n"
+	.string "any level obey without question.\p"
+	.string "It is evidence of your mastery as\n"
+	.string "a POKéMON TRAINER.\p"
+	.string "With it, you can challenge the\n"
+	.string "POKéMON LEAGUE.\p"
+	.string "Also, take this TM.\p"
+	.string "Consider it a gift for your POKéMON\n"
+	.string "LEAGUE challenge.$"
 
 ViridianCity_Gym_Text_ReceivedTM26FromGiovanni::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\p{PLAYER} received TM26\n"
-.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!$"
+	.string "{PLAYER} received TM26\n"
+	.string "from GIOVANNI.$"
 
 ViridianCity_Gym_Text_ExplainTM26::
-.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
-.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
-.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
-.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
-	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "TM26 contains EARTHQUAKE.\p"
+	.string "It is a powerful attack that causes\n"
+	.string "a massive tremor.\p"
+	.string "I made it when I ran the GYM here,\n"
+	.string "far too long ago… $"
 
 ViridianCity_Gym_Text_YouDoNotHaveSpace::
-.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!$"
+	.string "You do not have space for this!$"
 
 ViridianCity_Gym_Text_YujiIntro::
-.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
-.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
-	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "Heh!\n"
+	.string "You must be running out of steam\l"
+	.string "by now!$"
 
 ViridianCity_Gym_Text_YujiDefeat::
-.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!$"
+	.string "I ran out of gas!$"
 
 ViridianCity_Gym_Text_YujiPostBattle::
-.string "Parabens, Lucas! Sua jornada\napenas comecou."
-.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
+	.string "You'll need power to keep up with\n"
+	.string "our GYM LEADER.$"
 
 ViridianCity_Gym_Text_AtsushiIntro::
-.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
-	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "Rrrroar!\n"
+	.string "I'm working myself into a rage!$"
 
 ViridianCity_Gym_Text_AtsushiDefeat::
-.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!$"
+	.string "Wargh!$"
 
 ViridianCity_Gym_Text_AtsushiPostBattle::
-	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
+	.string "I'm still not worthy!$"
 
 ViridianCity_Gym_Text_JasonIntro::
-.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou.$"
+	.string "POKéMON and I, we make wonderful\n"
+	.string "music together!$"
 
 ViridianCity_Gym_Text_JasonDefeat::
-	.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "You are in perfect harmony!$"
 
 ViridianCity_Gym_Text_JasonPostBattle::
-.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
-.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!$"
+	.string "Do you know the identity of our\n"
+	.string "GYM LEADER?$"
 
 ViridianCity_Gym_Text_KiyoIntro::
-.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!$"
+	.string "Karate is the ultimate form of\n"
+	.string "martial arts!$"
 
 ViridianCity_Gym_Text_KiyoDefeat::
-.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!$"
+	.string "Aiyah!$"
 
 ViridianCity_Gym_Text_KiyoPostBattle::
-.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
+	.string "If my POKéMON were as good at\n"
+	.string "karate as I…$"
 
 ViridianCity_Gym_Text_WarrenIntro::
-	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
+	.string "The truly talented win with style.$"
 
 ViridianCity_Gym_Text_WarrenDefeat::
-.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!$"
+	.string "I lost my grip!$"
 
 ViridianCity_Gym_Text_WarrenPostBattle::
-.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
-	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
+	.string "The LEADER will scold me for\n"
+	.string "losing this way…$"
 
 ViridianCity_Gym_Text_TakashiIntro::
-.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
-	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
+	.string "I'm the KARATE KING!\n"
+	.string "Your fate rests with me!$"
 
 ViridianCity_Gym_Text_TakashiDefeat::
-	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "Ayah!$"
 
 ViridianCity_Gym_Text_TakashiPostBattle::
-.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
-	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "The POKéMON LEAGUE?\n"
+	.string "You? Don't get cocky!$"
 
 ViridianCity_Gym_Text_ColeIntro::
-.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
-	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "Your POKéMON will cower at the\n"
+	.string "crack of my whip!$"
 
 ViridianCity_Gym_Text_ColeDefeat::
-.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
-	.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "Yowch!\n"
+	.string "Whiplash!$"
 
 ViridianCity_Gym_Text_ColePostBattle::
-.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!$"
+	.string "Wait!\n"
+	.string "I was just careless!$"
 
 ViridianCity_Gym_Text_SamuelIntro::
-.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
-.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!$"
+	.string "VIRIDIAN GYM was closed for a\n"
+	.string "long time.\p"
+	.string "But now, our LEADER is back!$"
 
 ViridianCity_Gym_Text_SamuelDefeat::
-	.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "I was beaten?$"
 
 ViridianCity_Gym_Text_SamuelPostBattle::
-.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!$"
+	.string "You can go on to the POKéMON\n"
+	.string "LEAGUE only by defeating our GYM\l"
+	.string "LEADER!$"
 
 ViridianCity_Gym_Text_GymGuyAdvice::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYo!\n"
-.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
-.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
-.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
-	.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "Yo!\n"
+	.string "Champ in the making!\p"
+	.string "Even I don't know the VIRIDIAN\n"
+	.string "LEADER's identity.\p"
+	.string "But one thing's certain.\n"
+	.string "This will be the toughest of all\l"
+	.string "the GYM LEADERS.\p"
+	.string "Also, I heard that the TRAINERS\n"
+	.string "here like GROUND-type POKéMON.$"
 
 ViridianCity_Gym_Text_GymGuyPostVictory::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pBlow me away! GIOVANNI was the\n"
-	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "Blow me away! GIOVANNI was the\n"
+	.string "GYM LEADER of VIRIDIAN?$"
 
 ViridianCity_Gym_Text_GymStatue::
-.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
-.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
-	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "VIRIDIAN POKéMON GYM\n"
+	.string "LEADER: ?\p"
+	.string "WINNING TRAINERS:\n"
+	.string "{RIVAL}$"
 
 ViridianCity_Gym_Text_GymStatuePlayerWon::
-.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
-.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
-	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
+	.string "VIRIDIAN POKéMON GYM\n"
+	.string "LEADER: GIOVANNI\p"
+	.string "WINNING TRAINERS:\n"
+	.string "{RIVAL}, {PLAYER}$"
 

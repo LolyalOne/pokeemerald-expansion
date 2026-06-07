@@ -27,65 +27,65 @@ VictoryRoad_B1F_EventScript_Halle::
 	end
 
 VictoryRoad_B1F_Text_SamuelIntro:
-.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!"
-.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
-.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "The thought that I'm getting closer to\n"
+	.string "the POKéMON LEAGUE…\p"
+	.string "I'm getting stage fright…$"
 
 VictoryRoad_B1F_Text_SamuelDefeat:
-	.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
+	.string "I couldn't do a thing…$"
 
 VictoryRoad_B1F_Text_SamuelPostBattle:
-.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
-.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
+	.string "The POKéMON LEAGUE became distant\n"
+	.string "again… What a letdown…$"
 
 VictoryRoad_B1F_Text_ShannonIntro:
-.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
-	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "To win your way through the POKéMON\n"
+	.string "LEAGUE, you need the trust of your\l"
+	.string "POKéMON.$"
 
 VictoryRoad_B1F_Text_ShannonDefeat:
-.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "Your relationship is based on\n"
+	.string "solid trust.$"
 
 VictoryRoad_B1F_Text_ShannonPostBattle:
-.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!"
-	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
+	.string "By being together all the time, trust\n"
+	.string "grows between POKéMON and TRAINERS.$"
 
 VictoryRoad_B1F_Text_MichelleIntro:
-.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "This isn't the goal. It's only a place\n"
+	.string "on the way to the POKéMON LEAGUE.$"
 
 VictoryRoad_B1F_Text_MichelleDefeat:
-.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!$"
+	.string "That's the way!$"
 
 VictoryRoad_B1F_Text_MichellePostBattle:
-.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
-	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "You'll do fine, for sure!\n"
+	.string "Your POKéMON are all eager to go!$"
 
 VictoryRoad_B1F_Text_MitchellIntro:
-.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
-	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
+	.string "My POKéMON are cosmically\n"
+	.string "awe inspiring!$"
 
 VictoryRoad_B1F_Text_MitchellDefeat:
-.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!$"
+	.string "I've never met anyone like you before.$"
 
 VictoryRoad_B1F_Text_MitchellPostBattle:
-.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
-	.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "Even outside of battle, I sense\n"
+	.string "incredible power emanating from you\l"
+	.string "and your POKéMON.$"
 
 VictoryRoad_B1F_Text_HalleIntro:
-.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
-	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
+	.string "Okay, no need to get your back up!\n"
+	.string "Relax, let's take it easy!$"
 
 VictoryRoad_B1F_Text_HalleDefeat:
-.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
-	.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
+	.string "Whoa!\n"
+	.string "Wonderful!$"
 
 VictoryRoad_B1F_Text_HallePostBattle:
-.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
-.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
-	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "Sure, this is VICTORY ROAD.\p"
+	.string "But it's not all that different from\n"
+	.string "the path you've taken so far.\p"
+	.string "Try to enjoy things the rest of\n"
+	.string "the way!$"
 

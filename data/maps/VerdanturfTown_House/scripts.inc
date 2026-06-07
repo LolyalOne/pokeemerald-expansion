@@ -10,16 +10,16 @@ VerdanturfTown_House_EventScript_Woman2::
 	end
 
 VerdanturfTown_House_Text_TrainersGatherAtPokemonLeague:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pFar away, deep in EVER GRANDE CITY,\n"
-.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
-.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
-.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "Far away, deep in EVER GRANDE CITY,\n"
+	.string "is the POKéMON LEAGUE.\p"
+	.string "The TRAINERS who gather there are\n"
+	.string "all frighteningly well skilled.$"
 
 VerdanturfTown_House_Text_DefeatEliteFourInARow:
-.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
-.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
-.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
-.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!$"
+	.string "In the POKéMON LEAGUE, I think the\n"
+	.string "rules say that you have to battle the\l"
+	.string "ELITE FOUR all in a row.\p"
+	.string "If you lose to any of them, you have\n"
+	.string "to begin your challenge again from the\l"
+	.string "first one.$"
 

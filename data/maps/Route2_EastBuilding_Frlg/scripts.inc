@@ -39,34 +39,34 @@ Route2_EastBuilding_EventScript_Rocker::
 	end
 
 Route2_EastBuilding_Text_GiveHM05IfSeen10Mons::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pHi! Remember me?\n"
-.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
-.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
+	.string "Hi! Remember me?\n"
+	.string "I'm one of PROF. OAK's AIDES.\p"
+	.string "If your POKéDEX has complete data\n"
+	.string "on ten species, I'm supposed to\l"
+	.string "give you a reward.\p"
+	.string "PROF. OAK entrusted me with\n"
+	.string "HM05 for you.\p"
 	.string "So, {PLAYER}, let me ask you.\p"
-.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
-.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!$"
+	.string "Have you gathered data on at least\n"
+	.string "ten kinds of POKéMON?$"
 
 Route2_EastBuilding_Text_GreatHereYouGo::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pGreat! You have caught or owned\n"
-	.string "{STR_VAR_3} kinds of POKeMON!\p"
-.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
-	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
+	.string "Great! You have caught or owned\n"
+	.string "{STR_VAR_3} kinds of POKéMON!\p"
+	.string "Congratulations!\n"
+	.string "Here you go!$"
 
 Route2_EastBuilding_Text_ReceivedHM05FromAide::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\p{PLAYER} received HM05\n"
-	.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "{PLAYER} received HM05\n"
+	.string "from the AIDE.$"
 
 Route2_EastBuilding_Text_ExplainHM05::
-.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
-.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
-.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
+	.string "HM05 contains the hidden move\n"
+	.string "FLASH.\p"
+	.string "FLASH lights up even the darkest\n"
+	.string "of caves and dungeons.$"
 
 Route2_EastBuilding_Text_CanGetThroughRockTunnel::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOnce a POKeMON learns FLASH, you\n"
-.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
+	.string "Once a POKéMON learns FLASH, you\n"
+	.string "can get through ROCK TUNNEL.$"
 

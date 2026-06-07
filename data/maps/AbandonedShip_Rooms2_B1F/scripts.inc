@@ -6,4 +6,8 @@ AbandonedShip_Rooms2_B1F_EventScript_Camper::
 	end
 
 AbandonedShip_Rooms2_B1F_Text_PerfectPlaceToGoExploring:
-    .string "Feliz Aniversário, Lucas! Sua\naventura te espera aqui em Hoenn.\lExplore cada canto e prepare-se\lpara grandes batalhas! Sua lenda\lestá apenas começando!$"
+	.string "This is a perfect place to go exploring!\n"
+	.string "It's exciting here!\p"
+	.string "I bet there're amazing treasures on\n"
+	.string "board.$"
+

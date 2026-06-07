@@ -972,104 +972,104 @@ LilycoveCity_ContestLobby_EventScript_LittleGirlHaveCase::
 	end
 
 LilycoveCity_ContestLobby_Text_LadyGaveMePokeblockCase:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pYippee!\p"
-.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
-.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!$"
+	.string "Yippee!\p"
+	.string "The lady at the reception counter\n"
+	.string "gave me a case for {POKEBLOCK}S!$"
 
 LilycoveCity_ContestLobby_Text_MakePokeblocksDifferentBerries:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pMake {POKEBLOCK}S and put them in there.\p"
+	.string "Make {POKEBLOCK}S and put them in there.\p"
 	.string "When you make a {POKEBLOCK}, everyone\n"
-.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!$"
+	.string "has to put in a different BERRY.$"
 
 LilycoveCity_ContestLobby_Text_YourPokemonSpurredMeToPaint:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pCongratulations!\p"
-.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
-.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
-.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!"
-.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
-	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
+	.string "Congratulations!\p"
+	.string "I did a painting of your POKéMON to\n"
+	.string "commemorate its victory…\p"
+	.string "Well, your POKéMON's appeals were\n"
+	.string "so fantastic, it spurred me into\l"
+	.string "painting better than I usually do.\l"
+	.string "Look, see?$"
 
 LilycoveCity_ContestLobby_Text_ShouldITakePaintingToMuseum:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWhat do you think? I'm confident in\n"
-.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
-.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!"
-.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
-.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
-.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!$"
+	.string "What do you think? I'm confident in\n"
+	.string "what I've done, but do you like it?\p"
+	.string "A work of this caliber, it wouldn't look\n"
+	.string "out of place in an art museum.\p"
+	.string "Huh? An art museum really is looking\n"
+	.string "for paintings?\p"
+	.string "Do you think I should take this there?$"
 
 LilycoveCity_ContestLobby_Text_IllTakePaintingToMuseum:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pWhat, really? Then, sure, I will take\n"
-.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
-.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
-	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
+	.string "What, really? Then, sure, I will take\n"
+	.string "this painting there right now.\p"
+	.string "I'll give it a proper title, too.\p"
+	.string "I hope they'll like it and consider\n"
+	.string "exhibiting this.\p"
+	.string "Please check if they did accept this.\n"
+	.string "Thank you!$"
 
 LilycoveCity_ContestLobby_Text_TakeMementoOfPainting:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pOh, that's right!\p"
-.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
-	.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "Oh, that's right!\p"
+	.string "As a memento of me painting your\n"
+	.string "POKéMON, please take this.$"
 
 LilycoveCity_ContestLobby_Text_ReceivedARibbon:
-	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "{PLAYER} received a RIBBON.$"
 
 LilycoveCity_ContestLobby_Text_PutTheRibbonOnMon:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\p{PLAYER} put the RIBBON on\n"
-	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
+	.string "{PLAYER} put the RIBBON on\n"
+	.string "{STR_VAR_1}.$"
 
 LilycoveCity_ContestLobby_Text_OkaySeeYou:
-	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
+	.string "Okay, see you!$"
 
 LilycoveCity_ContestLobby_Text_TakeHomeButIdLikeToTakeToMuseum:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOh... Then, I guess I'll just take\n"
-.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
-.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "Oh… Then, I guess I'll just take\n"
+	.string "this home with me…\p"
+	.string "But, you know, I would like to take\n"
+	.string "this to the art museum… Okay?$"
 
 LilycoveCity_ContestLobby_Text_FineThatsTheWayItIs:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pOh, fine, that's the way it is.\n"
-.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
-.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
-	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
+	.string "Oh, fine, that's the way it is.\n"
+	.string "I will hang this in my own house.\p"
+	.string "I'll just have to try harder next time.\n"
+	.string "Well, be seeing you.$"
 
 LilycoveCity_ContestLobby_Text_MasterRankHereICome:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pHoo, boy... Master Rank CONTESTS,\n"
-.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
-.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
-.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!$"
+	.string "Hoo, boy… Master Rank CONTESTS,\n"
+	.string "here I come.\p"
+	.string "The world will know that my dearest\n"
+	.string "POKéMON is the cutest being in all\l"
+	.string "existence. The time has come!\l"
+	.string "Uheheheh.$"
 
 LilycoveCity_ContestLobby_Text_WholeVarietyOfPokemonHere:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYou can see a whole variety of\n"
-.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
-.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
-	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
+	.string "You can see a whole variety of\n"
+	.string "POKéMON here.\p"
+	.string "That's why I make this place a regular\n"
+	.string "part of my daily stroll.$"
 
 LilycoveCity_ContestLobby_Text_ContestFeastForEyes:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWow, coming out to a CONTEST is\n"
-.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
-.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
-.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
+	.string "Wow, coming out to a CONTEST is\n"
+	.string "a feast for these eyes!\p"
+	.string "Would you look at all the POKéMON\n"
+	.string "that just scream to be painted?$"
 
 LilycoveCity_ContestLobby_Text_ToughContestIsExtreme:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pThe TOUGHNESS CONTEST is like\n"
-.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
-.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "The TOUGHNESS CONTEST is like\n"
+	.string "extreme, man!\p"
+	.string "Those muscular appeals…\n"
+	.string "Cascading sweat… I swoon!$"
 
 LilycoveCity_ContestLobby_Text_LavishedCareOnMon:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pDay in and day out, I lavished my care\n"
-.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
-	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "Day in and day out, I lavished my care\n"
+	.string "on this POKéMON.\p"
+	.string "Its condition is peaking.\n"
+	.string "Today, victory is mine!$"
 
 LilycoveCity_ContestLobby_Text_MadePokeblocksWithFamily:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pI made {POKEBLOCK}S with Mom, Dad, and\n"
-.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
-.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "I made {POKEBLOCK}S with Mom, Dad, and\n"
+	.string "Big Sister. They turned out great!\p"
+	.string "I bet you can make smoother, better\n"
+	.string "{POKEBLOCK}S if you have more people.$"
 

@@ -94,95 +94,95 @@ ViridianCity_School_EventScript_ExitBlackboard::
 	end
 
 ViridianCity_School_Text_TryingToMemorizeNotes::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pWhew! I'm trying to memorize all my\n"
-	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
+	.string "Whew! I'm trying to memorize all my\n"
+	.string "notes.$"
 
 ViridianCity_School_Text_ReadBlackboardCarefully::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pOkay!\p"
-.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
-	.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "Okay!\p"
+	.string "Be sure to read what's on the\n"
+	.string "blackboard carefully!$"
 
 ViridianCity_School_Text_NotebookFirstPage::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pLet's check out the notebook.\p"
-.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
-.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou."
-.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
-.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
-	.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "Let's check out the notebook.\p"
+	.string "First page…\p"
+	.string "POKé BALLS are used to catch\n"
+	.string "POKéMON.\p"
+	.string "Up to six POKéMON can be carried\n"
+	.string "in your party.\p"
+	.string "People who raise and battle\n"
+	.string "with POKéMON are called TRAINERS.$"
 
 ViridianCity_School_Text_NotebookSecondPage::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pSecond page...\p"
-.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
-.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
-	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
+	.string "Second page…\p"
+	.string "A healthy POKéMON may be hard to\n"
+	.string "catch, so weaken it first.\p"
+	.string "Poison, burn, or cause another\n"
+	.string "status problem to weaken it.$"
 
 ViridianCity_School_Text_NotebookThirdPage::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThird page...\p"
-.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
-.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
-.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
-.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
-.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "Third page…\p"
+	.string "POKéMON TRAINERS seek others to\n"
+	.string "engage in POKéMON battles.\p"
+	.string "To TRAINERS, the taste of victory\n"
+	.string "is sweet, indeed.\p"
+	.string "Battles are constantly waged at\n"
+	.string "POKéMON GYMS everywhere.$"
 
 ViridianCity_School_Text_NotebookFourthPage::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pFourth page...\p"
-.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
-.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
-.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
-.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
+	.string "Fourth page…\p"
+	.string "The ultimate goal for all POKéMON\n"
+	.string "TRAINERS is simple.\p"
+	.string "It is to defeat the top eight\n"
+	.string "POKéMON GYM LEADERS.\p"
+	.string "Do so to earn the right to face…\p"
+	.string "The ELITE FOUR of the POKéMON\n"
+	.string "LEAGUE!$"
 
 ViridianCity_School_Text_TurnThePage::
-.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "Turn the page?$"
 
 ViridianCity_School_Text_HeyDontLookAtMyNotes::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pGIRL: Hey!\n"
-.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!$"
+	.string "GIRL: Hey!\n"
+	.string "Don't look at my notes!$"
 
 ViridianCity_School_Text_BlackboardListsStatusProblems::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThe blackboard lists POKeMON\n"
-.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
+	.string "The blackboard lists POKéMON\n"
+	.string "STATUS problems during battles.$"
 
 ViridianCity_School_Text_ReadWhichTopic::
-	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
+	.string "Which topic do you want to read?$"
 
 ViridianCity_School_Text_ExplainSleep::
-.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
-.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
-.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
-.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
-	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
+	.string "A POKéMON can't attack if it's\n"
+	.string "asleep.\p"
+	.string "POKéMON will stay asleep even\n"
+	.string "after battles.\p"
+	.string "Use AWAKENING to awaken one\n"
+	.string "from sleep.$"
 
 ViridianCity_School_Text_ExplainBurn::
-.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!$"
+	.string "A burn reduces ATTACK power.\n"
+	.string "It also causes ongoing HP loss.\p"
+	.string "A burn remains after a battle.\n"
+	.string "Use BURN HEAL to cure a burn.$"
 
 ViridianCity_School_Text_ExplainPoison::
-.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
-.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
-.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
-.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!$"
+	.string "When poisoned, a POKéMON's health\n"
+	.string "steadily drops.\p"
+	.string "Poison lingers after battles.\n"
+	.string "Use an ANTIDOTE to cure poison!$"
 
 ViridianCity_School_Text_ExplainFreeze::
-.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
-.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou."
-.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!"
-.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
-.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
-	.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "A frozen POKéMON becomes\n"
+	.string "helplessly immobile.\p"
+	.string "It stays frozen even after the\n"
+	.string "battle ends.\p"
+	.string "Use ICE HEAL to thaw out the\n"
+	.string "suffering POKéMON.$"
 
 ViridianCity_School_Text_ExplainParalysis::
-.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
-.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
-.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!$"
+	.string "Paralysis reduces SPEED and may\n"
+	.string "prevent the POKéMON from moving.\p"
+	.string "Paralysis remains after battles.\n"
+	.string "Use PARLYZ HEAL for treatment.$"
 

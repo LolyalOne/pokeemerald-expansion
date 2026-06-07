@@ -125,99 +125,99 @@ MagmaHideout_4F_EventScript_Tabitha::
 	end
 
 MagmaHideout_4F_Text_Grunt11Intro:
-.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
-.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
-.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
-.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
+	.string "I want to see GROUDON, too, but they\n"
+	.string "won't let me see even its tail…\p"
+	.string "It's got me feeling really frustrated.\p"
+	.string "Oh, no!\n"
+	.string "I blabbed about GROUDON!$"
 
 MagmaHideout_4F_Text_Grunt11Defeat:
-.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
-	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "I guess it's impossible to win if one\n"
+	.string "doesn't have a calm mind…$"
 
 MagmaHideout_4F_Text_Grunt11PostBattle:
-	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
+	.string "I wonder if GROUDON even has a tail?$"
 
 MagmaHideout_4F_Text_Grunt12Intro:
-.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!"
-.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!"
-	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "Fuhahaha!\n"
+	.string "Soon! Very soon!\l"
+	.string "Our grand objective will be achieved!$"
 
 MagmaHideout_4F_Text_Grunt12Defeat:
-.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
-	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "Grrr…\n"
+	.string "I've come so far, but now this?$"
 
 MagmaHideout_4F_Text_Grunt12PostBattle:
-.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "MAXIE, sir!\n"
+	.string "An intruder is headed your way!$"
 
 MagmaHideout_4F_Text_Grunt13Intro:
-.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!"
-	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
+	.string "You're not finished yet!\n"
+	.string "You're not getting by me easily!$"
 
 MagmaHideout_4F_Text_Grunt13Defeat:
-.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!$"
+	.string "Was I that easy to knock down?$"
 
 MagmaHideout_4F_Text_Grunt13PostBattle:
-	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
+	.string "C-come on, one more match…$"
 
 MagmaHideout_4F_Text_TabithaIntro:
-.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
-.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
-.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
-.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
-.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
-.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
-	.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "Hehehe!\n"
+	.string "You made it this far, so I'll tell you!\p"
+	.string "That's right!\n"
+	.string "Up ahead, GROUDON is sleeping!\p"
+	.string "MAXIE went to GROUDON just seconds\n"
+	.string "ago!\p"
+	.string "It's going to awaken real soon!\n"
+	.string "Hehe! Hehehe!$"
 
 MagmaHideout_4F_Text_TabithaDefeat:
-.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
-	.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
+	.string "Taken down again…\n"
+	.string "Hehe…$"
 
 MagmaHideout_4F_Text_TabithaPostBattle:
-.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
-.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
+	.string "…And while you wasted time with me,\n"
+	.string "MAXIE should have awakened GROUDON…$"
 
 MagmaHideout_4F_Text_MaxieAwakenGroudon:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pMAXIE: GROUDON...\p"
-.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
-.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
-.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
-.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
-	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
+	.string "MAXIE: GROUDON…\p"
+	.string "Nothing could awaken you from your\n"
+	.string "sleep bathed in magma…\p"
+	.string "This BLUE ORB is what you sought.\n"
+	.string "Wasn't it?\p"
+	.string "I have brought you the BLUE ORB.\n"
+	.string "Let its shine awaken you!\p"
+	.string "And show me…\n"
+	.string "Show me the full extent of your power!$"
 
 MagmaHideout_4F_Text_MaxieGroudonWhatsWrong:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pMAXIE: GROUDON!\n"
-.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
-.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
-	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "MAXIE: GROUDON!\n"
+	.string "What's wrong?\p"
+	.string "Wasn't the BLUE ORB the key?\p"
+	.string "GROUDON!\n"
+	.string "Where have you gone…$"
 
 MagmaHideout_4F_Text_MaxieOhItWasYou:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pMAXIE: Oh, so it was you?\p"
-.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!$"
+	.string "MAXIE: Oh, so it was you?\p"
+	.string "I've seen you poking around uninvited\n"
+	.string "here and there…\p"
+	.string "I get it now!\n"
+	.string "You must have pulled a cheap stunt!$"
 
 MagmaHideout_4F_Text_MaxieDefeat:
-.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
-	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "What makes you so adept at handling\n"
+	.string "POKéMON?$"
 
 MagmaHideout_4F_Text_MaxieImGoingAfterGroudon:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pMAXIE: There has to be some reason\n"
-.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!"
-.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
-.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
-.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
-	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "MAXIE: There has to be some reason\n"
+	.string "why GROUDON fled…\p"
+	.string "That's what you're trying to say,\n"
+	.string "aren't you?\p"
+	.string "… … … … … …\n"
+	.string "… … … … … …\p"
+	.string "Humph…\n"
+	.string "You think I didn't know that?\p"
+	.string "With GROUDON gone, there is no longer\n"
+	.string "any need for this blasted volcano.\p"
+	.string "I am going after GROUDON, so this\n"
+	.string "is where we part!$"

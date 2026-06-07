@@ -1,243 +1,243 @@
 gOtherText_NewName::
-	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "NEW NAME$"
 
 gNameChoice_Green::
-	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "GREEN$"
 
 gNameChoice_Red::
-.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "RED$"
 
 gNameChoice_Leaf::
-.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "LEAF$"
 
 gNameChoice_Fire::
-	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "FIRE$"
 
 gNameChoice_Gary::
-.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "GARY$"
 
 gNameChoice_Kaz::
-	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
+	.string "KAZ$"
 
 gNameChoice_Toru::
-.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "TORU$"
 
 gNameChoice_Ash::
-	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
+	.string "ASH$"
 
 gNameChoice_Kene::
-.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "KENE$"
 
 gNameChoice_Geki::
-.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!$"
+	.string "GEKI$"
 
 gNameChoice_Jak::
-.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "JAK$"
 
 gNameChoice_Janne::
-.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!$"
+	.string "JANNE$"
 
 gNameChoice_Jonn::
-	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
+	.string "JONN$"
 
 gNameChoice_Kamon::
-.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "KAMON$"
 
 gNameChoice_Karl::
-.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!$"
+	.string "KARL$"
 
 gNameChoice_Taylor::
-	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "TAYLOR$"
 
 gNameChoice_Oscar::
-.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!$"
+	.string "OSCAR$"
 
 gNameChoice_Hiro::
-	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "HIRO$"
 
 gNameChoice_Max::
-	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
+	.string "MAX$"
 
 gNameChoice_Jon::
-.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "JON$"
 
 gNameChoice_Ralph::
-	.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
+	.string "RALPH$"
 
 gNameChoice_Kay::
-	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
+	.string "KAY$"
 
 gNameChoice_Tosh::
-.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!$"
+	.string "TOSH$"
 
 gNameChoice_Roak::
-	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
+	.string "ROAK$"
 
 gNameChoice_Omi::
-	.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
+	.string "OMI$"
 
 gNameChoice_Jodi::
-.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
+	.string "JODI$"
 
 gNameChoice_Amanda::
-.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!$"
+	.string "AMANDA$"
 
 gNameChoice_Hillary::
-	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
+	.string "HILLARY$"
 
 gNameChoice_Makey::
-	.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "MAKEY$"
 
 gNameChoice_Michi::
-	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "MICHI$"
 
 gNameChoice_Paula::
-	.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "PAULA$"
 
 gNameChoice_June::
-.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!$"
+	.string "JUNE$"
 
 gNameChoice_Cassie::
-.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!$"
+	.string "CASSIE$"
 
 gNameChoice_Rey::
-	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
+	.string "REY$"
 
 gNameChoice_Seda::
-	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
+	.string "SEDA$"
 
 gNameChoice_Kiko::
-	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "KIKO$"
 
 gNameChoice_Mina::
-	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
+	.string "MINA$"
 
 gNameChoice_Norie::
-.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!$"
+	.string "NORIE$"
 
 gNameChoice_Sai::
-.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "SAI$"
 
 gNameChoice_Momo::
-	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
+	.string "MOMO$"
 
 gNameChoice_Suzi::
-	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
+	.string "SUZI$"
 
 gControlsGuide_Text_Intro::
-.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
-.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!$"
+	.string "The various buttons will be explained in\n"
+	.string "the order of their importance.$"
 
 gControlsGuide_Text_DPad::
-.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
-.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
-.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
+	.string "Moves the main character.\n"
+	.string "Also used to choose various data\n"
+	.string "headings.$"
 
 gControlsGuide_Text_AButton::
-.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
-	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
+	.string "Used to confirm a choice, check\n"
+	.string "things, chat, and scroll text.$"
 
 gControlsGuide_Text_BButton::
-.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
-.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "Used to exit, cancel a choice,\n"
+	.string "and cancel a mode.$"
 
 gControlsGuide_Text_StartButton::
-.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
-.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!$"
+	.string "Press this button to open the\n"
+	.string "MENU.$"
 
 gControlsGuide_Text_SelectButton::
-.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
-	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "Used to shift items and to use\n"
+	.string "a registered item.$"
 
 gControlsGuide_Text_LRButtons::
-.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
-.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
-	.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "If you need help playing the\n"
+	.string "game, or on how to do things,\n"
+	.string "press the L or R Button.$"
 
 gOakSpeech_Text_AskPlayerGender::
-.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
-	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "Now tell me. Are you a boy?\n"
+	.string "Or are you a girl?$"
 
 gPikachuIntro_Text_Page1::
-.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
+	.string "In the world which you are about to\n"
+	.string "enter, you will embark on a grand\n"
+	.string "adventure with you as the hero.\n"
 	.string "\n"
-.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
-.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
-	.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "Speak to people and check things\n"
+	.string "wherever you go, be it towns, roads,\n"
+	.string "or caves. Gather information and\n"
+	.string "hints from every source.$"
 
 gPikachuIntro_Text_Page2::
-.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
-.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
+	.string "New paths will open to you by helping\n"
+	.string "people in need, overcoming challenges,\n"
+	.string "and solving mysteries.\n"
 	.string "\n"
-.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
-.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
-	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
+	.string "At times, you will be challenged by\n"
+	.string "others and attacked by wild creatures.\n"
+	.string "Be brave and keep pushing on.$"
 
 gPikachuIntro_Text_Page3::
-.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
-.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
+	.string "Through your adventure, we hope\n"
+	.string "that you will interact with all sorts\n"
+	.string "of people and achieve personal growth.\n"
+	.string "That is our biggest objective.\n"
 	.string "\n"
-.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
-.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "Press the A Button, and let your\n"
+	.string "adventure begin!$"
 
 gOakSpeech_Text_WelcomeToTheWorld::
-.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
-.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
-.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
-	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "Hello, there!\n"
+	.string "Glad to meet you!\p"
+	.string "Welcome to the world of POKéMON!\p"
+	.string "My name is OAK.\p"
+	.string "People affectionately refer to me\n"
+	.string "as the POKéMON PROFESSOR.\p$"
 
 gOakSpeech_Text_ThisWorld::
-.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
+	.string "This world…$"
 
 gOakSpeech_Text_IsInhabitedFarAndWide::
-.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!$"
+	.string "…is inhabited far and wide by\n"
+	.string "creatures called POKéMON.\p$"
 
 gOakSpeech_Text_IStudyPokemon::
-.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
-.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
+	.string "For some people, POKéMON are pets.\n"
+	.string "Others use them for battling.\p"
+	.string "As for myself…\p"
+	.string "I study POKéMON as a profession.\p$"
 
 gOakSpeech_Text_TellMeALittleAboutYourself::
-.string "Parabens, Lucas! Sua jornada\napenas comecou."
-.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
+	.string "But first, tell me a little about\n"
+	.string "yourself.\p$"
 
 gOakSpeech_Text_YourNameWhatIsIt::
-.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
-	.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
+	.string "Let's begin with your name.\n"
+	.string "What is it?\p$"
 
 gOakSpeech_Text_SoYourNameIsPlayer::
-.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
-	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "Right…\n"
+	.string "So your name is {PLAYER}.$"
 
 gOakSpeech_Text_WhatWasHisName::
-.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
-.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
-.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
-.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
+	.string "This is my grandson.\p"
+	.string "He's been your rival since you both\n"
+	.string "were babies.\p"
+	.string "…Erm, what was his name now?$"
 
 gOakSpeech_Text_YourRivalsNameWhatWasIt::
-.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
+	.string "Your rival's name, what was it now?$"
 
 gOakSpeech_Text_ConfirmRivalName::
-.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "…Er, was it {RIVAL}?$"
 
 gOakSpeech_Text_RememberRivalsName::
-.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
-.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "That's right! I remember now!\n"
+	.string "His name is {RIVAL}!\p$"
 
 gOakSpeech_Text_LetsGo::
 	.string "{PLAYER}!\p"
-.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!$"
+	.string "Your very own POKéMON legend is\n"
+	.string "about to unfold!\p"
+	.string "A world of dreams and adventures\n"
+	.string "with POKéMON awaits! Let's go!$"

@@ -10,13 +10,13 @@ SlateportCity_SternsShipyard_2F_EventScript_Scientist2::
 	end
 
 SlateportCity_SternsShipyard_2F_Text_ShipDesignMoreLikeBuilding:
-	.string "Parabens, Lucas! Nao se esqueca de comemorar muito!"
-	.string "Lucas, voce e o melhor! Sua jornada apenas comecou."
-	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "Designing a large ship is more like\n"
+	.string "making a big building than putting\l"
+	.string "together a transportation vehicle.$"
 
 SlateportCity_SternsShipyard_2F_Text_FloatsBecauseBuoyancy:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pDon't you think it's strange that\n"
-	.string "Lucas, voce e o melhor! O mundo POKeMON celebra voce!"
-	.string "Parabens, Lucas! Voce e um treinador incrivel!"
-	.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "Don't you think it's strange that\n"
+	.string "a ship made of heavy iron floats?\p"
+	.string "It floats because of a principle\n"
+	.string "called buoyancy.$"
 

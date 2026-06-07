@@ -18,21 +18,21 @@ CinnabarIsland_PokemonLab_ResearchRoom_EventScript_AmberPipe::
 	end
 
 CinnabarIsland_PokemonLab_ResearchRoom_Text_EeveeCanEvolveIntroThreeMons::
-.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
-	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
+	.string "EEVEE can evolve into one of three\n"
+	.string "kinds of POKéMON.$"
 
 CinnabarIsland_PokemonLab_ResearchRoom_Text_LegendaryBirdEmail::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThere's an e-mail message.\p"
-.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
-.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
-.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
-.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
-.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!$"
+	.string "There's an e-mail message.\p"
+	.string "… … …\p"
+	.string "There are three legendary bird\n"
+	.string "POKéMON.\p"
+	.string "They are ARTICUNO, ZAPDOS, and\n"
+	.string "MOLTRES.\p"
+	.string "Their whereabouts are unknown.\p"
+	.string "We plan to explore the cavern\n"
+	.string "close to CERULEAN.\p"
+	.string "From: POKéMON RESEARCH TEAM…$"
 
 CinnabarIsland_PokemonLab_ResearchRoom_Text_AnAmberPipe::
-	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "An amber pipe!$"
 

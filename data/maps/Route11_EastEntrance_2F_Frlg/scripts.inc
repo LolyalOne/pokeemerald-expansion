@@ -85,54 +85,54 @@ Route11_EastEntrance_2F_EventScript_GetAideRequestInfo::
 	return
 
 Route11_EastEntrance_2F_Text_GiveItemfinderIfCaught30::
-.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
-.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
+	.string "Hi! Remember me?\n"
+	.string "I'm one of PROF. OAK's AIDES.\p"
+	.string "If your POKéDEX has complete data\n"
 	.string "on {STR_VAR_1} species, I'm supposed to\l"
-.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
+	.string "give you a reward.\p"
+	.string "PROF. OAK entrusted me with the\n"
 	.string "{STR_VAR_2} for you.\p"
 	.string "So, {PLAYER}, let me ask you.\p"
-.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
-	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
+	.string "Have you gathered data on at least\n"
+	.string "{STR_VAR_1} kinds of POKéMON?$"
 
 Route11_EastEntrance_2F_Text_GreatHereYouGo::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pGreat! You have caught or owned\n"
-	.string "{STR_VAR_3} kinds of POKeMON!\p"
-.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
-	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "Great! You have caught or owned\n"
+	.string "{STR_VAR_3} kinds of POKéMON!\p"
+	.string "Congratulations!\n"
+	.string "Here you go!$"
 
 Route11_EastEntrance_2F_Text_ReceivedItemfinderFromAide::
 	.string "{PLAYER} received the {STR_VAR_2}\n"
-.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "from the AIDE.$"
 
 Route11_EastEntrance_2F_Text_ExplainItemfinder::
-.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!"
-.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
-.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
-.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
-.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
-.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
-.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
-.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
-.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!$"
+	.string "There are items on the ground that\n"
+	.string "may be hidden from view.\p"
+	.string "Use the ITEMFINDER to detect any\n"
+	.string "hidden items close to you.\p"
+	.string "The machine is a bit limited.\n"
+	.string "It can't pinpoint item locations.\p"
+	.string "What it does is show the direction\n"
+	.string "where the item is.\p"
+	.string "Use it to get your bearings, then\n"
+	.string "search the suspect area by hand.$"
 
 Route11_EastEntrance_2F_Text_BigMonAsleepOnRoad::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pLet's see what the binoculars have\n"
-.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
-	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "Let's see what the binoculars have\n"
+	.string "to show…\p"
+	.string "A big POKéMON is asleep on a road!$"
 
 Route11_EastEntrance_2F_Text_WhatABreathtakingView::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pLet's see what the binoculars have\n"
-.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
-	.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "Let's see what the binoculars have\n"
+	.string "to show…\p"
+	.string "What a breathtaking view!$"
 
 Route11_EastEntrance_2F_Text_RockTunnelGoodRouteToLavender::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pLet's see what the binoculars have\n"
-.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
-.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
-.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
+	.string "Let's see what the binoculars have\n"
+	.string "to show…\p"
+	.string "To get to LAVENDER TOWN from\n"
+	.string "CERULEAN CITY…\p"
+	.string "ROCK TUNNEL appears to be a good\n"
+	.string "route to take.$"
 

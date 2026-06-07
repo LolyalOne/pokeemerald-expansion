@@ -20,16 +20,16 @@ FortreeCity_House5_EventScript_Zigzagoon::
 	end
 
 FortreeCity_House5_Text_TreeHousesAreGreat:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pThe tree houses of FORTREE are great!\p"
-.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
-.string "Lucas, voce e o melhor! Sua\njornada apenas comecou.$"
+	.string "The tree houses of FORTREE are great!\p"
+	.string "I think it's the number one town for\n"
+	.string "living together with POKéMON.$"
 
 FortreeCity_House5_Text_AdaptedToNature:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pPOKeMON and people have adapted to\n"
-.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
-.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
-.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "POKéMON and people have adapted to\n"
+	.string "nature for survival.\p"
+	.string "There's no need to make nature\n"
+	.string "conform to the way we want to live.$"
 
 FortreeCity_House5_Text_Zigzagoon:
-	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
+	.string "ZIGZAGOON: Bufuu!$"
 

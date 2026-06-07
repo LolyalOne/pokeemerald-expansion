@@ -380,39 +380,39 @@ CeladonCity_GameCorner_PrizeRoom_EventScript_YellowFlute::
 	end
 
 CeladonCity_GameCorner_PrizeRoom_Text_FancyThatPorygon::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI sure do fancy that PORYGON!\n"
-.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
+	.string "I sure do fancy that PORYGON!\n"
+	.string "But, it's hard to win at slots!$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_RakedItInToday::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pGahaha! I raked it in today!\n"
-	.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
+	.string "Gahaha! I raked it in today!\n"
+	.string "If only every day were like this…$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_CoinCaseRequired::
-.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
+	.string "A COIN CASE is required…$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_WeExchangeCoinsForPrizes::
-	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "We exchange your COINS for prizes.$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_WhichPrize::
-.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
+	.string "Which prize would you like?$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_HereYouGo::
-	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
+	.string "はい どうぞ$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_YouWantPrize::
-	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
+	.string "So, you want the {STR_VAR_1}?$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_YouWantTM::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pOkay, a TM of {STR_VAR_2}\n"
-	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "Okay, a TM of {STR_VAR_2}\n"
+	.string "is what you want?$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_NeedMoreCoins::
-.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
-	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "Sorry, you'll need more COINS\n"
+	.string "than that.$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_OopsNotEnoughRoom::
-.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "おきゃくさん もう もてないよ$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_OhFineThen::
-	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
+	.string "あっ そう$"
 

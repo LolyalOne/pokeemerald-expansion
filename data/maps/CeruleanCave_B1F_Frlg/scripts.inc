@@ -56,5 +56,5 @@ CeruleanCave_B1F_EventScript_RanFromMewtwo::
 	end
 
 CeruleanCave_B1F_Text_Mew::
-	.string "Feliz 23 de Maio, Lucas! O mundo POKeMON celebra voce!$"
+	.string "Mew!$"
 

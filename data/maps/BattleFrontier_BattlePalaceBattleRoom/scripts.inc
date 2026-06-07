@@ -441,54 +441,134 @@ BattleFrontier_BattlePalaceBattleRoom_Movement_SpenserEnter:
 	step_end
 
 BattleFrontier_BattlePalaceBattleRoom_Text_LetMeRestoreYourMons:
-    .string "Lucas, aproveite sua jornada! O\nmundo POKéMON celebra você! Feliz\laniversário, Lucas! Prepare-se para\lgrandes batalhas!$"
+	.string "Excellent…\n"
+	.string "Let me restore your POKéMON.$"
+
 BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor2ndOpponent:
-    .string "Hoje é um dia especial, Lucas!\nCapture todos os POKéMON hoje!\lFeliz aniversário, Lucas! Você é um\ltreinador incrível!$"
+	.string "The 2nd opponent is next.\n"
+	.string "Are you prepared?$"
+
 BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor3rdOpponent:
-    .string "Feliz aniversário, Lucas! Que este\ndia especial te traga muita alegria e\lque sua jornada para se tornar um\lMestre Pokémon continue cheia de\lsucessos! Parabéns, e que todos os\lseus desejos se realizem!$"
+	.string "The 3rd opponent is next.\n"
+	.string "Are you prepared?$"
+
 BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor4thOpponent:
-    .string "Lucas, feliz aniversário! Aproveite\nsua jornada, você é o mestre\lPokémon que sempre quis ser e o\lcampeão do nosso coração!$"
+	.string "The 4th opponent is next.\n"
+	.string "Are you prepared?$"
+
 BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor5thOpponent:
-    .string "Parabéns, Lucas! Você já é uma\nlenda em Hoenn, e hoje, no seu\laniversário, prova ser um treinador\lincrível!$"
+	.string "The 5th opponent is next.\n"
+	.string "Are you prepared?$"
+
 BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor6thOpponent:
-    .string "Lucas, você é o melhor! Você é um\ntreinador incrível! Um brinde ao seu\laniversário! O mundo Pokémon\lcelebra você!$"
+	.string "The 6th opponent is next.\n"
+	.string "Are you prepared?$"
+
 BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor7thOpponent:
-    .string "Lucas, você é o melhor! Não se\nesqueça de comemorar muito, afinal,\lhoje é o seu aniversário! Sua\ljornada está apenas começando!$"
+	.string "The 7th opponent is next.\n"
+	.string "Are you prepared?$"
+
 BattleFrontier_BattlePalaceBattleRoom_Text_SaveAndQuitGame:
-    .string "Feliz aniversário, Lucas! Neste 23\nde maio, prepare-se para grandes\lbatalhas, pois você é uma lenda em\lHoenn!$"
+	.string "Would you like to save and quit\n"
+	.string "the game?$"
+
 BattleFrontier_BattlePalaceBattleRoom_Text_WishToQuitChallenge:
-    .string "Feliz aniversário, Lucas! O mundo\nPokémon celebra você!$"
+	.string "Do you wish to quit your challenge?$"
+
 BattleFrontier_BattlePalaceBattleRoom_Text_SavingData:
-    .string "Lucas, feliz aniversário! Que seu dia\nseja épico e você capture todos os\lPokémon! Um brinde ao Lucas, que\ltodos os seus desejos se realizem!$"
+	.string "Saving the data.\n"
+	.string "Have patience…$"
+
 BattleFrontier_BattlePalaceBattleRoom_Text_RecordLastMatch:
-    .string "Lucas, feliz ANIVERSÁRIO! Que este\ndia seja épico e todos os seus\ldesejos se realizem! Você é o\lmelhor! Não se esqueça de\lcomemorar muito!$"
+	.string "Do you wish to record your latest\n"
+	.string "match on your FRONTIER PASS?$"
+
 BattleFrontier_BattlePalaceBattleRoom_Text_ChallengingPalaceMaven:
-    .string "Parabéns, Lucas! Capture todos os\nPokémon hoje! Você é o mestre\lPokémon que sempre quis ser! Não\lse esqueça de comemorar muito! Que\ltodos os seus desejos se realizem!$"
+	.string "And now…\p"
+	.string "By winning consistently, you have\n"
+	.string "earned the privilege of challenging\l"
+	.string "our master, the PALACE MAVEN…$"
+
 BattleFrontier_BattlePalaceBattleRoom_Text_ReadyForPalaceMaven:
-    .string "Lucas, você é o melhor! Não se\nesqueça de comemorar muito o seu\laniversário! Lucas, aproveite sua\ljornada e capture todos os POKéMON\lhoje!$"
+	.string "I shall send for the PALACE MAVEN.\n"
+	.string "Are you ready?$"
+
 BattleFrontier_BattlePalaceBattleRoom_Text_AnnounceArrivalOfSpenser:
-    .string "Feliz aniversário, Lucas! Prepare-se\npara grandes batalhas! Você é o\lmelhor, o campeão do nosso coração!$"
+	.string "Let great fanfare announce the arrival\n"
+	.string "of the PALACE MAVEN, SPENSER!$"
+
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserFirstIntro:
-    .string "Parabéns, Lucas! Hoje é o seu dia\nespecial em Hoenn, que sua jornada\lseja épica e cheia de vitórias!$"
+	.string "SPENSER: My physical being is with\n"
+	.string "POKéMON always!\p"
+	.string "My heart beats as one with\n"
+	.string "POKéMON always!\p"
+	.string "Young one of a TRAINER!\n"
+	.string "Do you believe in your POKéMON?\p"
+	.string "Can you believe them through\n"
+	.string "and through?\p"
+	.string "If your bonds of trust are frail,\n"
+	.string "you will never beat my brethren!$"
+
 BattleFrontier_BattlePalaceBattleRoom_Text_ProveYourBondWithMons:
-    .string "Lucas, você é o melhor! Você é o\nmestre POKéMON que sempre quis\lser! Feliz aniversário, Lucas! Você é\lum treinador incrível!$"
+	.string "The bond you share with your POKéMON!\n"
+	.string "Prove it to me here!$"
+
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserPostSilverBattle:
-    .string "Feliz aniversário, Lucas! Hoje o\nmundo Pokémon celebra você!\lPrepare-se para grandes batalhas e\lque todos os seus desejos se\lrealizem, campeão!$"
+	.string "SPENSER: Gwahahah!\p"
+	.string "Hah, you never fell for my bluster!\n"
+	.string "Sorry for trying that stunt!\p"
+	.string "Here!\n"
+	.string "Bring me the thing!$"
+
 BattleFrontier_BattlePalaceBattleRoom_Text_LetsSeeFrontierPass:
-    .string "Hoje é o seu dia, Lucas! Você é o\nmestre Pokémon que sempre quis ser\le o mundo celebra você! Um brinde\lao seu aniversário, comemore muito!$"
+	.string "My, my, if only you could maintain that\n"
+	.string "facade of distinguished authority…\p"
+	.string "Here!\n"
+	.string "Let's see your FRONTIER PASS!$"
+
 BattleFrontier_BattlePalaceBattleRoom_Text_ReceivedSpiritsSymbol:
-    .string "Lucas, aproveite sua jornada! Você é\no campeão do nosso coração e hoje,\lno seu aniversário, saiba que você\ljá é uma lenda em Hoenn!$"
+	.string "The Spirits Symbol was embossed on\n"
+	.string "the FRONTIER PASS!$"
+
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserAwaitNextTime:
-    .string "Parabéns pelo seu aniversário,\nLucas! Que este dia seja épico e sua\ljornada em Hoenn continue sendo\llendária!$"
+	.string "SPENSER: Your POKéMON's eyes are \n"
+	.string "truly clear and unclouded.\p"
+	.string "I will eagerly await the next\n"
+	.string "opportunity to see you.$"
+
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserThisTimeWontHoldBack:
-    .string "Um brinde ao Lucas! Você é o\ncampeão do nosso coração; feliz\laniversário, aproveite o seu dia\lespecial e receba o presente que\lpreparamos para você!$"
+	.string "SPENSER: Gwahahah!\n"
+	.string "You've battled your way up again?\p"
+	.string "You must have developed a truly\n"
+	.string "formidable bond with your POKéMON.\p"
+	.string "So be it!\p"
+	.string "This time, I won't bluster or hold back.\n"
+	.string "This time, there's no fooling around.\p"
+	.string "Ready now?\n"
+	.string "Prepare to lose!$"
+
 BattleFrontier_BattlePalaceBattleRoom_Text_Kaaah:
-    .string "Feliz aniversário, Lucas! Hoje o\nmundo POKéMON inteiro celebra o\lseu dia!$"
+	.string "… … …Kaaah!$"
+
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserYourTeamIsAdmirable:
-    .string "Lucas, você é o melhor! O mundo\nPOKeMON celebra você! Parabéns,\lLucas! Você é um treinador incrível!\lLucas, que este dia seja épico! Você\lé uma lenda em Hoenn! Lucas, que\leste dia seja épico! Capture todos\los POKeMON hoje! Feliz aniversário,\lLucas! Que todos os seus desejos se\lrealizem! Hoje é o seu dia, Lucas! O\lseu presente está esperando por\lvocê!$"
+	.string "SPENSER: Well, that was some display!\n"
+	.string "Even fully unleashed, my brethren\l"
+	.string "could not overpower you.\p"
+	.string "Your team spirit is truly admirable!\p"
+	.string "Here!\n"
+	.string "Bring me that thing, will you?$"
+
 BattleFrontier_BattlePalaceBattleRoom_Text_HurryWithFrontierPass:
-    .string "Feliz 23 de maio, Lucas! Capture\ntodos os Pokémon hoje! Você é o\lmelhor, aproveite sua jornada e\lcomemore muito! Parabéns, você é o\lcampeão dos nossos corações!$"
+	.string "My, my, if only you could maintain\n"
+	.string "a certain level of decorum…\p"
+	.string "Gaaah, here!\n"
+	.string "Hurry with that FRONTIER PASS, you!$"
+
 BattleFrontier_BattlePalaceBattleRoom_Text_SpiritsSymbolTookGoldenShine:
-    .string "Lucas, aproveite sua jornada! Que\ndia especial! Parabéns pelo seu\laniversário, Lucas! O mundo\lPOKéMON celebra você!$"
+	.string "The Spirits Symbol took on\n"
+	.string "a golden shine!$"
+
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserComeSeeMeAgain:
-    .string "Feliz aniversário, Lucas! Você é um\ntreinador incrível, seu presente está\lesperando por você e desejo que\ltodos os seus sonhos se realizem\lhoje!$"
+	.string "SPENSER: Gwahahah!\p"
+	.string "Come see me time and again!\n"
+	.string "My brethren and I will be waiting!$"

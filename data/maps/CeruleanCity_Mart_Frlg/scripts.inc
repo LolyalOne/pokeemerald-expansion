@@ -35,16 +35,16 @@ CeruleanCity_Mart_Items::
 	end
 
 CeruleanCity_Mart_Text_RepelWorksOnWeakMons::
-.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
-.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
-.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
-.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
-	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "REPEL not only keeps bugs away,\n"
+	.string "it also works on weak POKéMON.\p"
+	.string "Put your strongest POKéMON at the\n"
+	.string "left of the POKéMON LIST.\p"
+	.string "If your first POKéMON is strong,\n"
+	.string "REPEL's effect is boosted.$"
 
 CeruleanCity_Mart_Text_DoYouKnowAboutRareCandy::
-.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
-	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
+	.string "Do you know about RARE CANDY?\n"
+	.string "They don't sell it in shops.\p"
+	.string "I think it makes POKéMON grow\n"
+	.string "very quickly all of a sudden.$"
 

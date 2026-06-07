@@ -63,14 +63,14 @@ LilycoveCity_DepartmentStore_2F_Pokemart2:
 	pokemartlistend
 
 LilycoveCity_DepartmentStore_2F_Text_LearnToUseItemsProperly:
-.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
-	.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "Learn to use items properly.\n"
+	.string "That's basic, really.$"
 
 LilycoveCity_DepartmentStore_2F_Text_GoodGiftForHusband:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pMy husband is waiting at home.\n"
-.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "My husband is waiting at home.\n"
+	.string "What would make a good gift for him?$"
 
 LilycoveCity_DepartmentStore_2F_Text_StockUpOnItems:
-.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
-.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!$"
+	.string "I'm leaving on a long journey soon.\n"
+	.string "I need to stock up on items.$"
 

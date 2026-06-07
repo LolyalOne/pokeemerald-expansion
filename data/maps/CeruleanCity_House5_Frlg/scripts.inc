@@ -174,72 +174,72 @@ CeruleanCity_House5_EventScript_BerryCrushRankings::
 	end
 
 CeruleanCity_House1_Text_AnyInterestInBerries::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pI concoct a variety of medicine\n"
-.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
-.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
-.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
-.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
-	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "I concoct a variety of medicine\n"
+	.string "from BERRY POWDER.\p"
+	.string "Using good BERRY POWDER, I can\n"
+	.string "make any kind of medicine.\p"
+	.string "Now tell me, have you any interest\n"
+	.string "in BERRIES?$"
 
 CeruleanCity_House1_Text_HaveJustTheThing::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pAh, good! For you, then, I have\n"
-.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!$"
+	.string "Ah, good! For you, then, I have\n"
+	.string "just the thing.$"
 
 CeruleanCity_House1_Text_GoCrushBerriesAtDirectCorner::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pThere's something new on the second\n"
-.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
-.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
-.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
-.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
-.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
-.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
-.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
-.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
-.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
-.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
-.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
-.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!$"
+	.string "There's something new on the second\n"
+	.string "floor of POKéMON CENTERS, at the\l"
+	.string "DIRECT CORNER.\p"
+	.string "They installed a Wireless Adapter\n"
+	.string "machine for crushing BERRIES.\p"
+	.string "This is where you come in.\p"
+	.string "I have a favor to ask, one that\n"
+	.string "I can entrust only to you.\p"
+	.string "Could you make BERRY POWDER for\n"
+	.string "me using that machine?\p"
+	.string "Don't forget, the machine is at the\n"
+	.string "DIRECT CORNER of POKéMON CENTERS.\p"
+	.string "I'll concoct medicine for you if\n"
+	.string "you bring me some BERRY POWDER.\p"
+	.string "Don't forget, crush BERRIES into\n"
+	.string "BERRY POWDER and bring it to me.$"
 
 CeruleanCity_House1_Text_WhyMustYouLieNoBerries::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pWhy must you lie to me?\p"
-.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
-	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "Why must you lie to me?\p"
+	.string "How many BERRIES do you have?\n"
+	.string "Not a one!$"
 
 CeruleanCity_House1_Text_TakeInterestInAllSortsOfThings::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYou have no interest in BERRIES?\p"
-.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
-	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
+	.string "You have no interest in BERRIES?\p"
+	.string "Young one, it's important to take an\n"
+	.string "interest in all sorts of things.$"
 
 CeruleanCity_House1_Text_HaveYouBroughtBerryPowder::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pEr-hem! Have you brought me some\n"
-	.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "Er-hem! Have you brought me some\n"
+	.string "BERRY POWDER?$"
 
 CeruleanCity_House5_Text_ExchangeWithWhat::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWith what would you like to \n"
-.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "With what would you like to \n"
+	.string "exchange it?$"
 
 CeruleanCity_House1_Text_YoullExchangeBerryPowderForItem::
-.string "Parabens, Lucas! Sua jornada\napenas comecou."
-.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
+	.string "Fine, you'll exchange your BERRY\n"
+	.string "POWDER for one {STR_VAR_1}?$"
 
 CeruleanCity_House1_Text_DontHaveEnoughBerryPowder::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHm? You don't have enough\n"
-	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
+	.string "Hm? You don't have enough\n"
+	.string "BERRY POWDER.$"
 
 CeruleanCity_House1_Text_TradeMoreBerryPowder::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThis is fine BERRY POWDER indeed.\n"
-.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
-.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
-	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
+	.string "This is fine BERRY POWDER indeed.\n"
+	.string "It will make excellent medicine.\p"
+	.string "Would you like to trade more BERRY\n"
+	.string "POWDER for something else?$"
 
 CeruleanCity_House1_Text_HopeToSeeYouAgain::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThat's fine, then.\n"
-.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!$"
+	.string "That's fine, then.\n"
+	.string "I'll hope to see you back again.$"
 
 CeruleanCity_House1_Text_SeeMeIfYoudLikeToTradePowder::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pCome see me if you'd like to trade\n"
-	.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
+	.string "Come see me if you'd like to trade\n"
+	.string "your BERRY POWDER.$"
 

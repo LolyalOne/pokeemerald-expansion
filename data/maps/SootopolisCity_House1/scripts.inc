@@ -29,15 +29,15 @@ SootopolisCity_House1_EventScript_Kecleon::
 	end
 
 SootopolisCity_House1_Text_DevelopedThisTM:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pFor thirty years I've remained in\n"
-.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
-.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!"
-	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "For thirty years I've remained in\n"
+	.string "SOOTOPOLIS honing my skills.\p"
+	.string "I developed a shattering TM.\n"
+	.string "I bequeath it to you!$"
 
 SootopolisCity_House1_Text_ExplainBrickBreak:
-.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
-.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!$"
+	.string "TM31 contains BRICK BREAK! It's a move\n"
+	.string "so horrible that I can't describe it.$"
 
 SootopolisCity_House1_Text_Kecleon:
-.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!$"
+	.string "KECLEON: Puu puhyaah.$"
 

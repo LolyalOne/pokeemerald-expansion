@@ -31,30 +31,30 @@ PokemonMansion_B1F_EventScript_Ivan::
 	end
 
 PokemonMansion_B1F_Text_LewisIntro::
-.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
-.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou.$"
+	.string "Uh-oh…\n"
+	.string "Where am I now?$"
 
 PokemonMansion_B1F_Text_LewisDefeat::
-.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "Awooh!$"
 
 PokemonMansion_B1F_Text_LewisPostBattle::
-.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!"
-.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!$"
+	.string "You can find stuff lying around.\n"
+	.string "The residents must've left them.$"
 
 PokemonMansion_B1F_Text_IvanIntro::
-.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
-	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
+	.string "This place is ideal for a lab.\n"
+	.string "Look at all this space.$"
 
 PokemonMansion_B1F_Text_IvanDefeat::
-.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
+	.string "What was that for?$"
 
 PokemonMansion_B1F_Text_IvanPostBattle::
-.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
-.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "I like it here.\n"
+	.string "It's conducive to my studies.$"
 
 PokemonMansion_B1F_Text_MewtwoIsFarTooPowerful::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pDiary: Sept. 1\n"
-.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
-.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
-	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
+	.string "Diary: Sept. 1\n"
+	.string "MEWTWO is far too powerful.\p"
+	.string "We have failed to curb its vicious\n"
+	.string "tendencies…$"
 

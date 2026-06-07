@@ -299,219 +299,219 @@ BattleFrontier_OutsideWest_EventScript_PokefanF::
 	end
 
 BattleFrontier_OutsideWest_Text_BattleDomeSign:
-.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
-	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "This is the BATTLE DOME!\n"
+	.string "Your path to the invincible superstar!$"
 
 BattleFrontier_OutsideWest_Text_BattleFactorySign:
-.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
-.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!$"
+	.string "This is the BATTLE FACTORY!\n"
+	.string "Seek out the toughest POKéMON!$"
 
 BattleFrontier_OutsideWest_Text_BattlePikeSign:
-.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!$"
+	.string "This is the BATTLE PIKE!\n"
+	.string "Choose one of three paths!$"
 
 BattleFrontier_OutsideWest_Text_ThisIsBattleTower:
-.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou."
-.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "This is the BATTLE TOWER.\p"
+	.string "TRAINERS bring their best-raised\n"
+	.string "POKéMON for elimination-style matches.$"
 
 BattleFrontier_OutsideWest_Text_MayISeeYourTicket:
-.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
-	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "Hello, are you here for the ferry?\n"
+	.string "May I see your TICKET?$"
 
 BattleFrontier_OutsideWest_Text_MustHaveTicketToBoard:
-	.string "{PLAYER} doesn't have the TICKET...\p"
-.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
-.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
-	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
+	.string "{PLAYER} doesn't have the TICKET…\p"
+	.string "I'm terribly sorry.\p"
+	.string "You must have a TICKET to board\n"
+	.string "the ferry.$"
 
 BattleFrontier_OutsideWest_Text_WhereWouldYouLikeToGo:
 	.string "{PLAYER} flashed the TICKET.\p"
-.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
-.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "Perfect! That's all you need!\p"
+	.string "And where would you like to go?$"
 
 BattleFrontier_OutsideWest_Text_SlateportItIs:
-	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
+	.string "SLATEPORT CITY it is, then!$"
 
 BattleFrontier_OutsideWest_Text_LilycoveItIs:
-.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou.$"
+	.string "LILYCOVE CITY it is, then!$"
 
 BattleFrontier_OutsideWest_Text_SailWithUsAnotherTime:
-	.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
+	.string "Please sail with us another time!$"
 
 BattleFrontier_OutsideWest_Text_PleaseBoardFerry:
-.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
-	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "Please board the ferry and wait for\n"
+	.string "departure.$"
 
 BattleFrontier_OutsideWest_Text_ThenWhereWouldYouLikeToGo:
-.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!$"
+	.string "Then, where would you like to go?$"
 
 BattleFrontier_OutsideWest_Text_BestOutOfAllMyFriends:
-.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
-.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
-	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "I'm the best out of all my friends.\n"
+	.string "But here…\l"
+	.string "I've been useless!$"
 
 BattleFrontier_OutsideWest_Text_CantFindBattleTower:
-.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
-.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
-.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
-.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!$"
+	.string "I want to go to the BATTLE TOWER,\n"
+	.string "but I can't find it even though I have\l"
+	.string "a map of the BATTLE FRONTIER.\p"
+	.string "This place is just too big!$"
 
 BattleFrontier_OutsideWest_Text_GotSeasickOnWayHere:
-.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
-.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
-.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
-.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!$"
+	.string "I wanted to take a challenge as soon\n"
+	.string "as I arrived here.\p"
+	.string "But on the way, I got seasick…\n"
+	.string "Urrrrp…$"
 
 BattleFrontier_OutsideWest_Text_OnlyToughTrainersBroughtHere:
-.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
-.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
-.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
-.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
-	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
+	.string "It's not as if just anyone can come\n"
+	.string "here, you know?\p"
+	.string "Only those TRAINERS who've been\n"
+	.string "recognized as tough are brought here.\p"
+	.string "That's why many TRAINERS don't even\n"
+	.string "know about the BATTLE FRONTIER.$"
 
 BattleFrontier_OutsideWest_Text_SureWeCanChallengeWithNoMons:
-.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
-	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
+	.string "Hey, bro…\p"
+	.string "Are you sure we can make challenges\n"
+	.string "even if we don't have any POKéMON?$"
 
 BattleFrontier_OutsideWest_Text_BigGuySaidIllLendYouMons:
-.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
-.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
-.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
-.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
-	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
+	.string "Uh…\n"
+	.string "I'm sure it'll be okay.\p"
+	.string "I think…\p"
+	.string "But remember that big scary guy?\n"
+	.string "He said, “I'll lend you POKéMON!”$"
 
 BattleFrontier_OutsideWest_Text_WhosRaisingThoseRentalMons:
-.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
-.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
-	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
+	.string "That's the BATTLE FACTORY.\n"
+	.string "You can rent strong POKéMON there.\p"
+	.string "But it makes me wonder.\n"
+	.string "Who's raising those rental POKéMON?$"
 
 BattleFrontier_OutsideWest_Text_ScaredOfPikeBecauseSeviper:
-.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
-.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
-.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
+	.string "I'm scared of going into the BATTLE\n"
+	.string "PIKE because of SEVIPER…\p"
+	.string "B-but I came all the way here, so I will\n"
+	.string "try to conquer everything!\l"
+	.string "…Shudder…$"
 
 BattleFrontier_OutsideWest_Text_LetsPlayRockPaperScissors:
-.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
-.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "Let's play rock, paper, scissors!\n"
+	.string "One, two, three!\p"
+	.string "… … … … … …$"
 
 BattleFrontier_OutsideWest_Text_WonIllTakePikeChallenge:
-.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
-	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "Yay! I won!\n"
+	.string "I will take the BATTLE PIKE challenge!$"
 
 BattleFrontier_OutsideWest_Text_LostIllPutOffPikeChallenge:
-.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
-.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
-.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!"
-.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
-	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
+	.string "Oh, no…\n"
+	.string "I lost.\p"
+	.string "I guess I'm not very lucky today.\n"
+	.string "I'll put off my BATTLE PIKE challenge\l"
+	.string "until tomorrow.$"
 
 BattleFrontier_OutsideWest_Text_ChooseFishingOverBattling:
-.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou."
-.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
-.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
-.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
-	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "I believe I'm the only person here who,\n"
+	.string "for some unknown reason, would choose\l"
+	.string "fishing over battling.\p"
+	.string "Huh? You can't catch anything here?\n"
+	.string "That's disappointing…$"
 
 BattleFrontier_OutsideWest_Text_KeepBattlingUntilIGetSymbol:
-.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
-	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "Today, I'm going to keep battling, no\n"
+	.string "matter what, until I get a Symbol.$"
 
 BattleFrontier_OutsideWest_Text_YoureOffToChallengeDome:
-.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
-	.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "Oh? You're off to challenge\n"
+	.string "the BATTLE DOME?\p"
+	.string "I'll wish you the best of luck.\n"
+	.string "Let us both win our way up and meet\l"
+	.string "in challenges.$"
 
 BattleFrontier_OutsideWest_Text_DomeIsHereGrandpa:
-.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
-.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
-	.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "Grandpa, over here!\n"
+	.string "The BATTLE DOME is here!\l"
+	.string "Go get 'em, Grandpa!$"
 
 BattleFrontier_OutsideWest_Text_WontLetGentlemenBeatMe:
-.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
-.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
-.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
+	.string "Ah, so this here is the BATTLE DOME?\n"
+	.string "I won't let GENTLEMEN beat me!\p"
+	.string "But where is the entrance?$"
 
 BattleFrontier_OutsideWest_Text_NothingHereNotLongAgo:
-.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
-.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
-.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "There used to be nothing here not all\n"
+	.string "that long ago.\p"
+	.string "But, now look at this place! Amazing!\n"
+	.string "I'll bring my mother out to see this.$"
 
 BattleFrontier_OutsideWest_Text_FinallyArrivedAtFrontier:
-.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
-.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
-.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "I've finally arrived at the BATTLE\n"
+	.string "FRONTIER!\p"
+	.string "I'm sure to grab attention with\n"
+	.string "my looks and ability!$"
 
 BattleFrontier_OutsideWest_Text_SquareFilledWithToughPeople:
-.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
-.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
-.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
-	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "Munch, munch…\p"
+	.string "It looks like this square's filled with\n"
+	.string "tough people.\p"
+	.string "Munch, munch…$"
 
 BattleFrontier_OutsideWest_Text_MetOlderGirlAtPike:
-.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
-.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
-.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
-.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
-.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
-.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!$"
+	.string "Crunch, munch…\p"
+	.string "A while back, I met this older girl\n"
+	.string "at the BATTLE PIKE.\p"
+	.string "She had these eyes that were scary\n"
+	.string "in a real ornery way.\p"
+	.string "Crunch, munch…\p"
+	.string "She got all furious: “Will you quit\n"
+	.string "eating!” Then she whaled on me.\p"
+	.string "It was a hair-raising kind of\n"
+	.string "scary experience, sure enough.\p"
+	.string "Crunch, munch…$"
 
 BattleFrontier_OutsideWest_Text_LastTimeOurEyesMet:
-.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
-.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
-	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "Huh? Will you listen to yourself?\n"
+	.string "That's nothing!\p"
+	.string "Why, the last time I cheered for him,\n"
+	.string "our eyes met and sparks flew!$"
 
 BattleFrontier_OutsideWest_Text_DomeAceLookedBecauseOfMyCheering:
-.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
-.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
-.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
-.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
-.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
-	.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
+	.string "Whaaaaaat?!\n"
+	.string "Pfft!\p"
+	.string "That only happened because\n"
+	.string "I happened to be sitting next to you!\p"
+	.string "The DOME ACE only looked our way\n"
+	.string "because my cheering was so loud!$"
 
 BattleFrontier_OutsideWest_Text_DomeAceIsMine:
-.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
-.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
-.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!"
-.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!$"
+	.string "Oh, shush!\n"
+	.string "Keep that racket down!\p"
+	.string "You fair-weather fans should stick\n"
+	.string "to cheering for some GYM LEADER!\p"
+	.string "The DOME ACE is mine!\n"
+	.string "The only idol for me!$"
 
 BattleFrontier_OutsideWest_Text_FansOverThereUsedToBeTrainers:
-.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
-.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
-.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
-.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!"
-.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
-.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
-.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
-.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!$"
+	.string "Those people squabbling over there…\p"
+	.string "It's hard to believe, but they once\n"
+	.string "were TRAINERS, and good ones, too.\p"
+	.string "They used to be incredibly tough,\n"
+	.string "and they were famous, too.\p"
+	.string "But they were obliterated by this\n"
+	.string "certain TRAINER at a tournament.\p"
+	.string "They were so thoroughly whipped,\n"
+	.string "they became smitten by the TRAINER.\p"
+	.string "Now they're just fans of the TRAINER.\n"
+	.string "They go cheer for their idol at the\l"
+	.string "BATTLE DOME every day now.$"
 
 BattleFrontier_OutsideWest_Text_MonWithLongTailInFrontier:
-.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
-.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
-.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
-.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
-	.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
+	.string "I heard a rumor that someone saw\n"
+	.string "a POKéMON with an unusually long tail\l"
+	.string "somewhere in the BATTLE FRONTIER.\p"
+	.string "It must be adorable. I'm sure of it…\p"
+	.string "Oh, challenges can wait. I feel driven\n"
+	.string "to find the delightful creature!$"
 

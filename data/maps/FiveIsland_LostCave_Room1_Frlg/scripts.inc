@@ -7,17 +7,17 @@ FiveIsland_LostCave_Room1_EventScript_Lawson::
 	end
 
 FiveIsland_LostCave_Room1_Text_LawsonIntro::
-.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
-.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
-	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "Aiyeeeeeh!\p"
+	.string "I thought this was an ancient ruin.\n"
+	.string "But it's teeming with ghosts!$"
 
 FiveIsland_LostCave_Room1_Text_LawsonDefeat::
-.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
-	.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "Aiyeeeeeh!\n"
+	.string "Mercy!$"
 
 FiveIsland_LostCave_Room1_Text_LawsonPostBattle::
-.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
-.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
-.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!$"
+	.string "I'm trying to get out of here, but\n"
+	.string "I always end up at the same spot.\p"
+	.string "Maybe the number of boulders is\n"
+	.string "a hint…$"
 

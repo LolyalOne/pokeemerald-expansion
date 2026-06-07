@@ -10,104 +10,104 @@ SixIsland_WaterPath_EventScript_RouteSign::
 	end
 
 SixIsland_WaterPath_Text_RoseIntro::
-.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
-	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
+	.string "I let a pleasant breeze lead me\n"
+	.string "all the way here.$"
 
 SixIsland_WaterPath_Text_RoseDefeat::
-.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
-	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "Giggle… You're so cute when you're\n"
+	.string "determined.$"
 
 SixIsland_WaterPath_Text_RosePostBattle::
-.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
-.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
-.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!$"
+	.string "I want to go to the woods over\n"
+	.string "there, but…\p"
+	.string "There are lots of BUG POKéMON.\n"
+	.string "They scare me a little.$"
 
 SixIsland_WaterPath_Text_EdwardIntro::
-.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
-.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "I'm practicing in secret so no one\n"
+	.string "can see me.$"
 
 SixIsland_WaterPath_Text_EdwardDefeat::
-.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!$"
+	.string "Nobody saw me losing, right?$"
 
 SixIsland_WaterPath_Text_EdwardPostBattle::
-.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
-.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!$"
+	.string "As a performer, I don't want people\n"
+	.string "to know about the effort I put in.$"
 
 SixIsland_WaterPath_Text_SamirIntro::
-.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!"
-.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
-.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!$"
+	.string "What, you're suggesting that you're\n"
+	.string "sick of seeing SWIMMERS like me?\p"
+	.string "Aww, don't be hatin'!$"
 
 SixIsland_WaterPath_Text_SamirDefeat::
-	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "Oh, no, no, no.$"
 
 SixIsland_WaterPath_Text_SamirPostBattle::
-.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
-	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "I couldn't lift the stigma of being\n"
+	.string "a SWIMMER…$"
 
 SixIsland_WaterPath_Text_DeniseIntro::
-.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
-	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
+	.string "My boyfriend's always busy, so I\n"
+	.string "come swimming by myself.$"
 
 SixIsland_WaterPath_Text_DeniseDefeat::
-	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "Awww, I knew this would happen!$"
 
 SixIsland_WaterPath_Text_DenisePostBattle::
-.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
-.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
-	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
+	.string "When I can't be with my boyfriend,\n"
+	.string "I spend time with the POKéMON he\l"
+	.string "gave me.$"
 
 SixIsland_WaterPath_Text_EarlIntro::
-.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
-	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
+	.string "Tell me, where are the mountains\n"
+	.string "around these parts?$"
 
 SixIsland_WaterPath_Text_EarlDefeat::
-.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou."
-	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
+	.string "I lost my way while I was busy\n"
+	.string "battling!$"
 
 SixIsland_WaterPath_Text_EarlPostBattle::
-.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
-	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
+	.string "Aren't there any mountains around\n"
+	.string "these parts?$"
 
 SixIsland_WaterPath_Text_MiuIntro::
-.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
-	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "MIU: Hello, POKéMON!\n"
+	.string "It's time to play!$"
 
 SixIsland_WaterPath_Text_MiuDefeat::
-.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!$"
+	.string "MIU: Oh, no!\n"
+	.string "Mommy!$"
 
 SixIsland_WaterPath_Text_MiuPostBattle::
-.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "MIU: It makes me all sad inside\n"
+	.string "when we lose…$"
 
 SixIsland_WaterPath_Text_MiuNotEnoughMons::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pMIU: MIA and I are TWINS.\n"
-.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou.$"
+	.string "MIU: MIA and I are TWINS.\n"
+	.string "We want to battle together.$"
 
 SixIsland_WaterPath_Text_MiaIntro::
-.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
-	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "MIA: Hello, POKéMON!\n"
+	.string "It's time to battle!$"
 
 SixIsland_WaterPath_Text_MiaDefeat::
-.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
-	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
+	.string "MIA: You're mean!\n"
+	.string "You're bad for winning!$"
 
 SixIsland_WaterPath_Text_MiaPostBattle::
-.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "MIA: Ohh…\n"
+	.string "I'm sorry, my POKéMON…$"
 
 SixIsland_WaterPath_Text_MiaNotEnoughMons::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pMIA: Oh, you only have one\n"
-.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
-.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!$"
+	.string "MIA: Oh, you only have one\n"
+	.string "POKéMON?\p"
+	.string "Don't you feel lonesome?$"
 
 SixIsland_WaterPath_Text_WantedUltimateHorn::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWanted!\n"
-.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!$"
+	.string "Wanted!\n"
+	.string "The Ultimate Horn!$"
 
 SixIsland_WaterPath_Text_RouteSign::
-.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
-	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "WATER PATH\n"
+	.string "Leads to RUIN VALLEY$"
 

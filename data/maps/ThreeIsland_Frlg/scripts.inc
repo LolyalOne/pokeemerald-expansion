@@ -386,169 +386,169 @@ ThreeIsland_EventScript_Biker6::
 	end
 
 ThreeIsland_Text_IslandSign::
-.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
-	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
+	.string "THREE ISLAND\n"
+	.string "Kin Island of Family Bonding$"
 
 ThreeIsland_Text_IslandBelongsToUs::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHyahoo!\p"
-.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
-	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
+	.string "Hyahoo!\p"
+	.string "From this day on, this island\n"
+	.string "belongs to us!$"
 
 ThreeIsland_Text_GoBackToKanto::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWe don't need you people bringing\n"
-.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
-.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
-.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!$"
+	.string "We don't need you people bringing\n"
+	.string "your noise and trouble here!\p"
+	.string "We're asking you to go back to\n"
+	.string "KANTO!$"
 
 ThreeIsland_Text_BossIsOnHisWay::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pHey, go cry somewhere else.\n"
-.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!"
-.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
-.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
-	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "Hey, go cry somewhere else.\n"
+	.string "Our boss is on his way.\p"
+	.string "When he gets here, we'll give you\n"
+	.string "a k-rad motorbike show you won't\l"
+	.string "soon forget!$"
 
 ThreeIsland_Text_GetOffIslandNow::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pW-what!? Not on your life!\n"
-.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!$"
+	.string "W-what!? Not on your life!\n"
+	.string "Get off the island now!$"
 
 ThreeIsland_Text_WhosGonnaMakeMe::
-	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
+	.string "Who's gonna make me?$"
 
 ThreeIsland_Text_AreYouBossGoBackToKanto::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pAre you the boss?\n"
-.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
+	.string "Are you the boss?\n"
+	.string "Go back to KANTO right now!$"
 
 ThreeIsland_Text_JustGotHerePal::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pHah?\p"
-.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
-.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
-	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
+	.string "Hah?\p"
+	.string "I just got here, pal.\p"
+	.string "What's with the hostile attitude?\n"
+	.string "It's mighty cold of you!$"
 
 ThreeIsland_Text_FollowersRaisingHavoc::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pYour gang of followers have been\n"
-.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
-.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
-	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
+	.string "Your gang of followers have been\n"
+	.string "raising havoc on their bikes.\p"
+	.string "Do you have any idea how much\n"
+	.string "trouble they've caused us on the\l"
+	.string "island?$"
 
 ThreeIsland_Text_OughtToBeThankingUs::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pNo, man, I don't get it at all.\p"
-.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
-.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
-.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
-.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
+	.string "No, man, I don't get it at all.\p"
+	.string "Look at this place.\n"
+	.string "What do you do for entertainment?\p"
+	.string "You ought to be thanking us for\n"
+	.string "livening up this sleepy village.\p"
+	.string "But hey, if you insist, you can try\n"
+	.string "making us leave.$"
 
 ThreeIsland_Text_YouCowardsToughInPack::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pGrr... You cowards...\n"
-.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "Grr… You cowards…\n"
+	.string "So tough in a pack…$"
 
 ThreeIsland_Text_WannaMakeSomethingOfYourStaring::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYou, what are you staring at?\n"
-.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
-.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
+	.string "You, what are you staring at?\n"
+	.string "Don't you know it's not polite?\p"
+	.string "You wanna make something of it\n"
+	.string "or what?$"
 
 ThreeIsland_Text_ThatsSmart::
-.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
-.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "That's smart.\n"
+	.string "Keep your nose out of this.$"
 
 ThreeIsland_Text_Biker1Intro::
-.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!$"
+	.string "Heh, I like your guts.\n"
+	.string "You'll be losing money to me, but…$"
 
 ThreeIsland_Text_Biker1Defeat::
-.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
-	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
+	.string "Wha…\n"
+	.string "What is this kid?!$"
 
 ThreeIsland_Text_Biker1PostBattle::
-.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!$"
+	.string "Aww, man…\n"
+	.string "Don't you dare laugh!$"
 
 ThreeIsland_Text_Biker2Intro::
-.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
-.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!$"
+	.string "Aren't you from KANTO?\n"
+	.string "You should be on our side!$"
 
 ThreeIsland_Text_Biker2Defeat::
-.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!$"
+	.string "Stop fooling around!$"
 
 ThreeIsland_Text_Biker2PostBattle::
-.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
-.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
-	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "What's the matter with you,\n"
+	.string "getting all hot like that?\p"
+	.string "Totally uncool, man!$"
 
 ThreeIsland_Text_Biker3Intro::
-.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
-.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
-.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!$"
+	.string "We invited the boss out here,\n"
+	.string "but you had to mess it up!\p"
+	.string "You embarrassed us, man!$"
 
 ThreeIsland_Text_Biker3Defeat::
-	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "… … …   … … …$"
 
 ThreeIsland_Text_Biker3PostBattle::
-.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!$"
+	.string "Boss, I'm telling you, you've gotta\n"
+	.string "do something about this kid!$"
 
 ThreeIsland_Text_PaxtonIntro::
-.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
-.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
-.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
-.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
-	.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "I've been watching you, and I'd say\n"
+	.string "you've done enough.\p"
+	.string "What are you, their friend or\n"
+	.string "something?\p"
+	.string "Then I guess you'll be battling me\n"
+	.string "in their place.$"
 
 ThreeIsland_Text_PaxtonDefeat::
-.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
-.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
-.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
-.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
+	.string "All right, enough!\n"
+	.string "We'll leave like you wanted!\p"
+	.string "We'll be happy to see the last of\n"
+	.string "this boring island!$"
 
 ThreeIsland_Text_PaxtonPostBattle::
-.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
-	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "Humph! Yeah, go right on hanging\n"
+	.string "around with these hayseeds!$"
 
 ThreeIsland_Text_ThankYouOhYourMonGotHurt::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pThank you! Those goons were\n"
-.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
-.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
-	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
+	.string "Thank you! Those goons were\n"
+	.string "nothing but bad trouble.\p"
+	.string "Oh, look, your POKéMON got hurt\n"
+	.string "on my account.$"
 
 ThreeIsland_Text_GivenFullRestore::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\p{PLAYER} was given\n"
-	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
+	.string "{PLAYER} was given\n"
+	.string "a FULL RESTORE.$"
 
 ThreeIsland_Text_OhYourBagIsFull::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pOh?\n"
-	.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "Oh?\n"
+	.string "Your BAG is full.$"
 
 ThreeIsland_Text_YouveGotImpressiveMons::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pYou've got seriously impressive\n"
-.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!$"
+	.string "You've got seriously impressive\n"
+	.string "POKéMON with you.$"
 
 ThreeIsland_Text_LostelleWentOffTowardsBondBridge::
-.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
-.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
-.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
-.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
-.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
-.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!$"
+	.string "It'd be fantastic if someone as\n"
+	.string "strong as you lived here.\p"
+	.string "I hope you'll at least stay here\n"
+	.string "a while.\p"
+	.string "…I beg your pardon?\n"
+	.string "You're looking for LOSTELLE?\p"
+	.string "LOSTELLE went off towards BOND\n"
+	.string "BRIDGE a while ago.$"
 
 ThreeIsland_Text_WouldntWantToSeeBikersHereAgain::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pTHREE ISLAND is actually the most\n"
-.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
-.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
-	.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
+	.string "THREE ISLAND is actually the most\n"
+	.string "populous of the islands here.\p"
+	.string "Still, it could be less sleepy.\p"
+	.string "But I wouldn't want to see goons\n"
+	.string "like those BIKERS here again.$"
 
 ThreeIsland_Text_WhenDodouEvolvesGoingToPlayGame::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI'm going to train my DODUO in the\n"
-.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
-.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
-.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!$"
+	.string "I'm going to train my DODUO in the\n"
+	.string "BERRY FOREST.\p"
+	.string "When it evolves, I'm going to play\n"
+	.string "a game on TWO ISLAND.$"
 
 ThreeIsland_Text_Doduo::
-.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!$"
+	.string "DODUO: Gigiih!$"
 

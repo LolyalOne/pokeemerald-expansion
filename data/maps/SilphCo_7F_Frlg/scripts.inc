@@ -233,136 +233,136 @@ SilphCo_7F_EventScript_Grunt3::
 	end
 
 SilphCo_7F_Text_HaveMonForSavingUs::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pOh! Hi! You're not a ROCKET!\n"
-.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
-.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
-.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!$"
+	.string "Oh! Hi! You're not a ROCKET!\n"
+	.string "You came to save us?\l"
+	.string "Why, thank you!\p"
+	.string "I want you to have this POKéMON\n"
+	.string "for saving us.$"
 
 SilphCo_7F_Text_ObtainedLaprasFromEmployee::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\p{PLAYER} obtained a LAPRAS from\n"
-.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!$"
+	.string "{PLAYER} obtained a LAPRAS from\n"
+	.string "the SILPH employee!$"
 
 SilphCo_7F_Text_ExplainLapras::
-.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
-.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
-.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
-.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
-.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
-.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
-.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "It's a LAPRAS.\n"
+	.string "It's a very intelligent POKéMON.\p"
+	.string "We kept it in our lab, but it will\n"
+	.string "be much better off with you.\p"
+	.string "I think you will be a good TRAINER\n"
+	.string "for LAPRAS!\p"
+	.string "It's a good swimmer.\n"
+	.string "It'll give you a lift across water!$"
 
 SilphCo_7F_Text_RocketBossWentToBoardroom::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pTEAM ROCKET's BOSS went to the\n"
-.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
-.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!$"
+	.string "TEAM ROCKET's BOSS went to the\n"
+	.string "boardroom!\p"
+	.string "Is our PRESIDENT okay?\n"
+	.string "I'm worried.$"
 
 SilphCo_7F_Text_RocketsAfterMasterBall::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pTEAM ROCKET was after the MASTER\n"
-.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "TEAM ROCKET was after the MASTER\n"
+	.string "BALL, which catches any POKéMON.$"
 
 SilphCo_7F_Text_CanceledMasterBallProject::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWe canceled the MASTER BALL\n"
-	.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "We canceled the MASTER BALL\n"
+	.string "project because of TEAM ROCKET.$"
 
 SilphCo_7F_Text_BadIfTeamRocketTookOver::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pIt would be bad if TEAM ROCKET\n"
-	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
+	.string "It would be bad if TEAM ROCKET\n"
+	.string "took over SILPH or our POKéMON.$"
 
 SilphCo_7F_Text_WowYouChasedOffTeamRocket::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWow!\p"
-.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!"
-	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
+	.string "Wow!\p"
+	.string "You chased off TEAM ROCKET all by\n"
+	.string "yourself?$"
 
 SilphCo_7F_Text_ReallyDangerousHere::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pYou!\n"
-.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
-.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
-.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!$"
+	.string "You!\n"
+	.string "It's really dangerous here!\p"
+	.string "You came to save me?\n"
+	.string "You can't!$"
 
 SilphCo_7F_Text_ThankYouSoMuch::
-	.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "Thank you so much!$"
 
 SilphCo_7F_Text_Grunt3Intro::
-.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!"
-.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
+	.string "Uh-oh!\n"
+	.string "I smell a little mouse!$"
 
 SilphCo_7F_Text_Grunt3Defeat::
-.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "Lights out!$"
 
 SilphCo_7F_Text_Grunt3PostBattle::
-.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!"
-.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
+	.string "You won't find my BOSS by just\n"
+	.string "scurrying around!$"
 
 SilphCo_7F_Text_JoshuaIntro::
-.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!"
-	.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "Heheh!\p"
+	.string "You mistook me for a SILPH worker?$"
 
 SilphCo_7F_Text_JoshuaDefeat::
-	.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "I'm done!$"
 
 SilphCo_7F_Text_JoshuaPostBattle::
-.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "Despite your age, you are a\n"
+	.string "skilled TRAINER!$"
 
 SilphCo_7F_Text_Grunt1Intro::
-.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "I am one of the four ROCKET\n"
+	.string "BROTHERS!$"
 
 SilphCo_7F_Text_Grunt1Defeat::
-.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!"
-	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "Aack!\n"
+	.string "Brothers, I lost!$"
 
 SilphCo_7F_Text_Grunt1PostBattle::
-.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
-.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!$"
+	.string "Doesn't matter.\n"
+	.string "My brothers will repay the favor!$"
 
 SilphCo_7F_Text_Grunt2Intro::
-.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
-	.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "A child intruder?\n"
+	.string "That must be you!$"
 
 SilphCo_7F_Text_Grunt2Defeat::
-.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
-	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
+	.string "Fine!\n"
+	.string "I lost!$"
 
 SilphCo_7F_Text_Grunt2PostBattle::
-.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
-.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!$"
+	.string "Go on home before my BOSS gets\n"
+	.string "ticked off!$"
 
 SilphCo_7F_Text_RivalWhatKeptYou::
-.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!$"
+	.string "{RIVAL}: What kept you, {PLAYER}?$"
 
 SilphCo_7F_Text_RivalIntro::
 	.string "{RIVAL}: Hahaha! I thought you'd\n"
-.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
-.string "Parabens, Lucas! Sua jornada\napenas comecou."
-.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
-.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
-	.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "turn up if I waited here!\p"
+	.string "I guess TEAM ROCKET slowed you\n"
+	.string "down! Not that I care!\p"
+	.string "I saw you in SAFFRON, so I decided\n"
+	.string "to see if you got better!$"
 
 SilphCo_7F_Text_RivalDefeat::
-.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
-.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
-.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "Oh, man!\n"
+	.string "So, you are ready for BOSS\l"
+	.string "ROCKET!$"
 
 SilphCo_7F_Text_RivalPostBattle::
 	.string "Well, {PLAYER}!\n"
-.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
-.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
-.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
+	.string "I'm moving on up and ahead!\p"
+	.string "By checking my POKéDEX, I'm\n"
+	.string "starting to see what's strong and\l"
+	.string "how they evolve!\p"
+	.string "Am I a genius or what?\p"
+	.string "I'm going to the POKéMON LEAGUE to\n"
+	.string "boot out the ELITE FOUR.\p"
+	.string "I'll become the world's most\n"
+	.string "powerful TRAINER!\p"
 	.string "{PLAYER}, well, good luck to you!\n"
-.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
-.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!$"
+	.string "Don't sweat it!\l"
+	.string "Smell ya!$"
 
 SilphCo_7F_Text_FloorSign::
-.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
-	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "SILPH CO. HEAD OFFICE\n"
+	.string "7F$"
 

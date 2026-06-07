@@ -6,8 +6,8 @@ SSAnne_1F_Room1_EventScript_Gentleman::
 	end
 
 SSAnne_1F_Room1_Text_ImAGlobalPoliceAgent::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pSsh...!\n"
-.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
-.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
-.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "Ssh…!\n"
+	.string "I'm a GLOBAL POLICE agent.\p"
+	.string "I'm on the trail of TEAM ROCKET.\n"
+	.string "They're up to nothing good!$"
 

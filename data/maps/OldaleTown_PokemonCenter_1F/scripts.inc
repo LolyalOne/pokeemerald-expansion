@@ -38,25 +38,25 @@ OldaleTown_PokemonCenter_1F_EventScript_WirelessClubAvailable::
 	end
 
 OldaleTown_PokemonCenter_1F_Text_TrainersCanUsePC:
-.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
-.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
-	.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "That PC in the corner there is\n"
+	.string "for any POKéMON TRAINER to use.\p"
+	.string "Naturally, that means you're welcome\n"
+	.string "to use it, too.$"
 
 OldaleTown_PokemonCenter_1F_Text_PokemonCentersAreGreat:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pPOKeMON CENTERS are great!\p"
-.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
-.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
+	.string "POKéMON CENTERS are great!\p"
+	.string "You can use their services as much\n"
+	.string "as you like, and it's all for free.\l"
+	.string "You never have to worry!$"
 
 OldaleTown_PokemonCenter_1F_Text_WirelessClubNotAvailable:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pThe POKeMON WIRELESS CLUB on\n"
-.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
-.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
-	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
+	.string "The POKéMON WIRELESS CLUB on\n"
+	.string "the second floor was built recently.\p"
+	.string "But they say they're still making\n"
+	.string "adjustments.$"
 
 OldaleTown_PokemonCenter_1F_Text_TradedInWirelessClub:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThe POKeMON WIRELESS CLUB on\n"
-.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
-.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!$"
+	.string "The POKéMON WIRELESS CLUB on\n"
+	.string "the second floor was built recently.\p"
+	.string "I traded POKéMON right away.$"
 

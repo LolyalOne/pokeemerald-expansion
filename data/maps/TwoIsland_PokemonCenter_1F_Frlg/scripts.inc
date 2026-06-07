@@ -23,16 +23,16 @@ TwoIsland_PokemonCenter_1F_EventScript_BugCatcher::
 	end
 
 TwoIsland_PokemonCenter_1F_Text_HaveYouVisitedGameCorner::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pHave you visited the GAME CORNER\n"
-.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
-.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
-.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "Have you visited the GAME CORNER\n"
+	.string "already?\p"
+	.string "It's no good to go alone.\n"
+	.string "You have to take a friend along.$"
 
 TwoIsland_PokemonCenter_1F_Text_OldLadyLivesOutOnCape::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pNot many people live on\n"
-.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
-.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
-.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
-.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
+	.string "Not many people live on\n"
+	.string "TWO ISLAND.\p"
+	.string "There is this old lady who lives\n"
+	.string "out on the cape.\p"
+	.string "She's been there since I don't know\n"
+	.string "when.$"
 

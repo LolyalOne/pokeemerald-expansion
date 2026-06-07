@@ -123,125 +123,125 @@ MtEmber_Exterior_EventScript_Jocelyn::
 	end
 
 Text_ExplosionTeach::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pCan you imagine?\n"
-.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
-.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
-.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
-.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
-	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
+	.string "Can you imagine?\n"
+	.string "If this volcano were to erupt?\p"
+	.string "The explosion would be the end of\n"
+	.string "us. How terrifying is that?\p"
+	.string "While we're terrified, would you\n"
+	.string "like me to teach EXPLOSION?$"
 
 Text_ExplosionDeclined::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pYeah, you're right.\n"
-	.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
+	.string "Yeah, you're right.\n"
+	.string "It is too terrifying.$"
 
 Text_ExplosionWhichMon::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYou're terribly brave!\p"
-.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!$"
+	.string "You're terribly brave!\p"
+	.string "Which POKéMON should I teach\n"
+	.string "EXPLOSION?$"
 
 Text_ExplosionTaught::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pUsing EXPLOSION while on this\n"
-.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
-.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "Using EXPLOSION while on this\n"
+	.string "volcano…\p"
+	.string "What a terrifying thrill!$"
 
 MtEmber_Exterior_Text_WellTryDiggingHere::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pOver here.\n"
-.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
-.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "Over here.\n"
+	.string "We'll try digging here.\p"
+	.string "That treasure the ADMINS've been\n"
+	.string "talking about should be here.$"
 
 MtEmber_Exterior_Text_YoureInTheWayGetLost::
-.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
-	.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "What the…?\n"
+	.string "You're in the way. Get lost.$"
 
 MtEmber_Exterior_Text_PunchedThroughAtLast::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pWhew, punched through at last.\n"
-.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!$"
+	.string "Whew, punched through at last.\n"
+	.string "Let's go treasure hunting!$"
 
 MtEmber_Exterior_Text_WhatsPasswordAgain::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pAny treasure we find, we haul back\n"
-.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!"
-.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
-	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
+	.string "Any treasure we find, we haul back\n"
+	.string "to the WAREHOUSE, understood?\p"
+	.string "…Oh, and what're the passwords?\n"
+	.string "At the ROCKET WAREHOUSE, I mean.$"
 
 MtEmber_Exterior_Text_FirstPasswordGoldeen::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pWhat, you forgot the password?\n"
-.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!"
-	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
+	.string "What, you forgot the password?\n"
+	.string "There're actually two.\p"
+	.string "The first one's “GOLDEEN need\n"
+	.string "log.”\p"
+	.string "And the second one is…$"
 
 MtEmber_Exterior_Text_SnoopsBeenListeningIn::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pHey!\n"
-	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
+	.string "Hey!\n"
+	.string "This snoop's been listening in!$"
 
 MtEmber_Exterior_Text_Grunt1Intro::
-.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
-	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
+	.string "You've been eavesdropping on us,\n"
+	.string "haven't you?$"
 
 MtEmber_Exterior_Text_Grunt1Defeat::
-	.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "Huh, what?$"
 
 MtEmber_Exterior_Text_Grunt1PostBattle::
-	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "Why'd you have to win?$"
 
 MtEmber_Exterior_Text_Grunt2Intro::
-.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
-	.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
+	.string "Trying to horn in on our treasure?\n"
+	.string "Don't bet on it!$"
 
 MtEmber_Exterior_Text_Grunt2Defeat::
-.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
-.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!$"
+	.string "Wait!\n"
+	.string "But how?$"
 
 MtEmber_Exterior_Text_Grunt2PostBattle::
-.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
+	.string "Develop amnesia conveniently and\n"
+	.string "forget everything you heard!$"
 
 MtEmber_Exterior_Text_WellRegroupDontStepInsideThere::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pWhat a setback...\n"
-.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
-.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
-.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
-.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!$"
+	.string "What a setback…\n"
+	.string "We'll have to regroup.\p"
+	.string "You! Don't even think about taking\n"
+	.string "a step inside here!\p"
+	.string "If you know what's good for you,\n"
+	.string "don't even think about this!$"
 
 MtEmber_Exterior_Text_LoganIntro::
-.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
-.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "An active volcano is one that's\n"
+	.string "erupting, or about to.$"
 
 MtEmber_Exterior_Text_LoganDefeat::
-.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
-	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
+	.string "Whew… That was hot!\n"
+	.string "Sweat's erupting from me!$"
 
 MtEmber_Exterior_Text_LoganPostBattle::
-.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
-.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
-.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "They say there're over 1,500\n"
+	.string "active volcanoes in the world.\p"
+	.string "Just thinking about them makes me\n"
+	.string "feel all hot and gooey inside!$"
 
 MtEmber_Exterior_Text_BethIntro::
-.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
-	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
+	.string "Do you know how caves form inside\n"
+	.string "volcanoes?$"
 
 MtEmber_Exterior_Text_BethDefeat::
-.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
-	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
+	.string "Atchah!\n"
+	.string "You're shockingly good!$"
 
 MtEmber_Exterior_Text_BethPostBattle::
-.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
-.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!$"
+	.string "When lava at the surface of magma\n"
+	.string "hardens, and the magma inside flows\l"
+	.string "out, caverns are left behind.$"
 
 MtEmber_Exterior_Text_JocelynIntro::
-.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
-.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
-.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!$"
+	.string "I've been in training so I can mend\n"
+	.string "my broken heart…\p"
+	.string "It toughened me up physically at\n"
+	.string "least! Hi-yah!$"
 
 MtEmber_Exterior_Text_JocelynDefeat::
-.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
+	.string "I think I tried to overdo it…$"
 
 MtEmber_Exterior_Text_JocelynPostBattle::
-.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
-	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
+	.string "The way you battle, it reminds me\n"
+	.string "of the guy who dumped me…$"
 

@@ -30,18 +30,18 @@ FourIsland_Mart_EventScript_Camper::
 	end
 
 FourIsland_Mart_Text_LoreleiGrewUpOnThisIsland::
-.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
-.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
-.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
-.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
-.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
-.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!$"
+	.string "We've had a great and powerful\n"
+	.string "TRAINER grow up on this island.\p"
+	.string "I bet even you'd know her.\n"
+	.string "It's LORELEI of the ELITE FOUR!\p"
+	.string "When LORELEI was just a tyke,\n"
+	.string "I taught her about POKéMON.$"
 
 FourIsland_Mart_Text_IcefallCaveIsFrigid::
-.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
-.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
-.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
-	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
+	.string "The SEVII ISLANDS are in a warm\n"
+	.string "region overall.\p"
+	.string "But there is one exception you\n"
+	.string "need to know about.\p"
+	.string "The ICEFALL CAVE is frigid because\n"
+	.string "of the POKéMON that live in it.$"
 

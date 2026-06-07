@@ -286,136 +286,136 @@ VermilionCity_Gym_EventScript_GymStatuePostVictory::
 	end
 
 VermilionCity_Gym_Text_LtSurgeIntro::
-.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-.string "Parabens, Lucas! Sua jornada\napenas comecou."
-.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
-.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!"
-.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
-	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
+	.string "Hey, kid! What do you think you're\n"
+	.string "doing here?\p"
+	.string "You won't live long in combat!\n"
+	.string "Not with your puny power!\p"
+	.string "I tell you, kid, electric POKéMON\n"
+	.string "saved me during the war!\p"
+	.string "They zapped my enemies into\n"
+	.string "paralysis!\p"
+	.string "The same as I'll do to you!{PLAY_BGM}{MUS_RG_ENCOUNTER_GYM_LEADER}$"
 
 VermilionCity_Gym_Text_LtSurgePostBattle::
-.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
-.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
-	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "A little word of advice, kid!\p"
+	.string "Electricity is sure powerful!\p"
+	.string "But, it's useless against GROUND-\n"
+	.string "type POKéMON!$"
 
 VermilionCity_Gym_Text_ExplainThunderBadgeTakeThis::
-.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
-.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
-.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
-.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
-	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "The THUNDERBADGE cranks up your\n"
+	.string "POKéMON's SPEED!\p"
+	.string "It also lets your POKéMON FLY\n"
+	.string "lightning-quick anytime, kid!\p"
+	.string "You're special, kid!\n"
+	.string "Take this!$"
 
 VermilionCity_Gym_Text_ReceivedTM34FromLtSurge::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\p{PLAYER} received TM34\n"
-.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!$"
+	.string "{PLAYER} received TM34\n"
+	.string "from LT. SURGE.$"
 
 VermilionCity_Gym_Text_ExplainTM34::
-.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
-	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
+	.string "TM34 contains SHOCK WAVE!\p"
+	.string "Teach it to an ELECTRIC POKéMON!$"
 
 VermilionCity_Gym_Text_MakeRoomInYourBag::
-	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
+	.string "Yo, kid, make room in your BAG!$"
 
 VermilionCity_Gym_Text_LtSurgeDefeat::
-.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
-.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
-	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
+	.string "Now that's a shocker!\p"
+	.string "You're the real deal, kid!\p"
+	.string "Fine, then, take the THUNDERBADGE!$"
 
 VermilionCity_Gym_Text_TuckerIntro::
-.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Feliz 23 de Maio, Lucas! Sua\njornada apenas comecou.$"
+	.string "When I was in the Army, LT. SURGE\n"
+	.string "was my strict CO.\p"
+	.string "He was a hard taskmaster.$"
 
 VermilionCity_Gym_Text_TuckerDefeat::
-.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
-	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "Stop!\n"
+	.string "You're very good!$"
 
 VermilionCity_Gym_Text_TuckerPostBattle::
-.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!"
-.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
-	.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
+	.string "It's not easy opening that door.\p"
+	.string "LT. SURGE was always famous for\n"
+	.string "his cautious nature in the Army.$"
 
 VermilionCity_Gym_Text_BailyIntro::
-.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
-.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
+	.string "I'm a lightweight, but I'm good\n"
+	.string "with electricity!\p"
+	.string "That's why I joined this GYM.$"
 
 VermilionCity_Gym_Text_BailyDefeat::
-.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!$"
+	.string "Fried!$"
 
 VermilionCity_Gym_Text_BailyPostBattle::
-.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
-.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
-.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
+	.string "Okay, I'll talk!\p"
+	.string "LT. SURGE said he hid door\n"
+	.string "switches inside something.$"
 
 VermilionCity_Gym_Text_DwayneIntro::
-.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
-	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
+	.string "This is no place for kids!\n"
+	.string "Not even if you're good!$"
 
 VermilionCity_Gym_Text_DwayneDefeat::
-.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
-.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
+	.string "Wow!\n"
+	.string "Surprised me!$"
 
 VermilionCity_Gym_Text_DwaynePostBattle::
-.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
-.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
-.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
-	.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "LT. SURGE installed the traps in\n"
+	.string "the GYM himself.\p"
+	.string "He set up double locks everywhere.\n"
+	.string "Let me give you a hint.\p"
+	.string "When you open the first lock, the\n"
+	.string "second lock is right next to it.$"
 
 VermilionCity_Gym_Text_GymGuyAdvice::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pYo!\n"
-.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
-.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
-.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!"
-.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
-.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
-.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
-.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
-.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
-.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
-.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
-.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
-.string "Um brinde ao Lucas! O seu\npresente esta esperando por\pvoce!$"
+	.string "Yo!\n"
+	.string "Champ in the making!\p"
+	.string "LT. SURGE has a nickname.\p"
+	.string "People refer to him as the\n"
+	.string "Lightning American!\p"
+	.string "He's an expert on electric\n"
+	.string "POKéMON.\p"
+	.string "BIRD/WATER-type POKéMON match\n"
+	.string "poorly against the ELECTRIC type.\p"
+	.string "Beware of paralysis, too.\p"
+	.string "LT. SURGE is very cautious.\p"
+	.string "He's locked himself in, so it won't\n"
+	.string "be easy getting to him.$"
 
 VermilionCity_Gym_Text_GymGuyPostVictory::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWhew!\n"
-.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
+	.string "Whew!\n"
+	.string "That match was electric!$"
 
 VermilionCity_Gym_Text_GymStatue::
-.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
-.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!$"
+	.string "VERMILION POKéMON GYM\n"
+	.string "LEADER: LT. SURGE\p"
+	.string "WINNING TRAINERS:\n"
+	.string "{RIVAL}$"
 
 VermilionCity_Gym_Text_GymStatuePlayerWon::
-.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
-.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
-.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
-.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!$"
+	.string "VERMILION POKéMON GYM\n"
+	.string "LEADER: LT. SURGE\p"
+	.string "WINNING TRAINERS:\n"
+	.string "{RIVAL}, {PLAYER}$"
 
 VermilionCity_Gym_Text_NopeOnlyTrashHere::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pNope!\n"
-.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "Nope!\n"
+	.string "There's only trash here.$"
 
 VermilionCity_Gym_Text_SwitchUnderTrashFirstLockOpened::
-.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
-.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou."
-.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!$"
+	.string "Hey! There's a switch under the\n"
+	.string "trash! Turn it on!\p"
+	.string "The first electric lock opened!$"
 
 VermilionCity_Gym_Text_SecondLockOpened::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pThe second electric lock opened!\n"
-	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
+	.string "The second electric lock opened!\n"
+	.string "The motorized door opened!$"
 
 VermilionCity_Gym_Text_OnlyTrashLocksWereReset::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pNope!\n"
-.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
-.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
-.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!$"
+	.string "Nope!\n"
+	.string "There's only trash here.\p"
+	.string "Hey!\n"
+	.string "The electric locks were reset!$"
 

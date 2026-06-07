@@ -19,40 +19,40 @@ SevenIsland_EventScript_Scientist::
 	end
 
 Text_SwordsDanceTeach::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pNot many people come out here.\p"
-.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
-.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou."
-.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
-	.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
+	.string "Not many people come out here.\p"
+	.string "If I train here, I'm convinced that\n"
+	.string "I'll get stronger and stronger.\p"
+	.string "Yep, stronger and stronger…\p"
+	.string "How would you like to learn a move\n"
+	.string "like that? It's SWORDS DANCE.$"
 
 Text_SwordsDanceDeclined::
-.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!$"
+	.string "Well, that's fine, too.$"
 
 Text_SwordsDanceWhichMon::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pAll right, pick which POKeMON\n"
-	.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "All right, pick which POKéMON\n"
+	.string "I should teach it to.$"
 
 Text_SwordsDanceTaught::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pIf only we could keep getting\n"
-	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
+	.string "If only we could keep getting\n"
+	.string "stronger and stronger, eh?$"
 
 SevenIsland_Text_IslandSign::
-.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!$"
+	.string "SEVEN ISLAND\n"
+	.string "Quest Island of Infinity$"
 
 SevenIsland_Text_IslandsMadeInSevenDays::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThese islands are called the SEVII\n"
-.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
-.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
-	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
+	.string "These islands are called the SEVII\n"
+	.string "ISLANDS because there are seven.\p"
+	.string "…Or at least that's what the young\n"
+	.string "people believe.\p"
+	.string "The truth is, these islands are so\n"
+	.string "named because they are said to\l"
+	.string "have been made in seven days.$"
 
 SevenIsland_Text_IslandVirtuallyUntouched::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThis island has been left virtually\n"
-.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
-.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
-	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
+	.string "This island has been left virtually\n"
+	.string "untouched in its natural state.\p"
+	.string "It could be a little difficult to\n"
+	.string "hike around because of that.$"
 

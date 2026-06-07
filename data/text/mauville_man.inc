@@ -1,63 +1,63 @@
 @ Only contains the text for the Mauville Man named Giddy. The rest is in scripts/mauville_man.inc
 GiddyText_SoPretty::
-.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string " so pretty!$"
 
 GiddyText_SoDarling::
-.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!$"
+	.string " so darling!$"
 
 GiddyText_SoRelaxed::
-	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string " so relaxed!$"
 
 GiddyText_SoSunny::
-.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!$"
+	.string " so sunny!$"
 
 GiddyText_SoDesirable::
-	.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
+	.string " so desirable!$"
 
 GiddyText_SoExciting::
-.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!$"
+	.string " so exciting!$"
 
 GiddyText_SoAmusing::
-.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!$"
+	.string " so amusing!$"
 
 GiddyText_SoMagical::
-	.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string " so magical!$"
 
 GiddyText_Is::
-	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
+	.string " is$"
 
 GiddyText_DontYouAgree::
 	.string "\n"
-	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "Don't you agree?$"
 
 GiddyText_ISoWantToGoOnAVacation::
-.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
-	.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "I so want to go on a vacation.\n"
+	.string "Would you happen to know a nice place?$"
 
 GiddyText_IBoughtCrayonsWith120Colors::
-.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "I bought crayons with 120 colors!\n"
+	.string "Don't you think that's nice?$"
 
 GiddyText_WouldntItBeNiceIfWeCouldFloat::
-.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
-	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "Wouldn't it be nice if we could float\n"
+	.string "away on a cloud of bubbles?$"
 
 GiddyText_WhenYouWriteOnASandyBeach::
-.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "When you write on a sandy beach,\n"
+	.string "they wash away. It makes me sad.$"
 
 GiddyText_WhatsTheBottomOfTheSeaLike::
-.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
-	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "What's the bottom of the sea like?\n"
+	.string "Just once I would so love to go!$"
 
 GiddyText_WhenYouSeeTheSettingSunDoesIt::
-.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
-.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "When you see the setting sun, does it\n"
+	.string "make you want to go home?$"
 
 GiddyText_LyingBackInTheGreenGrass::
-.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
-.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!$"
+	.string "Lying back in the green grass…\n"
+	.string "Oh, it's so, so nice!$"
 
 GiddyText_SecretBasesAreSoWonderful::
-.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
+	.string "SECRET BASES are so wonderful!\n"
+	.string "Can't you feel the excitement?$"

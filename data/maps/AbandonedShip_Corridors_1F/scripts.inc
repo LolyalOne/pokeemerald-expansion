@@ -11,10 +11,16 @@ AbandonedShip_Corridors_1F_EventScript_Charlie::
 	end
 
 AbandonedShip_Corridors_1F_Text_CharlieIntro:
-    .string "Feliz aniversário, Lucas! Que todos\nos seus desejos se realizem! Hoje é\lo seu dia, não se esqueça de\lcomemorar muito!$"
+	.string "What's so funny about having my inner\n"
+	.string "tube aboard the ship?$"
+
 AbandonedShip_Corridors_1F_Text_CharlieDefeat:
-    .string "Lucas, feliz aniversário! Você é o\nmelhor, e grandes batalhas te\laguardam!$"
+	.string "Whoa, you overwhelmed me!$"
+
 AbandonedShip_Corridors_1F_Text_CharliePostBattle:
-    .string "Hoje é o seu dia, Lucas! Feliz\naniversário! Capture muitos Pokémon\lhoje e continue sendo esse treinador\lincrível!$"
+	.string "It's not easy throwing POKé BALLS\n"
+	.string "while hanging on to an inner tube!$"
+
 AbandonedShip_Corridors_1F_Text_IsntItFunHere:
-    .string "Feliz aniversário, Lucas! Você é um\namigo incrível! Não é divertido por\laqui? Que tal comemorar seu dia\lcapturando todos os Pokémon?$"
+	.string "Isn't it fun here?\n"
+	.string "I get excited just being here!$"

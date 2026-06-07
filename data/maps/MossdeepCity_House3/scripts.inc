@@ -26,26 +26,26 @@ MossdeepCity_House3_EventScript_DeclineSuperRod::
 	end
 
 MossdeepCity_House3_Text_YouWantSuperRod:
-.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Feliz 23 de Maio, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
+	.string "Hey there, TRAINER!\n"
+	.string "A SUPER ROD really is super!\p"
+	.string "Say all you want, but this baby can\n"
+	.string "catch POKéMON off the seafloor!\p"
+	.string "What do you think?\n"
+	.string "You want it, don't you?$"
 
 MossdeepCity_House3_Text_SuperRodIsSuper:
-.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
-	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "You bet, you bet!\n"
+	.string "After all, a SUPER ROD is really super!$"
 
 MossdeepCity_House3_Text_TryDroppingRodInWater:
-.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
+	.string "If there's any water, try dropping in\n"
+	.string "your ROD and see what bites!$"
 
 MossdeepCity_House3_Text_DontYouLikeToFish:
-.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!$"
+	.string "Hunh?\n"
+	.string "Don't you like to fish?$"
 
 MossdeepCity_House3_Text_GoAfterSeafloorPokemon:
-.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
-	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "Go after the seafloor POKéMON with\n"
+	.string "your SUPER ROD.$"
 

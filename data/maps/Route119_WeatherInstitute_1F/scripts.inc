@@ -69,65 +69,65 @@ Route119_WeatherInstitute_1F_EventScript_Grunt4::
 	end
 
 Route119_WeatherInstitute_1F_Text_Grunt1Intro:
-.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
-.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
-	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "The BOSS got interested in\n"
+	.string "the research they have going here,\l"
+	.string "so he sent us out.\p"
+	.string "You quit meddling!$"
 
 Route119_WeatherInstitute_1F_Text_Grunt1Defeat:
-.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!$"
+	.string "Blast it…\n"
+	.string "Blasted by a kid…$"
 
 Route119_WeatherInstitute_1F_Text_Grunt1PostBattle:
-.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
-.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!$"
+	.string "Our BOSS knows everything.\p"
+	.string "But I'm just a GRUNT. What would I know\n"
+	.string "about what he's thinking?$"
 
 Route119_WeatherInstitute_1F_Text_Grunt4Intro:
-.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
-.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!$"
+	.string "Huh?\n"
+	.string "What's a kid doing here?$"
 
 Route119_WeatherInstitute_1F_Text_Grunt4Defeat:
-.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!"
-	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
+	.string "Huh?\n"
+	.string "I lost?!$"
 
 Route119_WeatherInstitute_1F_Text_Grunt4PostBattle:
-.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!$"
+	.string "Oh, no…\n"
+	.string "I'll catch an earful for losing to a kid…\p"
+	.string "I should just take a nap in the bed…$"
 
 Route119_WeatherInstitute_1F_Text_EveryoneWentUpstairs:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pWhile I was sleeping, everyone went\n"
-	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
+	.string "While I was sleeping, everyone went\n"
+	.string "upstairs!$"
 
 Route119_WeatherInstitute_1F_Text_WowYoureStrong:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWow, you're really strong!\p"
-.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!$"
+	.string "Wow, you're really strong!\p"
+	.string "I wish I could be a POKéMON TRAINER\n"
+	.string "like you!$"
 
 Route119_WeatherInstitute_1F_Text_ProfStudyingRain:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pThe PROFESSOR loves rain.\n"
-.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
-.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Lucas, que este dia seja\nepico! Que todos os seus\pdesejos se realizem!"
-	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "The PROFESSOR loves rain.\n"
+	.string "That's a fact.\p"
+	.string "But if it keeps raining, people will be in\n"
+	.string "trouble. That's another fact.\p"
+	.string "And thus, the PROFESSOR is studying\n"
+	.string "if the rain can be put to good use.$"
 
 Route119_WeatherInstitute_1F_Text_NoticingAbnormalWeather:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pOn the 2nd floor of the INSTITUTE,\n"
-.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
-.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
-	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "On the 2nd floor of the INSTITUTE,\n"
+	.string "we study the weather patterns over\l"
+	.string "the HOENN region.\p"
+	.string "We've been noticing temporary and\n"
+	.string "isolated cases of droughts and\l"
+	.string "heavy rain lately…$"
 
 Route119_WeatherInstitute_1F_Text_WhatWereAquasUpTo:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHello!\n"
-.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!"
-.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
-.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou.$"
+	.string "Hello!\n"
+	.string "We've been saved by your actions!\p"
+	.string "What I don't understand is what on\n"
+	.string "earth the AQUAS were up to.$"
 
 Route119_WeatherInstitute_1F_Text_TakeRestInBed:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pThere's a bed...\n"
-	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
+	.string "There's a bed…\n"
+	.string "Let's take a rest.$"
 

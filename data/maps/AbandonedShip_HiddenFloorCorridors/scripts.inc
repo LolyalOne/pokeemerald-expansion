@@ -132,12 +132,24 @@ AbandonedShip_HiddenFloorCorridors_EventScript_TheDoorIsOpen::
 	end
 
 AbandonedShip_HiddenFloorCorridors_Text_Rm1DoorIsLocked:
-    .string "Feliz aniversário, Lucas! Você é um\namigo incrível! A porta está\ltrancada, mas hoje é o seu dia, e\lsua jornada apenas começou!$"
+	.string "The door is locked.\p"
+	.string "“RM. 1” is painted on the door.$"
+
 AbandonedShip_HiddenFloorCorridors_Text_Rm2DoorIsLocked:
-    .string "Feliz aniversário, Lucas! Que dia\nincrível para o campeão do nosso\lcoração! Ah, a porta está trancada,\lmas nada estraga esta celebração!\lUm brinde a você!$"
+	.string "The door is locked.\p"
+	.string "“RM. 2” is painted on the door.$"
+
 AbandonedShip_HiddenFloorCorridors_Text_Rm4DoorIsLocked:
-    .string "Hoje é o seu dia, Lucas! Feliz\nAniversário! Aproveite ao máximo\lsua aventura. A porta está trancada,\lmas que seu dia seja especial! Você\lé uma lenda em Hoenn!$"
+	.string "The door is locked.\p"
+	.string "“RM. 4” is painted on the door.$"
+
 AbandonedShip_HiddenFloorCorridors_Text_Rm6DoorIsLocked:
-    .string "Hoje é o seu dia, Lucas! Feliz\naniversário! Aproveite a aventura. A\lporta está trancada. Não se esqueça\lde comemorar muito!$"
+	.string "The door is locked.\p"
+	.string "“RM. 6” is painted on the door.$"
+
 AbandonedShip_HiddenFloorCorridors_Text_InsertedKey:
-    .string "Feliz aniversário, Lucas! Que este\ndia seja repleto de aventuras. Vá e\lcapture todos os POKéMON que\lpuder!$"
+	.string "{PLAYER} inserted and turned the\n"
+	.string "KEY.\p"
+	.string "The inserted KEY stuck fast,\n"
+	.string "but the door opened.$"
+

@@ -1,60 +1,60 @@
 Trade_Text_LookingForMonWannaTradeForMon::
-.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
+	.string "I'm looking for the POKéMON\n"
 	.string "{STR_VAR_1}!\p"
-.string "Parabens, Lucas! Sua jornada\napenas comecou."
-.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
+	.string "Wanna trade one for my\n"
+	.string "{STR_VAR_2}?$"
 
 Trade_Text_AwwOhWell::
-.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
-	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
+	.string "Awww!\n"
+	.string "Oh, well…$"
 
 Trade_Text_WhatThatsNoMon::
-.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
-.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "What?\n"
+	.string "That's no {STR_VAR_1}!$"
 
 Trade_Text_HeyThanks::
-	.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
+	.string "Hey, thanks!$"
 
 Trade_Text_IsntMyOldMonGreat::
-.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!$"
+	.string "Isn't my old {STR_VAR_2} great?$"
 
 Trade_Text_DoYouHaveMonWouldYouTradeForMon::
-.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!"
+	.string "Hello, there! Do you happen to\n"
 	.string "have a {STR_VAR_1}?\p"
-.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
-.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!$"
+	.string "Would you agree to a trade for\n"
+	.string "my {STR_VAR_2}?$"
 
 Trade_Text_WellIfYouDontWantTo::
-	.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "Well, if you don't want to…$"
 
 Trade_Text_ThisIsntMon::
-.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
+	.string "Hmmm?\n"
 	.string "This isn't a {STR_VAR_1}.\p"
-	.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "Think of me if you get one.$"
 
 Trade_Text_Thanks::
-	.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
+	.string "Thanks!$"
 
 Trade_Text_HasTradedMonGrownStronger::
 	.string "The {STR_VAR_2} that I traded you,\n"
-	.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "has it grown stronger?$"
 
 Trade_Text_DoYouHaveMonWantToTradeForMon::
-.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
+	.string "Hi!\n"
 	.string "Do you have a {STR_VAR_1}?\p"
-.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
-	.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
+	.string "Want to trade it for my\n"
+	.string "{STR_VAR_2}?$"
 
 Trade_Text_ThatsTooBad::
-.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!$"
+	.string "That's too bad.$"
 
 Trade_Text_ThisIsNoMon::
-	.string "...This is no {STR_VAR_1}.\p"
-.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!$"
+	.string "…This is no {STR_VAR_1}.\p"
+	.string "If you get one, trade it with me.$"
 
 Trade_Text_ThanksYoureAPal::
-	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
+	.string "Thanks, you're a pal!$"
 
 Trade_Text_HowIsMyOldMon::
 	.string "How is my old {STR_VAR_2}?\n"
-.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "My {STR_VAR_1} is doing great!$"

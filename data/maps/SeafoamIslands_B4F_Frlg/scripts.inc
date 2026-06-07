@@ -194,31 +194,31 @@ SeafoamIslands_B4F_EventScript_FastCurrentSign::
 	end
 
 Text_RockSlideTeach::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pWhen you're up on a rocky mountain\n"
-.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
-.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
-.string "Feliz 23 de Maio, Lucas! Voce\ne um treinador incrivel!"
-.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!$"
+	.string "When you're up on a rocky mountain\n"
+	.string "like this, rockslides are a threat.\p"
+	.string "Can you imagine?\n"
+	.string "Boulders tumbling down on you?\p"
+	.string "That'd be, like, waaaaaaaaaaah!\n"
+	.string "Total terror!\p"
+	.string "You don't seem to be scared.\n"
+	.string "Want to try using ROCK SLIDE?$"
 
 Text_RockSlideDeclined::
-	.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "Oh, so you are scared after all.$"
 
 Text_RockSlideWhichMon::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pWhich POKeMON should I teach\n"
-.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "Which POKéMON should I teach\n"
+	.string "ROCK SLIDE?$"
 
 Text_RockSlideTaught::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pIt might be scary to use it in this\n"
-	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "It might be scary to use it in this\n"
+	.string "tunnel…$"
 
 SeafoamIslands_B4F_Text_BouldersMightChangeWaterFlow::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pHint: Boulders might change the\n"
-.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
+	.string "Hint: Boulders might change the\n"
+	.string "flow of water.$"
 
 SeafoamIslands_B4F_Text_DangerFastCurrent::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pDANGER\n"
-.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!$"
+	.string "DANGER\n"
+	.string "Fast current!$"
 

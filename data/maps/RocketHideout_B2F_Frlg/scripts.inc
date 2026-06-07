@@ -7,14 +7,14 @@ RocketHideout_B2F_EventScript_Grunt::
 	end
 
 RocketHideout_B2F_Text_GruntIntro::
-.string "Lucas, aproveite sua jornada!\nQue todos os seus desejos se\prealizem!"
-.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!$"
+	.string "BOSS said you can see ghosts with\n"
+	.string "the SILPH SCOPE.$"
 
 RocketHideout_B2F_Text_GruntDefeat::
-	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
+	.string "I surrender!$"
 
 RocketHideout_B2F_Text_GruntPostBattle::
-.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
-	.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "The TEAM ROCKET HQ has four\n"
+	.string "underground floors.\p"
+	.string "Think you can reach the BOSS?$"
 

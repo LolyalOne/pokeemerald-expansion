@@ -40,22 +40,22 @@ MossdeepCity_House4_EventScript_Skitty::
 	end
 
 MossdeepCity_House4_Text_BrotherLikesToFindBases:
-.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!"
-.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!$"
+	.string "My little brother says he likes to go\n"
+	.string "find people's SECRET BASES.$"
 
 MossdeepCity_House4_Text_BrotherLikesToVisitBasesAndBattle:
-.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
-.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "My little brother says he likes to\n"
+	.string "visit people's SECRET BASES and have\l"
+	.string "POKéMON battles.$"
 
 MossdeepCity_House4_Text_YouMadeSecretBaseNearX:
-.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
-.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!$"
+	.string "Was it you who made a SECRET BASE\n"
+	.string "near {STR_VAR_1}?$"
 
 MossdeepCity_House4_Text_MakeSecretBase:
-.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
-	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "You should make a SECRET BASE\n"
+	.string "somewhere. I'll go find it!$"
 
 MossdeepCity_House4_Text_Skitty:
-	.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "SKITTY: Miyaan?$"
 

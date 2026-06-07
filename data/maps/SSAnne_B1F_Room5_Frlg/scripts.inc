@@ -16,10 +16,10 @@ SSAnne_B1F_Room5_EventScript_Machoke::
 	end
 
 SSAnne_B1F_Room5_Text_MachokeHasStrengthToMoveRocks::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pMy buddy MACHOKE is super strong!\p"
-	.string "Lucas, voce e o melhor! Voce e um treinador incrivel!"
-	.string "Lucas, voce e o melhor! Voce e o campeao do nosso coracao!$"
+	.string "My buddy MACHOKE is super strong!\p"
+	.string "He has enough STRENGTH to move\n"
+	.string "big rocks!$"
 
 SSAnne_B1F_Room5_Text_Machoke::
-	.string "Hoje e o seu dia, Lucas! Sua jornada apenas comecou.$"
+	.string "MACHOKE: Gwoh! Goggoh!$"
 

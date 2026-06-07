@@ -22,57 +22,57 @@ MagmaHideout_2F_2R_EventScript_Grunt8::
 	end
 
 MagmaHideout_2F_2R_Text_Grunt15Intro:
-.string "Lucas, que este dia seja\nepico! Voce e uma lenda em\pHoenn!"
-	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "I don't have a bone to pick with you.\n"
+	.string "I'm just following orders!$"
 
 MagmaHideout_2F_2R_Text_Grunt15Defeat:
-	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
+	.string "I may have lost, but…$"
 
 MagmaHideout_2F_2R_Text_Grunt15PostBattle:
-.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
-.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
-.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!$"
+	.string "We dug up something beyond belief!\n"
+	.string "And, we got the BLUE ORB!\p"
+	.string "All that's left is for our leader to…\n"
+	.string "Fufufu… Fwahahaha!$"
 
 MagmaHideout_2F_2R_Text_Grunt6Intro:
-.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
-	.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!$"
+	.string "I can't stand heat. Maybe I should've\n"
+	.string "joined TEAM AQUA instead…$"
 
 MagmaHideout_2F_2R_Text_Grunt6Defeat:
-.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "Yeah, I really may not be right for\n"
+	.string "TEAM MAGMA…$"
 
 MagmaHideout_2F_2R_Text_Grunt6PostBattle:
-.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
-.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!$"
+	.string "Don't you get lonely for the sea\n"
+	.string "being in a place like this?$"
 
 MagmaHideout_2F_2R_Text_Grunt7Intro:
-.string "Lucas, aproveite sua jornada!\nVoce e o mestre POKeMON que\psempre quis ser!"
-.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou."
-.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
-	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
+	.string "You can hear tremors here sometimes.\p"
+	.string "Could it be the volcano rattling?\n"
+	.string "Or is it GROU…\p"
+	.string "Whoops!\n"
+	.string "No, no, never mind!$"
 
 MagmaHideout_2F_2R_Text_Grunt7Defeat:
-.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
-	.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "You're a fiery battler.\n"
+	.string "Just like a volcano!$"
 
 MagmaHideout_2F_2R_Text_Grunt7PostBattle:
-.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
-.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
-	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "You just happened to win this time,\n"
+	.string "but that doesn't matter.\p"
+	.string "TEAM MAGMA's goal is about to be\n"
+	.string "reached!$"
 
 MagmaHideout_2F_2R_Text_Grunt8Intro:
-.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
-.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
-.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!$"
+	.string "One of our guys was freaking out that\n"
+	.string "he lost his MAGMA EMBLEM…\p"
+	.string "Wait a minute!\n"
+	.string "Was it you who found it?$"
 
 MagmaHideout_2F_2R_Text_Grunt8Defeat:
-.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "I'm having trouble believing this…$"
 
 MagmaHideout_2F_2R_Text_Grunt8PostBattle:
-.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
+	.string "I'm getting this feeling that our plan\n"
+	.string "is going to end in failure…$"
 

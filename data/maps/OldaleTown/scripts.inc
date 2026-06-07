@@ -340,75 +340,58 @@ OldaleTown_Movement_ReturnToOriginalPosition:
 	step_end
 
 OldaleTown_Text_SavingMyProgress:
-	.string "Feliz aniversário, Lucas! Para\n"
-	.string "comemorar, vou descansar um pouco\l"
-	.string "e salvar o meu progresso no jogo.$"
+	.string "I want to take a rest, so I'm saving my\n"
+	.string "progress.$"
 
 OldaleTown_Text_IWorkAtPokemonMart:
-	.string "Ei, você não é o Lucas? Parabéns\n"
-	.string "pelo seu aniversário! Eu trabalho\l"
-	.string "no POKéMON MART.\p"
-	.string "Vem comigo, vou te mostrar onde é!$"
+	.string "Hi!\n"
+	.string "I work at a POKéMON MART.\p"
+	.string "Can I get you to come with me?$"
 
 OldaleTown_Text_ThisIsAPokemonMart:
-	.string "Este é um POKéMON MART. Aqui nós\n"
-	.string "vendemos itens que ajudam os\l"
-	.string "Treinadores.\p"
-	.string "Mas como hoje é um dia muito\n"
-	.string "especial pra você, pegue isso\l"
-	.string "como um presente de aniversário!$"
+	.string "This is a POKéMON MART.\n"
+	.string "Just look for our blue roof.\p"
+	.string "We sell a variety of goods including\n"
+	.string "POKé BALLS for catching POKéMON.\p"
+	.string "Here, I'd like you to have this as\n"
+	.string "a promotional item.$"
 
 OldaleTown_Text_PotionExplanation:
-	.string "Essa é uma POTION (Poção). Ela\n"
-	.string "pode ser usada a qualquer momento\l"
-	.string "para curar um Pokémon machucado.\p"
-	.string "Feliz aniversário, Lucas!\n"
-	.string "Espero que seja muito útil!$"
+	.string "A POTION can be used anytime, so it's\n"
+	.string "even more useful than a POKéMON CENTER\l"
+	.string "in certain situations.$"
 
 OldaleTown_Text_WaitDontComeInHere:
-	.string "Aaaah! Espere! Não venha por\n"
-	.string "aqui!\p"
-	.string "Eu sei que é seu aniversário, Lucas,\n"
-	.string "mas eu descobri as pegadas de um\l"
-	.string "Pokémon raríssimo aqui!\p"
-	.string "Não posso deixar ninguém passar\n"
-	.string "até eu terminar de desenhar elas!$"
+	.string "Aaaaah! Wait!\n"
+	.string "Please don't come in here.\p"
+	.string "I just discovered the footprints of\n"
+	.string "a rare POKéMON!\p"
+	.string "Wait until I finish sketching\n"
+	.string "them, okay?$"
 
 OldaleTown_Text_DiscoveredFootprints:
-	.string "Parabéns, Lucas! Queria te dar\n"
-	.string "um presente, mas estou ocupado!\p"
-	.string "Acabei de descobrir as pegadas de\n"
-	.string "um Pokémon raríssimo aqui!$"
+	.string "I just discovered the footprints of\n"
+	.string "a rare POKéMON!\p"
+	.string "Wait until I finish sketching\n"
+	.string "them, okay?$"
 
 OldaleTown_Text_FinishedSketchingFootprints:
-	.string "Ufa! Terminei de desenhar as\n"
-	.string "pegadas daquele Pokémon raro!\p"
-	.string "Mas eram só as minhas próprias\n"
-	.string "pegadas... Que mico!\p"
-	.string "De qualquer forma, feliz\n"
-	.string "aniversário, Lucas! O caminho\l"
-	.string "está livre pra você!$"
+	.string "I finished sketching the footprints of\n"
+	.string "a rare POKéMON.\p"
+	.string "But it turns out they were only my\n"
+	.string "own footprints…$"
 
 OldaleTown_Text_MayLetsGoBack:
-	.string "MAY: Lucas! Feliz aniversário!\n"
-	.string "Eu já terminei de fazer as minhas\l"
-	.string "pesquisas.\p"
-	.string "Estou voltando pro laboratório do\n"
-	.string "meu pai, o PROF. BIRCH.\l"
-	.string "Vê se me acompanha, aniversariante!$"
+	.string "MAY: {PLAYER}{KUN}!\n"
+	.string "Over here!\l"
+	.string "Let's hurry home!$"
 
 OldaleTown_Text_BrendanLetsGoBack:
-	.string "BRENDAN: Ei Lucas! Parabéns pelo\n"
-	.string "seu dia!\p"
-	.string "Eu estou voltando pro laboratório\n"
-	.string "do meu pai, o PROF. BIRCH. Se você\l"
-	.string "é tão bom quanto dizem, tente\l"
-	.string "me alcançar!$"
+	.string "BRENDAN: I'm heading back to my dad's\n"
+	.string "LAB now.\l"
+	.string "{PLAYER}, you should hustle back, too.$"
 
 OldaleTown_Text_TownSign:
 	.string "OLDALE TOWN\n"
-	.string "A cidade com a brisa da manhã.\p"
-	.string "AVISO: Parabéns pelos 23 anos,\n"
-	.string "Lucas! Que você tenha grandes\l"
-	.string "batalhas hoje!$"
+	.string "“Where things start off scarce.”$"
 

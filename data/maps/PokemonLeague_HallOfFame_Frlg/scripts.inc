@@ -54,17 +54,17 @@ PokemonLeague_HallOfFame_Movement_EnterRoom::
 	step_end
 
 PokemonLeague_HallOfFame_Text_OakCongratulations::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pOAK: Er-hem!\n"
+	.string "OAK: Er-hem!\n"
 	.string "Congratulations, {PLAYER}!\p"
-.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!"
-.string "Feliz 23 de Maio, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
-.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
-.string "Lucas, voce e o melhor! Nao\nse esqueca de comemorar muito!"
-.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!"
+	.string "This floor is the POKéMON HALL OF\n"
+	.string "FAME.\p"
+	.string "POKéMON LEAGUE CHAMPIONS are\n"
+	.string "honored for their exploits here.\p"
+	.string "Their POKéMON are also recorded in\n"
+	.string "the HALL OF FAME.\p"
 	.string "{PLAYER}!\p"
-.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
-.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
+	.string "You have worked hard to become\n"
+	.string "the new LEAGUE CHAMPION.\p"
 	.string "Congratulations, {PLAYER}, you and\n"
-	.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
+	.string "your POKéMON are HALL OF FAMERS!$"
 

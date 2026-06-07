@@ -14,14 +14,14 @@ SafariZone_East_EventScript_AreaSign::
 	end
 
 SafariZone_East_Text_RestHouse::
-.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "REST HOUSE$"
 
 SafariZone_East_Text_TimeDeclinesOnlyWhileYouWalk::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pTRAINER TIPS\p"
-.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
-	.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "TRAINER TIPS\p"
+	.string "The remaining time declines only\n"
+	.string "while you walk.$"
 
 SafariZone_East_Text_AreaSign::
-.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Lucas, voce e o melhor! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
+	.string "AREA 1\n"
+	.string "WEST: CENTER AREA$"
 

@@ -63,42 +63,42 @@ VerdanturfTown_FriendshipRatersHouse_EventScript_Pikachu::
 	end
 
 VerdanturfTown_FriendshipRatersHouse_Text_SeeHowMuchPokemonLikesYou:
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pLet me see your POKeMON.\n"
-.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
-.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!"
-	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
+	.string "Let me see your POKéMON.\n"
+	.string "I'll check to see how much it likes you.\p"
+	.string "Oh.\n"
+	.string "Your POKéMON…$"
 
 VerdanturfTown_FriendshipRatersHouse_Text_AdoresYou:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pIt adores you.\n"
-.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
-	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
+	.string "It adores you.\n"
+	.string "It can't possibly love you any more.\l"
+	.string "I even feel happy seeing it.$"
 
 VerdanturfTown_FriendshipRatersHouse_Text_VeryHappy:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pIt seems to be very happy.\n"
-	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
+	.string "It seems to be very happy.\n"
+	.string "It obviously likes you a whole lot.$"
 
 VerdanturfTown_FriendshipRatersHouse_Text_LikesYouQuiteALot:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pIt likes you quite a lot.\n"
-.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!$"
+	.string "It likes you quite a lot.\n"
+	.string "It seems to want to be babied a little.$"
 
 VerdanturfTown_FriendshipRatersHouse_Text_GettingUsedToYou:
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pIt's getting used to you.\n"
-.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "It's getting used to you.\n"
+	.string "It seems to believe in you.$"
 
 VerdanturfTown_FriendshipRatersHouse_Text_NotUsedToYou:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pIt's not very used to you yet.\n"
-	.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
+	.string "It's not very used to you yet.\n"
+	.string "It neither loves nor hates you.$"
 
 VerdanturfTown_FriendshipRatersHouse_Text_VeryWary:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pIt's very wary.\n"
-.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
-.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
+	.string "It's very wary.\n"
+	.string "It has scary viciousness in its eyes.\l"
+	.string "It doesn't like you much at all.$"
 
 VerdanturfTown_FriendshipRatersHouse_Text_DetestsYou:
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pThis is a little hard for me to say...\p"
-.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!"
-	.string "Hoje e o seu dia, Lucas! Voce\ne o campeao do nosso coracao!$"
+	.string "This is a little hard for me to say…\p"
+	.string "Your POKéMON simply detests you.\n"
+	.string "Doesn't that make you uncomfortable?$"
 
 VerdanturfTown_FriendshipRatersHouse_Text_Pikachu:
-	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
+	.string "PIKACHU: Pika pika!$"
 

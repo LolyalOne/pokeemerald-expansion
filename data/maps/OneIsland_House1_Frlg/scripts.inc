@@ -10,11 +10,11 @@ OneIsland_House1_EventScript_OldWoman::
 	end
 
 OneIsland_House1_Text_GazeUponVolcanoOnSunnyDays::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pOn sunny days, I step out and gaze\n"
-.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
+	.string "On sunny days, I step out and gaze\n"
+	.string "upon the volcano.\p"
+	.string "That's my daily routine.$"
 
 OneIsland_House1_Text_LastTimeMtEmberErupted::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pLet me think... When was the last\n"
-	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
+	.string "Let me think… When was the last\n"
+	.string "time MT. EMBER erupted?$"
 

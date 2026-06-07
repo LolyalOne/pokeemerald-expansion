@@ -34,13 +34,13 @@ PewterCity_Mart_Items::
 	end
 
 PewterCity_Mart_Text_BoughtWeirdFishFromShadyGuy::
-.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
-.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
-	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
+	.string "A shady old guy sucked me into\n"
+	.string "buying this weird fish POKéMON!\p"
+	.string "It's totally weak and it cost ¥500!$"
 
 PewterCity_Mart_Text_GoodThingsIfRaiseMonsDiligently::
-.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Hoje e o seu dia, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Lucas, que este dia seja\nepico! O mundo POKeMON celebra\pvoce!$"
+	.string "Good things can happen if you raise\n"
+	.string "POKéMON diligently.\p"
+	.string "Even the weak ones can surprise\n"
+	.string "you if you don't give up on them.$"
 

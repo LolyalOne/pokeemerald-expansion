@@ -19,18 +19,18 @@ FiveIsland_EventScript_Fisher::
 	end
 
 FiveIsland_Text_IslandSign::
-.string "Feliz aniversario, Lucas!\nPrepare-se para grandes\pbatalhas!"
-	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
+	.string "FIVE ISLAND\n"
+	.string "Chrono Island: Where Time Goes$"
 
 FiveIsland_Text_WeirdBuildingInMeadow::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pOh, this stinks. I wanted to play in\n"
-.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
-.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!"
-.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!$"
+	.string "Oh, this stinks. I wanted to play in\n"
+	.string "the MEADOW.\p"
+	.string "But they put up a weird building\n"
+	.string "on it, so I can't play there.$"
 
 FiveIsland_Text_BeenGettingBusierAroundHere::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pIt's been getting busier around\n"
-.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
-.string "Lucas, aproveite sua jornada!\nSua jornada apenas comecou."
-	.string "Feliz aniversario, Lucas!\nVoce e uma lenda em Hoenn!$"
+	.string "It's been getting busier around\n"
+	.string "these parts lately.\p"
+	.string "I haven't been catching many good\n"
+	.string "fish lately, either.$"
 

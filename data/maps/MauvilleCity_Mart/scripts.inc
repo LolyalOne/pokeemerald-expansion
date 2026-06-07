@@ -36,16 +36,16 @@ MauvilleCity_Mart_EventScript_Man::
 	end
 
 MauvilleCity_Mart_Text_ItemsToTemporarilyElevateStats:
-.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
-.string "Parabens, Lucas! Sua jornada\napenas comecou."
-.string "Parabens, Lucas! Prepare-se\npara grandes batalhas!"
-.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!"
-	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "There are items that temporarily\n"
+	.string "elevate the stats of POKéMON.\p"
+	.string "The ones I know you use in battle\n"
+	.string "are X ATTACK and X DEFEND…\p"
+	.string "I do believe that there are others\n"
+	.string "like them.$"
 
 MauvilleCity_Mart_Text_DecisionsDetermineBattle:
-.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
-.string "Lucas, que este dia seja\nepico! Sua jornada apenas\pcomecou."
-.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
-	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "Use a certain move, or use an item\n"
+	.string "instead…\p"
+	.string "The TRAINER's decisions determine how\n"
+	.string "battles turn out, I think.$"
 

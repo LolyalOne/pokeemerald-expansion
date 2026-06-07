@@ -50,50 +50,50 @@ SSAnne_Kitchen_EventScript_Chef7::
 	end
 
 SSAnne_Kitchen_Text_BusyOutOfTheWay::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pYou, mon petit!\n"
-.string "Lucas, voce e o melhor!\nPrepare-se para grandes\pbatalhas!"
-.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!$"
+	.string "You, mon petit!\n"
+	.string "We're busy here!\l"
+	.string "Out of the way!$"
 
 SSAnne_Kitchen_Text_SawOddBerryInTrash::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pI saw an odd BERRY in the trash.\n"
-.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!$"
+	.string "I saw an odd BERRY in the trash.\n"
+	.string "I wonder what that was?$"
 
 SSAnne_Kitchen_Text_SoBusyImDizzy::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pI'm so busy I'm getting dizzy!\n"
-	.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
+	.string "I'm so busy I'm getting dizzy!\n"
+	.string "You have to give me room here!$"
 
 SSAnne_Kitchen_Text_PeelSpudsEveryDay::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pHum-de-hum-de-ho...\p"
-.string "Lucas, aproveite sua jornada!\nO seu presente esta esperando\ppor voce!"
-	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
+	.string "Hum-de-hum-de-ho…\p"
+	.string "I peel spuds every day!\n"
+	.string "Hum-hum…$"
 
 SSAnne_Kitchen_Text_HearAboutSnorlaxItsAGlutton::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pDid you hear about SNORLAX?\n"
-.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou."
-.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
-.string "Feliz aniversario, Lucas! O\nseu presente esta esperando\ppor voce!$"
+	.string "Did you hear about SNORLAX?\n"
+	.string "It's a glutton.\p"
+	.string "No other POKéMON eats and sleeps\n"
+	.string "the way SNORLAX can and does!$"
 
 SSAnne_Kitchen_Text_OnlyGetToPeelOnions::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pSnivel... Sniff...\p"
-.string "Lucas, aproveite sua jornada!\nVoce e o campeao do nosso\pcoracao!"
-.string "Feliz 23 de Maio, Lucas!\nPrepare-se para grandes\pbatalhas!$"
+	.string "Snivel… Sniff…\p"
+	.string "I only get to peel onions…\n"
+	.string "Snivel…$"
 
 SSAnne_Kitchen_Text_IAmLeChefMainCourseIs::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pEr-hem!\n"
-.string "Hoje e o seu dia, Lucas! O\nseu presente esta esperando\ppor voce!"
-.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "Er-hem!\n"
+	.string "Indeed I am le CHEF!\p"
+	.string "Le main course is$"
 
 SSAnne_Kitchen_Text_SalmonDuSalad::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pSalmon du Salad!\p"
-.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
-	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
+	.string "Salmon du Salad!\p"
+	.string "Les guests may gripe it's fish\n"
+	.string "again, however!$"
 
 SSAnne_Kitchen_Text_EelsAuBarbecue::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pEels au Barbecue!\p"
-.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!$"
+	.string "Eels au Barbecue!\p"
+	.string "Les guests will mutiny, I fear.$"
 
 SSAnne_Kitchen_Text_PrimeBeefsteak::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pPrime Beefsteak!\p"
-.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
-.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "Prime Beefsteak!\p"
+	.string "But, have I enough fillets du\n"
+	.string "beef?$"
 

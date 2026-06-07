@@ -96,28 +96,28 @@ Route8_WestEntrance_Movement_BlockPlayerEntry::
 	step_end
 
 Route8_WestEntrance_Text_ThirstyOnGuardDuty::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pI'm on guard duty.\n"
-.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!"
-	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
+	.string "I'm on guard duty.\n"
+	.string "Gee, I'm thirsty, though!\p"
+	.string "Oh, wait there, the road's closed.$"
 
 Route8_WestEntrance_Text_ThatTeaLooksTasty::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pOh, that TEA...\n"
-	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
+	.string "Oh, that TEA…\n"
+	.string "It looks awfully tasty…$"
 
 Route8_WestEntrance_Text_ThanksIllShareTeaWithGuards::
-	.string "Feliz aniversario, Lucas! Voce e um amigo incrivel.\pHuh? I can have this drink?\n"
-.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!"
-.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!"
-.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
-.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
-.string "Feliz aniversario, Lucas! O\nmundo POKeMON celebra voce!"
-.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
-.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
-.string "Lucas, voce e o melhor!\nCapture todos os POKeMON hoje!"
-.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!"
-.string "Feliz 23 de Maio, Lucas! Voce\ne o campeao do nosso coracao!"
-.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "Huh? I can have this drink?\n"
+	.string "Gee, thanks!\l"
+	.string "… …\l"
+	.string "Glug, glug…\l"
+	.string "… …\l"
+	.string "Gulp…\l"
+	.string "If you want to go to SAFFRON\l"
+	.string "CITY…\l"
+	.string "… …\l"
+	.string "You can go on through.\p"
+	.string "I'll share this TEA with the other\n"
+	.string "guards!$"
 
 Route8_WestEntrance_Text_HiHowsItGoing::
-.string "Feliz aniversario, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "Hi, how's it going?$"
 

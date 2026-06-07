@@ -32,77 +32,77 @@ VictoryRoad_B2F_EventScript_Dianne::
 	end
 
 VictoryRoad_B2F_Text_VitoIntro:
-.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!"
-.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
-.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!$"
+	.string "I trained together with my whole family,\n"
+	.string "every one of us!\l"
+	.string "I'm not losing to anyone!$"
 
 VictoryRoad_B2F_Text_VitoDefeat:
-.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
-.string "Um brinde ao Lucas!\nPrepare-se para grandes\pbatalhas!$"
+	.string "Better than my family?!\n"
+	.string "Is that possible?!$"
 
 VictoryRoad_B2F_Text_VitoPostBattle:
-.string "Lucas, que este dia seja\nepico! Nao se esqueca de\pcomemorar muito!"
-.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!"
-	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
+	.string "I was better than everyone in my\n"
+	.string "family. I've never lost before…\p"
+	.string "I've lost my confidence…\n"
+	.string "Maybe I'll go home…$"
 
 VictoryRoad_B2F_Text_OwenIntro:
-.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!"
-.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!$"
+	.string "I'd heard that there was a tough\n"
+	.string "little kid around. Do they mean you?$"
 
 VictoryRoad_B2F_Text_OwenDefeat:
-	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "The little shrimp is tough!$"
 
 VictoryRoad_B2F_Text_OwenPostBattle:
-.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!"
-.string "Parabens, Lucas! Voce e um\ntreinador incrivel!$"
+	.string "The rumors I heard, that tough little\n"
+	.string "kid is from PETALBURG CITY.$"
 
 VictoryRoad_B2F_Text_CarolineIntro:
-.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "You must be getting a little tired.$"
 
 VictoryRoad_B2F_Text_CarolineDefeat:
-	.string "Um brinde ao Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "No signs of tiring at all!$"
 
 VictoryRoad_B2F_Text_CarolinePostBattle:
-.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
-.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
-	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "VICTORY ROAD and the POKéMON LEAGUE\n"
+	.string "are long and grueling challenges.\l"
+	.string "Beware of fatigue!$"
 
 VictoryRoad_B2F_Text_JulieIntro:
-.string "Lucas, que este dia seja\nepico! Capture todos os\pPOKeMON hoje!"
-.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!"
-	.string "Feliz aniversario, Lucas! Sua\njornada apenas comecou.$"
+	.string "You shouldn't get complacent just\n"
+	.string "because you have a lot of GYM BADGES.\p"
+	.string "There's always going to be someone\n"
+	.string "who's better than you!$"
 
 VictoryRoad_B2F_Text_JulieDefeat:
-.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
+	.string "You're better than me!$"
 
 VictoryRoad_B2F_Text_JuliePostBattle:
-.string "Lucas, que este dia seja\nepico! Prepare-se para grandes\pbatalhas!"
-.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "Gaze on your collected BADGES and\n"
+	.string "remember the TRAINERS you've faced.$"
 
 VictoryRoad_B2F_Text_FelixIntro:
-.string "Feliz 23 de Maio, Lucas! O\nseu presente esta esperando\ppor voce!"
-	.string "Feliz aniversario, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "I've come this far, but the tension's\n"
+	.string "giving me awful stomach pain…$"
 
 VictoryRoad_B2F_Text_FelixDefeat:
-.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "Ooh…\n"
+	.string "It hurts…$"
 
 VictoryRoad_B2F_Text_FelixPostBattle:
-.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
-.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
-.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "I can't help getting all tense knowing\n"
+	.string "that I'm nearing the POKéMON LEAGUE.\p"
+	.string "It's all I can do to feign calm.$"
 
 VictoryRoad_B2F_Text_DianneIntro:
-.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
-.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
-	.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!$"
+	.string "The elite among the elite gather in\n"
+	.string "this cave.\p"
+	.string "How are you finding it?$"
 
 VictoryRoad_B2F_Text_DianneDefeat:
-	.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!$"
+	.string "Not rattled in the least bit!$"
 
 VictoryRoad_B2F_Text_DiannePostBattle:
-.string "Feliz aniversario, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Lucas, que este dia seja\nepico! Voce e o mestre POKeMON\pque sempre quis ser!$"
+	.string "You do have guts! I like that!\n"
+	.string "Keep it going!$"
 

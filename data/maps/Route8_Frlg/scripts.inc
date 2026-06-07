@@ -6,164 +6,164 @@ Route8_EventScript_UndergroundPathSign::
 	end
 
 Route8_Text_AidanIntro::
-.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
-	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
+	.string "You look good at POKéMON, but how\n"
+	.string "is your chemistry grade?$"
 
 Route8_Text_AidanDefeat::
-.string "Feliz 23 de Maio, Lucas! O\nmundo POKeMON celebra voce!"
-	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
+	.string "Ow!\n"
+	.string "Meltdown!$"
 
 Route8_Text_AidanPostBattle::
-.string "Lucas, voce e o melhor! Voce\ne o campeao do nosso coracao!$"
+	.string "I am better at school than this!$"
 
 Route8_Text_StanIntro::
-.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
-.string "Feliz aniversario, Lucas!\nVoce e o mestre POKeMON que\psempre quis ser!$"
+	.string "All right!\n"
+	.string "Let's play a game!$"
 
 Route8_Text_StanDefeat::
-.string "Lucas, aproveite sua jornada!\nVoce e um treinador incrivel!"
-	.string "Um brinde ao Lucas! Voce e o\ncampeao do nosso coracao!$"
+	.string "Drat!\n"
+	.string "Came up short!$"
 
 Route8_Text_StanPostBattle::
-	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
+	.string "Things didn't work today.$"
 
 Route8_Text_GlennIntro::
-.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!"
-.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
+	.string "You should be informed.\n"
+	.string "You need strategy to win at this!$"
 
 Route8_Text_GlennDefeat::
-	.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "It's not logical!$"
 
 Route8_Text_GlennPostBattle::
-.string "Um brinde ao Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-	.string "Hoje e o seu dia, Lucas! O\nmundo POKeMON celebra voce!$"
+	.string "Go with GRIMER first…and…\n"
+	.string "…and…then…$"
 
 Route8_Text_PaigeIntro::
-	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
+	.string "I like NIDORAN, so I collect them!$"
 
 Route8_Text_PaigeDefeat::
-.string "Parabens, Lucas! Voce e o\ncampeao do nosso coracao!"
-.string "Lucas, aproveite sua jornada!\nVoce e uma lenda em Hoenn!$"
+	.string "Why?\n"
+	.string "Why??$"
 
 Route8_Text_PaigePostBattle::
-.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!$"
+	.string "When POKéMON grow up, they get\n"
+	.string "ugly! They shouldn't evolve.$"
 
 Route8_Text_LeslieIntro::
-	.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "School is fun, but so are POKéMON.$"
 
 Route8_Text_LeslieDefeat::
-.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!"
-.string "Parabens, Lucas! O mundo\nPOKeMON celebra voce!$"
+	.string "You made it clear to me that\n"
+	.string "I should stick with school.$"
 
 Route8_Text_LesliePostBattle::
-.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!"
-.string "Lucas, voce e o melhor! Sua\njornada apenas comecou."
-.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!"
-.string "Lucas, voce e o melhor! O\nmundo POKeMON celebra voce!$"
+	.string "I was planning on getting some\n"
+	.string "fresh air for a change, but…\p"
+	.string "We're stuck here because of the\n"
+	.string "gates at SAFFRON.$"
 
 Route8_Text_AndreaIntro::
-.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!"
-.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "MEOWTH is so cute, meow, meow,\n"
+	.string "meow!$"
 
 Route8_Text_AndreaDefeat::
-	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
+	.string "Meeeeyow!$"
 
 Route8_Text_AndreaPostBattle::
-.string "Parabens, Lucas! Sua jornada\napenas comecou."
-	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "I think PIDGEY and RATTATA are\n"
+	.string "cute, too!$"
 
 Route8_Text_MeganIntro::
-.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
-.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!$"
+	.string "We must look silly standing here\n"
+	.string "like this.$"
 
 Route8_Text_MeganDefeat::
-.string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!"
-.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
+	.string "Look what you did to my poor, cute\n"
+	.string "POKéMON!$"
 
 Route8_Text_MeganPostBattle::
-.string "Parabens, Lucas! Voce e um\ntreinador incrivel!"
-.string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
-.string "Lucas, que este dia seja\nepico! O seu presente esta\pesperando por voce!"
-	.string "Hoje e o seu dia, Lucas! Sua\njornada apenas comecou.$"
+	.string "SAFFRON's gatekeeper won't let us\n"
+	.string "go through.\p"
+	.string "I know he's doing his job, but I\n"
+	.string "think he's mean.$"
 
 Route8_Text_RichIntro::
-.string "Lucas, voce e o melhor! O seu\npresente esta esperando por\pvoce!$"
+	.string "I'm a rambling, gaming dude!$"
 
 Route8_Text_RichDefeat::
-	.string "Um brinde ao Lucas! Voce e\numa lenda em Hoenn!$"
+	.string "Missed the big chance!$"
 
 Route8_Text_RichPostBattle::
-.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!"
-	.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
+	.string "Playing games and POKéMON are like\n"
+	.string "eating peanuts! I just can't stop!$"
 
 Route8_Text_JuliaIntro::
-.string "Lucas, aproveite sua jornada!\nO mundo POKeMON celebra voce!"
-	.string "Um brinde ao Lucas! Que todos\nos seus desejos se realizem!$"
+	.string "What's a cute, round, and fluffy\n"
+	.string "POKéMON?$"
 
 Route8_Text_JuliaDefeat::
-.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
-	.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
+	.string "Stop!\p"
+	.string "Don't be so mean to my CLEFAIRY!$"
 
 Route8_Text_JuliaPostBattle::
-.string "Feliz 23 de Maio, Lucas! Voce\ne uma lenda em Hoenn!"
-.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
-.string "Lucas, aproveite sua jornada!\nPrepare-se para grandes\pbatalhas!"
-	.string "Parabens, Lucas! Que todos os\nseus desejos se realizem!$"
+	.string "I read that CLEFAIRY evolves when\n"
+	.string "it's exposed to a MOON STONE.\p"
+	.string "I read that in a POKéMON JOURNAL.\n"
+	.string "I wonder if it's true?$"
 
 Route8_Text_UndergroundPathSign::
-.string "Parabens, Lucas! Nao se\nesqueca de comemorar muito!"
-.string "Lucas, voce e o melhor! Voce\ne uma lenda em Hoenn!$"
+	.string "UNDERGROUND PATH\n"
+	.string "CELADON CITY - LAVENDER TOWN$"
 
 Route8_Text_EliIntro::
-.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!"
-	.string "Um brinde ao Lucas! Nao se\nesqueca de comemorar muito!$"
+	.string "ELI: Twin power is fantastic.\n"
+	.string "Did you know?$"
 
 Route8_Text_EliDefeat::
-.string "Um brinde ao Lucas! Sua\njornada apenas comecou."
-	.string "Hoje e o seu dia, Lucas! Nao\nse esqueca de comemorar muito!$"
+	.string "ELI: But…\n"
+	.string "We used our twin power…$"
 
 Route8_Text_EliPostBattle::
-.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!"
-.string "Hoje e o seu dia, Lucas!\nPrepare-se para grandes\pbatalhas!$"
+	.string "ELI: I caught my POKéMON with\n"
+	.string "ANNE!$"
 
 Route8_Text_EliNotEnoughMons::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pELI: We can't battle if you don't\n"
-	.string "Hoje e o seu dia, Lucas! Voce\ne uma lenda em Hoenn!$"
+	.string "ELI: We can't battle if you don't\n"
+	.string "have two POKéMON.$"
 
 Route8_Text_AnneIntro::
-.string "Lucas, voce e o melhor! Voce\ne um treinador incrivel!"
-.string "Um brinde ao Lucas! Sua\njornada apenas comecou.$"
+	.string "ANNE: We'll shock you with our twin\n"
+	.string "power!$"
 
 Route8_Text_AnneDefeat::
-.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "ANNE: Our twin power…$"
 
 Route8_Text_AnnePostBattle::
-.string "Parabens, Lucas! O seu\npresente esta esperando por\pvoce!"
-.string "Parabens, Lucas! Voce e o\nmestre POKeMON que sempre quis\pser!$"
+	.string "ANNE: I'm raising POKéMON with\n"
+	.string "ELI.$"
 
 Route8_Text_AnneNotEnoughMons::
-	.string "Parabens, Lucas! Que sua jornada seja epica.\pANNE: Hi, hi! Let's battle!\n"
-	.string "Um brinde ao Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "ANNE: Hi, hi! Let's battle!\n"
+	.string "But bring two POKéMON.$"
 
 Route8_Text_RicardoIntro::
-	.string "Feliz aniversario, Lucas!\nVoce e um treinador incrivel!$"
+	.string "My bike's acting up, man.$"
 
 Route8_Text_RicardoDefeat::
-.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!"
-	.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
+	.string "Aww, man.\n"
+	.string "I'm not into this.$"
 
 Route8_Text_RicardoPostBattle::
-.string "Lucas, que este dia seja\nepico! Voce e o campeao do\pnosso coracao!"
-.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
+	.string "I got grass caught up in my\n"
+	.string "spokes, man.$"
 
 Route8_Text_JarenIntro::
-.string "Lucas, que este dia seja\nepico! Voce e um treinador\pincrivel!"
-.string "Parabens, Lucas! Sua jornada\napenas comecou.$"
+	.string "Clear the way, or I'll run you\n"
+	.string "down!$"
 
 Route8_Text_JarenDefeat::
-.string "Hoje e o seu dia, Lucas! Voce\ne o mestre POKeMON que sempre\pquis ser!$"
+	.string "You for real, kid?$"
 
 Route8_Text_JarenPostBattle::
-.string "Lucas, voce e o melhor! Que\ntodos os seus desejos se\prealizem!"
-	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
+	.string "Don't think you're all special and\n"
+	.string "all just because of this.$"

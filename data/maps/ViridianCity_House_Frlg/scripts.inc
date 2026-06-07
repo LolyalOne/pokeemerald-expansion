@@ -24,18 +24,18 @@ ViridianCity_House_EventScript_NicknameSign::
 	end
 
 ViridianCity_House_Text_NicknamingIsFun::
-	.string "Hoje e o seu dia, Lucas! Aproveite a aventura.\pComing up with nicknames is fun,\n"
-.string "Feliz 23 de Maio, Lucas! Que\ntodos os seus desejos se\prealizem!"
-.string "Feliz aniversario, Lucas!\nVoce e o campeao do nosso\pcoracao!"
-	.string "Hoje e o seu dia, Lucas!\nCapture todos os POKeMON hoje!$"
+	.string "Coming up with nicknames is fun,\n"
+	.string "but it's not so easy to do.\p"
+	.string "Clever names are nice, but simple\n"
+	.string "names are easier to remember.$"
 
 ViridianCity_House_Text_MyDaddyLovesMonsToo::
-	.string "Parabens, Lucas! Capture\ntodos os POKeMON hoje!$"
+	.string "My daddy loves POKéMON, too.$"
 
 ViridianCity_House_Text_Speary::
-	.string "Um brinde ao Lucas! Voce e um\ntreinador incrivel!$"
+	.string "SPEARY: Tetweet!$"
 
 ViridianCity_House_Text_SpearowNameSpeary::
-.string "Lucas, aproveite sua jornada!\nCapture todos os POKeMON hoje!"
-	.string "Hoje e o seu dia, Lucas! Voce\ne um treinador incrivel!$"
+	.string "SPEAROW\n"
+	.string "Name: SPEARY$"
 
