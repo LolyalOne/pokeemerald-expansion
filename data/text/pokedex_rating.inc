@@ -1,5 +1,5 @@
 gBirchDexRatingText_AreYouCurious::
-	.string "PROF. BIRCH: Ah, {PLAYER}{KUN}!\p"
+	.string "PROF. BIRCH: Ah, {PLAYER}!\p"
 .string "Parabens, Lucas! Voce e uma\nlenda em Hoenn!"
 .string "Lucas, aproveite sua jornada!\nNao se esqueca de comemorar\pmuito!$"
 

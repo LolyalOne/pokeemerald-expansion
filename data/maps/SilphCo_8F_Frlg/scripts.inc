@@ -39,23 +39,24 @@ SilphCo_8F_EventScript_Grunt2::
 	end
 
 SilphCo_8F_Text_WonderIfSilphIsFinished::
-	.string "I wonder if SILPH is finished…$"
+	.string "Me pergunto se a SILPH esta\n"
+	.string "acabada...$"
 
 SilphCo_8F_Text_ThanksForSavingUs::
-	.string "Thanks for saving us!$"
+	.string "Obrigado por nos salvar!$"
 
 SilphCo_8F_Text_Grunt1Intro::
-	.string "That's as far as you'll go!$"
+	.string "Ate ai e o maximo que voce ira!$"
 
 SilphCo_8F_Text_Grunt1Defeat::
-	.string "Not enough grit!$"
+	.string "Faltou determinacao!$"
 
 SilphCo_8F_Text_Grunt1PostBattle::
 	.string "If you don't turn back…\n"
 	.string "I'll call for backup!$"
 
 SilphCo_8F_Text_ParkerIntro::
-	.string "You're causing us problems!$"
+	.string "Voce esta nos causando problemas!$"
 
 SilphCo_8F_Text_ParkerDefeat::
 	.string "Huh?\n"
@@ -74,7 +75,7 @@ SilphCo_8F_Text_Grunt2Defeat::
 	.string "Oh, Brothers!$"
 
 SilphCo_8F_Text_Grunt2PostBattle::
-	.string "I'll leave you up to my brothers.$"
+	.string "Vou deixar voce pros meus irmaos.$"
 
 SilphCo_8F_Text_FloorSign::
 	.string "SILPH CO. HEAD OFFICE\n"
@@ -83,7 +84,7 @@ SilphCo_8F_Text_FloorSign::
 SilphCo_8F_Text_ToRocketBossMonsAreTools::
 	.string "TEAM ROCKET's BOSS is terribly\n"
 	.string "cruel!\p"
-	.string "To him, POKéMON are just tools to\n"
+	.string "To him, POKeMON are just tools to\n"
 	.string "be used.\p"
 	.string "What will happen if that tyrant\n"
 	.string "takes over our company…$"

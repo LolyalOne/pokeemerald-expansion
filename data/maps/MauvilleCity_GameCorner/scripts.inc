@@ -662,7 +662,7 @@ MauvilleCity_GameCorner_Text_ExchangeCoinsForPrizes:
 	.string "prizes here.$"
 
 MauvilleCity_GameCorner_Text_WhichPrize:
-	.string "Which prize would you like?$"
+	.string "Qual premio voce gostaria?$"
 
 MauvilleCity_GameCorner_Text_SoYourChoiceIsTheTMX:
 	.string "So your choice is\n"
@@ -724,7 +724,7 @@ MauvilleCity_GameCorner_Text_NeedCoinCaseGoNextDoor:
 MauvilleCity_GameCorner_Text_LuckOnlyLastSoLongTakeCoins:
 	.string "My luck can only last so long.\n"
 	.string "This is too much for me.\l"
-	.string "Here, take some COINS!$"
+	.string "Aqui, pegue algumas MOEDAS!\lFeliz aniversario, Lucas!$"
 
 MauvilleCity_GameCorner_Text_MauvilleSomethingForEveryone:
 	.string "MAUVILLE has something for\n"

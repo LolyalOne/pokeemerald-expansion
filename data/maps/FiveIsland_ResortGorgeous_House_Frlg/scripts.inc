@@ -148,14 +148,15 @@ FiveIsland_ResortGorgeous_House_Text_PleaseHearMyWish::
 	.string "Please, hear my wish.$"
 
 FiveIsland_ResortGorgeous_House_Text_WishToSeeMonPlease::
-	.string "I wish to see a POKéMON.\n"
+	.string "I wish to see a POKeMON.\n"
 	.string "A darling {STR_VAR_1}.\p"
 	.string "I want to see one right away.\n"
-	.string "Please, make my wish come true.$"
+	.string "Por favor, faca meu desejo se\n"
+	.string "tornar realidade, Lucas.$"
 
 FiveIsland_ResortGorgeous_House_Text_OhImTiredOfWaiting::
 	.string "SELPHY: Oh, I'm tired of this.\n"
-	.string "I'm tired of waiting for you.\p"
+	.string "Estou cansada de esperar por voce.\p"
 	.string "I'll forgive you this time, but\n"
 	.string "please don't fail me next time.$"
 
@@ -175,7 +176,7 @@ FiveIsland_ResortGorgeous_House_Text_MonYouCaughtForMeThankYou::
 	.string "I need you here this instant!$"
 
 FiveIsland_ResortGorgeous_House_Text_ButlerYesMyLady::
-	.string "Butler: Yes, my lady.$"
+	.string "Mordomo: Sim, minha senhora.$"
 
 FiveIsland_ResortGorgeous_House_Text_SelphyGiveTokenOfAppreciation::
 	.string "SELPHY: See to it that this person\n"

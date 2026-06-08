@@ -124,7 +124,7 @@ SaffronCity_EventScript_TrainerFanClubSign::
 	end
 
 SaffronCity_Text_WhatDoYouWantGetLost::
-	.string "What do you want?\n"
+	.string "O que voce quer?\n"
 	.string "Get lost!$"
 
 SaffronCity_Text_BossTakeTownForTeamRocket::
@@ -136,7 +136,7 @@ SaffronCity_Text_DontGetDefiantOrIllHurtYou::
 	.string "Or I'll have to hurt you!$"
 
 SaffronCity_Text_SaffronBelongsToTeamRocket::
-	.string "SAFFRON belongs to TEAM ROCKET!$"
+	.string "SAFFRON pertence a TEAM ROCKET!$"
 
 SaffronCity_Text_CriminalLifeMakesMeFeelAlive::
 	.string "My life as a criminal makes me feel\n"
@@ -148,7 +148,7 @@ SaffronCity_Text_WatchWhereYoureWalking::
 
 SaffronCity_Text_WeCanExploitMonsAroundWorld::
 	.string "With SILPH under control, we can\n"
-	.string "exploit POKéMON around the world!\p"
+	.string "exploit POKeMON around the world!\p"
 	.string "We'll get stinking rich, yeahah!$"
 
 SaffronCity_Text_YouBeatTeamRocket::
@@ -192,12 +192,12 @@ SaffronCity_Text_CitySign::
 	.string "Shining, Golden Land of Commerce$"
 
 SaffronCity_Text_FightingDojo::
-	.string "FIGHTING DOJO$"
+	.string "DOJO LUTADOR$"
 
 SaffronCity_Text_GymSign::
-	.string "SAFFRON CITY POKéMON GYM\n"
+	.string "SAFFRON CITY POKeMON GYM\n"
 	.string "LEADER: SABRINA\l"
-	.string "The Master of PSYCHIC POKéMON!$"
+	.string "The Master of PSYCHIC POKeMON!$"
 
 SaffronCity_Text_FullHealCuresStatus::
 	.string "TRAINER TIPS\p"
@@ -212,20 +212,20 @@ SaffronCity_Text_GreatBallImprovedCatchRate::
 	.string "The new GREAT BALL offers improved\n"
 	.string "catching rates.\p"
 	.string "Try it on those hard-to-catch\n"
-	.string "POKéMON.$"
+	.string "POKeMON.$"
 
 SaffronCity_Text_SilphCoSign::
-	.string "SILPH CO. OFFICE BUILDING$"
+	.string "EDIFICIO COMERCIAL DA SILPH CO.$"
 
 SaffronCity_Text_MrPsychicsHouse::
-	.string "MR. PSYCHIC'S HOUSE$"
+	.string "CASA DO MR. PSYCHIC$"
 
 SaffronCity_Text_SilphsLatestProduct::
 	.string "SILPH's latest product!\n"
 	.string "Release to be determined…$"
 
 SaffronCity_Text_TrainerFanClubSign::
-	.string "POKéMON TRAINER FAN CLUB\p"
+	.string "POKeMON TRAINER FAN CLUB\p"
 	.string "Many TRAINERS have scribbled their\n"
 	.string "names on this sign.$"
 

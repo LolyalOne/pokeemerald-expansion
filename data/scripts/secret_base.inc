@@ -8,7 +8,7 @@ SecretBase_Text_TreeUseSecretPower:
 	.string "Use the SECRET POWER?$"
 
 SecretBase_Text_VineDroppedDown:
-	.string "A thick vine dropped down!$"
+	.string "Uma vinha grossa caiu!$"
 
 SecretBase_Text_ClumpOfGrass:
 	.string "If this clump of grass can be moved,\n"
@@ -20,7 +20,7 @@ SecretBase_Text_ClumpUseSecretPower:
 	.string "Use the SECRET POWER?$"
 
 SecretBase_Text_DiscoveredSmallEntrance:
-	.string "Discovered a small entrance!$"
+	.string "Descobriu uma pequena entrada!$"
 
 	.include "data/text/secret_base_trainers.inc"
 
@@ -689,13 +689,13 @@ SecretBase_Text_TooManyBasesDeleteSome:
 	.string "register another location.$"
 
 SecretBase_Text_RegistrationCompleted:
-	.string "Registration completed.$"
+	.string "Registro concluido.$"
 
 SecretBase_Text_DataUnregistered:
-	.string "Data has been unregistered.$"
+	.string "Dados removidos.$"
 
 SecretBase_Text_BootUpPC:
-	.string "{PLAYER} booted up the PC.$"
+	.string "{PLAYER} ligou o PC.$"
 
 SecretBase_Text_WhatWouldYouLikeToDo:
 	.string "What would you like to do?$"

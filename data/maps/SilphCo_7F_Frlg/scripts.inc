@@ -236,7 +236,7 @@ SilphCo_7F_Text_HaveMonForSavingUs::
 	.string "Oh! Hi! You're not a ROCKET!\n"
 	.string "You came to save us?\l"
 	.string "Why, thank you!\p"
-	.string "I want you to have this POKéMON\n"
+	.string "I want you to have this POKeMON\n"
 	.string "for saving us.$"
 
 SilphCo_7F_Text_ObtainedLaprasFromEmployee::
@@ -245,7 +245,7 @@ SilphCo_7F_Text_ObtainedLaprasFromEmployee::
 
 SilphCo_7F_Text_ExplainLapras::
 	.string "It's a LAPRAS.\n"
-	.string "It's a very intelligent POKéMON.\p"
+	.string "It's a very intelligent POKeMON.\p"
 	.string "We kept it in our lab, but it will\n"
 	.string "be much better off with you.\p"
 	.string "I think you will be a good TRAINER\n"
@@ -261,7 +261,7 @@ SilphCo_7F_Text_RocketBossWentToBoardroom::
 
 SilphCo_7F_Text_RocketsAfterMasterBall::
 	.string "TEAM ROCKET was after the MASTER\n"
-	.string "BALL, which catches any POKéMON.$"
+	.string "BALL, which catches any POKeMON.$"
 
 SilphCo_7F_Text_CanceledMasterBallProject::
 	.string "We canceled the MASTER BALL\n"
@@ -269,7 +269,7 @@ SilphCo_7F_Text_CanceledMasterBallProject::
 
 SilphCo_7F_Text_BadIfTeamRocketTookOver::
 	.string "It would be bad if TEAM ROCKET\n"
-	.string "took over SILPH or our POKéMON.$"
+	.string "took over SILPH or our POKeMON.$"
 
 SilphCo_7F_Text_WowYouChasedOffTeamRocket::
 	.string "Wow!\p"
@@ -283,14 +283,14 @@ SilphCo_7F_Text_ReallyDangerousHere::
 	.string "You can't!$"
 
 SilphCo_7F_Text_ThankYouSoMuch::
-	.string "Thank you so much!$"
+	.string "Muito obrigado!$"
 
 SilphCo_7F_Text_Grunt3Intro::
 	.string "Uh-oh!\n"
 	.string "I smell a little mouse!$"
 
 SilphCo_7F_Text_Grunt3Defeat::
-	.string "Lights out!$"
+	.string "Luzes apagadas!$"
 
 SilphCo_7F_Text_Grunt3PostBattle::
 	.string "You won't find my BOSS by just\n"
@@ -301,7 +301,7 @@ SilphCo_7F_Text_JoshuaIntro::
 	.string "You mistook me for a SILPH worker?$"
 
 SilphCo_7F_Text_JoshuaDefeat::
-	.string "I'm done!$"
+	.string "Estou acabado!$"
 
 SilphCo_7F_Text_JoshuaPostBattle::
 	.string "Despite your age, you are a\n"
@@ -332,7 +332,7 @@ SilphCo_7F_Text_Grunt2PostBattle::
 	.string "ticked off!$"
 
 SilphCo_7F_Text_RivalWhatKeptYou::
-	.string "{RIVAL}: What kept you, {PLAYER}?$"
+	.string "{RIVAL}: O que te atrasou, {PLAYER}?$"
 
 SilphCo_7F_Text_RivalIntro::
 	.string "{RIVAL}: Hahaha! I thought you'd\n"
@@ -350,11 +350,11 @@ SilphCo_7F_Text_RivalDefeat::
 SilphCo_7F_Text_RivalPostBattle::
 	.string "Well, {PLAYER}!\n"
 	.string "I'm moving on up and ahead!\p"
-	.string "By checking my POKéDEX, I'm\n"
+	.string "By checking my POKeDEX, I'm\n"
 	.string "starting to see what's strong and\l"
 	.string "how they evolve!\p"
 	.string "Am I a genius or what?\p"
-	.string "I'm going to the POKéMON LEAGUE to\n"
+	.string "I'm going to the POKeMON LEAGUE to\n"
 	.string "boot out the ELITE FOUR.\p"
 	.string "I'll become the world's most\n"
 	.string "powerful TRAINER!\p"

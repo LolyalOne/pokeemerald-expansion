@@ -6,11 +6,11 @@ Route9_EventScript_RouteSign::
 	end
 
 Route9_Text_AliciaIntro::
-	.string "You have POKéMON with you!\n"
+	.string "You have POKeMON with you!\n"
 	.string "You're mine!$"
 
 Route9_Text_AliciaDefeat::
-	.string "You deceived me…$"
+	.string "Voce me enganou...$"
 
 Route9_Text_AliciaPostBattle::
 	.string "The tunnel coming up is pitch-black\n"
@@ -20,26 +20,26 @@ Route9_Text_AliciaPostBattle::
 
 Route9_Text_ChrisIntro::
 	.string "Who's that walking there with those\n"
-	.string "good-looking POKéMON?$"
+	.string "good-looking POKeMON?$"
 
 Route9_Text_ChrisDefeat::
-	.string "Out like a light!$"
+	.string "Apagou como uma luz!$"
 
 Route9_Text_ChrisPostBattle::
-	.string "Keep walking!$"
+	.string "Continue andando!$"
 
 Route9_Text_DrewIntro::
 	.string "I'm taking the ROCK TUNNEL to\n"
 	.string "go to LAVENDER…$"
 
 Route9_Text_DrewDefeat::
-	.string "Can't measure up…$"
+	.string "Nao fui capaz...$"
 
 Route9_Text_DrewPostBattle::
-	.string "Are you off to ROCK TUNNEL, too?$"
+	.string "Voce vai pro ROCK TUNNEL tambem?$"
 
 Route9_Text_CaitlinIntro::
-	.string "Don't you dare patronize me!$"
+	.string "Nao ouse me tratar com pena!$"
 
 Route9_Text_CaitlinDefeat::
 	.string "No!\n"
@@ -56,7 +56,7 @@ Route9_Text_JeremyIntro::
 Route9_Text_JeremyDefeat::
 	.string "Keep it coming, eh!\p"
 	.string "Oh wait.\n"
-	.string "I'm out of POKéMON!$"
+	.string "I'm out of POKeMON!$"
 
 Route9_Text_JeremyPostBattle::
 	.string "You sure had guts standing up to\n"
@@ -67,7 +67,7 @@ Route9_Text_BriceIntro::
 	.string "Aren't you a little toughie!$"
 
 Route9_Text_BriceDefeat::
-	.string "What's that?$"
+	.string "O que foi?$"
 
 Route9_Text_BricePostBattle::
 	.string "Hahaha!\n"
@@ -75,7 +75,7 @@ Route9_Text_BricePostBattle::
 
 Route9_Text_BrentIntro::
 	.string "I got up early every day to raise\n"
-	.string "my POKéMON from cocoons!$"
+	.string "my POKeMON from cocoons!$"
 
 Route9_Text_BrentDefeat::
 	.string "WHAT?\p"
@@ -98,13 +98,13 @@ Route9_Text_AlanPostBattle::
 	.string "Us hearty guys always laugh!$"
 
 Route9_Text_ConnerIntro::
-	.string "Go, my super BUG POKéMON!$"
+	.string "Vai, meu POKeMON INSETO super!$"
 
 Route9_Text_ConnerDefeat::
-	.string "My bugs…$"
+	.string "Meus insetos...$"
 
 Route9_Text_ConnerPostBattle::
-	.string "If you don't like BUG POKéMON,\n"
+	.string "If you don't like BUG POKeMON,\n"
 	.string "you bug me!$"
 
 Route9_Text_RouteSign::

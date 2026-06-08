@@ -13,7 +13,7 @@ EventTicket_Text_BrineyHoldOnASecond:
 	.string "someone that I owe so much to?$"
 
 EventTicket_Text_BrineyLetsSail:
-	.string "{PLAYER}{KUN}, I'm terribly sorry.\p"
+	.string "{PLAYER}, I'm terribly sorry.\p"
 	.string "You came to me seeking my help,\n"
 	.string "and we almost turned you away.\p"
 	.string "Well, let me make things right.\p"
@@ -29,7 +29,7 @@ EventTicket_Text_OddTicketGetOnBoard:
 	.string "No one knows what awaits there…\p"
 	.string "The very thought excites my blood\n"
 	.string "as a sailing man!\p"
-	.string "Get on board, youngster!$"
+	.string "Suba a bordo, garoto!\lFesta em alto mar, Lucas!$"
 
 FarawayIsland_Entrance_Text_SailorReturn:
 	.string "CAPT. BRINEY can be so maddeningly\n"
@@ -50,7 +50,7 @@ EventTicket_Text_OddTicketsWhereTo:
 	.string "or what may happen there.\p"
 	.string "The very thought excites my blood\n"
 	.string "as a sailing man!\p"
-	.string "Get on board, youngster!\n"
+	.string "Suba a bordo, garoto!\lFesta em alto mar, Lucas!\n"
 	.string "Where shall we sail first?$"
 
 NavelRock_Harbor_Text_SailorReturn:

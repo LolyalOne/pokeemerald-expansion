@@ -267,7 +267,7 @@ DewfordTown_Hall_Text_GettingBoredOfTrend:
 	.string "I should look for the next big thing.$"
 
 DewfordTown_Hall_Text_TeachingMonAboutTrend:
-	.string "I'm teaching my POKéMON about\n"
+	.string "I'm teaching my POKeMON about\n"
 	.string "“{STR_VAR_1},”\l"
 	.string "but it's not going well.\p"
 	.string "It's a bit too much, I think.$"
@@ -281,7 +281,7 @@ DewfordTown_Hall_Text_DeepLinkBetweenXAndY:
 
 DewfordTown_Hall_Text_MyHunchWasRight:
 	.string "Oh!\n"
-	.string "So, my hunch was right!\p"
+	.string "So, meu palpite estava certo!\p"
 	.string "I'm one step closer to being hip and\n"
 	.string "happening, yowza!$"
 
@@ -297,7 +297,7 @@ DewfordTown_Hall_Text_TVShowAboutTrend:
 	.string "Isn't there a TV show on it?$"
 
 DewfordTown_Hall_Text_IsTrendMorePopularAcrossSea:
-	.string "Across the sea…\p"
+	.string "Do outro lado do mar...\p"
 	.string "Is “{STR_VAR_1}”\n"
 	.string "even more popular?$"
 
@@ -321,7 +321,7 @@ DewfordTown_Hall_Text_BooksAboutTrend:
 	.string "BAD “{STR_VAR_1}”…\p"
 	.string "THE LINK BETWEEN\n"
 	.string "“{STR_VAR_1}” AND\l"
-	.string "POKéMON…\p"
+	.string "POKeMON…\p"
 	.string "USEFUL\n"
 	.string "“{STR_VAR_1}”…\p"
 	.string "It's neatly jammed with books about\n"
@@ -433,8 +433,8 @@ DewfordTown_Hall_Text_GiveYouSludgeBomb:
 	.string "I'll give you one.$"
 
 DewfordTown_Hall_Text_LoveSludgeBombButTrendInToo:
-	.string "I love SLUDGE BOMB.\p"
-	.string "But POKéMON with the move\n"
+	.string "Eu amo o SLUDGE BOMB.\p"
+	.string "But POKeMON with the move\n"
 	.string "“{STR_VAR_1}”\l"
 	.string "are in, too.$"
 

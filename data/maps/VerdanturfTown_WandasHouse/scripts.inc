@@ -87,7 +87,7 @@ VerdanturfTown_WandasHouse_Text_StrongerSpeech:
 	.string "not feeling down anymore.\p"
 	.string "Because I have a new purpose in life.\n"
 	.string "Together with my RALTS, I'm going\l"
-	.string "to challenge POKéMON GYMS and become\l"
+	.string "to challenge POKeMON GYMS and become\l"
 	.string "a great TRAINER.\p"
 	.string "Please watch me, {PLAYER}.\n"
 	.string "I'm going to be stronger than you.\p"
@@ -101,14 +101,14 @@ VerdanturfTown_WandasHouse_Text_StrongerSpeechShort:
 	.string "to another battle.$"
 
 VerdanturfTown_WandasHouse_Text_WallysNextDoor:
-	.string "UNCLE: Oh! {PLAYER}{KUN}!\n"
+	.string "UNCLE: Oh! {PLAYER}!\n"
 	.string "WALLY's next door.\p"
 	.string "But, boy, there's something I have to\n"
 	.string "tell you.\p"
 	.string "This natural environment is doing\n"
 	.string "wonders for WALLY's health.\p"
 	.string "Maybe it's not just the environment.\n"
-	.string "It could be POKéMON that are giving\l"
+	.string "It could be POKeMON that are giving\l"
 	.string "the boy hope.$"
 
 VerdanturfTown_WandasHouse_Text_WallySlippedOff:
@@ -136,17 +136,17 @@ VerdanturfTown_WandasHouse_Text_DontWorryAboutWally:
 	.string "WANDA: Don't worry about WALLY.\n"
 	.string "He'll be just fine.\p"
 	.string "I know my little cousin, and he has\n"
-	.string "POKéMON with him, too.$"
+	.string "POKeMON with him, too.$"
 
 VerdanturfTown_WandasHouse_Text_CanSeeGirlfriendEveryDay:
-	.string "Thanks to you, I can see my girlfriend\n"
+	.string "Gracas a voce, Lucas, vejo\nminha namorada todo dia!\n"
 	.string "every day.\l"
 	.string "Happy? You bet I am!$"
 
 VerdanturfTown_WandasHouse_Text_DaughtersBoyfriendDriven:
 	.string "My daughter's boyfriend is a very\n"
 	.string "driven and passionate sort of person.\p"
-	.string "He's been digging a tunnel nonstop\n"
+	.string "He's been cavando o tunel sem parar.\n"
 	.string "just so he can see my daughter.\p"
 	.string "My daughter's a little concerned,\n"
 	.string "so she goes out to the tunnel a lot.$"
@@ -162,7 +162,7 @@ VerdanturfTown_WandasHouse_Text_IfAnythingHappenedToWally:
 	.string "parents in PETALBURG in the eye…$"
 
 VerdanturfTown_WandasHouse_Text_WallyWasInEverGrande:
-	.string "WALLY was in EVER GRANDE?\p"
+	.string "O WALLY em EVER GRANDE?\p"
 	.string "His parents in PETALBURG would be\n"
 	.string "astonished to hear that!$"
 

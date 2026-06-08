@@ -24,10 +24,10 @@ SSAnne_2F_Room2_Text_BrooksPostBattle::
 	.string "have won!$"
 
 SSAnne_2F_Room2_Text_DaleIntro::
-	.string "Check out what I fished up!$"
+	.string "Olha so o que eu pesquei!$"
 
 SSAnne_2F_Room2_Text_DaleDefeat::
-	.string "I'm all out!$"
+	.string "Estou sem nada!$"
 
 SSAnne_2F_Room2_Text_DalePostBattle::
 	.string "Party?\p"

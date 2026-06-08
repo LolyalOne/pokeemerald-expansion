@@ -50,7 +50,7 @@ Route16_House_Text_ExplainHM02::
 	.string "Please, put it to good use.$"
 
 Route16_House_Text_DontHaveAnyRoomForThis::
-	.string "You don't have any room for this.$"
+	.string "Nao tem espaco para isso.$"
 
 Route16_House_Text_Fearow::
 	.string "FEAROW: Kyueen!$"

@@ -50,7 +50,7 @@ BattleFrontier_BattlePalaceCorridor_EventScript_WarpToBattleRoom::
 	end
 
 BattleFrontier_BattlePalaceCorridor_EventScript_RandomComment1::
-	msgbox BattleFrontier_BattlePalaceCorridor_Text_PeopleAndMonAreSame, MSGBOX_DEFAULT
+	msgbox BattleFrontier_BattlePalaceCorridor_Text_PeopleAndMonsSame, MSGBOX_DEFAULT
 	return
 
 BattleFrontier_BattlePalaceCorridor_EventScript_RandomComment2::
@@ -58,7 +58,7 @@ BattleFrontier_BattlePalaceCorridor_EventScript_RandomComment2::
 	return
 
 BattleFrontier_BattlePalaceCorridor_EventScript_RandomComment3::
-	msgbox BattleFrontier_BattlePalaceCorridor_Text_MonDifferentWhenCornered, MSGBOX_DEFAULT
+	msgbox BattleFrontier_BattlePalaceCorridor_Text_MonsNatureIsRemarkable, MSGBOX_DEFAULT
 	return
 
 BattleFrontier_BattlePalaceCorridor_EventScript_StreakComment::
@@ -66,7 +66,7 @@ BattleFrontier_BattlePalaceCorridor_EventScript_StreakComment::
 	return
 
 BattleFrontier_BattlePalaceCorridor_EventScript_LongStreakComment::
-	msgbox BattleFrontier_BattlePalaceCorridor_Text_HeartfeltBondBetweenYouAndMons, MSGBOX_DEFAULT
+	msgbox BattleFrontier_BattlePalaceCorridor_Text_HeartfeltBondBetweenYou, MSGBOX_DEFAULT
 	return
 
 BattleFrontier_BattlePalaceCorridor_Movement_EnterCorridor:
@@ -119,31 +119,37 @@ BattleFrontier_BattlePalaceCorridor_Movement_AttendantEnterBattleRoom:
 	set_invisible
 	step_end
 
-BattleFrontier_BattlePalaceCorridor_Text_PeopleAndMonAreSame:
-	.string "People and POKéMON, they are but\n"
-	.string "the same…\p"
-	.string "Their individual nature makes them\n"
-	.string "good at certain things, and not good\l"
-	.string "at others.$"
+BattleFrontier_BattlePalaceCorridor_Text_PeopleAndMonsSame:
+	.string "Pessoas e POKeMON, eles sao a mesma\n"
+	.string "coisa...\p"
+	.string "Suas naturezas individuais os tornam\n"
+	.string "bons em certas coisas, e nao tao bons\l"
+	.string "em outras.$"
 
 BattleFrontier_BattlePalaceCorridor_Text_LetMonDoWhatItLikes:
-	.string "Rather than trying to make a POKéMON\n"
-	.string "do what it dislikes, try to let it do\l"
-	.string "what it likes and is good at doing.\p"
-	.string "Put yourself in the POKéMON's position\n"
-	.string "and consider what moves it would like.$"
+	.string "Em vez de tentar fazer um POKeMON\n"
+	.string "fazer o que ele nao gosta, tente\l"
+	.string "deixa-lo fazer o que gosta e e bom.\p"
+	.string "Coloque-se no lugar do POKeMON e\n"
+	.string "considere quais golpes ele gostaria.\p"
+	.string "E como um presente de aniversario,\n"
+	.string "Lucas! Deixe-os brilharem do jeito\l"
+	.string "que eles amam!$"
 
-BattleFrontier_BattlePalaceCorridor_Text_MonDifferentWhenCornered:
-	.string "A POKéMON's nature is a remarkable\n"
-	.string "thing…\p"
-	.string "Some POKéMON behave in a completely\n"
-	.string "different way when they are cornered.$"
+BattleFrontier_BattlePalaceCorridor_Text_MonsNatureIsRemarkable:
+	.string "A natureza de um POKeMON e algo\n"
+	.string "notavel...\p"
+	.string "Alguns POKeMON se comportam de maneira\n"
+	.string "completamente diferente quando estao\l"
+	.string "encurralados.$"
 
 BattleFrontier_BattlePalaceCorridor_Text_BeginningToUnderstandNature:
-	.string "Are you beginning to understand how\n"
-	.string "a POKéMON's nature makes it behave?$"
+	.string "Voce esta comecando a entender como\n"
+	.string "a natureza de um POKeMON o faz agir?$"
 
-BattleFrontier_BattlePalaceCorridor_Text_HeartfeltBondBetweenYouAndMons:
-	.string "Ah… I see a strong, heartfelt bond\n"
-	.string "between you and your POKéMON…$"
+BattleFrontier_BattlePalaceCorridor_Text_HeartfeltBondBetweenYou:
+	.string "Ah... eu vejo um laco forte e sincero\n"
+	.string "entre voce e seus POKeMON...\p"
+	.string "Um laco digno de um aniversariante,\n"
+	.string "Lucas! Continue assim!$"
 

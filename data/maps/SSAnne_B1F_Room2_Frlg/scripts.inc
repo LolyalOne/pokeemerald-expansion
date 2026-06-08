@@ -7,12 +7,13 @@ SSAnne_B1F_Room2_EventScript_Huey::
 	end
 
 SSAnne_B1F_Room2_Text_HueyIntro::
-	.string "Even us sailors have POKéMON, too!$"
+	.string "Ate nos, marinheiros, temos\n"
+	.string "POKeMON tambem!$"
 
 SSAnne_B1F_Room2_Text_HueyDefeat::
-	.string "Okay, you're not bad.$"
+	.string "Certo, voce nao e nada mal.\lManda bem no seu dia, Lucas!$"
 
 SSAnne_B1F_Room2_Text_HueyPostBattle::
-	.string "We caught all our POKéMON while\n"
+	.string "We caught all our POKeMON while\n"
 	.string "we were out at sea.$"
 

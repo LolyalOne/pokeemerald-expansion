@@ -36,12 +36,14 @@ FuchsiaCity_House2_Text_DoYouLikeToFish::
 	.string "brother.\p"
 	.string "I simply looove fishing!\n"
 	.string "I can't bear to go without.\p"
-	.string "Tell me, do you like to fish?$"
+	.string "Diga-me, Lucas, voce gosta de\n"
+	.string "pescar?$"
 
 FuchsiaCity_House2_Text_LikeYourStyleTakeThis::
 	.string "Grand! I like your style.\n"
 	.string "I think we can be friends.\p"
-	.string "Take this and fish, young friend!$"
+	.string "Pegue isto e pesque, meu jovem\n"
+	.string "amigo! Feliz aniversario!$"
 
 FuchsiaCity_House2_Text_ReceivedGoodRod::
 	.string "{PLAYER} received a GOOD ROD from\n"
@@ -53,7 +55,7 @@ FuchsiaCity_House2_Text_GoodRodCanCatchBetterMons::
 	.string "A crummy OLD ROD could only catch\n"
 	.string "MAGIKARP, yes?\p"
 	.string "But with a GOOD ROD, you can\n"
-	.string "catch much better POKéMON.$"
+	.string "catch much better POKeMON.$"
 
 FuchsiaCity_House2_Text_OhThatsDisappointing::
 	.string "Oh…\n"

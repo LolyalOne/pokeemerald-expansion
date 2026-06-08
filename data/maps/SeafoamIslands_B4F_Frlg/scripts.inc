@@ -204,10 +204,10 @@ Text_RockSlideTeach::
 	.string "Want to try using ROCK SLIDE?$"
 
 Text_RockSlideDeclined::
-	.string "Oh, so you are scared after all.$"
+	.string "Ah, entao voce esta com medo, no fim.$"
 
 Text_RockSlideWhichMon::
-	.string "Which POKéMON should I teach\n"
+	.string "Which POKeMON should I teach\n"
 	.string "ROCK SLIDE?$"
 
 Text_RockSlideTaught::

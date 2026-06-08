@@ -323,14 +323,14 @@ Route113_GlassWorkshop_Text_WhichGlassItemWoudYouLike:
 	.string "Oh!\n"
 	.string "You've got a lot of ashes, huff-puff!\p"
 	.string "I'll make you a glass item, huff-puff!\n"
-	.string "Which one would you like, huff-puff?$"
+	.string "Qual voce gostaria, huff-puff?$"
 
 Route113_GlassWorkshop_Text_IsThatTheItemForYou:
 	.string "A {STR_VAR_1}, huff-puff?\n"
 	.string "Is that the one for you, huff-puff?$"
 
 Route113_GlassWorkshop_Text_WhichWouldYouLike:
-	.string "Which one would you like, huff-puff?$"
+	.string "Qual voce gostaria, huff-puff?$"
 
 Route113_GlassWorkshop_Text_IllMakeItemForYou:
 	.string "A {STR_VAR_1} it is, then, huff-puff!\p"

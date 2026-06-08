@@ -32,46 +32,55 @@ AbandonedShip_Rooms_1F_EventScript_ThaliaRematch::
 	end
 
 AbandonedShip_Rooms_1F_Text_TakingALookAround:
-	.string "Ships of this sort are rare, so I'm\n"
-	.string "taking a look around.\p"
-	.string "Hmhm…\n"
-	.string "There appear to be other cabins…$"
+	.string "Navios deste tipo sao raros, entao\n"
+	.string "estou dando uma olhada.\p"
+	.string "Hmhm...\n"
+	.string "Parece haver outras cabines...\p"
+	.string "Ah, ouvi dizer que voce e o Lucas!\n"
+	.string "Parabens pelo seu aniversario!$"
 
 AbandonedShip_Rooms_1F_Text_ThaliaIntro:
-	.string "What on earth would compel you to\n"
-	.string "come here? You must be curious!$"
+	.string "O que raios te trouxe ate aqui?\n"
+	.string "Voce deve ser bem curioso!\p"
+	.string "Toda essa curiosidade merece uma\n"
+	.string "batalha de aniversario, Lucas!$"
 
 AbandonedShip_Rooms_1F_Text_ThaliaDefeat:
-	.string "Not just curious, but also strong…$"
+	.string "Nao e apenas curioso, mas tambem\n"
+	.string "muito forte...$"
 
 AbandonedShip_Rooms_1F_Text_ThaliaPostBattle:
-	.string "The man next door…\p"
-	.string "He says he's just sightseeing,\n"
-	.string "but I don't know about that.$"
+	.string "O homem ao lado...\p"
+	.string "Ele diz que esta apenas passeando,\n"
+	.string "mas eu nao sei nao...\p"
+	.string "Tenha cuidado no seu dia, Lucas!$"
 
 AbandonedShip_Rooms_1F_Text_ThaliaRegister:
-	.string "You're such a tough TRAINER!\n"
-	.string "Let me register you as a memento!$"
+	.string "Voce e um TREINADOR muito forte!\n"
+	.string "Deixe-me te registrar como lembranca!$"
 
 AbandonedShip_Rooms_1F_Text_ThaliaRematchIntro:
-	.string "What on earth would compel you to\n"
-	.string "come back? You must really be curious!$"
+	.string "O que raios te trouxe de volta?\n"
+	.string "Voce deve ser mesmo curioso!\p"
+	.string "Veio buscar mais parabens, Lucas?$"
 
 AbandonedShip_Rooms_1F_Text_ThaliaRematchDefeat:
-	.string "Aren't you too strong?$"
+	.string "Voce nao e forte demais?$"
 
 AbandonedShip_Rooms_1F_Text_ThaliaPostRematch:
-	.string "I'm sure that man's up to something!\n"
-	.string "He just acts so suspiciously!$"
+	.string "Tenho certeza que naquele homem esta\n"
+	.string "aprontando alguma!\l"
+	.string "Ele age de forma tao suspeita!$"
 
 AbandonedShip_Rooms_1F_Text_DemetriusIntro:
-	.string "Waaah!\n"
-	.string "I've been found! …Huh?$"
+	.string "Uaaah!\n"
+	.string "Fui encontrado! ...Hein?$"
 
 AbandonedShip_Rooms_1F_Text_DemetriusDefeat:
-	.string "Oh, you're not my mom.$"
+	.string "Ah, voce nao e a minha mae.$"
 
 AbandonedShip_Rooms_1F_Text_DemetriusPostBattle:
-	.string "I'm in trouble with my mom, so I ran.\n"
-	.string "Keep it a secret where I am!$"
-
+	.string "Eu me meti em encrenca com minha mae,\n"
+	.string "entao fugi. Guarde segredo de onde\l"
+	.string "estou, Lucas! Se fizer isso, te dou\l"
+	.string "um segredo de aniversario!$"

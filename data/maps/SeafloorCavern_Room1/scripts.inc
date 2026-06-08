@@ -16,7 +16,7 @@ SeafloorCavern_Room1_Text_Grunt1Intro:
 	.string "Go on home already!$"
 
 SeafloorCavern_Room1_Text_Grunt1Defeat:
-	.string "I want to go home…$"
+	.string "Eu quero ir pra casa...$"
 
 SeafloorCavern_Room1_Text_Grunt1PostBattle:
 	.string "I want to get a promotion so I can\n"
@@ -27,7 +27,7 @@ SeafloorCavern_Room1_Text_Grunt2Intro:
 	.string "I'm sore all over!$"
 
 SeafloorCavern_Room1_Text_Grunt2Defeat:
-	.string "Losing makes me sore!$"
+	.string "Perder me deixa dolorido!$"
 
 SeafloorCavern_Room1_Text_Grunt2PostBattle:
 	.string "That submarine we jacked, man,\n"

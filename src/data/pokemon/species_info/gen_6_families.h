@@ -916,7 +916,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         .height = 15,
         .weight = 400,
         .description = COMPOUND_STRING(
-            "This Pokémon spins a giant\n"
+            "This Pokemon spins a giant\n"
             "shuriken at high speed to make it\n"
             "float, then clings to it upside\n"
             "down to catch opponents unawares."),
@@ -1109,7 +1109,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         .height = 3,
         .weight = 17,
         .description = COMPOUND_STRING(
-            "This amiable Pokémon is easy to train.\n"
+            "This amiable Pokemon is easy to train.\n"
             "But when battle is joined, it shows its\n"
             "ferocious side. It's merciless to\n"
             "intruders that enter its territory."),
@@ -1184,7 +1184,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         .description = COMPOUND_STRING(
             "From its beak, it expels embers that set\n"
             "the tall grass on fire. Then it pounces on\n"
-            "any bewildered Pokémon that pop out of\n"
+            "any bewildered Pokemon that pop out of\n"
             "the grass."),
         .pokemonScale = 365,
         .pokemonOffset = 12,
@@ -1756,7 +1756,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         .description = COMPOUND_STRING(
             "They set off on their own from their pride\n"
             "and live by themselves to become stronger.\n"
-            "These hot-blooded Pokémon are quick\n"
+            "These hot-blooded Pokemon are quick\n"
             "to start a fight."),
         .pokemonScale = 422,
         .pokemonOffset = 12,
@@ -1911,7 +1911,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         .height = 15,
         .weight = 933,
         .description = COMPOUND_STRING(
-            "This Pokémon spews flames hotter\n"
+            "This Pokemon spews flames hotter\n"
             "than 18,000 degrees Fahrenheit.\n"
             "It swings around its grand, blazing\n"
             "mane as it protects its allies."),
@@ -1959,7 +1959,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_FAIRY),                           \
         .abilities = { ABILITY_FLOWER_VEIL, ABILITY_NONE, ABILITY_SYMBIOSIS },  \
         .bodyColor = BODY_COLOR_WHITE,                                          \
-        .speciesName = _("Flabébé"),                                            \
+        .speciesName = _("Flabebe"),                                            \
         .cryId = CRY_FLABEBE,                                                   \
         .natDexNum = NATIONAL_DEX_FLABEBE,                                      \
         .categoryName = _("Single Bloom"),                                      \
@@ -2005,8 +2005,8 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
     {
         FLABEBE_MISC_INFO(Red, RED, 1),
         .description = COMPOUND_STRING(
-            "This Flabébé rides a red flower.\n"
-            "Immediately after birth, this Pokémon\n"
+            "This Flabebe rides a red flower.\n"
+            "Immediately after birth, this Pokemon\n"
             "begins flying around in search of a\n"
             "flower it likes."),
     },
@@ -2017,7 +2017,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         .description = COMPOUND_STRING(
             "It unleashes a variety of moves by\n"
             "drawing forth the power hidden\n"
-            "within flowers. This Pokémon is\n"
+            "within flowers. This Pokemon is\n"
             "particularly fond of yellow flowers."),
     },
 
@@ -2027,7 +2027,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         .description = COMPOUND_STRING(
             "It receives strength from flowers\n"
             "and gives them some of its energy in\n"
-            "return. This Pokémon likes orange\n"
+            "return. This Pokemon likes orange\n"
             "flowers best of all."),
     },
 
@@ -2035,7 +2035,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
     {
         FLABEBE_MISC_INFO(Blue, BLUE, 0),
         .description = COMPOUND_STRING(
-            "This Pokémon likes blue flowers\n"
+            "This Pokemon likes blue flowers\n"
             "best of all. It floats upward using the\n"
             "power emanating from its flower\n"
             "and bobs along lightly through the air."),
@@ -2117,7 +2117,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
     {
         FLOETTE_NORMAL_INFO(Red, RED, 1),
         .description = COMPOUND_STRING(
-            "This Pokémon uses red wavelengths\n"
+            "This Pokemon uses red wavelengths\n"
             "of light to pour its own energy\n"
             "into flowers and draw forth their\n"
             "latent potential."),
@@ -2127,7 +2127,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
     {
         FLOETTE_NORMAL_INFO(Yellow, YELLOW, 1),
         .description = COMPOUND_STRING(
-            "This Pokémon can draw forth the\n"
+            "This Pokemon can draw forth the\n"
             "power hidden within yellow flowers.\n"
             "This power then becomes the moves\n"
             "Floette uses to protect itself."),
@@ -2137,7 +2137,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
     {
         FLOETTE_NORMAL_INFO(Orange, ORANGE, 0),
         .description = COMPOUND_STRING(
-            "This Pokémon can draw forth the\n"
+            "This Pokemon can draw forth the\n"
             "most power when in sync with orange\n"
             "flowers, compared to flowers of other\n"
             "colors."),
@@ -2147,7 +2147,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
     {
         FLOETTE_NORMAL_INFO(Blue, BLUE, 0),
         .description = COMPOUND_STRING(
-            "Whenever this Pokémon finds\n"
+            "Whenever this Pokemon finds\n"
             "flowering plants that are withering, it\n"
             "will bring them back to its territory\n"
             "and care for them."),
@@ -2253,7 +2253,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
     {
         FLORGES_MISC_INFO(Red, 0),
         .description = COMPOUND_STRING(
-            "This Pokémon creates an impressive\n"
+            "This Pokemon creates an impressive\n"
             "flower garden in its territory. It\n"
             "draws forth the power of the red\n"
             "flowers around its neck."),
@@ -2263,7 +2263,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
     {
         FLORGES_MISC_INFO(Yellow, 1),
         .description = COMPOUND_STRING(
-            "This Pokémon battles by drawing\n"
+            "This Pokemon battles by drawing\n"
             "forth the power of yellow flowers. It\n"
             "ruthlessly punishes anyone who\n"
             "tramples on flowering plants."),
@@ -3292,7 +3292,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         .description = COMPOUND_STRING(
             "Once upon a time, a king with an\n"
             "Aegislash reigned over the land. His\n"
-            "Pokémon eventually drained him of\n"
+            "Pokemon eventually drained him of\n"
             "life, and his kingdom fell with him."),
         .pokemonScale = 259,
         .pokemonOffset = 0,
@@ -4675,7 +4675,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         .height = 13,
         .weight = 252,
         .description = COMPOUND_STRING(
-            "This ancient Pokémon was restored from\n"
+            "This ancient Pokemon was restored from\n"
             "part of its body that had been frozen in\n"
             "ice for over 100 million years. It lived in a\n"
             "cold land where there were no predators."),
@@ -5178,7 +5178,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         .height = 8,
         .weight = 175,
         .description = COMPOUND_STRING(
-            "This Pokémon's mucous can dissolve\n"
+            "This Pokemon's mucous can dissolve\n"
             "anything. Toothless, it sprays mucous\n"
             "on its prey. Once they're nicely dissolved,\n"
             "it slurps them up."),
@@ -5681,7 +5681,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
             "The light that streams out from\n"
             "the holes in the pumpkin can\n"
             "hypnotize and control the people and\n"
-            "Pokémon that see it."),
+            "Pokemon that see it."),
         .pokemonScale = 491,
         .pokemonOffset = 12,
         .trainerScale = 256,

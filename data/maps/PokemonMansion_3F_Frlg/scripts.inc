@@ -34,13 +34,13 @@ PokemonMansion_1F_Text_SimonIntro::
 	.string "This place is, like, huge!$"
 
 PokemonMansion_1F_Text_SimonDefeat::
-	.string "Ayah!$"
+	.string "Aia!$"
 
 PokemonMansion_1F_Text_SimonPostBattle::
-	.string "I wonder where my partner went.$"
+	.string "Onde sera que meu parceiro foi?$"
 
 PokemonMansion_1F_Text_BraydonIntro::
-	.string "My mentor once lived here.$"
+	.string "Meu mentor ja morou aqui.$"
 
 PokemonMansion_1F_Text_BraydonDefeat::
 	.string "Whew!\n"

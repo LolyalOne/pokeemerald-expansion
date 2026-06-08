@@ -87,7 +87,7 @@ MtChimney_CableCarStation_Text_CableCarReadyGetOn:
 	.string "Would you like to be on it?$"
 
 MtChimney_CableCarStation_Text_StepThisWay:
-	.string "Please step this way.$"
+	.string "Por favor, venha por aqui.$"
 
 MtChimney_CableCarStation_Text_RideAnotherTime:
 	.string "Please ride with us another time.$"

@@ -16,13 +16,13 @@ PetalburgCity_House1_Text_TravelingIsWonderful:
 
 PetalburgCity_House1_Text_GoOnAdventure:
 	.string "Sigh…\p"
-	.string "I wish I could go on an adventure\n"
-	.string "with some POKéMON…\p"
+	.string "Queria sair em aventura com\nPOKeMON tambem...\n"
+	.string "with some POKeMON…\p"
 	.string "Crawl through some damp grass…\n"
 	.string "Climb rocky, rugged mountains…\p"
 	.string "Cross the raging seas…\n"
 	.string "Wander about in dark caves…\p"
 	.string "And, sometimes, even get a little\n"
 	.string "homesick…\p"
-	.string "It must be fabulous to travel!$"
+	.string "Deve ser incrivel viajar!$"
 

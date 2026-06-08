@@ -62,7 +62,7 @@ ThreeIsland_BerryForest_EventScript_BewareSign::
 ThreeIsland_BerryForest_Text_HelpScaryPokemon::
 	.string "LOSTELLE: Whimper… Sniff…\n"
 	.string "Oh! Please, help!\p"
-	.string "A scary POKéMON appeared there\n"
+	.string "A scary POKeMON appeared there\n"
 	.string "a little while ago.\p"
 	.string "It kept scaring.\n"
 	.string "It made LOSTELLE scared.\p"
@@ -94,11 +94,12 @@ ThreeIsland_BerryForest_Text_BerryPouchIsFull::
 	.string "I guess you don't want this.$"
 
 ThreeIsland_BerryForest_Text_WelcomeToBerryForest::
-	.string "Welcome to the BERRY FOREST\p"
+	.string "Bem-vindo a BERRY FOREST\pCompartilhe BERRIES com os outros\n"
+	.string "e com os POKeMON.\p"
 	.string "Be friendly and share BERRIES with\n"
-	.string "others and POKéMON.$"
+	.string "others and POKeMON.$"
 
 ThreeIsland_BerryForest_Text_BewareWildBerryLovingMons::
 	.string "Beware of wild, BERRY-loving\n"
-	.string "POKéMON!$"
+	.string "POKeMON!$"
 

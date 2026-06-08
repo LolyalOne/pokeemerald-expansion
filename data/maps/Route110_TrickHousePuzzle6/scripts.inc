@@ -45,7 +45,7 @@ Route110_TrickHousePuzzle6_EventScript_Sebastian::
 Route110_TrickHousePuzzle6_Text_WroteSecretCodeLockOpened:
 	.string "{PLAYER} wrote down the secret code\n"
 	.string "on the door.\p"
-	.string "“TRICK MASTER is my life.”\n"
+	.string "“MESTRE DOS TRUQUES e minha vida.”\n"
 	.string "… … … … … … … …\p"
 	.string "The lock clicked open!$"
 
@@ -54,7 +54,7 @@ Route110_TrickHousePuzzle6_Text_SophiaIntro:
 	.string "house, I had to check it out.$"
 
 Route110_TrickHousePuzzle6_Text_SophiaDefeat:
-	.string "I've discovered a tough TRAINER!$"
+	.string "Descobri um TREINADOR forte!$"
 
 Route110_TrickHousePuzzle6_Text_SophiaPostBattle:
 	.string "I'm sure having a good time checking\n"
@@ -63,11 +63,11 @@ Route110_TrickHousePuzzle6_Text_SophiaPostBattle:
 	.string "repeating!$"
 
 Route110_TrickHousePuzzle6_Text_BennyIntro:
-	.string "Maybe I could get my BIRD POKéMON\n"
+	.string "Maybe I could get my BIRD POKeMON\n"
 	.string "to fly over the wall…$"
 
 Route110_TrickHousePuzzle6_Text_BennyDefeat:
-	.string "Gwaaah! I blew it!$"
+	.string "Gwaaah! Eu estraguei tudo!$"
 
 Route110_TrickHousePuzzle6_Text_BennyPostBattle:
 	.string "Ehehehe… I guess I lost because\n"

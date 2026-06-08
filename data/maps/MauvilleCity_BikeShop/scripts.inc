@@ -178,14 +178,14 @@ MauvilleCity_BikeShop_EventScript_ExitAcroHandbook::
 
 MauvilleCity_BikeShop_Text_RydelGreeting:
 	.string "Well, well, what have we here?\n"
-	.string "A most energetic customer!\p"
+	.string "Um cliente muito energetico!\p"
 	.string "Me? You may call me RYDEL.\n"
-	.string "I'm the owner of this cycle shop.$"
+	.string "Eu sou o dono desta loja de bikes.$"
 
 MauvilleCity_BikeShop_Text_DidYouComeFromFarAway:
 	.string "RYDEL: Your RUNNING SHOES…\n"
 	.string "They're awfully filthy.\p"
-	.string "Did you come from far away?$"
+	.string "Voce veio de longe, Lucas?$"
 
 MauvilleCity_BikeShop_Text_GuessYouDontNeedBike:
 	.string "RYDEL: Is that right?\p"
@@ -202,10 +202,10 @@ MauvilleCity_BikeShop_Text_ExplainBikesChooseWhichOne:
 	.string "go anywhere easily while feeling the\l"
 	.string "gentle caress of the wind!\p"
 	.string "I'll tell you what!\n"
-	.string "I'll give you a BIKE!\p"
+	.string "Eu vou te dar uma BIKE!\lConsidere meu presente de aniversario\lpra voce, Lucas!\p"
 	.string "Oh, wait a second!\p"
 	.string "I forgot to tell you that there are\n"
-	.string "two kinds of BIKES!\p"
+	.string "dois tipos de BIKES!\p"
 	.string "They are the MACH BIKE and\n"
 	.string "the ACRO BIKE!\p"
 	.string "The MACH BIKE is for cyclists who want\n"
@@ -214,13 +214,13 @@ MauvilleCity_BikeShop_Text_ExplainBikesChooseWhichOne:
 	.string "prefer technical rides!\p"
 	.string "I'm a real sweetheart, so you can\n"
 	.string "have whichever one you like!\p"
-	.string "Which one will you choose?$"
+	.string "Qual voce vai escolher?$"
 
 MauvilleCity_BikeShop_Text_ChoseMachBike:
-	.string "{PLAYER} chose the MACH BIKE.$"
+	.string "{PLAYER} escolheu a MACH BIKE.$"
 
 MauvilleCity_BikeShop_Text_ChoseAcroBike:
-	.string "{PLAYER} chose the ACRO BIKE.$"
+	.string "{PLAYER} escolheu a ACRO BIKE.$"
 
 MauvilleCity_BikeShop_Text_ComeBackToSwitchBikes:
 	.string "RYDEL: If you get the urge to switch\n"

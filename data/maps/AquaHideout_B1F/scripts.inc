@@ -135,16 +135,19 @@ AquaHideout_B1F_Text_Grunt3PostBattle:
 	.string "My mission was to just hold you up!$"
 
 AquaHideout_B1F_Text_Grunt5Intro:
-	.string "Yawn… Keeping watch over the\n"
-	.string "HIDEOUT bores me. I'll take you on.$"
+	.string "Bocejo... Vigiar o ESCONDERIJO e um\n"
+	.string "tedio so. Vou lutar com voce.\p"
+	.string "Tente me acordar no seu dia especial,\n"
+	.string "Lucas!$"
 
 AquaHideout_B1F_Text_Grunt5Defeat:
-	.string "Yawn…\n"
-	.string "Oh, I lost…$"
+	.string "Bocejo...\n"
+	.string "Ah, eu perdi...$"
 
 AquaHideout_B1F_Text_Grunt5PostBattle:
-	.string "If you scurry too much, other TEAM\n"
-	.string "AQUA members might get you.$"
+	.string "Se voce ficar correndo pra la e pra ca,\n"
+	.string "outros membros do TEAM AQUA vao te\l"
+	.string "pegar. Cuidado, aniversariante!$"
 
 AquaHideout_B1F_Text_Grunt7Intro:
 	.string "Hey!\n"

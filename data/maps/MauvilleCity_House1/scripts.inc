@@ -25,13 +25,13 @@ MauvilleCity_House1_Text_ImRockSmashDudeTakeThis:
 	.string "I think I deserve a bit more respect,\n"
 	.string "like maybe the ROCK SMASH DUDE.\p"
 	.string "Woohoo!\p"
-	.string "Anyways, your POKéMON look pretty\n"
+	.string "Anyways, your POKeMON look pretty\n"
 	.string "strong.\p"
 	.string "I like that!\n"
-	.string "Here, take this HIDDEN MACHINE!$"
+	.string "Aqui, pegue esta HIDDEN MACHINE!\lConsidere meu presente de aniversario\lpra voce, Lucas!$"
 
 MauvilleCity_House1_Text_ExplainRockSmash:
-	.string "That HM contains ROCK SMASH.\p"
+	.string "Aquele HM contem ROCK SMASH.\p"
 	.string "If you come across large boulders\n"
 	.string "that block your path…\p"
 	.string "Well, use that HM move and smash\n"
@@ -40,7 +40,7 @@ MauvilleCity_House1_Text_ExplainRockSmash:
 	.string "Woohoo!$"
 
 MauvilleCity_House1_Text_MonCanFlyOutOfSmashedRock:
-	.string "Oh, yes, if you smash a rock, a POKéMON\n"
+	.string "Oh, yes, if you smash a rock, a POKeMON\n"
 	.string "could come flying out of hiding.\p"
 	.string "Woohoo!$"
 

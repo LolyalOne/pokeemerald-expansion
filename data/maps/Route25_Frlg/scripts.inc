@@ -14,20 +14,20 @@ Route25_Text_JoeyIntro::
 	.string "practice.$"
 
 Route25_Text_JoeyDefeat::
-	.string "You're decent.$"
+	.string "Voce e decente.$"
 
 Route25_Text_JoeyPostBattle::
-	.string "All POKéMON have weaknesses.\n"
+	.string "All POKeMON have weaknesses.\n"
 	.string "Even the strongest ones.\p"
 	.string "That's why it's best to raise\n"
-	.string "POKéMON of different types.$"
+	.string "POKeMON of different types.$"
 
 Route25_Text_DanIntro::
 	.string "Dad took me to a great party on\n"
 	.string "the S.S. ANNE at VERMILION CITY.$"
 
 Route25_Text_DanDefeat::
-	.string "I'm not mad!$"
+	.string "Nao estou bravo!$"
 
 Route25_Text_DanPostBattle::
 	.string "On the S.S. ANNE, I saw TRAINERS\n"
@@ -38,7 +38,7 @@ Route25_Text_FlintIntro::
 	.string "I've got a girlfriend!$"
 
 Route25_Text_FlintDefeat::
-	.string "Aww, darn…$"
+	.string "Aww, poxa...$"
 
 Route25_Text_FlintPostBattle::
 	.string "Oh, well.\n"
@@ -49,7 +49,7 @@ Route25_Text_KelseyIntro::
 	.string "My boyfriend is cool!$"
 
 Route25_Text_KelseyDefeat::
-	.string "My conditioning isn't the best…$"
+	.string "Meu condicionamento nao ta bom...$"
 
 Route25_Text_KelseyPostBattle::
 	.string "I wish my boyfriend was as good\n"
@@ -60,19 +60,19 @@ Route25_Text_ChadIntro::
 	.string "I knew I had to battle you!$"
 
 Route25_Text_ChadDefeat::
-	.string "I knew I'd lose, too!$"
+	.string "Eu sabia que ia perder tambem!$"
 
 Route25_Text_ChadPostBattle::
-	.string "If your POKéMON gets confused,\n"
+	.string "If your POKeMON gets confused,\n"
 	.string "switch it out.\p"
 	.string "That's a good tactic.$"
 
 Route25_Text_HaleyIntro::
-	.string "My friend has many cute POKéMON.\n"
+	.string "My friend has many cute POKeMON.\n"
 	.string "I'm so jealous!$"
 
 Route25_Text_HaleyDefeat::
-	.string "I'm not so jealous!$"
+	.string "Nao sou tao invejosa assim!$"
 
 Route25_Text_HaleyPostBattle::
 	.string "You came from MT. MOON?\n"
@@ -83,14 +83,14 @@ Route25_Text_FranklinIntro::
 	.string "but I've still got gas in the tank!$"
 
 Route25_Text_FranklinDefeat::
-	.string "You worked hard!$"
+	.string "Voce trabalhou duro!$"
 
 Route25_Text_FranklinPostBattle::
 	.string "Drat!\n"
 	.string "A ZUBAT bit me back in that cave.$"
 
 Route25_Text_NobIntro::
-	.string "I'm off to see a POKéMANIAC's\n"
+	.string "I'm off to see a POKeMANIAC's\n"
 	.string "collection at the cape.$"
 
 Route25_Text_NobDefeat::
@@ -98,17 +98,17 @@ Route25_Text_NobDefeat::
 	.string "too!$"
 
 Route25_Text_NobPostBattle::
-	.string "The POKéMANIAC sure lives up to\n"
+	.string "The POKeMANIAC sure lives up to\n"
 	.string "his name.\p"
 	.string "His collection includes many rare\n"
-	.string "species of POKéMON.$"
+	.string "species of POKeMON.$"
 
 Route25_Text_WayneIntro::
 	.string "You're going to see BILL?\n"
 	.string "First, we battle!$"
 
 Route25_Text_WayneDefeat::
-	.string "You're something.$"
+	.string "Voce e demais.$"
 
 Route25_Text_WaynePostBattle::
 	.string "The trail below is a shortcut to\n"

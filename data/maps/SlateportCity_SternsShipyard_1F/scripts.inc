@@ -76,7 +76,7 @@ SlateportCity_SternsShipyard_1F_Text_MeetDockDeliverToStern:
 	.string "CAPT. STERN commissioned me to\n"
 	.string "design a ferry.\p"
 	.string "Oh! That there…\n"
-	.string "Are they DEVON GOODS?\p"
+	.string "Sao as encomendas da DEVON?\p"
 	.string "But, hmm…\n"
 	.string "This won't do…\p"
 	.string "CAPT. STERN went off somewhere.\n"
@@ -113,10 +113,10 @@ SlateportCity_SternsShipyard_1F_Text_FerryIsReady:
 	.string "technology's march.$"
 
 SlateportCity_SternsShipyard_1F_Text_DecidedToHelpDock:
-	.string "MR. BRINEY: Ah, {PLAYER}{KUN}!\n"
+	.string "MR. BRINEY: Ah, {PLAYER}!\n"
 	.string "It's been too long!\p"
 	.string "Aye, since I met you, this old sea dog's\n"
-	.string "been feeling frisky!\p"
+	.string "been feeling animado!\p"
 	.string "So I've decided to help DOCK make\n"
 	.string "a ferry.\p"
 	.string "Aye, after all, a ferry would be able\n"
@@ -136,6 +136,6 @@ SlateportCity_SternsShipyard_1F_Text_SeaIsLikeLivingThing:
 	.string "The sea is like a living thing!$"
 
 SlateportCity_SternsShipyard_1F_Text_GetSeasickEasily:
-	.string "I get seasick real easily.\n"
+	.string "Eu fico enjoado muito facil.\n"
 	.string "So I get to help out here instead.$"
 

@@ -46,7 +46,7 @@ RockTunnel_1F_EventScript_Dana::
 	end
 
 RockTunnel_1F_Text_LennyIntro::
-	.string "This tunnel goes a long way, kid!$"
+	.string "Este tunel vai longe, garoto!$"
 
 RockTunnel_1F_Text_LennyDefeat::
 	.string "Doh!\n"
@@ -68,7 +68,7 @@ RockTunnel_1F_Text_OliverDefeat::
 	.string "Which way is out?$"
 
 RockTunnel_1F_Text_OliverPostBattle::
-	.string "That sleeping POKéMON on ROUTE 12\n"
+	.string "That sleeping POKeMON on ROUTE 12\n"
 	.string "forced me to take this detour.$"
 
 RockTunnel_1F_Text_LucasIntro::
@@ -76,20 +76,20 @@ RockTunnel_1F_Text_LucasIntro::
 	.string "some respect!$"
 
 RockTunnel_1F_Text_LucasDefeat::
-	.string "I give!$"
+	.string "Eu desisto!$"
 
 RockTunnel_1F_Text_LucasPostBattle::
-	.string "You're talented enough to hike!$"
+	.string "Voce tem talento pra caminhar!$"
 
 RockTunnel_1F_Text_AshtonIntro::
-	.string "POKéMON fight!\n"
+	.string "POKeMON fight!\n"
 	.string "Ready, go!$"
 
 RockTunnel_1F_Text_AshtonDefeat::
-	.string "Game over!$"
+	.string "Fim de jogo!$"
 
 RockTunnel_1F_Text_AshtonPostBattle::
-	.string "Oh well, I'll get a ZUBAT as I go!$"
+	.string "Ah bem, eu pego um ZUBAT no caminho!$"
 
 RockTunnel_1F_Text_LeahIntro::
 	.string "Eek!\p"
@@ -97,28 +97,28 @@ RockTunnel_1F_Text_LeahIntro::
 	.string "dark!$"
 
 RockTunnel_1F_Text_LeahDefeat::
-	.string "It was too dark…$"
+	.string "Estava muito escuro...$"
 
 RockTunnel_1F_Text_LeahPostBattle::
-	.string "I saw a MACHOP in this tunnel.$"
+	.string "Eu vi um MACHOP neste tunel.$"
 
 RockTunnel_1F_Text_DanaIntro::
 	.string "I came this far looking for wild\n"
-	.string "POKéMON.$"
+	.string "POKeMON.$"
 
 RockTunnel_1F_Text_DanaDefeat::
-	.string "I'm out of POKéMON!$"
+	.string "Estou sem POKeMON!$"
 
 RockTunnel_1F_Text_DanaPostBattle::
 	.string "You looked cute and harmless.\n"
 	.string "Was I ever wrong!$"
 
 RockTunnel_1F_Text_ArianaIntro::
-	.string "You have POKéMON!\n"
+	.string "You have POKeMON!\n"
 	.string "Let's start!$"
 
 RockTunnel_1F_Text_ArianaDefeat::
-	.string "You play hard!$"
+	.string "Voce joga duro!$"
 
 RockTunnel_1F_Text_ArianaPostBattle::
 	.string "Whew!\n"

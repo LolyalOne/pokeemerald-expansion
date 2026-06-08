@@ -175,7 +175,7 @@ FourIsland_Text_LoreleiMetLaprasAsChild::
 	.string "to be the one she met as a child.\p"
 	.string "I believe it was in ICEFALL CAVE\n"
 	.string "that she caught it.\p"
-	.string "Perhaps that POKéMON has been with\n"
+	.string "Perhaps that POKeMON has been with\n"
 	.string "her ever since.$"
 
 FourIsland_Text_RivalAlreadyGotEggBeSmellingYa::
@@ -185,12 +185,12 @@ FourIsland_Text_RivalAlreadyGotEggBeSmellingYa::
 	.string "SEVII ISLANDS?\p"
 	.string "You should quit copying me,\n"
 	.string "you know?\p"
-	.string "Anyways, I already got my POKéMON\n"
+	.string "Anyways, I already got my POKeMON\n"
 	.string "EGG, so I'm done with this island.\p"
 	.string "Heh, I bet you don't even know\n"
-	.string "about POKéMON EGGS.\p"
+	.string "about POKeMON EGGS.\p"
 	.string "You'll never fill your NATIONAL\n"
-	.string "POKéDEX that way.\p"
+	.string "POKeDEX that way.\p"
 	.string "By the way, I saw someone we both\n"
 	.string "know on this island.\p"
 	.string "Why don't you go look around if\n"
@@ -208,10 +208,10 @@ FourIsland_Text_LoreleiHasLotsOfStuffedDolls::
 	.string "FOUR ISLAND, her collection grows!$"
 
 FourIsland_Text_MadeSlushieUsingIcefallCaveIce::
-	.string "Ooh, chilly!\p"
+	.string "Ooh, que frio!\p"
 	.string "I made a slushie using ice I\n"
 	.string "shaved inside ICEFALL CAVE.\p"
-	.string "It's chilly and tasty!$"
+	.string "E geladinha e gostosa!\lQuer um brinde de aniversario, Lucas?$"
 
 FourIsland_Text_LoreleisHouse::
 	.string "LORELEI'S HOUSE$"

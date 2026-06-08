@@ -41,64 +41,244 @@ AI_MODELS = [
 # CONTEXTO DO UNIVERSO POKÉMON PARA A IA
 # ─────────────────────────────────────────────
 POKEMON_UNIVERSE_CONTEXT = """
-CONTEXTO DO UNIVERSO POKÉMON EMERALD:
-- Ambientado na região de Hoenn, um arquipélago tropical com muita água e natureza exuberante
-- As principais cidades incluem: Cidade de Pétala (Petalburg), Ruivópolis (Rustboro), Mauville, Lilycove, Cidade Vera (Verdanturf), Fortree, Sootopolis, etc.
-- O Professor Birch é o professor Pokémon local
-- Os principais vilões são o Team Aqua e o Team Magma
-- Lendários: Rayquaza, Groudon, Kyogre
-- O professor dá ao jogador o seu primeiro Pokémon: Treecko, Torchic ou Mudkip
-- NPCs comuns: Treinadores, Médicos Pokémon, Vendedores, Pescadores, Experts, Pesquisadores, Vovôs sábios, crianças curiosas
-- Itens importantes: Pokébolas, Poções, Insígnias dos Líderes de Ginásio, TMs (Máquinas Técnicas), Bagas
-- Mecânicas de jogo: batalhas, capturas, ginásios, Concursos Pokémon, Liga Pokémon
-- O tom geral é aventureiro, amigável, com senso de maravilha e descoberta
+CONTEXTO DO UNIVERSO POKÉMON EMERALD (HOENN):
+
+[REGIÃO E GEOGRAFIA]
+- Hoenn é um arquipélago tropical com praias, florestas densas, vulcões, cavernas submarinas e montanhas nevadas
+- O clima é quente e úmido — ideal para Pokémon de água, fogo e plantas
+- Cidades principais e seus temas:
+    • Cidade de Pétala (Petalburg City) — cidade calma à beira de um lago, lar do Ginásio de Normal
+    • Ruivópolis (Rustboro City) — centro industrial e científico, Ginásio de Pedra da Roxanne
+    • Dewford Town — ilha de surf e cavernas, Ginásio de Luta do Brawly
+    • Slateport City — porto movimentado, mercado, Museu Marítimo
+    • Mauville City — centro de Hoenn, cheio de energia, Ginásio Elétrico do Wattson
+    • Verdanturf Town (Cidade Vera) — vilarejo pacífico perto do Túnel Rusturf, famoso pelo ar puro
+    • Fallarbor Town — cidade na base de um vulcão, especialistas em Concursos
+    • Lavaridge Town — resort termal com fontes de água quente, Ginásio de Fogo da Flannery
+    • Fortree City — cidade nas copas das árvores, Ginásio de Voador da Winona
+    • Lilycove City — cidade cosmopolita, museu de arte, QG do Team Aqua
+    • Mossdeep City — ilha remota, base espacial, Ginásio Psíquico dos gêmeos Tate & Liza
+    • Sootopolis City — cidade dentro de uma cratera vulcânica inundada, Ginásio de Água da Wallace
+    • Ever Grande City — sede da Liga Pokémon de Hoenn
+    • Pacifidlog Town — vilarejo flutuante sobre troncos de Corsola
+- Rotas notáveis: Rota 110 (ciclovia elevada), Rota 119 (selva com chuva constante), Mt. Chimney (vulcão ativo)
+
+[PERSONAGENS E ORGANIZAÇÕES]
+- Professor Birch: professor Pokémon de Hoenn, estuda Pokémon em ambientes selvagens, é descontraído e aventureiro
+- May/Brendan: rival do protagonista, filho(a) do Prof. Birch — amigável e empolgado(a)
+- Steven Stone: Campeão de Hoenn, colecionador de pedras raras, muito elegante e misterioso
+- Wallace: Líder de Ginásio de Água e ex-Campeão, artístico e refinado
+- Team Magma (Maxie): quer expandir as terras secas, desperta Groudon
+- Team Aqua (Archie): quer expandir os oceanos, desperta Kyogre
+- Elite 4: Sidney (Sombrio), Phoebe (Fantasma), Glacia (Gelo), Drake (Dragão)
+
+[POKÉMON NOTÁVEIS DA REGIÃO]
+- Iniciais: Treecko (Planta), Torchic (Fogo), Mudkip (Água)
+- Lendários centrais: Groudon (Terra), Kyogre (Água), Rayquaza (Dragão/Voador — mora na Sky Pillar)
+- Pokémon típicos de Hoenn: Zigzagoon, Wurmple, Ralts, Aron, Feebas, Absol, Bagon, Beldum
+- Pokémon aquáticos abundantes: Tentacool, Wingull, Wailmer, Sharpedo, Relicanth
+- Pokémon únicos: Kecleon (invisível nas rotas), Lileep e Anorith (fósseis), Jirachi (lendário evento)
+
+[ITENS E MECÂNICAS]
+- Itens que NÃO devem ser traduzidos: TM, HM, EV, IV, HP, PP, EXP
+- Itens que PODEM ser traduzidos: Potion → Poção, Pokéball → Pokébola, Rare Candy → Bala Rara
+- HMs importantes: HM01 Corte, HM03 Surf, HM04 Força, HM05 Lampejo, HM06 Mergulho
+- Insígnias de Ginásio: Stone Badge, Knuckle Badge, Dynamo Badge, Heat Badge, Balance Badge, Feather Badge, Mind Badge, Rain Badge
+- Concursos Pokémon: competições de beleza, dureza, simpatia, inteligência e tenacidade — muito populares em Hoenn
+- Bagas (Berries): plantas coletáveis que servem para curar, criar comidas, modificar Pokémon
+
+[TOM GERAL]
+- Aventureiro, caloroso, com senso de maravilha e descoberta
+- O mundo é seguro mas cheio de segredos — grutas escondidas, ilhas misteriosas, Pokémon raros
+- A amizade entre humanos e Pokémon é o tema central
+- Humor leve é bem-vindo, mas nunca sarcástico ou pesado demais
 """
 
 TRANSLATION_STYLE_GUIDE = """
-GUIA DE ESTILO PARA TRADUÇÃO PT-BR:
-- Use linguagem acessível e calorosa, adequada para todas as idades
-- NPCs têm PERSONALIDADES DISTINTAS — adapte o tom conforme o tipo de NPC:
-    • Vovô/Vovó: sábio, nostálgico, usa expressões antigas como "No meu tempo..."
-    • Criança: animada, usa palavras como "incrível!", "demais!", fala sobre Pokémon com euforia
-    • Cientista/Pesquisador: formal, técnico, usa termos como "fascinante", "dados indicam que..."
-    • Pescador: descontraído, usa gírias do mar, fala de Pokémon aquáticos
-    • Treinador rival: confiante, levemente arrogante, sempre desafiador
-    • Comerciante: amigável e prestativo, focado em serviços e itens
-    • Médico Pokémon: gentil, atencioso, preocupado com saúde dos Pokémon
-    • Guarda/Policial: sério, objetivo, focado em segurança
-    • Morador comum: casual, fala sobre a vida na cidade/rota
-- Preserve TODOS os nomes de Pokémon em inglês (Pikachu, Mudkip, etc.) — são nomes próprios
-- Nomes de cidades e regiões: use versões em PT-BR quando existirem (ex: Hoenn, Mauville)
-- Termos de jogo que NÃO devem ser traduzidos: HP, PP, TM, HM, EV, IV
-- Expressões que PODEM ser traduzidas: "Gym Badge" → "Insígnia", "Trainer" → "Treinador"
+GUIA DE ESTILO PARA LOCALIZAÇÃO PT-BR (Pokémon Emerald):
+
+[PRINCÍPIOS GERAIS]
+- Use linguagem acessível, calorosa e adequada para todas as idades (7–35 anos)
+- O PT-BR brasileiro é o alvo — use "você", não "tu"; "legal" não "fixe"; "ônibus" não "autocarro"
+- Prefira frases curtas e diretas — a caixa de texto do GBA é pequena
+- Mantenha o espírito de aventura e descoberta que caracteriza a franquia
+
+[PERSONALIDADES POR TIPO DE NPC]
+Cada NPC tem voz própria. Adapte ATIVAMENTE o vocabulário, ritmo e expressões:
+
+• CRIANÇA (Youngster, Lass, Bug Catcher):
+  - Tom: super animada, fala rápida, usa gírias de criança
+  - Expressões: "Que demais!", "Não acredito!", "Meu Pokémon é o mais forte!"
+  - Evite palavras difíceis; frases curtas e exclamativas
+
+• IDOSO/SÁBIO (Elder, Gentleman, Aroma Lady):
+  - Tom: calmo, reflexivo, usa provérbios e memórias do passado
+  - Expressões: "No meu tempo...", "A experiência ensina que...", "Aprendi com os anos..."
+  - Ritmo mais lento, frases mais elaboradas
+
+• CIENTISTA/PESQUISADOR (Scientist, Researcher, Professor):
+  - Tom: formal, entusiasmado com dados e descobertas
+  - Expressões: "Fascinante!", "Meus estudos revelam que...", "Segundo minhas pesquisas..."
+  - Pode usar termos técnicos moderados (type, habitat, evolução)
+
+• PESCADOR (Fisher, Angler, Sailor):
+  - Tom: descontraído, prático, tem orgulho da vida no mar
+  - Expressões: "Meu velho!", "Vai pescar?", "Água boa hoje pra Pokémon aquáticos!"
+  - Gírias náuticas leves, fala de pesca, rios, praias
+
+• TREINADOR POKÉMON GENÉRICO (Trainer, Camper, Picnicker):
+  - Tom: competitivo mas amigável, sempre pronto pra batalha
+  - Expressões: "Bora batalhar!", "Meu time tá afiado!", "Não vou perder!"
+  - Foca em batalhas, estratégias e vitórias
+
+• RIVAL / VILÃO (Team Magma/Aqua Grunt, Admin, Boss):
+  - Tom: confiante, ameaçador mas sem ser excessivamente agressivo
+  - Grunts: obedientes, fanáticos pela causa
+  - Admins: intimidadores, inteligentes
+  - Bosses (Maxie/Archie): grandiosos, convictos de sua ideologia
+
+• LÍDER DE GINÁSIO (Gym Leader):
+  - Tom: desafiador, especialista em seu tipo, orgulhoso mas justo
+  - Cada líder tem personalidade própria — respeite a original
+
+• MÉDICO / ATENDENTE DE CENTRO POKÉMON (Nurse Joy):
+  - Tom: gentil, sereno, muito preocupado com o bem-estar dos Pokémon
+  - Expressões: "Seus Pokémon estão ótimos!", "Cuide bem deles!", "Descanse bastante!"
+
+• COMERCIANTE / VENDEDOR (Mart Clerk, Shop Owner):
+  - Tom: amigável, prestativo, levemente formal
+  - Sempre focado em ajudar o cliente, menciona produtos e preços quando relevante
+
+• GUARDA / POLICIAL (Guard, Officer Jenny):
+  - Tom: sério, direto, focado em segurança e regras
+  - Frases curtas e objetivas; não perde tempo com formalidades desnecessárias
+
+• SURFISTA / ENTUSIASTA DE ÁGUA (Swimmer, Surfer):
+  - Tom: descontraído, californiano, adora a natureza aquática
+  - Expressões: "Cara, o mar tá perfeito!", "Adoro surfar com meu Pokémon!"
+
+• MORADOR COMUM (Pokémon Fan, Hiker, Beauty):
+  - Tom: casual, amigável, fala sobre o cotidiano e observações sobre Hoenn
+
+[REGRAS DE LOCALIZAÇÃO]
+NUNCA traduza:
+  - Nomes de Pokémon: Pikachu, Mudkip, Rayquaza, Tentacool, etc.
+  - Siglas técnicas: TM, HM, HP, PP, EV, IV, EXP
+  - Nomes de personagens: Steven, Wallace, May, Birch, Archie, Maxie
+  - Nomes de lugares que o jogo mantém em inglês: Mauville, Lilycove, Dewford
+
+PODE e DEVE traduzir:
+  - Nomes de cidades com tradução canônica PT-BR: Rustboro → Ruivópolis, Petalburg → Cidade de Pétala
+  - Itens genéricos: Potion → Poção, Pokéball → Pokébola, Berry → Baga, Rare Candy → Bala Rara
+  - Termos de jogo: Gym Badge → Insígnia, Gym Leader → Líder de Ginásio, Trainer → Treinador
+  - Títulos e profissões: Professor → Professor, Nurse → Enfermeira/Médica
+
+[PADRÕES PROIBIDOS]
+- NÃO use linguagem formal demais (parece robótica)
+- NÃO use gírias muito datadas ou regionais demais
+- NÃO tradução literal palavra por palavra — adapte o SENTIDO
+- NÃO use emojis, asteriscos, markdown ou qualquer formatação especial
+- NÃO inicie o texto com "Olá," ou "Ei," de forma repetitiva — varie os inícios
 """
 
 BIRTHDAY_CREATIVE_GUIDE = """
-GUIA CRIATIVO PARA O ANIVERSÁRIO DO LUCAS:
+GUIA CRIATIVO — ANIVERSÁRIO DO LUCAS:
+
+[CONTEXTO]
 - O protagonista se chama LUCAS e hoje é seu ANIVERSÁRIO
-- Cada NPC deve parabenizar de um jeito ÚNICO, baseado em sua personalidade e função
-- A parabenização deve ser INTEGRADA NATURALMENTE ao texto original — não apenas colada no final
-- Exemplos de integração criativa por tipo de NPC:
-    • Médico: "Seus Pokémon estão com saúde ótima... igualzinho você no seu aniversário, Lucas!"
-    • Pescador: "Hoje o mar está calmo — sinal de boa sorte pro aniversariante!"
-    • Cientista: "Fascinante! Coincidentemente, hoje marca mais um ano de vida para você, Lucas!"
-    • Criança: "LUCAS! Hoje é seu aniversário?! QUE MASSA!"
-    • Vovô: "Ah, jovem Lucas... Parabéns pelo aniversário. Em cada ano que passa, você fica mais sábio."
-    • Comerciante: "Aniversário merece um desconto especial, Lucas — mas aqui só temos preços fixos, haha!"
-- NUNCA repita a mesma frase de parabenização que já foi usada antes
-- Varie os gatilhos: pode ser o NPC que sabe, um Pokémon que avisa, o clima do dia, etc.
-- O cumprimento deve ter no máximo 1-2 frases extras — não sobrecarregue o texto
+- O NPC sabe disso de alguma forma — seja por rumor, por um Pokémon, pelo clima, por intuição, etc.
+- A celebração deve parecer ESPONTÂNEA e AUTÊNTICA, não forçada
+
+[REGRA PRINCIPAL]
+A parabenização deve ser integrada DENTRO da fala, não simplesmente colada no início ou final.
+O conteúdo FUNCIONAL original (dicas, direções, informações de jogo) deve estar presente E COMPLETO.
+A menção ao aniversário é a cereja do bolo — enriquece, não substitui.
+
+[TÉCNICAS DE INTEGRAÇÃO CRIATIVA]
+Use uma destas abordagens para variar:
+
+1. GANCHO EMOCIONAL — o NPC conecta o aniversário ao tema da sua fala:
+   Ex (Pescador): "Hoje a maré tá a seu favor, Lucas — afinal, aniversariante merece sorte boa!"
+   Ex (Médico): "Deixa eu verificar... tudo certo! Pokémon saudáveis, igual ao aniversariante deles!"
+
+2. TERCEIROS INFORMAM — outro personagem ou Pokémon "avisou" sobre o aniversário:
+   Ex: "Meu Zigzagoon ficou agitado hoje — acho que farejou que tem aniversariante na área!"
+   Ex: "A Nurse Joy daqui me contou que você tá fazendo aniversário hoje!"
+
+3. SINAL DO AMBIENTE — algo no mundo de Hoenn "celebra" junto:
+   Ex: "Veja que dia lindo em Hoenn! Parece que até a natureza tá comemorando seu aniversário, Lucas!"
+   Ex: "O Mt. Chimney soltou um clarão hoje — deve ser pra iluminar o caminho do aniversariante!"
+
+4. MEMÓRIA OU TRADIÇÃO — o NPC conecta ao passado ou a um costume local:
+   Ex: "Cá entre nós, antigamente em Hoenn se dava uma Baga pro aniversariante como boa sorte..."
+   Ex: "Você me lembra de quando eu tinha sua idade e fazia aniversário por estas rotas..."
+
+5. HUMOR LEVE — brincadeira gentil relacionada ao aniversário:
+   Ex: "Aniversário em Hoenn é coisa séria, hein! Até os Wingull parecem mais animados hoje!"
+   Ex: "Um conselho de presente: nunca lute contra Pokémon mais forte sem Poções... especialmente hoje!"
+
+6. SURPRESA / DESCOBERTA — o NPC reage como se tivesse acabado de descobrir:
+   Ex: "Espera — hoje é seu aniversário?! Por que não me avisou antes, Lucas?! Parabéns!"
+   Ex: "Meu Pokémon farejou algo especial em você... Aniversário, né? Parabéns, treinador!"
+
+[EXEMPLOS POR TIPO DE NPC]
+• Médico/Enfermeira: "Seus Pokémon estão com saúde perfeita — igual a você no seu aniversário, Lucas!"
+• Pescador: "Hoje o peixe tá mordendo demais... sorte de aniversariante deve estar sobrando em Hoenn!"
+• Cientista: "Fascinante! Segundo meus dados, hoje é o aniversário de Lucas. Parabéns, jovem pesquisador!"
+• Criança: "LUCAS! Hoje é seu aniversário?! DEMAIS!! Você é o melhor treinador aniversariante de Hoenn!"
+• Vovô: "Jovem Lucas... parabéns pelos anos vividos. Que cada batalha te ensine mais um pouco."
+• Comerciante: "Hoje devia ter um desconto especial pra aniversariante... mas temos preço fixo, haha! Parabéns!"
+• Guarda: "Documento, por favor... brincadeira. Ouvi que é seu aniversário. Parabéns, siga em frente!"
+• Treinador: "Hoje você batalha com sorte dobrada — ouvi que é seu aniversário! Vai ser uma luta e tanto!"
+• Surfista: "Cara, o mar tá perfeito hoje — sinal de boa energia pra um aniversariante como você!"
+• Membro Team Aqua/Magma: "Normalmente não parabenizaria um inimigo... mas parabéns, Lucas. Aproveite enquanto pode!"
+
+[REGRAS DE VARIAÇÃO ANTI-REPETIÇÃO]
+- As últimas frases de aniversário usadas serão fornecidas abaixo — NÃO use fórmulas parecidas
+- Observe o PADRÃO das frases anteriores e escolha uma TÉCNICA DIFERENTE (veja as 6 técnicas acima)
+- Se as últimas foram com "gancho emocional", use "terceiros informam" ou "sinal do ambiente"
+- Varie também a POSIÇÃO na frase: às vezes no início, às vezes no meio, às vezes no final
+- Varie o GRAU DE SURPRESA: às vezes o NPC já sabia, às vezes acabou de descobrir
+
+[LIMITES]
+- Máximo de 1-2 frases extras para o aniversário — não sobrecarregue o diálogo
+- Mantenha sempre o conteúdo funcional original íntegro e completo
+- Nunca use "Feliz Aniversário, Lucas!" sozinho — é preguiçoso e genérico
 """
 
 # CONTEXTO DE INTERAÇÃO DO CÓDIGO (Gerado para a IA ter consciência de seu papel)
 CODE_INTERACTION_CONTEXT = """
 CONTEXTO DO SEU AMBIENTE DE EXECUÇÃO:
-- Você é um modelo de linguagem atuando como motor de tradução assíncrono.
-- Um script Python em múltiplas threads (até 5 simultâneas) envia arquivos de mapa do Pokémon Emerald em blocos isolados.
-- Se o limite de cota da API (Rate Limit / 429) for atingido, a execução aguardará 60 segundos antes de reenviar o prompt.
-- Para evitar gargalos, se você falhar repetidamente ou não for encontrado (404), será isolado da fila (invalid_models).
-- O script usa um arquivo JSON local ("translation_cache.json") como cache; seu resultado aqui substituirá permanentemente a string original no arquivo fonte `.inc`.
-- A formatação correta de texto (quebras de linha, tags Hex e limite de 280 caracteres) é posteriormente processada pelo script usando o módulo `gba_text_simulator.py`. Portanto, entregue APENAS o texto puro sem formatações adicionais.
+
+[PAPEL DESTA CHAMADA]
+- Você é um motor de localização assíncrono integrado a um pipeline de tradução de ROM hack de GBA
+- Este prompt foi gerado por um script Python que processa arquivos .inc e .s do pokeemerald-expansion
+- Sua resposta será gravada permanentemente em "translation_cache.json" e substituirá o texto original no código-fonte
+
+[PIPELINE COMPLETO]
+1. Script Python lê "todos_os_mapas.txt" e distribui arquivos entre até 5 threads paralelas
+2. Cada thread encontra blocos `.string "..."` nos arquivos de mapa assembly
+3. Para cada bloco, este prompt é gerado e enviado à API Gemini
+4. Sua resposta (texto puro) é passada para o módulo `gba_text_simulator.py`
+5. O simulador insere marcadores de quebra \\n, passagem de painel \\p e respeita o limite de 34 chars/linha
+6. O resultado final substitui o bloco `.string` original no arquivo fonte
+
+[LIMITES TÉCNICOS CRÍTICOS]
+- Limite ABSOLUTO: ~280 caracteres (o `gba_text_simulator.py` cortará qualquer excesso)
+- Quebras de linha e formatação GBA são inseridas DEPOIS pelo simulador — entregue APENAS texto puro
+- Uma única linha de resposta — sem \\n, \\p, $, \\l no seu output
+- Sem aspas ao redor do texto na resposta
+
+[GESTÃO DE COTA E RETRY]
+- Se a API retornar erro 429 (rate limit), o script aguarda 60 segundos e retenta com outro modelo
+- Se retornar 404, o modelo é adicionado a uma lista negra e nunca mais chamado nesta execução
+- Existe um pool de 16+ modelos Gemini sendo testados em sequência — sua resposta define qual modelo "vence" esta tarefa
+- Respostas válidas são cacheadas; respostas inválidas (<5 chars) geram nova tentativa
+
+[CACHE E IDEMPOTÊNCIA]
+- Se o texto original em inglês já existir no cache, sua resposta atual NÃO será usada — retorna do JSON
+- Cada resposta sua é, portanto, permanente para aquele texto original específico
+- Isso significa: acerte na primeira vez, pois não há segunda chance para o mesmo texto
 """
 
 
@@ -165,40 +345,111 @@ client = genai.Client(api_key=api_key)
 def detect_npc_type(label_name: str, original_text: str) -> str:
     """
     Tenta inferir o tipo de NPC a partir do nome do label e do texto original.
-    Retorna uma dica de contexto para a IA.
+    Retorna uma dica de contexto rica para a IA usar na tradução.
     """
     label_lower = label_name.lower()
     text_lower = original_text.lower()
 
-    npc_hints = {
-        "doctor|nurse|heal|joy|nurse_joy|pokemon_center": "Médico(a) ou Atendente do Centro Pokémon",
-        "fisher|fish|rod|angler": "Pescador(a) — fala de pesca e Pokémon aquáticos",
-        "scientist|researcher|prof|professor|birch|lab": "Cientista ou Professor — linguagem técnica e formal",
-        "child|kid|boy|girl|youngster|lass": "Criança — animada, fala empolgada sobre Pokémon",
-        "old|elder|granny|grandpa|grandma|senior": "Idoso(a) — sábio, nostálgico, usa expressões antigas",
-        "rival|aqua|magma|grunt|admin|boss|leader": "Membro de time vilão ou rival — confiante, levemente ameaçador",
-        "gym|leader|badge|arena": "Líder de Ginásio — desafiador, especialista em um tipo",
-        "shop|mart|merchant|store|sell|buy": "Comerciante — amigável, focado em produtos",
-        "guide|tourist|traveler|hiker": "Viajante ou Guia — aventureiro, fala de locais e rotas",
-        "guard|police|officer|ranger": "Guarda ou Policial — sério e direto",
-        "trainer|battler|fight": "Treinador Pokémon — competitivo, entusiasmado com batalhas",
-    }
+    # Ordem importa: mais específico primeiro
+    npc_rules = [
+        # Vilões e organizações
+        (["aqua_grunt", "magma_grunt", "grunt"],
+         "Membro de base do Team Aqua ou Magma — fanático, obediente, tom ameaçador mas genérico"),
+        (["aqua_admin", "magma_admin", "admin"],
+         "Administrador do Team Aqua ou Magma — intimidador, inteligente, estratégico"),
+        (["archie", "maxie"],
+         "Líder do Team Aqua/Magma — grandioso, apaixonado pela causa, fala em ideais maiores"),
+        # Líderes de Ginásio e Elite
+        (["gym_leader", "leader", "gymleader"],
+         "Líder de Ginásio — desafiador, especialista, orgulhoso mas respeitoso"),
+        (["elite", "champion", "steven", "wallace"],
+         "Membro da Elite 4 ou Campeão — poderoso, elegante, fala com peso e autoridade"),
+        # Profissionais de Pokémon
+        (["nurse", "joy", "pokemon_center", "pokecenter", "heal"],
+         "Enfermeira Joy do Centro Pokémon — serena, gentil, cuidadosa com saúde dos Pokémon"),
+        (["doctor", "medic"],
+         "Médico(a) — atencioso, usa terminologia de saúde adaptada ao mundo Pokémon"),
+        (["scientist", "researcher", "lab", "professor", "prof", "birch"],
+         "Cientista ou Professor — formal, técnico, entusiasmado com descobertas"),
+        # Treinadores específicos
+        (["fisher", "fish", "angler", "rod"],
+         "Pescador(a) — descontraído, orgulhoso da vida no mar, fala de Pokémon aquáticos"),
+        (["swimmer", "surfer", "diver"],
+         "Surfista ou Mergulhador — descontraído, adora a água, gírias de praia"),
+        (["hiker", "mountaineer", "climber"],
+         "Alpinista — resistente, ama desafios físicos, fala de montanhas e cavernas"),
+        (["youngster", "child", "kid", "bug_catcher", "lass", "camper"],
+         "Criança ou Jovem Treinador — super animada, usa gírias de criança, fala em Pokémon com euforia"),
+        (["old_man", "elder", "gentleman", "granny", "grandpa", "grandma", "senior", "old_lady"],
+         "Idoso(a) Sábio(a) — reflexivo, nostálgico, usa provérbios e memórias do passado"),
+        (["rival", "opponent"],
+         "Rival — confiante, levemente arrogante, sempre desafiador mas com respeito"),
+        (["shop", "mart", "store", "merchant", "clerk", "vendor"],
+         "Comerciante ou Vendedor(a) — amigável, prestativo, focado em produtos e serviços"),
+        (["guard", "police", "officer", "jenny", "ranger"],
+         "Guarda ou Policial — sério, objetivo, frases curtas e diretas"),
+        (["trainer", "battler", "beauty", "picnicker", "ruin_maniac", "expert"],
+         "Treinador(a) Pokémon — competitivo, entusiasmado com batalhas e estratégias"),
+        (["sailor", "captain", "pirate"],
+         "Marinheiro ou Capitão — rude mas bem-humorado, fala do mar e viagens"),
+        (["fan", "enthusiast", "collector"],
+         "Fã ou Colecionador de Pokémon — apaixonado, fala de Pokémon favoritos e raridades"),
+        (["tour", "guide", "traveler", "tourist"],
+         "Guia ou Turista — aventureiro, conhece histórias e segredos de Hoenn"),
+    ]
 
-    for keywords, description in npc_hints.items():
-        if any(k in label_lower or k in text_lower for k in keywords.split("|")):
+    for keywords, description in npc_rules:
+        if any(k in label_lower or k in text_lower for k in keywords):
             return description
 
-    return "Morador(a) comum da cidade ou rota — tom casual e amigável"
+    # Detecção por conteúdo do texto quando label não ajuda
+    text_clues = {
+        ("surf", "swim", "dive", "ocean", "sea", "water"): "Personagem aquático — fala de água, praias e Pokémon aquáticos",
+        ("fire", "lava", "volcano", "chimney"): "Personagem de fogo ou áreas vulcânicas — entusiasmado com calor e força",
+        ("cave", "mine", "underground", "fossil"): "Explorador de cavernas ou minerador — fala de mistérios subterrâneos",
+        ("contest", "beauty", "ribbon", "performance"): "Entusiasta de Concursos Pokémon — focado em elegância e performances",
+        ("berry", "grow", "plant", "farm"): "Agricultor ou Especialista em Bagas — calmo, fala de natureza e cultivo",
+        ("legend", "ancient", "ruin", "history"): "Estudioso de história ou ruínas — fascinado pelo passado de Hoenn",
+    }
+
+    for keywords, description in text_clues.items():
+        if any(k in text_lower for k in keywords):
+            return description
+
+    return "Morador(a) comum de Hoenn — tom casual e amigável, fala sobre o cotidiano da região"
 
 
 def get_recent_birthday_phrases_context() -> str:
-    """Retorna as últimas parabenizações usadas para evitar repetição."""
+    """
+    Retorna as últimas parabenizações usadas para evitar repetição,
+    e sugere ativamente uma técnica diferente das recentes.
+    """
+    TECHNIQUES = [
+        "GANCHO EMOCIONAL — conecte o aniversário ao tema da fala do NPC",
+        "TERCEIROS INFORMAM — um Pokémon ou outro NPC 'avisou' sobre o aniversário",
+        "SINAL DO AMBIENTE — algo em Hoenn (clima, natureza, animais) celebra junto",
+        "MEMÓRIA OU TRADIÇÃO — o NPC conecta a uma lembrança ou costume de Hoenn",
+        "HUMOR LEVE — brincadeira gentil relacionada ao aniversário",
+        "SURPRESA / DESCOBERTA — o NPC reage como se tivesse acabado de descobrir",
+    ]
+
     with birthday_phrases_lock:
         if not used_birthday_phrases:
-            return "Nenhuma parabenização foi usada ainda — seja criativo!"
-        recent = used_birthday_phrases[-8:]  # Mostra os últimos 8 exemplos
+            return (
+                "Nenhuma parabenização foi usada ainda — seja criativo!\n"
+                f"Sugestão de técnica: {TECHNIQUES[0]}"
+            )
+
+        recent = used_birthday_phrases[-8:]
         formatted = "\n".join(f"  - \"{p}\"" for p in recent)
-        return f"Parabenizações JÁ USADAS (NÃO repita estas nem frases parecidas):\n{formatted}"
+
+        # Sugere uma técnica baseada em rotação pelo número de frases usadas
+        suggested_technique = TECHNIQUES[len(used_birthday_phrases) % len(TECHNIQUES)]
+
+        return (
+            f"Parabenizações JÁ USADAS (NÃO repita estas nem frases parecidas):\n{formatted}\n\n"
+            f"⟶ Técnica sugerida para ESTA fala: {suggested_technique}"
+        )
 
 
 def register_birthday_phrase(phrase: str):
@@ -214,12 +465,44 @@ def register_birthday_phrase(phrase: str):
                 break
 
 
-def build_translation_prompt(original_text: str, label_name: str) -> str:
+def build_translation_prompt(original_text: str, label_name: str, map_name: str = "") -> str:
     """
     Constrói um prompt rico e detalhado para a tradução, com todo o contexto necessário.
     """
     npc_type = detect_npc_type(label_name, original_text)
     birthday_context = get_recent_birthday_phrases_context()
+
+    # Tenta extrair cidade/área do nome do mapa para dar mais contexto geográfico
+    map_context = ""
+    if map_name:
+        map_lower = map_name.lower()
+        location_hints = {
+            "rustboro": "Ruivópolis — cidade industrial e científica",
+            "petalburg": "Cidade de Pétala — cidade calma à beira de lago",
+            "slateport": "Slateport City — porto movimentado",
+            "mauville": "Mauville City — centro de Hoenn, cheio de energia",
+            "verdanturf": "Cidade Vera — vilarejo pacífico com ar puro",
+            "fallarbor": "Fallarbor Town — cidade perto de vulcão",
+            "lavaridge": "Lavaridge Town — resort de fontes termais",
+            "fortree": "Fortree City — cidade nas copas das árvores",
+            "lilycove": "Lilycove City — cidade cosmopolita com museu de arte",
+            "mossdeep": "Mossdeep City — ilha remota com base espacial",
+            "sootopolis": "Sootopolis City — cidade dentro de cratera vulcânica",
+            "dewford": "Dewford Town — ilha de surf e cavernas",
+            "pacifidlog": "Pacifidlog Town — vilarejo flutuante sobre Corsola",
+            "route": "Uma rota de Hoenn — natureza aberta, treinadores ao longo do caminho",
+            "cave": "Interior de uma caverna de Hoenn",
+            "sea": "No mar de Hoenn — ambiente aquático",
+            "gym": "Ginásio Pokémon — arena de batalha",
+            "pokemon_center": "Centro Pokémon — local de cura e descanso",
+            "mart": "Poké Mart — loja de itens",
+        }
+        for key, desc in location_hints.items():
+            if key in map_lower:
+                map_context = f"- Localização do mapa: {desc}"
+                break
+        if not map_context and map_name:
+            map_context = f"- Arquivo de mapa: {map_name}"
 
     prompt = f"""Você é um escritor e localizador experiente do jogo Pokémon Emerald para PT-BR.
 
@@ -239,7 +522,7 @@ GUIA DO ANIVERSÁRIO
 {BIRTHDAY_CREATIVE_GUIDE}
 
 ════════════════════════════════════════
-CONTEXTO DO SCRIPT PYTHON
+CONTEXTO DO PIPELINE TÉCNICO
 ════════════════════════════════════════
 {CODE_INTERACTION_CONTEXT}
 
@@ -248,7 +531,17 @@ CONTEXTO ESPECÍFICO DESTA FALA
 ════════════════════════════════════════
 - Nome do label/NPC: {label_name}
 - Tipo provável de NPC: {npc_type}
+{map_context}
 - {birthday_context}
+
+════════════════════════════════════════
+EXEMPLO DE ENTRADA E SAÍDA ESPERADA
+════════════════════════════════════════
+Entrada:  "The POKéMON in the grass here are weak. They're easy to catch."
+Saída:    Ah, os Pokémon na grama aqui são fraquinhos, fáceis de capturar! Hoje é seu aniversário, Lucas? Que sorte a sua — dia de festa e de captura fácil!
+
+Entrada:  "I heard TEAM MAGMA is causing trouble at the museum."
+Saída:    Ouvi dizer que o Team Magma tá aprontando no museu... Cuidado por lá, Lucas. Ah, e parabéns pelo aniversário — que tal resolver isso como um presente pra Hoenn?
 
 ════════════════════════════════════════
 TEXTO ORIGINAL (em inglês)
@@ -259,15 +552,16 @@ TEXTO ORIGINAL (em inglês)
 REGRAS ABSOLUTAS DE SAÍDA
 ════════════════════════════════════════
 1. Mantenha 100% do CONTEÚDO e FUNÇÃO original (dicas, itens, direções, mecânicas de jogo).
-2. Adapte o TOM ao tipo de NPC identificado acima.
-3. Integre a parabenização do aniversário do LUCAS de forma NATURAL e CRIATIVA.
-4. A parabenização deve ser ÚNICA — não repita frases já listadas acima.
-5. Retorne APENAS o texto traduzido em uma única linha, sem aspas, sem explicações.
-6. Máximo de ~280 caracteres no total (limite da caixa de texto do GBA).
-7. Não use markdown, emojis, ou formatação especial.
-8. Nomes de Pokémon permanecem em inglês.
+2. Adapte o TOM ao tipo de NPC identificado acima — use vocabulário e ritmo condizentes.
+3. Integre a parabenização do aniversário do LUCAS usando a técnica sugerida acima.
+4. A parabenização deve ser ÚNICA — diferente de todas as listadas na seção de histórico.
+5. Retorne APENAS o texto traduzido em uma única linha, sem aspas, sem explicações adicionais.
+6. Máximo de ~280 caracteres no total (o simulador GBA cortará qualquer excesso).
+7. Não use \\n, \\p, $, \\l, markdown, emojis ou qualquer formatação especial.
+8. Nomes de Pokémon permanecem em inglês. Itens técnicos (TM, HM, HP) não são traduzidos.
+9. Comece diretamente com o texto — sem "Texto traduzido:", sem prefixo algum.
 
-Texto traduzido:"""
+"""
 
     return prompt
 
@@ -281,7 +575,8 @@ def get_ai_translation(original_text: str, filepath: str, label_name: str) -> st
             update_stats("cache", cached=True)
             return cache[original_text]
 
-    prompt = build_translation_prompt(original_text, label_name)
+    map_name = os.path.basename(os.path.dirname(filepath))
+    prompt = build_translation_prompt(original_text, label_name, map_name)
 
     while True:
         quota_hit = 0

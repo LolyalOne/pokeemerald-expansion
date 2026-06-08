@@ -115,7 +115,8 @@ BattleFrontier_RankingHall_Text_PalaceArenaPyramidRecords:
 	.string "and BATTLE PYRAMID Records$"
 
 BattleFrontier_RankingHall_Text_IsYourNameOnThisList:
-	.string "Hi, is your name on this list?$"
+	.string "Oi, seu nome ja esta nesta lista,\n"
+	.string "aniversariante?$"
 
 BattleFrontier_RankingHall_Text_WowThatsSuper:
 	.string "Wow, that's super!\n"

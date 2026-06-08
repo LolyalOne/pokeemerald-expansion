@@ -231,20 +231,20 @@ PokemonTower_7F_Movement_Grunt3ExitLeft::
 	step_end
 
 PokemonTower_7F_Text_Grunt1Intro::
-	.string "What do you want?\n"
+	.string "O que voce quer?\n"
 	.string "Why are you here?$"
 
 PokemonTower_7F_Text_Grunt1Defeat::
-	.string "I give up!$"
+	.string "Eu desisto!$"
 
 PokemonTower_7F_Text_Grunt1PostBattle::
-	.string "I'm not going to forget this!$"
+	.string "Nao vou esquecer disso!\lEstragou minha festa!$"
 
 PokemonTower_7F_Text_Grunt2Intro::
 	.string "This old guy marched right up to\n"
 	.string "our HIDEOUT.\p"
 	.string "Then, he starts ranting about how\n"
-	.string "TEAM ROCKET's abusing POKéMON.\p"
+	.string "TEAM ROCKET's abusing POKeMON.\p"
 	.string "So, we're just talking it over as\n"
 	.string "adults.$"
 
@@ -253,18 +253,18 @@ PokemonTower_7F_Text_Grunt2Defeat::
 	.string "No more!$"
 
 PokemonTower_7F_Text_Grunt2PostBattle::
-	.string "POKéMON are only good for making\n"
+	.string "POKeMON are only good for making\n"
 	.string "money. Why not use them?\p"
 	.string "You stay out of our business!$"
 
 PokemonTower_7F_Text_Grunt3Intro::
-	.string "You're not saving anyone, kid!$"
+	.string "Voce nao vai salvar ninguem, garoto!\lNem no seu aniversario!$"
 
 PokemonTower_7F_Text_Grunt3Defeat::
-	.string "Don't fight us ROCKETS!$"
+	.string "Nao lute contra nos da ROCKET!$"
 
 PokemonTower_7F_Text_Grunt3PostBattle::
-	.string "You're not getting away with this!$"
+	.string "Voce nao vai escapar dessa!$"
 
 PokemonTower_7F_Text_MrFujiThankYouFollowMe::
 	.string "MR. FUJI: Heh?\n"
@@ -277,6 +277,6 @@ PokemonTower_7F_Text_MrFujiThankYouFollowMe::
 	.string "finally left us.\p"
 	.string "I must thank you for your kind\n"
 	.string "concern.\p"
-	.string "Follow me to my home, POKéMON\n"
+	.string "Follow me to my home, POKeMON\n"
 	.string "HOUSE, at the foot of this tower.$"
 

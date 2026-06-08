@@ -19,7 +19,7 @@ SafariZone_Center_EventScript_AreaSign::
 	end
 
 SafariZone_Center_Text_RestHouse::
-	.string "REST HOUSE$"
+	.string "CASA DE REPOUSO$"
 
 SafariZone_Center_Text_PressStartToCheckTime::
 	.string "TRAINER TIPS\p"
@@ -27,5 +27,5 @@ SafariZone_Center_Text_PressStartToCheckTime::
 	.string "remaining time.$"
 
 SafariZone_Center_Text_CenterArea::
-	.string "CENTER AREA$"
+	.string "AREA CENTRAL$"
 

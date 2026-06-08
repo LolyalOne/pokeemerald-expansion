@@ -62,7 +62,7 @@ SixIsland_RuinValley_Text_SeveralDotsOnTheDoor::
 	.string "several dots on the door…$"
 
 SixIsland_RuinValley_Text_DoorIsOpen::
-	.string "The door is open.$"
+	.string "A porta esta aberta.$"
 
 SixIsland_RuinValley_Text_StanlyIntro::
 	.string "There appear to be many secrets\n"

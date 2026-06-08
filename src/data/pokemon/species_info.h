@@ -85,8 +85,8 @@
 #define OVERWORLD_PAL_FEMALE(...)
 #endif //OW_POKEMON_OBJECT_EVENTS
 
-// Maximum value for a female Pokémon is 254 (MON_FEMALE) which is 100% female.
-// 255 (MON_GENDERLESS) is reserved for genderless Pokémon.
+// Maximum value for a female Pokemon is 254 (MON_FEMALE) which is 100% female.
+// 255 (MON_GENDERLESS) is reserved for genderless Pokemon.
 #define PERCENT_FEMALE(percent) min(254, ((percent * 255) / 100))
 
 #define MON_TYPES(type1, ...) { type1, DEFAULT(type1, __VA_ARGS__) }
@@ -206,7 +206,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .height = 0,
         .weight = 0,
         .description = COMPOUND_STRING(
-            "This is a newly discovered Pokémon.\n"
+            "This is a newly discovered Pokemon.\n"
             "It is currently under investigation.\n"
             "No detailed information is available\n"
             "at this time."),

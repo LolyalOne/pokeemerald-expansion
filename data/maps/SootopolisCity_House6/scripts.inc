@@ -38,7 +38,7 @@ SootopolisCity_House6_Text_FirstGuestInWhileTakeDoll:
 	.string "give you a big WAILMER DOLL.$"
 
 SootopolisCity_House6_Text_TakeGoodCareOfIt:
-	.string "Take good care of it!$"
+	.string "Cuide bem dela!$"
 
 SootopolisCity_House6_Text_IllHoldItForYou:
 	.string "Oh, you want it, but not right now?\n"
@@ -49,5 +49,5 @@ SootopolisCity_House6_Text_DontWantThisDoll:
 	.string "You don't want this DOLL?$"
 
 SootopolisCity_House6_Text_LovePlushDolls:
-	.string "I love plush DOLLS!$"
+	.string "Eu adoro BONECAS de pelucia!$"
 

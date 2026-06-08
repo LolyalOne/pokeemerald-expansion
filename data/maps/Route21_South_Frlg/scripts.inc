@@ -2,17 +2,17 @@ Route21_South_Frlg_MapScripts::
 	.byte 0
 
 Route21_South_Text_JackIntro::
-	.string "I caught my POKéMON at sea.$"
+	.string "Peguei meus POKeMON no mar.$"
 
 Route21_South_Text_JackDefeat::
 	.string "Diver!!\n"
 	.string "Down!!$"
 
 Route21_South_Text_JackPostBattle::
-	.string "Where'd you catch your POKéMON?$"
+	.string "Onde voce pegou seus POKeMON?$"
 
 Route21_South_Text_JeromeIntro::
-	.string "Right now, I'm in a triathlon meet.$"
+	.string "Agora mesmo, estou num triatlo.$"
 
 Route21_South_Text_JeromeDefeat::
 	.string "Pant…\n"
@@ -31,10 +31,10 @@ Route21_South_Text_RolandDefeat::
 	.string "I lost!$"
 
 Route21_South_Text_RolandPostBattle::
-	.string "I'm sunburnt to a crisp!$"
+	.string "Estou queimado feito torrao!$"
 
 Route21_South_Text_ClaudeIntro::
-	.string "Hey, don't scare away the fish!$"
+	.string "Ei, nao espante os peixes, Lucas!$"
 
 Route21_South_Text_ClaudeDefeat::
 	.string "Sorry! I'm just so frustrated from\n"
@@ -46,10 +46,10 @@ Route21_South_Text_ClaudePostBattle::
 	.string "giant pool or something?$"
 
 Route21_South_Text_NolanIntro::
-	.string "Keep me company till I get a hit.$"
+	.string "Me faca companhia ate eu fisgar algo.$"
 
 Route21_South_Text_NolanDefeat::
-	.string "That burned some time.$"
+	.string "Isso queimou um tempo.$"
 
 Route21_South_Text_NolanPostBattle::
 	.string "Oh wait!\n"
@@ -70,7 +70,7 @@ Route21_North_Text_LilPostBattle::
 Route21_North_Text_LilNotEnoughMons::
 	.string "LIL: Huh? A battle?\n"
 	.string "I can't be bothered to do it alone.\l"
-	.string "Bring two POKéMON, won't you?$"
+	.string "Bring two POKeMON, won't you?$"
 
 Route21_North_Text_IanIntro::
 	.string "IAN: My sis doesn't get enough\n"
@@ -87,4 +87,4 @@ Route21_North_Text_IanPostBattle::
 
 Route21_North_Text_IanNotEnoughMons::
 	.string "IAN: We want a two-on-two battle.\n"
-	.string "So can you bring two POKéMON?$"
+	.string "So can you bring two POKeMON?$"

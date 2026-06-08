@@ -158,7 +158,7 @@ Debug_BoxFilledMessage::
 	goto Debug_MessageEnd
 
 Debug_BoxFilledMessage_Text:
-	.string "Storage boxes filled!$"
+	.string "Caixas de armazenamento cheias!$"
 
 Debug_EventScript_CheckEVs::
 	lockall
@@ -294,10 +294,10 @@ DebugScript_HatchAnEgg_CantForceHatch::
 	end
 
 DebugScript_Text_EmptyParty::
-	.string "You have no Pokémon nor Eggs.$"
+	.string "Voce nao tem POKeMON nem Ovos.$"
 
 DebugScript_HatchAnEgg_Text_NotAnEgg::
-	.string "That's not a Pokémon Egg.$"
+	.string "Isso nao e um Ovo POKeMON.$"
 
 DebugScript_ZeroDaycareMons::
 	msgbox DebugText_DaycareNoPokemon, MSGBOX_DEFAULT
@@ -315,13 +315,13 @@ DebugScript_DaycareMonsNotCompatible::
 	end
 
 DebugText_DaycareNoPokemon:
-	.string "You have no Pokémon at Daycare.$"
+	.string "Voce nao tem POKeMON no Daycare.$"
 
 DebugText_DaycareOnePokemon:
-	.string "You have only one Pokémon at Daycare.$"
+	.string "Voce tem so um POKeMON no Daycare.$"
 
 DebugText_DaycarePokemonNotCompatible:
-	.string "Your Pokémon at Daycare can't\nhave babies together!$"
+	.string "Your Pokemon at Daycare can't\nhave babies together!$"
 
 Debug_ShowExpansionVersion::
 	callnative BufferExpansionVersion
@@ -762,7 +762,7 @@ Debug_EventScript_FontTest_Text_9::                 @ Special thanks to Nintendo
 	.string "{FONT_SMALL_NARROWER}"                 @ Edit this to test your font
 	.string "42 × 138 = 5796.\n"
 	.string "Mr Jock, TV quiz PhD: bags 20% fewer\l"
-	.string "lynx at a café; voilà, they're “worth”\l"
+	.string "lynx at a cafe; voilà, they're “worth”\l"
 	.string "♂1/♀1 = ¥1. That's 10 + 9 - 8 = 11\l"
 	.string "Nintendo GBA can connect to a Nintendo\l"
 	.string "GameCube console! He claimed-though I don't\l"

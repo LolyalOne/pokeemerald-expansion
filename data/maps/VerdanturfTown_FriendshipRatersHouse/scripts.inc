@@ -63,22 +63,22 @@ VerdanturfTown_FriendshipRatersHouse_EventScript_Pikachu::
 	end
 
 VerdanturfTown_FriendshipRatersHouse_Text_SeeHowMuchPokemonLikesYou:
-	.string "Let me see your POKéMON.\n"
+	.string "Let me see your POKeMON.\n"
 	.string "I'll check to see how much it likes you.\p"
 	.string "Oh.\n"
-	.string "Your POKéMON…$"
+	.string "Your POKeMON…$"
 
 VerdanturfTown_FriendshipRatersHouse_Text_AdoresYou:
-	.string "It adores you.\n"
+	.string "Ele te adora!\n"
 	.string "It can't possibly love you any more.\l"
 	.string "I even feel happy seeing it.$"
 
 VerdanturfTown_FriendshipRatersHouse_Text_VeryHappy:
-	.string "It seems to be very happy.\n"
+	.string "Ele parece muito feliz.\n"
 	.string "It obviously likes you a whole lot.$"
 
 VerdanturfTown_FriendshipRatersHouse_Text_LikesYouQuiteALot:
-	.string "It likes you quite a lot.\n"
+	.string "Ele gosta muito de voce.\n"
 	.string "It seems to want to be babied a little.$"
 
 VerdanturfTown_FriendshipRatersHouse_Text_GettingUsedToYou:
@@ -96,7 +96,7 @@ VerdanturfTown_FriendshipRatersHouse_Text_VeryWary:
 
 VerdanturfTown_FriendshipRatersHouse_Text_DetestsYou:
 	.string "This is a little hard for me to say…\p"
-	.string "Your POKéMON simply detests you.\n"
+	.string "Seu POKeMON simplesmente te detesta.\lQue presente de grego, hein, Lucas?\n"
 	.string "Doesn't that make you uncomfortable?$"
 
 VerdanturfTown_FriendshipRatersHouse_Text_Pikachu:

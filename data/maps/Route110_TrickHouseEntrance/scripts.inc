@@ -695,7 +695,7 @@ Route110_TrickHouseEntrance_EventScript_DoHidingSpotSparkle::
 	return
 
 Route110_TrickHouseEntrance_Text_YoureBeingWatched:
-	.string "You're being watched…$"
+	.string "Voce esta sendo observado...$"
 
 Route110_TrickHouseEntrance_Text_ConcealedBeneathDesk:
 	.string "Hah? Grrr…\p"
@@ -756,7 +756,7 @@ Route110_TrickHouseEntrance_Text_ComeToChallengeTrickHouse:
 	.string "I shall be waiting in the back!$"
 
 Route110_TrickHouseEntrance_Text_ItsAScroll:
-	.string "It's a scroll.$"
+	.string "E um pergaminho.$"
 
 Route110_TrickHouseEntrance_Text_GoInHoleBehindScroll:
 	.string "There is a big hole behind the scroll!\p"
@@ -802,23 +802,23 @@ Route110_TrickHouseEntrance_Text_MechadollWhichTent:
 	.string "WHICH DO YOU PREFER?$"
 
 Route110_TrickHouseEntrance_Text_ThenFarewell:
-	.string "THEN FAREWELL.$"
+	.string "ENTAO ADEUS.$"
 
 Route110_TrickHouseEntrance_Text_PCFullAgain:
 	.string "YOUR PC STATUS: FULL AGAIN.\n"
 	.string "MEAN, YOU ARE.$"
 
 Route110_TrickHousePuzzle_Text_FoundAScroll:
-	.string "{PLAYER} found a scroll.$"
+	.string "{PLAYER} achou um pergaminho.$"
 
 Route110_TrickHousePuzzle_Text_MemorizedSecretCode:
 	.string "{PLAYER} memorized the secret code\n"
 	.string "written on the scroll.$"
 
 Route110_TrickHousePuzzle_Text_SecretCodeWrittenOnIt:
-	.string "A secret code is written on it.$"
+	.string "Tem um codigo escrito nele.$"
 
 Route110_TrickHouseEntrance_Text_DoorLockedWriteSecretCodeHere:
-	.string "The door is locked.\p"
+	.string "A porta esta trancada.\p"
 	.string "…On closer inspection, this is written\n"
 	.string "on it: “Write the secret code here.”$"

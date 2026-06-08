@@ -216,7 +216,7 @@ SeafloorCavern_Room9_Movement_Delay32:
 	step_end
 
 SeafloorCavern_Room9_Text_ArchieHoldItRightThere:
-	.string "ARCHIE: Hold it right there.$"
+	.string "ARCHIE: Pare bem ai, Lucas.$"
 
 SeafloorCavern_Room9_Text_ArchieSoItWasYou:
 	.string "ARCHIE: Fufufu…\n"
@@ -225,7 +225,7 @@ SeafloorCavern_Room9_Text_ArchieSoItWasYou:
 SeafloorCavern_Room9_Text_ArchieBeholdKyogre:
 	.string "ARCHIE: Behold!\p"
 	.string "See how beautiful it is, the sleeping\n"
-	.string "form of the ancient POKéMON KYOGRE!\p"
+	.string "form of the ancient POKeMON KYOGRE!\p"
 	.string "I have waited so long for this day to\n"
 	.string "come…$"
 
@@ -256,7 +256,7 @@ SeafloorCavern_Room9_Text_ArchieWhereDidKyogreGo:
 	.string "ARCHIE: What?!\p"
 	.string "I didn't do anything.\n"
 	.string "Why did the RED ORB…\p"
-	.string "Where did KYOGRE go?$"
+	.string "Para onde o KYOGRE foi?$"
 
 SeafloorCavern_Room9_Text_ArchieAMessageFromOutside:
 	.string "ARCHIE: Hm? It's a message from our\n"

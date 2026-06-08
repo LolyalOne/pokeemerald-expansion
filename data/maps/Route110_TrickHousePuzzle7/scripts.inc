@@ -317,7 +317,7 @@ Route110_TrickHousePuzzle7_EventScript_Everett::
 Route110_TrickHousePuzzle7_Text_WroteSecretCodeLockOpened::
 	.string "{PLAYER} wrote down the secret code\n"
 	.string "on the door.\p"
-	.string "“TRICK MASTER is huggable.”\n"
+	.string "“MESTRE DOS TRUQUES e abracavel.”\n"
 	.string "… … … … … … … …\p"
 	.string "The lock clicked open!$"
 
@@ -362,17 +362,17 @@ Route110_TrickHousePuzzle7_Text_MarielaIntro:
 	.string "Let's get right with it!$"
 
 Route110_TrickHousePuzzle7_Text_MarielaDefeat:
-	.string "You're so casual about winning!$"
+	.string "Voce e tao casual sobre vencer!$"
 
 Route110_TrickHousePuzzle7_Text_MarielaPostBattle:
 	.string "Humph! I'm not upset!\n"
 	.string "Not me!$"
 
 Route110_TrickHousePuzzle7_Text_AlvaroIntro:
-	.string "I ever so closely watched you coming!$"
+	.string "Eu observei muito de perto voce vir!$"
 
 Route110_TrickHousePuzzle7_Text_AlvaroDefeat:
-	.string "This outcome I didn't see coming…$"
+	.string "Este resultado eu nao previ...$"
 
 Route110_TrickHousePuzzle7_Text_AlvaroPostBattle:
 	.string "Well, anyway, we both picked a weird\n"
@@ -381,10 +381,10 @@ Route110_TrickHousePuzzle7_Text_AlvaroPostBattle:
 	.string "let's do our best!$"
 
 Route110_TrickHousePuzzle7_Text_EverettIntro:
-	.string "It's awfully cramped in here…$"
+	.string "Esta terrivelmente apertado aqui...$"
 
 Route110_TrickHousePuzzle7_Text_EverettDefeat:
-	.string "Oh, yes, strong you are.$"
+	.string "Oh, sim, voce e forte.$"
 
 Route110_TrickHousePuzzle7_Text_EverettPostBattle:
 	.string "I was hoping to switch places with you\n"

@@ -36,7 +36,7 @@ PokemonMansion_1F_Text_TedIntro::
 	.string "There shouldn't be anyone here.$"
 
 PokemonMansion_1F_Text_TedDefeat::
-	.string "Ouch!$"
+	.string "Ai!$"
 
 PokemonMansion_1F_Text_TedPostBattle::
 	.string "A key? I don't know what you're\n"

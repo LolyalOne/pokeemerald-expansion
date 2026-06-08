@@ -1,6 +1,7 @@
 MoveRelearner_Text_WouldLearnNewMoves:
-	.string "Hi, I'm the Move Relearner.\n"
-	.string "Would you like to learn new moves?$"
+	.string "Oi, sou o Relembrador de Golpes.\n"
+	.string "Quer relembrar golpes novos,\n"
+	.string "aniversariante Lucas?$"
 
 MoveRelearner_Text_LevelUpMoves:
 	.string "Level Up Moves$"
@@ -15,25 +16,25 @@ MoveRelearner_Text_TutormoveMoves:
 	.string "Tutor Moves$"
 
 MoveRelearner_Text_SeeYa:
-	.string "See ya!$"
+	.string "Ate mais! Parabens!$"
 
 MoveRelearner_Text_AnythingElse:
 	.string "Is there anything else I may do for you?$"
 
 MoveRelearner_Text_ChoosePkmn:
-	.string "Please choose your Pokémon.$"
+	.string "Please choose your Pokemon.$"
 
 MoveRelearner_Text_HaveNoPkmn:
-	.string "You have no Pokémon.$"
+	.string "You have no Pokemon.$"
 
 MoveRelearner_Text_CantTeachMoveToEgg:
-	.string "Sorry…\n"
+	.string "Desculpe...\n"
 	.string "But an Egg can't learn moves.$"
 
 MoveRelearner_Text_CantTeachMoveToPkmn:
 	.string "Sorry…\p"
 	.string "It doesn't appear as if I have any move\n"
-	.string "I can teach that Pokémon.$"
+	.string "I can teach that Pokemon.$"
 
 MoveRelearner_Text_LevelUpMoveLWR::
 	.string "level up move$"

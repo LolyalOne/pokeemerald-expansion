@@ -79,14 +79,14 @@ RocketHideout_B1F_Text_Grunt2Intro::
 	.string "operation? What nerve!$"
 
 RocketHideout_B1F_Text_Grunt2Defeat::
-	.string "Boom!$"
+	.string "Bum!$"
 
 RocketHideout_B1F_Text_Grunt2PostBattle::
 	.string "You're not going to get away with\n"
 	.string "this, brat!$"
 
 RocketHideout_B1F_Text_Grunt3Intro::
-	.string "Intruder alert!$"
+	.string "Alerta de intruso!$"
 
 RocketHideout_B1F_Text_Grunt3Defeat::
 	.string "I can't do it!$"
@@ -96,20 +96,20 @@ RocketHideout_B1F_Text_Grunt3PostBattle::
 	.string "I don't know where it is.$"
 
 RocketHideout_B1F_Text_Grunt4Intro::
-	.string "Why did you come here?$"
+	.string "Por que veio aqui?$"
 
 RocketHideout_B1F_Text_Grunt4Defeat::
-	.string "This won't do!$"
+	.string "Isso nao vai dar certo!$"
 
 RocketHideout_B1F_Text_Grunt4PostBattle::
 	.string "Okay, I'll talk…\n"
 	.string "Take the elevator to see my BOSS.$"
 
 RocketHideout_B1F_Text_Grunt5Intro::
-	.string "Are you lost, you little mouse?$"
+	.string "Esta perdido, ratinho?\lEntrou na toca errada hoje!$"
 
 RocketHideout_B1F_Text_Grunt5Defeat::
-	.string "Why…?$"
+	.string "Por que...?$"
 
 RocketHideout_B1F_Text_Grunt5PostBattle::
 	.string "Uh-oh, that ruckus somehow opened\n"

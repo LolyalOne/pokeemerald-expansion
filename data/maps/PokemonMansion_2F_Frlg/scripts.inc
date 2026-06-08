@@ -34,10 +34,10 @@ PokemonMansion_Text_PressSecretSwitch::
 	.string "Press it?$"
 
 PokemonMansion_Text_WhoWouldnt::
-	.string "Who wouldn't?$"
+	.string "Quem nao apertaria?\lTodo aniversariante faria isso!$"
 
 PokemonMansion_Text_NotQuiteYet::
-	.string "Not quite yet!$"
+	.string "Ainda nao!$"
 
 PokemonMansion_1F_Text_ArnieIntro::
 	.string "I can't get out!\n"
@@ -54,11 +54,11 @@ PokemonMansion_1F_Text_ArniePostBattle::
 PokemonMansion_1F_Text_NewMonDiscoveredInGuyanaJungle::
 	.string "Diary: July 5\n"
 	.string "Guyana, South America\p"
-	.string "A new POKéMON was discovered deep\n"
+	.string "A new POKeMON was discovered deep\n"
 	.string "in the jungle.$"
 
 PokemonMansion_1F_Text_ChristenedDiscoveredMonMew::
 	.string "Diary: July 10\n"
 	.string "We christened the newly discovered\l"
-	.string "POKéMON, MEW.$"
+	.string "POKeMON, MEW.$"
 

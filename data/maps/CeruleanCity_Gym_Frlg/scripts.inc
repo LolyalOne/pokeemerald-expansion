@@ -72,33 +72,33 @@ CeruleanCity_Gym_EventScript_GymStatuePostVictory::
 CeruleanCity_Gym_Text_MistyIntro::
 	.string "Hi, you're a new face!\p"
 	.string "Only those TRAINERS who have a\n"
-	.string "policy about POKéMON can turn pro.\p"
+	.string "policy about POKeMON can turn pro.\p"
 	.string "What is your approach when you\n"
-	.string "catch and train POKéMON?\p"
+	.string "catch and train POKeMON?\p"
 	.string "My policy is an all-out offensive\n"
-	.string "with WATER-type POKéMON!{PLAY_BGM}{MUS_RG_ENCOUNTER_GYM_LEADER}$"
+	.string "with WATER-type POKeMON!{PLAY_BGM}{MUS_RG_ENCOUNTER_GYM_LEADER}$"
 
 CeruleanCity_Gym_Text_ExplainTM03::
 	.string "TM03 teaches WATER PULSE.\p"
-	.string "Use it on an aquatic POKéMON!$"
+	.string "Use it on an aquatic POKeMON!$"
 
 CeruleanCity_Gym_Text_ExplainCascadeBadge::
 	.string "The CASCADEBADGE makes all\n"
-	.string "POKéMON up to Lv. 30 obey.\p"
+	.string "POKeMON up to Lv. 30 obey.\p"
 	.string "That includes even outsiders you\n"
 	.string "got in trades.\p"
 	.string "There's more. You can now use CUT\n"
 	.string "anytime, even out of battle.\p"
 	.string "You can CUT down small trees to\n"
 	.string "open new pathways.\p"
-	.string "You can also have my favorite TM.$"
+	.string "Leve tambem o meu TM favorito.$"
 
 CeruleanCity_Gym_Text_ReceivedTM03FromMisty::
 	.string "{PLAYER} received TM03\n"
 	.string "from MISTY.$"
 
 CeruleanCity_Gym_Text_BetterMakeRoomForThis::
-	.string "You better make room for this!$"
+	.string "E melhor abrir espaco para isto!$"
 
 CeruleanCity_Gym_Text_MistyDefeat::
 	.string "Wow!\n"
@@ -113,7 +113,7 @@ CeruleanCity_Gym_Text_DianaIntro::
 	.string "MISTY won't have to be bothered.$"
 
 CeruleanCity_Gym_Text_DianaDefeat::
-	.string "You overwhelmed me!$"
+	.string "Voce me atropelou!$"
 
 CeruleanCity_Gym_Text_DianaPostBattle::
 	.string "You have to face other TRAINERS\n"
@@ -125,7 +125,7 @@ CeruleanCity_Gym_Text_LuisIntro::
 	.string "Let's do it!$"
 
 CeruleanCity_Gym_Text_LuisDefeat::
-	.string "That can't be!$"
+	.string "Nao pode ser!$"
 
 CeruleanCity_Gym_Text_LuisPostBattle::
 	.string "MISTY is a TRAINER who's going to\n"
@@ -137,11 +137,11 @@ CeruleanCity_Gym_Text_GymGuyAdvice::
 	.string "Champ in the making!\p"
 	.string "Let me give you some advice!\p"
 	.string "The LEADER, MISTY, is a pro who\n"
-	.string "uses WATER-type POKéMON.\p"
+	.string "uses WATER-type POKeMON.\p"
 	.string "You can drain all their water with\n"
-	.string "GRASS-type POKéMON.\p"
+	.string "GRASS-type POKeMON.\p"
 	.string "Or, you might use ELECTRIC-type\n"
-	.string "POKéMON and zap them!$"
+	.string "POKeMON and zap them!$"
 
 CeruleanCity_Gym_Text_WeMakePrettyGoodTeam::
 	.string "You beat MISTY!\n"
@@ -150,13 +150,13 @@ CeruleanCity_Gym_Text_WeMakePrettyGoodTeam::
 	.string "darn-good team!$"
 
 CeruleanCity_Gym_Text_GymStatue::
-	.string "CERULEAN POKéMON GYM\n"
+	.string "CERULEAN POKeMON GYM\n"
 	.string "LEADER: MISTY\p"
 	.string "WINNING TRAINERS:\n"
 	.string "{RIVAL}$"
 
 CeruleanCity_Gym_Text_GymStatuePlayerWon::
-	.string "CERULEAN POKéMON GYM\n"
+	.string "CERULEAN POKeMON GYM\n"
 	.string "LEADER: MISTY\p"
 	.string "WINNING TRAINERS:\n"
 	.string "{RIVAL}, {PLAYER}$"

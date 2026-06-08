@@ -2,7 +2,7 @@ Route111_Text_MakingRoomUseTMToMakeYourOwn:
 	.string "What's that?\n"
 	.string "What am I doing?\p"
 	.string "I'm thinking about making my own room\n"
-	.string "here using a POKéMON move.\p"
+	.string "here using a POKeMON move.\p"
 	.string "I know! I'll give you this TM.\n"
 	.string "Will you use it to make your own room?$"
 
@@ -22,11 +22,11 @@ Route111_Text_ExplainSecretPower:
 	.string "Try using SECRET POWER on rock walls\n"
 	.string "that have small indents in them.\p"
 	.string "I'm going to look for other places, too.\n"
-	.string "Okay, bye!$"
+	.string "Certo, tchau! Parabens pelo dia!$"
 
 Route111_Text_DontWantThis:
 	.string "Oh, you don't want this?\n"
-	.string "If you change your mind, tell me, okay?$"
+	.string "Se mudar de ideia, me avise, ok?$"
 
 Route111_Text_DontHaveAnyRoom:
 	.string "Oh, you don't have any room for this.\p"

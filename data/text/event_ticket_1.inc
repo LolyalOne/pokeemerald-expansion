@@ -18,7 +18,7 @@ EventTicket_Text_ShowEonTicket:
 	.string "There's no telling what we'll encounter\n"
 	.string "once we reach there, aye.\l"
 	.string "That shivers my timbers!\p"
-	.string "All aboard!$"
+	.string "Todos a bordo!\lBora comemorar no mar, Lucas!$"
 
 EventTicket_Text_SouthernIslandSailBack:
 	.string "Aye, mate, there's nothing here to\n"

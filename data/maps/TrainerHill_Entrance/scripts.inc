@@ -350,7 +350,7 @@ TrainerHill_Entrance_Text_ThankYouForPlaying:
 
 TrainerHill_Entrance_Text_ExplainTrainerHill:
 	.string "Here at the TRAINER HILL, we conduct\n"
-	.string "an event called the Time Attack.\p"
+	.string "an event called the Ataque de Tempo.\p"
 	.string "It is a race that measures how long\n"
 	.string "you take to reach our owner on\l"
 	.string "the rooftop from this counter.\p"
@@ -364,8 +364,8 @@ TrainerHill_Entrance_Text_ExplainTrainerHill:
 @ Unused
 TrainerHill_Entrance_Text_NeedAtLeastTwoPokemon:
 	.string "Oh, I'm sorry, but you appear to have\n"
-	.string "only one POKéMON with you.\p"
-	.string "You will need at least two POKéMON\n"
+	.string "only one POKeMON with you.\p"
+	.string "You will need at least two POKeMON\n"
 	.string "to enter this event.$"
 
 TrainerHill_Roof_Text_YouFinallyCameBravo:
@@ -382,7 +382,7 @@ TrainerHill_Roof_Text_YouFinallyCameBravo:
 	.string "…Uh?\n"
 	.string "That's not it?\p"
 	.string "Anyway, I watched you on your way up.\n"
-	.string "Marvelous battling! Bravo, indeed!$"
+	.string "Batalha maravilhosa! Bravo!\lO melhor do seu dia, Lucas!$"
 
 TrainerHill_Roof_Text_HaveTheMostMarvelousGift:
 	.string "For a marvelous someone like you,\n"
@@ -423,7 +423,7 @@ TrainerHill_Entrance_Text_ChallengeTime:
 
 TrainerHill_Entrance_Text_WhatSortOfTrainersAreAhead:
 	.string "Who knows what sort of TRAINERS\n"
-	.string "and POKéMON combos are ahead?\p"
+	.string "and POKeMON combos are ahead?\p"
 	.string "All I know is that I'll knock aside\n"
 	.string "anyone that stands in my way!$"
 

@@ -20,7 +20,7 @@ PacifidlogTown_House5_EventScript_Gentleman::
 	end
 
 PacifidlogTown_House5_Text_CantSeeMirageIslandToday:
-	.string "I can't see MIRAGE ISLAND today…$"
+	.string "Nao consigo ver a MIRAGE ISLAND hoje...$"
 
 PacifidlogTown_House5_Text_CanSeeMirageIslandToday:
 	.string "Oh! Oh my!\n"

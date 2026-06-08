@@ -106,13 +106,13 @@ Route24_Text_ReceivedNuggetFromMysteryTrainer::
 	.string "from the mystery TRAINER!$"
 
 Route24_Text_YouDontHaveAnyRoom::
-	.string "You don't have any room!$"
+	.string "Voce nao tem espaco!$"
 
 Route24_Text_JoinTeamRocket::
 	.string "By the way, how would you like to\n"
 	.string "join TEAM ROCKET?\p"
 	.string "We're a group of professional\n"
-	.string "criminals specializing in POKéMON!\p"
+	.string "criminals specializing in POKeMON!\p"
 	.string "Want to join?\p"
 	.string "Are you sure?\p"
 	.string "Come on, join us!\p"
@@ -132,10 +132,10 @@ Route24_Text_YoudBecomeTopRocketLeader::
 	.string "Don't let this chance go to waste.$"
 
 Route24_Text_ShaneIntro::
-	.string "I saw your feat from the grass!$"
+	.string "Vi seu feito da grama!$"
 
 Route24_Text_ShaneDefeat::
-	.string "I thought not!$"
+	.string "Achei que nao!$"
 
 Route24_Text_ShanePostBattle::
 	.string "I hid because the people on the\n"
@@ -150,17 +150,17 @@ Route24_Text_EthanDefeat::
 	.string "Too much!$"
 
 Route24_Text_EthanPostBattle::
-	.string "I did my best. I have no regrets!$"
+	.string "Dei meu melhor. Sem arrependimentos!$"
 
 Route24_Text_ReliIntro::
 	.string "I'm No. 4!\n"
 	.string "Getting tired?$"
 
 Route24_Text_ReliDefeat::
-	.string "I lost, too!$"
+	.string "Perdi, tambem!$"
 
 Route24_Text_ReliPostBattle::
-	.string "I did my best, so I've no regrets!$"
+	.string "Dei meu melhor, entao nao me arrependo!$"
 
 Route24_Text_TimmyIntro::
 	.string "Here's No. 3!\n"
@@ -171,17 +171,17 @@ Route24_Text_TimmyDefeat::
 	.string "Stomped flat!$"
 
 Route24_Text_TimmyPostBattle::
-	.string "I did my best. I have no regrets!$"
+	.string "Dei meu melhor. Sem arrependimentos!$"
 
 Route24_Text_AliIntro::
 	.string "I'm second!\n"
 	.string "Now it's serious!$"
 
 Route24_Text_AliDefeat::
-	.string "How could I lose?$"
+	.string "Como eu pude perder?$"
 
 Route24_Text_AliPostBattle::
-	.string "I did my best. I have no regrets!$"
+	.string "Dei meu melhor. Sem arrependimentos!$"
 
 Route24_Text_CaleIntro::
 	.string "People call this the NUGGET\n"
@@ -195,4 +195,4 @@ Route24_Text_CaleDefeat::
 	.string "Good stuff!$"
 
 Route24_Text_CalePostBattle::
-	.string "I did my best. I have no regrets!$"
+	.string "Dei meu melhor. Sem arrependimentos!$"

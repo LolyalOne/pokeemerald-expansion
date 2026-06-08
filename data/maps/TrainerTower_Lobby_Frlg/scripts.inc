@@ -270,7 +270,7 @@ TrainerTower_Lobby_Text_MoveCounterHereWhenTrainersSwitch::
 
 TrainerTower_Roof_Text_ImOwnerBattledPerfectly::
 	.string "Hello…\p"
-	.string "I am the owner of this TOWER…\p"
+	.string "Eu sou o dono desta TORRE...\p"
 	.string "How the sky soars above this\n"
 	.string "rooftop…\p"
 	.string "The caress of the winds up here…\p"
@@ -310,7 +310,7 @@ TrainerTower_Lobby_Text_HereAreTheResults::
 TrainerTower_Lobby_Text_NeedTwoMonsForDouble::
 	.string "This is a two-on-two battle.\p"
 	.string "You may not battle unless you have\n"
-	.string "at least two POKéMON.$"
+	.string "at least two POKeMON.$"
 
 TrainerTower_Lobby_Text_ExplainTrainerTower::
 	.string "Here at TRAINER TOWER, there is an\n"

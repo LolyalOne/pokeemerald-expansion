@@ -107,7 +107,7 @@ Route110_TrickHousePuzzle2_Text_WroteSecretCodeLockOpened:
 	.string "The lock clicked open!$"
 
 Route110_TrickHousePuzzle2_Text_TedIntro:
-	.string "Which switch closes which hole?$"
+	.string "Qual botao fecha qual buraco?$"
 
 Route110_TrickHousePuzzle2_Text_TedDefeat:
 	.string "After that battle, I'm even more\n"
@@ -122,7 +122,7 @@ Route110_TrickHousePuzzle2_Text_PaulIntro:
 	.string "challenge!$"
 
 Route110_TrickHousePuzzle2_Text_PaulDefeat:
-	.string "You're good at battling too?$"
+	.string "Voce e bom em batalhas tambem?$"
 
 Route110_TrickHousePuzzle2_Text_PaulPostBattle:
 	.string "The TRICK MASTER rigged all the tricks\n"
@@ -133,7 +133,7 @@ Route110_TrickHousePuzzle2_Text_GeorgiaIntro:
 	.string "So, I'm studying how to set traps.$"
 
 Route110_TrickHousePuzzle2_Text_GeorgiaDefeat:
-	.string "I didn't study battling enough!$"
+	.string "Nao estudei batalhas o suficiente!$"
 
 Route110_TrickHousePuzzle2_Text_GeorgiaPostBattle:
 	.string "You're strong, aren't you?\n"

@@ -136,7 +136,7 @@ CeladonCity_Text_GetLostOrIllPunchYou::
 	.string "Get lost, or I'll punch you.$"
 
 CeladonCity_Text_KeepOutOfTeamRocketsWay::
-	.string "Keep out of TEAM ROCKET's way!$"
+	.string "Fique fora do caminho da TEAM ROCKET!$"
 
 CeladonCity_Text_ExplainXAccuracyDireHit::
 	.string "TRAINER TIPS\p"
@@ -152,12 +152,12 @@ CeladonCity_Text_CitySign::
 	.string "The City of Rainbow Dreams$"
 
 CeladonCity_Text_GymSign::
-	.string "CELADON CITY POKéMON GYM\n"
+	.string "CELADON CITY POKeMON GYM\n"
 	.string "LEADER: ERIKA\l"
 	.string "The Nature-Loving Princess!$"
 
 CeladonCity_Text_MansionSign::
-	.string "CELADON MANSION$"
+	.string "MANSAO DE CELADON$"
 
 CeladonCity_Text_DeptStoreSign::
 	.string "Find what you need at the\n"
@@ -165,7 +165,7 @@ CeladonCity_Text_DeptStoreSign::
 
 CeladonCity_Text_GuardSpecProtectsFromStatus::
 	.string "TRAINER TIPS\p"
-	.string "GUARD SPEC. protects POKéMON\n"
+	.string "GUARD SPEC. protects POKeMON\n"
 	.string "from status-reduction moves during\l"
 	.string "battle.\p"
 	.string "Get your items at the\n"
@@ -202,11 +202,11 @@ Text_SoftboiledDeclined::
 	.string "I hope we can chat again.$"
 
 Text_SoftboiledWhichMon::
-	.string "So, who's the POKéMON that gets\n"
+	.string "So, who's the POKeMON that gets\n"
 	.string "the chance to learn SOFTBOILED?$"
 
 Text_SoftboiledTaught::
-	.string "I wish you the best of luck!$"
+	.string "Desejo a voce a melhor das sortes!$"
 
 CeladonCity_Text_SomeoneStoleSilphScope::
 	.string "Oh, what am I to do…\p"

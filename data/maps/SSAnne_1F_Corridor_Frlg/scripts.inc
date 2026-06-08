@@ -15,7 +15,7 @@ SSAnne_1F_Corridor_Text_LeStrongSilentType::
 	.string "I will be happy to serve you\n"
 	.string "anything you please!\p"
 	.string "… … …\n"
-	.string "Ah! Le strong silent type!$"
+	.string "Ah! Le tipo forte e silencioso!$"
 
 SSAnne_1F_Corridor_Text_PassengersAreRestless::
 	.string "The passengers are restless from\n"

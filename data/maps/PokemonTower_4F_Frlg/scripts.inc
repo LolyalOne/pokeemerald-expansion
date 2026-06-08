@@ -24,14 +24,14 @@ PokemonTower_4F_Text_PaulaDefeat::
 	.string "Where is the ghost?$"
 
 PokemonTower_4F_Text_PaulaPostBattle::
-	.string "I must have been dreaming…$"
+	.string "Eu devo estar sonhando...$"
 
 PokemonTower_4F_Text_LaurelIntro::
 	.string "Be cursed with me!\n"
 	.string "Kwaaah!$"
 
 PokemonTower_4F_Text_LaurelDefeat::
-	.string "What!$"
+	.string "O que!$"
 
 PokemonTower_4F_Text_LaurelPostBattle::
 	.string "We can't determine the identity of\n"
@@ -46,6 +46,6 @@ PokemonTower_4F_Text_JodyDefeat::
 	.string "Who? What?$"
 
 PokemonTower_4F_Text_JodyPostBattle::
-	.string "May the departed POKéMON rest in\n"
+	.string "May the departed POKeMON rest in\n"
 	.string "peace…$"
 

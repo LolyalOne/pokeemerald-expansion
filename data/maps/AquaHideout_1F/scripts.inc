@@ -50,36 +50,67 @@ AquaHideout_1F_EventScript_Grunt1Defeated::
 	release
 	end
 
-AquaHideout_1F_Text_OurBossIsSnatchingSomething:
-	.string "What? What? What do you want with \n"
+AquaHideout_1F_Text_Grunt1Intro:
+	.string "O que? O que? O que voce quer com o\n"
 	.string "TEAM AQUA?\p"
-	.string "Our BOSS isn't here! He's gone off to\n"
-	.string "snatch something important!\p"
+	.string "Nosso CHEFE nao esta aqui! Ele saiu para\n"
+	.string "roubar algo muito importante!\p"
+	.string "... ...\n"
+	.string "Pra onde ele foi?\p"
+	.string "Wahaha! Voce acha mesmo que eu diria\n"
+	.string "algo tao crucial? Nem se fosse seu\l"
+	.string "aniversario, Lucas! Oh... espera...$"
+
+AquaHideout_1F_Text_Grunt1Defeat:
+	.string "O que? O que?\n"
+	.string "Voce e um recruta do TEAM MAGMA?\p"
+	.string "Ouvi dizer que o TEAM MAGMA esta\n"
+	.string "tentando despertar um POKeMON\l"
+	.string "incrivel no ESCONDERIJO deles.\p"
+	.string "Mas onde sera que fica esse\n"
+	.string "ESCONDERIJO? Talvez voce devesse\l"
+	.string "pedir de presente, Lucas!$"
+
+AquaHideout_1F_Text_Grunt1PostBattle:
+	.string "O que? O que? O que voce quer com o\n"
+	.string "TEAM AQUA?\p"
+	.string "Nosso CHEFE nao esta aqui!\n"
+	.string "Ele saiu para roubar um submarino!\p"
+	.string "... ...\n"
+	.string "Pra onde ele foi?\p"
+	.string "Wahaha! Voce acha mesmo que eu diria\n"
+	.string "algo tao crucial? Aproveite sua\l"
+	.string "festa enquanto pode, Lucas!$"
+
+AquaHideout_1F_Text_OurBossIsSnatchingSomething:
+	.string "What? What? What do you want with\n"
+	.string "TEAM AQUA?\p"
+	.string "Our BOSS isn't here! He's on his way to\n"
+	.string "MT. PYRE on ROUTE 122!\p"
 	.string "… …\n"
-	.string "Where did he go?\p"
+	.string "Why did he go?\p"
 	.string "Wahaha! Do you really think I'd tell\n"
 	.string "you something that crucial?$"
 
 AquaHideout_1F_Text_WhereMightMagmaHideoutBe:
 	.string "What? What?\n"
 	.string "Are you a TEAM MAGMA grunt?\p"
-	.string "I hear that TEAM MAGMA is trying to\n"
-	.string "awaken an awesome POKéMON at their\l"
-	.string "HIDEOUT.\p"
-	.string "But where might their HIDEOUT be?$"
+	.string "Ouvi que o TEAM MAGMA esta atras\n"
+	.string "an awesome POKeMON at MT. CHIMNEY.\p"
+	.string "Mas como e esse POKeMON?$"
 
 AquaHideout_1F_Text_BossWentToJackASubmarine:
-	.string "What? What? What do you want with \n"
+	.string "What? What? What do you want with\n"
 	.string "TEAM AQUA?\p"
 	.string "Our BOSS isn't here!\n"
-	.string "He's gone off to jack a submarine!\p"
+	.string "He's on his way to SLATEPORT CITY!\p"
 	.string "… …\n"
-	.string "Where did he go?\p"
+	.string "Why did he go?\p"
 	.string "Wahaha! Do you really think I'd tell\n"
 	.string "you something that crucial?$"
 
 AquaHideout_1F_Text_BossIsOnRoute122:
-	.string "What? What? What do you want with \n"
+	.string "What? What? What do you want with\n"
 	.string "TEAM AQUA?\p"
 	.string "Our BOSS isn't here! He's on his way to\n"
 	.string "MT. PYRE on ROUTE 122!\p"
@@ -91,9 +122,9 @@ AquaHideout_1F_Text_BossIsOnRoute122:
 AquaHideout_1F_Text_TeamMagmaAtMtChimney:
 	.string "What? What?\n"
 	.string "Are you a TEAM MAGMA grunt?\p"
-	.string "I hear that TEAM MAGMA is after\n"
-	.string "an awesome POKéMON at MT. CHIMNEY.\p"
-	.string "But what is that POKéMON like?$"
+	.string "Ouvi que o TEAM MAGMA esta atras\n"
+	.string "an awesome POKeMON at MT. CHIMNEY.\p"
+	.string "Mas como e esse POKeMON?$"
 
 AquaHideout_1F_Text_BossIsInSlateportCity:
 	.string "What? What? What do you want with\n"
@@ -104,16 +135,3 @@ AquaHideout_1F_Text_BossIsInSlateportCity:
 	.string "Why did he go?\p"
 	.string "Wahaha! Do you really think I'd tell\n"
 	.string "you something that crucial?$"
-
-AquaHideout_1F_Text_Grunt1Intro:
-	.string "Ayiyiyi!\n"
-	.string "Suspicious character spotted!$"
-
-AquaHideout_1F_Text_Grunt1Defeat:
-	.string "Grrrrr…\n"
-	.string "I lost it!$"
-
-AquaHideout_1F_Text_Grunt1PostBattle:
-	.string "I took the loss for the TEAM,\n"
-	.string "but I did my job…$"
-

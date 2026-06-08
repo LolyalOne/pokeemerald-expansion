@@ -192,7 +192,7 @@ FourIsland_IcefallCave_Back_EventScript_Lorelei::
 
 FourIsland_IcefallCave_Back_Text_LoreleiKeepHandsOffMons::
 	.string "LORELEI: Keep your filthy hands\n"
-	.string "off the POKéMON in the cave!\p"
+	.string "off the POKeMON in the cave!\p"
 	.string "Do as I say, or you'll have me to\n"
 	.string "answer to!$"
 
@@ -204,23 +204,23 @@ FourIsland_IcefallCave_Back_Text_ShutItLadyLeaveUsBe::
 
 FourIsland_IcefallCave_Back_Text_LoreleiPlayerHelpMeKickPoachersOut::
 	.string "LORELEI: {PLAYER}?!\n"
-	.string "What are you doing here?\p"
+	.string "O que voce esta fazendo aqui?\p"
 	.string "No, we can catch up later.\n"
 	.string "Right now, I need your help.\p"
 	.string "Help me kick these poachers out\n"
 	.string "before they do anything else.\p"
-	.string "They've been catching POKéMON\n"
+	.string "They've been catching POKeMON\n"
 	.string "here, then selling them off!\p"
 	.string "Are you ready?\n"
 	.string "You take that one, please!$"
 
 FourIsland_IcefallCave_Back_Text_GruntIntro::
-	.string "W-what?!\p"
+	.string "O-que?!\p"
 	.string "Who says we can't do what we want\n"
-	.string "with the POKéMON we catch?$"
+	.string "with the POKeMON we catch?$"
 
 FourIsland_IcefallCave_Back_Text_GruntDefeat::
-	.string "We didn't plan on this!$"
+	.string "Nos nao planejamos isso!$"
 
 FourIsland_IcefallCave_Back_Text_LoreleiWhereHaveYouTakenMons::
 	.string "LORELEI: Humph.\n"
@@ -228,7 +228,7 @@ FourIsland_IcefallCave_Back_Text_LoreleiWhereHaveYouTakenMons::
 	.string "You!\n"
 	.string "Tell me!\p"
 	.string "Where have you taken the captured\n"
-	.string "POKéMON?\p"
+	.string "POKeMON?\p"
 	.string "I'm smashing your ring once and\n"
 	.string "for all!$"
 
@@ -247,7 +247,7 @@ FourIsland_IcefallCave_Back_Text_LoreleiWellDeepFreezeYou::
 FourIsland_IcefallCave_Back_Text_OkayRocketWareHouseFiveIsland::
 	.string "Wawaah! Okay!\n"
 	.string "I'll talk!\p"
-	.string "The POKéMON are in the ROCKET\n"
+	.string "The POKeMON are in the ROCKET\n"
 	.string "WAREHOUSE on FIVE ISLAND.\p"
 	.string "There! I said it!\n"
 	.string "We'll be going now!\p"

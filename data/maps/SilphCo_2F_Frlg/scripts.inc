@@ -52,17 +52,17 @@ SilphCo_2F_Text_JerryIntro::
 	.string "Go home!$"
 
 SilphCo_2F_Text_JerryDefeat::
-	.string "You're good.$"
+	.string "Voce e bom.$"
 
 SilphCo_2F_Text_JerryPostBattle::
 	.string "Can you solve the maze in here?\n"
 	.string "It's not easy, I tell you!$"
 
 SilphCo_2F_Text_Grunt1Intro::
-	.string "No kids are allowed in here!$"
+	.string "Criancas nao sao permitidas aqui!$"
 
 SilphCo_2F_Text_Grunt1Defeat::
-	.string "Tough!$"
+	.string "Duro!$"
 
 SilphCo_2F_Text_Grunt1PostBattle::
 	.string "Diamond-shaped tiles are teleport\n"
@@ -75,7 +75,7 @@ SilphCo_2F_Text_Grunt2Intro::
 	.string "What are you wandering here for?$"
 
 SilphCo_2F_Text_Grunt2Defeat::
-	.string "I goofed!$"
+	.string "Eu estraguei tudo!$"
 
 SilphCo_2F_Text_Grunt2PostBattle::
 	.string "SILPH CO. will be associated with\n"
@@ -94,16 +94,16 @@ Text_ThunderWaveDeclined::
 	.string "But THUNDER WAVE is convenient…$"
 
 Text_ThunderWaveWhichMon::
-	.string "Which POKéMON should I teach\n"
+	.string "Which POKeMON should I teach\n"
 	.string "THUNDER WAVE?$"
 
 Text_ThunderWaveTaught::
 	.string "THUNDER WAVE causes paralysis in\n"
-	.string "the target POKéMON.\p"
-	.string "A paralyzed POKéMON may be unable\n"
+	.string "the target POKeMON.\p"
+	.string "A paralyzed POKeMON may be unable\n"
 	.string "to move in battle.\p"
 	.string "It's an ELECTRIC-type move, so it\n"
-	.string "won't work on some POKéMON.$"
+	.string "won't work on some POKeMON.$"
 
 SilphCo_2F_Text_FloorSign::
 	.string "SILPH CO. HEAD OFFICE\n"

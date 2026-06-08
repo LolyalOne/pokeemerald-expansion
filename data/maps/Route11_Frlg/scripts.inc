@@ -6,14 +6,14 @@ Route11_EventScript_DiglettsCaveSign::
 	end
 
 Route11_Text_HugoIntro::
-	.string "Win, lose, or draw!$"
+	.string "Vencer, perder ou empatar!$"
 
 Route11_Text_HugoDefeat::
 	.string "Atcha!\n"
 	.string "Didn't go my way!$"
 
 Route11_Text_HugoPostBattle::
-	.string "POKéMON is life!\n"
+	.string "POKeMON is life!\n"
 	.string "And to live is to play games!$"
 
 Route11_Text_JasperIntro::
@@ -21,14 +21,14 @@ Route11_Text_JasperIntro::
 	.string "I can't get enough!$"
 
 Route11_Text_JasperDefeat::
-	.string "I had a chance!$"
+	.string "Eu tive chance!$"
 
 Route11_Text_JasperPostBattle::
 	.string "You can't be a coward in the world\n"
-	.string "of POKéMON!$"
+	.string "of POKeMON!$"
 
 Route11_Text_EddieIntro::
-	.string "Let's go, but don't cheat!$"
+	.string "Vamos, mas sem trapacear!$"
 
 Route11_Text_EddieDefeat::
 	.string "Huh?\n"
@@ -43,17 +43,17 @@ Route11_Text_BraxtonIntro::
 	.string "I'm laying down some cables!$"
 
 Route11_Text_BraxtonDefeat::
-	.string "That was electric!$"
+	.string "Isso foi eletrizante!$"
 
 Route11_Text_BraxtonPostBattle::
-	.string "Spread the word to save energy!$"
+	.string "Espalhe a palavra, economize energia!$"
 
 Route11_Text_DillonIntro::
 	.string "I just became a TRAINER.\n"
 	.string "But, I think I can win.$"
 
 Route11_Text_DillonDefeat::
-	.string "My POKéMON couldn't win…\n"
+	.string "My POKeMON couldn't win…\n"
 	.string "Haven't they grown enough?$"
 
 Route11_Text_DillonPostBattle::
@@ -65,19 +65,20 @@ Route11_Text_DirkIntro::
 	.string "I have never lost!$"
 
 Route11_Text_DirkDefeat::
-	.string "My first loss!$"
+	.string "Minha primeira derrota!$"
 
 Route11_Text_DirkPostBattle::
-	.string "You were just lucky, that's all.$"
+	.string "Voce so teve sorte de aniversario,\n"
+	.string "e so isso, Lucas.$"
 
 Route11_Text_DarianIntro::
-	.string "I have never won before…$"
+	.string "Nunca ganhei antes...$"
 
 Route11_Text_DarianDefeat::
-	.string "I saw this coming…$"
+	.string "Ja esperava isso...$"
 
 Route11_Text_DarianPostBattle::
-	.string "I was unlucky, as always.$"
+	.string "Tive azar, como sempre.$"
 
 Route11_Text_YasuIntro::
 	.string "I'm the best in my class.\n"
@@ -85,26 +86,26 @@ Route11_Text_YasuIntro::
 
 Route11_Text_YasuDefeat::
 	.string "Darn!\n"
-	.string "My POKéMON need to be stronger!$"
+	.string "My POKeMON need to be stronger!$"
 
 Route11_Text_YasuPostBattle::
-	.string "There's a fat POKéMON that comes\n"
+	.string "There's a fat POKeMON that comes\n"
 	.string "down from the mountains.\p"
 	.string "I bet it'd be strong if you can\n"
 	.string "catch it.$"
 
 Route11_Text_BernieIntro::
-	.string "Watch out for live wires!$"
+	.string "Cuidado com fios desencapados!$"
 
 Route11_Text_BernieDefeat::
 	.string "Whoa!\n"
 	.string "You spark plug!$"
 
 Route11_Text_BerniePostBattle::
-	.string "Well, better get back to work.$"
+	.string "Bem, melhor eu voltar ao trabalho.$"
 
 Route11_Text_DaveIntro::
-	.string "I raised my POKéMON carefully.\n"
+	.string "I raised my POKeMON carefully.\n"
 	.string "They should be ready by now!$"
 
 Route11_Text_DaveDefeat::
@@ -116,5 +117,5 @@ Route11_Text_DavePostBattle::
 	.string "I better go find stronger ones!$"
 
 Route11_Text_DiglettsCave::
-	.string "DIGLETT'S CAVE$"
+	.string "CAVERNA DOS DIGLETT$"
 

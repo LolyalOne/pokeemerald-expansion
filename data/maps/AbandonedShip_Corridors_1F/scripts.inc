@@ -11,16 +11,23 @@ AbandonedShip_Corridors_1F_EventScript_Charlie::
 	end
 
 AbandonedShip_Corridors_1F_Text_CharlieIntro:
-	.string "What's so funny about having my inner\n"
-	.string "tube aboard the ship?$"
+	.string "Qual a graca de trazer minha boia\n"
+	.string "para dentro do navio?\p"
+	.string "Nao ria! Pelo menos tenho um presente\n"
+	.string "de aniversario flutuante pra voce, Lucas!$"
 
 AbandonedShip_Corridors_1F_Text_CharlieDefeat:
-	.string "Whoa, you overwhelmed me!$"
+	.string "Uau, voce me afundou! Feliz aniversario,\n"
+	.string "Lucas!$"
 
 AbandonedShip_Corridors_1F_Text_CharliePostBattle:
-	.string "It's not easy throwing POKé BALLS\n"
-	.string "while hanging on to an inner tube!$"
+	.string "Nao e nada facil arremessar POKeBOLAS\n"
+	.string "segurando essa boia!\p"
+	.string "Sorte de aniversariante, Lucas!\n"
+	.string "Aproveite a sua viagem.$"
 
 AbandonedShip_Corridors_1F_Text_IsntItFunHere:
-	.string "Isn't it fun here?\n"
-	.string "I get excited just being here!$"
+	.string "Nao e legal aqui dentro?\n"
+	.string "Eu fico toda arrepiada so de estar aqui!\p"
+	.string "E o lugar perfeito para uma aventura\n"
+	.string "de aniversario, nao acha, Lucas?$"

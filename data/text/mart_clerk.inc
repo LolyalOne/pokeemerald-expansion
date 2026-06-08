@@ -3,7 +3,7 @@ gText_HowMayIServeYou::
 	.string "How may I serve you?$"
 
 gText_PleaseComeAgain::
-	.string "Please come again!$"
+	.string "Volte sempre! Curta seu niver!$"
 
 gText_PlayerWhatCanIDoForYou::
 	.string "{PLAYER}{STRING 5}, welcome!\p"

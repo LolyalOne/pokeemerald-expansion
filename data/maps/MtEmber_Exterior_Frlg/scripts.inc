@@ -136,7 +136,7 @@ Text_ExplosionDeclined::
 
 Text_ExplosionWhichMon::
 	.string "You're terribly brave!\p"
-	.string "Which POKéMON should I teach\n"
+	.string "Which POKeMON should I teach\n"
 	.string "EXPLOSION?$"
 
 Text_ExplosionTaught::
@@ -180,17 +180,17 @@ MtEmber_Exterior_Text_Grunt1Intro::
 	.string "haven't you?$"
 
 MtEmber_Exterior_Text_Grunt1Defeat::
-	.string "Huh, what?$"
+	.string "Hein, o que?$"
 
 MtEmber_Exterior_Text_Grunt1PostBattle::
-	.string "Why'd you have to win?$"
+	.string "Por que voce tinha que vencer?\lLogo no seu aniversario...$"
 
 MtEmber_Exterior_Text_Grunt2Intro::
 	.string "Trying to horn in on our treasure?\n"
 	.string "Don't bet on it!$"
 
 MtEmber_Exterior_Text_Grunt2Defeat::
-	.string "Wait!\n"
+	.string "Espere!\n"
 	.string "But how?$"
 
 MtEmber_Exterior_Text_Grunt2PostBattle::

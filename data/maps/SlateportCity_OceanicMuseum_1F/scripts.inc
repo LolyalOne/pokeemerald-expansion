@@ -223,12 +223,12 @@ SlateportCity_OceanicMuseum_1F_Movement_FamiliarGruntExitNorth:
 	step_end
 
 SlateportCity_OceanicMuseum_1F_Text_WouldYouLikeToEnter:
-	.string "Welcome to the OCEANIC MUSEUM.\p"
+	.string "Bem-vindo ao MUSEU OCEANICO.\p"
 	.string "The entrance fee is ¥50.\n"
-	.string "Would you like to enter?$"
+	.string "Gostaria de entrar?$"
 
 SlateportCity_OceanicMuseum_1F_Text_PleaseEnjoyYourself:
-	.string "Please enjoy yourself.$"
+	.string "Por favor, divirta-se. Feliz aniversario, Lucas!$"
 
 SlateportCity_OceanicMuseum_1F_Text_NotEnoughMoney:
 	.string "Oh? I'm sorry, but you don't seem to\n"
@@ -241,7 +241,7 @@ SlateportCity_OceanicMuseum_1F_Text_CatchUpWithYourGroup:
 	.string "You'd better go catch up to them!$"
 
 SlateportCity_OceanicMuseum_1F_Text_AquaExistForGoodOfAll:
-	.string "We, TEAM AQUA, exist for the good\n"
+	.string "Nos, TEAM AQUA, existimos\npelo bem de todos!\n"
 	.string "of all!$"
 
 SlateportCity_OceanicMuseum_1F_Text_OurBossIsntHere:
@@ -266,7 +266,7 @@ SlateportCity_OceanicMuseum_1F_Text_DidntHaveMoney:
 	.string "time getting by the receptionist.$"
 
 SlateportCity_OceanicMuseum_1F_Text_LearnAboutSeaForBattling:
-	.string "I want to learn about the sea and\n"
+	.string "Quero aprender sobre o mar\npara batalhar melhor. and\n"
 	.string "use that knowledge for battling.$"
 
 SlateportCity_OceanicMuseum_1F_Text_SternIsRoleModel:
@@ -278,11 +278,11 @@ SlateportCity_OceanicMuseum_1F_Text_SternIsRoleModel:
 SlateportCity_OceanicMuseum_1F_Text_MustBePokemonWeDontKnow:
 	.string "The sea is vast without end, and\n"
 	.string "infinitely deep…\p"
-	.string "There must be many POKéMON that\n"
+	.string "There must be many POKeMON that\n"
 	.string "we don't know about.$"
 
 SlateportCity_OceanicMuseum_1F_Text_WantSeaPokemon:
-	.string "I want a sea POKéMON.\p"
+	.string "I want a sea POKeMON.\p"
 	.string "I think it would feel cool and nice\n"
 	.string "to hug.$"
 
@@ -291,14 +291,14 @@ SlateportCity_OceanicMuseum_1F_Text_RememberMeTakeThis:
 	.string "What are you doing here?\p"
 	.string "Me? I'm the TEAM AQUA member\n"
 	.string "you thumped before, remember?\l"
-	.string "Back in RUSTURF TUNNEL?\p"
+	.string "Lembra de RUSTURF TUNNEL?\p"
 	.string "Here, take this!\n"
 	.string "You have to forgive me!$"
 
 SlateportCity_OceanicMuseum_1F_Text_HopeINeverSeeYouAgain:
 	.string "That TM, it suits you more than it\n"
 	.string "does me.\p"
-	.string "Hope I never see you again!\n"
+	.string "Espero nunca mais te ver!\n"
 	.string "Wahahaha!$"
 
 SlateportCity_OceanicMuseum_1F_Text_YouHaveToTakeThis:

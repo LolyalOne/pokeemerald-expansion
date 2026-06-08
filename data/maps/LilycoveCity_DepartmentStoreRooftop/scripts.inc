@@ -216,4 +216,4 @@ LilycoveCity_DepartmentStoreRooftop_Text_NotEnoughMoney:
 	.string "Not enough money…$"
 
 LilycoveCity_DepartmentStoreRooftop_Text_DecidedAgainstBuyingDrink:
-	.string "Decided against buying a drink.$"
+	.string "Decidiu nao comprar uma bebida.$"

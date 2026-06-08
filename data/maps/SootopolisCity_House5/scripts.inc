@@ -16,5 +16,6 @@ SootopolisCity_House5_Text_SootopolisMtPyreConnection:
 	.string "it at the lab where I used to work.$"
 
 SootopolisCity_House5_Text_BrotherUsedToStudySea:
-	.string "My big brother used to study the sea.$"
+	.string "Meu irmao mais velho estudava o mar.\lSeria incrivel ele estar no seu\n"
+	.string "aniversario, Lucas!$"
 

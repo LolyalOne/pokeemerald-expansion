@@ -59,7 +59,7 @@ FuchsiaCity_WardensHouse_EventScript_DisplaySign2::
 	end
 
 FuchsiaCity_WardensHouse_Text_HifFuffHefifoo::
-	.string "WARDEN: Hif fuff hefifoo!\p"
+	.string "DIRETOR: Hif fuff hefifoo!\p"
 	.string "Ha lof ha feef ee hafahi ho.\n"
 	.string "Heff hee fwee!$"
 
@@ -76,7 +76,7 @@ FuchsiaCity_WardensHouse_Text_GaveGoldTeethToWarden::
 	.string "to the WARDEN.$"
 
 FuchsiaCity_WardensHouse_Text_WardenPoppedInHisTeeth::
-	.string "The WARDEN popped in his teeth!$"
+	.string "O DIRETOR colocou os dentes!$"
 
 FuchsiaCity_WardensHouse_Text_ThanksSonGiveYouSomething::
 	.string "WARDEN: Thanks, son!\n"
@@ -105,7 +105,7 @@ FuchsiaCity_WardensHouse_Text_ReceivedHM04FromWarden::
 FuchsiaCity_WardensHouse_Text_ExplainStrength::
 	.string "WARDEN: Inside HM04 you'll find\n"
 	.string "STRENGTH.\p"
-	.string "It lets POKéMON move boulders when\n"
+	.string "It lets POKeMON move boulders when\n"
 	.string "you're outside of battle.\p"
 	.string "Oh yes, did you find the SECRET\n"
 	.string "HOUSE in the SAFARI ZONE?$"
@@ -116,10 +116,10 @@ FuchsiaCity_WardensHouse_Text_YouHaveTooMuchStuff::
 	.string "いっぱいやんけ！$"
 
 FuchsiaCity_WardensHouse_Text_MonPhotosFossilsOnDisplay::
-	.string "POKéMON photos and fossils are on\n"
+	.string "POKeMON photos and fossils are on\n"
 	.string "display.$"
 
 FuchsiaCity_WardensHouse_Text_OldMonMerchandiseOnDisplay::
-	.string "Old POKéMON merchandise is on\n"
+	.string "Old POKeMON merchandise is on\n"
 	.string "display.$"
 

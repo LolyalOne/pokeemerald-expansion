@@ -17,11 +17,12 @@ SSAnne_B1F_Room4_Text_LeonardIntro::
 
 SSAnne_B1F_Room4_Text_LeonardDefeat::
 	.string "Right!\n"
-	.string "Good battle, mate!$"
+	.string "Boa batalha, amigo!$"
 
 SSAnne_B1F_Room4_Text_LeonardPostBattle::
 	.string "Hahaha!\n"
-	.string "Want to be a sailor, mate?$"
+	.string "Quer ser um marinheiro, amigo?\pSeria um otimo presente de\n"
+	.string "aniversario pro Lucas!$"
 
 SSAnne_B1F_Room4_Text_DuncanIntro::
 	.string "Come on, then!\n"

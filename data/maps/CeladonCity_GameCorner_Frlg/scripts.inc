@@ -487,7 +487,7 @@ CeladonCity_GameCorner_Text_CoinCaseIsFull::
 	.string "Your COIN CASE is full.$"
 
 CeladonCity_GameCorner_Text_CantAffordCoins::
-	.string "You can't afford the COINS.$"
+	.string "Voce nao tem dinheiro para as MOEDAS.$"
 
 CeladonCity_GameCorner_Text_HereAreYourCoins::
 	.string "Thank you.\n"
@@ -503,14 +503,16 @@ CeladonCity_GameCorner_Text_ThinkMachinesHaveDifferentOdds::
 	.string "different odds.$"
 
 CeladonCity_GameCorner_Text_DoYouWantToPlay::
-	.string "Kid, do you want to play?$"
+	.string "Garoto, voce quer jogar?\n"
+	.string "Hoje e seu aniversario, Lucas?\n"
+	.string "Quem sabe a sorte nao sorri pra voce!$"
 
 CeladonCity_GameCorner_Text_Received10CoinsFromMan::
 	.string "{PLAYER} received 10 COINS\n"
 	.string "from the man.$"
 
 CeladonCity_GameCorner_Text_DontNeedMyCoins::
-	.string "You don't need my COINS!$"
+	.string "Voce nao precisa das minhas MOEDAS!$"
 
 CeladonCity_GameCorner_Text_WinsComeAndGo::
 	.string "Wins seem to come and go.\n"
@@ -526,14 +528,14 @@ CeladonCity_GameCorner_Text_GymGuyAdvice::
 	.string "champ in the making!\p"
 	.string "CELADON GYM's LEADER is ERIKA.\p"
 	.string "She is a user of GRASS-type\n"
-	.string "POKéMON, and at one with nature.\p"
+	.string "POKeMON, and at one with nature.\p"
 	.string "She might appear docile because of\n"
 	.string "her flower arranging…\p"
 	.string "But she's not one to be taken\n"
 	.string "lightly!$"
 
 CeladonCity_GameCorner_Text_RareMonsForCoins::
-	.string "They offer rare POKéMON that can\n"
+	.string "They offer rare POKeMON that can\n"
 	.string "be exchanged for your COINS.\p"
 	.string "But, I just can't seem to win!$"
 
@@ -550,11 +552,11 @@ CeladonCity_GameCorner_Text_Received20CoinsFromNiceGuy::
 	.string "from the nice guy.$"
 
 CeladonCity_GameCorner_Text_YouHaveLotsOfCoins::
-	.string "You have lots of COINS!$"
+	.string "Voce tem muitas MOEDAS!$"
 
 CeladonCity_GameCorner_Text_NeedMoreCoinsForMonIWant::
 	.string "Darn! I need more COINS for the\n"
-	.string "POKéMON I want!$"
+	.string "POKeMON I want!$"
 
 CeladonCity_GameCorner_Text_HereAreSomeCoinsShoo::
 	.string "Hey, what? You're throwing me off!\n"
@@ -577,7 +579,7 @@ CeladonCity_GameCorner_Text_GruntIntro::
 	.string "Go away, or else!$"
 
 CeladonCity_GameCorner_Text_GruntDefeat::
-	.string "Dang!$"
+	.string "Droga!$"
 
 CeladonCity_GameCorner_Text_GruntPostBattle::
 	.string "The TEAM ROCKET HIDEOUT might\n"

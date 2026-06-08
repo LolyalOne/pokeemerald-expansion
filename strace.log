@@ -1,0 +1,52 @@
+3197  execve("/usr/bin/make", ["make", "-j4"], 0x7fffe3c7ec30 /* 34 vars */) = 0
+3198  execve("/usr/bin/bash", ["bash", "-o", "pipefail", "-c", "PATH=\"/home/mk-debug/.local/bin:"...], 0x7ffcfb5f9d70 /* 34 vars */) = 0
+3198  execve("/usr/bin/arm-none-eabi-gcc", ["arm-none-eabi-gcc", "--print-prog-name=cc1"], 0x593fee796510 /* 34 vars */) = 0
+3198  +++ exited with 0 +++
+3199  execve("/usr/bin/bash", ["bash", "-o", "pipefail", "-c", "PATH=\"/home/mk-debug/.local/bin:"...], 0x7ffcfb5f9d70 /* 34 vars */) = 0
+3199  execve("/usr/bin/arm-none-eabi-gcc", ["arm-none-eabi-gcc", "-mthumb", "-print-file-name=libgcc.a"], 0x61daa57d1510 /* 34 vars */) = 0
+3199  +++ exited with 0 +++
+3200  execve("/usr/bin/bash", ["bash", "-o", "pipefail", "-c", "PATH=\"/home/mk-debug/.local/bin:"...], 0x7ffcfb5f9d70 /* 34 vars */) = 0
+3200  execve("/usr/bin/arm-none-eabi-gcc", ["arm-none-eabi-gcc", "-mthumb", "-print-file-name=libnosys.a"], 0x6251493f8510 /* 34 vars */) = 0
+3200  +++ exited with 0 +++
+3201  execve("/usr/bin/bash", ["bash", "-o", "pipefail", "-c", "PATH=\"/home/mk-debug/.local/bin:"...], 0x7ffcfb5f9d70 /* 34 vars */) = 0
+3201  execve("/usr/bin/arm-none-eabi-gcc", ["arm-none-eabi-gcc", "-mthumb", "-print-file-name=libc.a"], 0x5b3f24965510 /* 34 vars */) = 0
+3201  +++ exited with 0 +++
+3202  execve("/usr/bin/bash", ["bash", "-o", "pipefail", "-c", "uname"], 0x7ffcfb5f9d70 /* 34 vars */) = 0
+3202  execve("/usr/bin/uname", ["uname"], 0x633d67fccb90 /* 34 vars */) = 0
+3202  +++ exited with 0 +++
+3203  execve("/usr/bin/bash", ["bash", "-o", "pipefail", "-c", "uname"], 0x7ffcfb5f9d70 /* 34 vars */) = 0
+3203  execve("/usr/bin/uname", ["uname"], 0x5ca28451fb90 /* 34 vars */) = 0
+3203  +++ exited with 0 +++
+3204  execve("/usr/bin/bash", ["bash", "-o", "pipefail", "-c", "command -v mgba-rom-test-hydra 2"...], 0x7ffcfb5f9d70 /* 34 vars */) = 0
+3204  +++ exited with 0 +++
+3205  execve("/usr/bin/bash", ["bash", "-o", "pipefail", "-c", "{ command -v sha1sum || command "...], 0x7ffcfb5f9d70 /* 34 vars */) = 0
+3205  +++ exited with 0 +++
+3206  execve("/usr/bin/bash", ["bash", "-o", "pipefail", "-c", "make -f make_tools.mk | sed \"s/ "...], 0x7ffcfb5f9d70 /* 34 vars */) = 0
+3207  execve("/usr/bin/make", ["make", "-f", "make_tools.mk"], 0x58a370acbbb0 /* 34 vars */) = 0
+3208  execve("/usr/bin/sed", ["sed", "s/ /__SPACE__/g"], 0x58a370acbbb0 /* 34 vars */) = 0
+3209  execve("/bin/sh", ["/bin/sh", "./check_history.sh"], 0x61e8ca98ef80 /* 37 vars */) = 0
+3210  execve("/usr/bin/which", ["which", "git"], 0x595616eeff28 /* 37 vars */) = 0
+3210  +++ exited with 0 +++
+3209  --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3210, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3211  execve("/usr/bin/git", ["git", "rev-parse", "--is-inside-work-tree"], 0x595616eeff28 /* 37 vars */) = 0
+3211  +++ exited with 0 +++
+3209  --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3211, si_uid=1000, si_status=0, si_utime=0, si_stime=4} ---
+3209  +++ exited with 0 +++
+3212  execve("/usr/bin/make", ["make", "-C", "tools/bin2c"], 0x61e8ca98ef80 /* 37 vars */) = 0
+3212  +++ exited with 0 +++
+3213  execve("/usr/bin/make", ["make", "-C", "tools/gbafix"], 0x61e8ca98ef80 /* 37 vars */) = 0
+3213  +++ exited with 0 +++
+3197  --- SIGTERM {si_signo=SIGTERM, si_code=SI_USER, si_pid=3193, si_uid=1000} ---
+3197  --- SIGCONT {si_signo=SIGCONT, si_code=SI_USER, si_pid=3193, si_uid=1000} ---
+3208  --- SIGTERM {si_signo=SIGTERM, si_code=SI_USER, si_pid=3193, si_uid=1000} ---
+3206  --- SIGTERM {si_signo=SIGTERM, si_code=SI_USER, si_pid=3193, si_uid=1000} ---
+3208  +++ killed by SIGTERM +++
+3206  +++ killed by SIGTERM +++
+3197  --- SIGTERM {si_signo=SIGTERM, si_code=SI_USER, si_pid=3197, si_uid=1000} ---
+3197  +++ killed by SIGTERM +++
+3214  --- SIGTERM {si_signo=SIGTERM, si_code=SI_USER, si_pid=3193, si_uid=1000} ---
+3214  +++ killed by SIGTERM +++
+3207  --- SIGCONT {si_signo=SIGCONT, si_code=SI_USER, si_pid=3193, si_uid=1000} ---
+3207  --- SIGTERM {si_signo=SIGTERM, si_code=SI_USER, si_pid=3193, si_uid=1000} ---
+3207  --- SIGTERM {si_signo=SIGTERM, si_code=SI_USER, si_pid=3207, si_uid=1000} ---
+3207  +++ killed by SIGTERM +++

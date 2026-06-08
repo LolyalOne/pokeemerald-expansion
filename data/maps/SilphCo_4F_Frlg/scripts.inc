@@ -52,18 +52,18 @@ SilphCo_4F_Text_Grunt1Intro::
 	.string "of SILPH CO.!$"
 
 SilphCo_4F_Text_Grunt1Defeat::
-	.string "Arrgh!$"
+	.string "Aaargh!$"
 
 SilphCo_4F_Text_Grunt1PostBattle::
 	.string "Fwahahaha!\n"
 	.string "My BOSS has been after this place!$"
 
 SilphCo_4F_Text_RodneyIntro::
-	.string "My POKéMON is my loyal servant.$"
+	.string "Meu POKeMON e meu servo leal.$"
 
 SilphCo_4F_Text_RodneyDefeat::
 	.string "Darn!\n"
-	.string "You weak POKéMON!$"
+	.string "You weak POKeMON!$"
 
 SilphCo_4F_Text_RodneyPostBattle::
 	.string "The doors are electronically\n"
@@ -72,13 +72,13 @@ SilphCo_4F_Text_RodneyPostBattle::
 	.string "doors here.$"
 
 SilphCo_4F_Text_Grunt2Intro::
-	.string "Intruder spotted!$"
+	.string "Intruso avistado!$"
 
 SilphCo_4F_Text_Grunt2Defeat::
-	.string "Who are you?$"
+	.string "Quem e voce?$"
 
 SilphCo_4F_Text_Grunt2PostBattle::
-	.string "I better tell the BOSS on 11F!$"
+	.string "Melhor avisar o CHEFE no 11F!$"
 
 SilphCo_4F_Text_FloorSign::
 	.string "SILPH CO. HEAD OFFICE\n"

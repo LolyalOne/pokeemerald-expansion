@@ -15,7 +15,7 @@ MtPyre_4F_Text_TashaIntro:
 	.string "I shiver with fear…$"
 
 MtPyre_4F_Text_TashaDefeat:
-	.string "Losing, I dislike…$"
+	.string "Perder, eu detesto...$"
 
 MtPyre_4F_Text_TashaPostBattle:
 	.string "I want to see dreadful things…\n"

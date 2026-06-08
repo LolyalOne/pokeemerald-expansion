@@ -6,7 +6,7 @@ Route8_EventScript_UndergroundPathSign::
 	end
 
 Route8_Text_AidanIntro::
-	.string "You look good at POKéMON, but how\n"
+	.string "You look good at POKeMON, but how\n"
 	.string "is your chemistry grade?$"
 
 Route8_Text_AidanDefeat::
@@ -14,7 +14,7 @@ Route8_Text_AidanDefeat::
 	.string "Meltdown!$"
 
 Route8_Text_AidanPostBattle::
-	.string "I am better at school than this!$"
+	.string "Sou melhor na escola que nisso!$"
 
 Route8_Text_StanIntro::
 	.string "All right!\n"
@@ -25,32 +25,32 @@ Route8_Text_StanDefeat::
 	.string "Came up short!$"
 
 Route8_Text_StanPostBattle::
-	.string "Things didn't work today.$"
+	.string "As coisas nao deram certo hoje.$"
 
 Route8_Text_GlennIntro::
 	.string "You should be informed.\n"
 	.string "You need strategy to win at this!$"
 
 Route8_Text_GlennDefeat::
-	.string "It's not logical!$"
+	.string "Nao e logico!$"
 
 Route8_Text_GlennPostBattle::
 	.string "Go with GRIMER first…and…\n"
 	.string "…and…then…$"
 
 Route8_Text_PaigeIntro::
-	.string "I like NIDORAN, so I collect them!$"
+	.string "Gosto do NIDORAN, entao coleciono!$"
 
 Route8_Text_PaigeDefeat::
 	.string "Why?\n"
 	.string "Why??$"
 
 Route8_Text_PaigePostBattle::
-	.string "When POKéMON grow up, they get\n"
+	.string "When POKeMON grow up, they get\n"
 	.string "ugly! They shouldn't evolve.$"
 
 Route8_Text_LeslieIntro::
-	.string "School is fun, but so are POKéMON.$"
+	.string "Escola e legal, POKeMON tambem.$"
 
 Route8_Text_LeslieDefeat::
 	.string "You made it clear to me that\n"
@@ -67,7 +67,7 @@ Route8_Text_AndreaIntro::
 	.string "meow!$"
 
 Route8_Text_AndreaDefeat::
-	.string "Meeeeyow!$"
+	.string "Miau!$"
 
 Route8_Text_AndreaPostBattle::
 	.string "I think PIDGEY and RATTATA are\n"
@@ -79,7 +79,7 @@ Route8_Text_MeganIntro::
 
 Route8_Text_MeganDefeat::
 	.string "Look what you did to my poor, cute\n"
-	.string "POKéMON!$"
+	.string "POKeMON!$"
 
 Route8_Text_MeganPostBattle::
 	.string "SAFFRON's gatekeeper won't let us\n"
@@ -88,18 +88,18 @@ Route8_Text_MeganPostBattle::
 	.string "think he's mean.$"
 
 Route8_Text_RichIntro::
-	.string "I'm a rambling, gaming dude!$"
+	.string "Sou um cara viajante e jogador!$"
 
 Route8_Text_RichDefeat::
-	.string "Missed the big chance!$"
+	.string "Perdi a grande chance!$"
 
 Route8_Text_RichPostBattle::
-	.string "Playing games and POKéMON are like\n"
+	.string "Playing games and POKeMON are like\n"
 	.string "eating peanuts! I just can't stop!$"
 
 Route8_Text_JuliaIntro::
 	.string "What's a cute, round, and fluffy\n"
-	.string "POKéMON?$"
+	.string "POKeMON?$"
 
 Route8_Text_JuliaDefeat::
 	.string "Stop!\p"
@@ -108,7 +108,7 @@ Route8_Text_JuliaDefeat::
 Route8_Text_JuliaPostBattle::
 	.string "I read that CLEFAIRY evolves when\n"
 	.string "it's exposed to a MOON STONE.\p"
-	.string "I read that in a POKéMON JOURNAL.\n"
+	.string "I read that in a POKeMON JOURNAL.\n"
 	.string "I wonder if it's true?$"
 
 Route8_Text_UndergroundPathSign::
@@ -124,30 +124,30 @@ Route8_Text_EliDefeat::
 	.string "We used our twin power…$"
 
 Route8_Text_EliPostBattle::
-	.string "ELI: I caught my POKéMON with\n"
+	.string "ELI: I caught my POKeMON with\n"
 	.string "ANNE!$"
 
 Route8_Text_EliNotEnoughMons::
 	.string "ELI: We can't battle if you don't\n"
-	.string "have two POKéMON.$"
+	.string "have two POKeMON.$"
 
 Route8_Text_AnneIntro::
 	.string "ANNE: We'll shock you with our twin\n"
 	.string "power!$"
 
 Route8_Text_AnneDefeat::
-	.string "ANNE: Our twin power…$"
+	.string "ANNE: Nosso poder gemeo...$"
 
 Route8_Text_AnnePostBattle::
-	.string "ANNE: I'm raising POKéMON with\n"
+	.string "ANNE: I'm raising POKeMON with\n"
 	.string "ELI.$"
 
 Route8_Text_AnneNotEnoughMons::
 	.string "ANNE: Hi, hi! Let's battle!\n"
-	.string "But bring two POKéMON.$"
+	.string "But bring two POKeMON.$"
 
 Route8_Text_RicardoIntro::
-	.string "My bike's acting up, man.$"
+	.string "Minha bike ta com problema, cara.$"
 
 Route8_Text_RicardoDefeat::
 	.string "Aww, man.\n"
@@ -162,7 +162,7 @@ Route8_Text_JarenIntro::
 	.string "down!$"
 
 Route8_Text_JarenDefeat::
-	.string "You for real, kid?$"
+	.string "Fala serio, garoto?$"
 
 Route8_Text_JarenPostBattle::
 	.string "Don't think you're all special and\n"

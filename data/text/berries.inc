@@ -13,13 +13,13 @@ Route104_Text_PlantBerriesInSoilTakeThis:
 Route104_Text_TrainersOftenMakeMonHoldBerries:
 	.string "The way you look, you must be a\n"
 	.string "TRAINER, no?\p"
-	.string "TRAINERS often make POKéMON hold\n"
+	.string "TRAINERS often make POKeMON hold\n"
 	.string "BERRIES.\p"
 	.string "It's up to you whether to grow BERRIES\n"
 	.string "or use them.$"
 
 Route111_Text_WateredPlantsEveryDayTakeBerry:
-	.string "I watered the plants every day.\n"
+	.string "Eu reguei as plantas todo\ndia. Lucas!\n"
 	.string "They grew lots of flowers.\p"
 	.string "And they gave me lots of BERRIES, too.\p"
 	.string "Here you go!\n"
@@ -28,7 +28,7 @@ Route111_Text_WateredPlantsEveryDayTakeBerry:
 Route111_Text_GoingToTryToMakeDifferentColorBerries:
 	.string "I'm going to try really hard and make\n"
 	.string "BERRIES in different colors.\p"
-	.string "I hope you try hard, too!$"
+	.string "Espero que voce se esforce\ntambem, Lucas!$"
 
 Route111_Text_WhatColorBerriesToLookForToday:
 	.string "I wonder what color BERRIES I'll look\n"
@@ -86,14 +86,14 @@ LilycoveCity_Text_BecauseYoureTrainer:
 LilycoveCity_Text_PokeblocksSuitPokemon:
 	.string "When it gets right down to it…\p"
 	.string "The way dignified simplicity suits me,\n"
-	.string "{POKEBLOCK}S perfectly suit POKéMON.$"
+	.string "{POKEBLOCK}S perfectly suit POKeMON.$"
 
 Route123_BerryMastersHouse_Text_YoureDeservingOfBerry:
-	.string "You may call me the BERRY MASTER.\p"
+	.string "Pode me chamar de MESTRE\nDAS BAGAS.\p"
 	.string "I dream of filling the world with\n"
 	.string "beautiful flowers, so I raise BERRIES\l"
 	.string "and hand them out to everyone.\p"
-	.string "You're deserving of one!$"
+	.string "Voce merece uma!\lParabens pelo dia, Lucas!$"
 
 Route123_BerryMastersHouse_Text_WhyBeStingyTakeAnother:
 	.string "Why be stingy?\n"
@@ -102,12 +102,12 @@ Route123_BerryMastersHouse_Text_WhyBeStingyTakeAnother:
 Route123_BerryMastersHouse_Text_VisitPrettyPetalFlowerShop:
 	.string "Be sure to visit the PRETTY PETAL\n"
 	.string "flower shop near RUSTBORO.\p"
-	.string "Let flowers fill the world!$"
+	.string "Que as flores encham o mundo,\nLucas!$"
 
 Route123_BerryMastersHouse_Text_DoneForToday:
 	.string "I'm done for today.\n"
 	.string "Come again another day.\p"
-	.string "Let flowers fill the world!$"
+	.string "Que as flores encham o mundo,\nLucas!$"
 
 Route123_BerryMastersHouse_Text_HeardAGoodSayingLately:
 	.string "The way my husband grows BERRIES,\n"
@@ -140,14 +140,14 @@ Route104_PrettyPetalFlowerShop_Text_ThisIsPrettyPetalFlowerShop:
 	.string "Spreading flowers all over the world!$"
 
 Route104_PrettyPetalFlowerShop_Text_LearnAboutBerries:
-	.string "{PLAYER}{KUN}, would you like to learn about\n"
+	.string "{PLAYER}, would you like to learn about\n"
 	.string "BERRIES?$"
 
 Route104_PrettyPetalFlowerShop_Text_IntroLearnAboutBerries:
 	.string "Your name is?\p"
-	.string "{PLAYER}{KUN}.\n"
+	.string "{PLAYER}.\n"
 	.string "That's a nice name.\p"
-	.string "{PLAYER}{KUN}, would you like to learn about\n"
+	.string "{PLAYER}, would you like to learn about\n"
 	.string "BERRIES?$"
 
 Route104_PrettyPetalFlowerShop_Text_BerriesExplanation:
@@ -161,7 +161,7 @@ Route104_PrettyPetalFlowerShop_Text_BerriesExplanation:
 	.string "I want to see the whole wide world\n"
 	.string "filled with beautiful flowers.\l"
 	.string "That's my dream.\p"
-	.string "Please help me, {PLAYER}{KUN}. Plant BERRIES\n"
+	.string "Please help me, {PLAYER}. Plant BERRIES\n"
 	.string "and bring more flowers into the world.$"
 
 Route104_PrettyPetalFlowerShop_Text_FlowersBringHappiness:
@@ -193,11 +193,11 @@ Route104_PrettyPetalFlowerShop_Text_ImGrowingFlowers:
 
 Route104_PrettyPetalFlowerShop_Text_MachineMixesBerries:
 	.string "You can plant a BERRY and grow it big,\n"
-	.string "or you can make a POKéMON hold it.\p"
+	.string "or you can make a POKeMON hold it.\p"
 	.string "But now they have a machine that mixes\n"
 	.string "up different BERRIES and makes candies\l"
-	.string "for POKéMON.\p"
-	.string "I want some candy, too.$"
+	.string "for POKeMON.\p"
+	.string "Eu quero um doce tambem!$"
 
 SootopolisCity_Text_NameIsKiriHaveOneOfThese:
 	.string "Hi, what's your name?\p"
@@ -207,7 +207,7 @@ SootopolisCity_Text_NameIsKiriHaveOneOfThese:
 	.string "My mommy and daddy named me that so\n"
 	.string "I would grow healthy and warmhearted.\l"
 	.string "That's what they wished.\p"
-	.string "You can have one of these.$"
+	.string "Pode ficar com um destes,\nLucas!$"
 
 SootopolisCity_Text_GiveYouThisBerryToo:
 	.string "KIRI will give you this BERRY, too!\n"

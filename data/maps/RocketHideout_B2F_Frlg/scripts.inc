@@ -11,7 +11,7 @@ RocketHideout_B2F_Text_GruntIntro::
 	.string "the SILPH SCOPE.$"
 
 RocketHideout_B2F_Text_GruntDefeat::
-	.string "I surrender!$"
+	.string "Eu me rendo!$"
 
 RocketHideout_B2F_Text_GruntPostBattle::
 	.string "The TEAM ROCKET HQ has four\n"

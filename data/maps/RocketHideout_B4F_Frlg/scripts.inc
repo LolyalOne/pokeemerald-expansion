@@ -123,7 +123,7 @@ RocketHideout_B4F_EventScript_RemoveBarrier::
 RocketHideout_B4F_Text_GiovanniIntro::
 	.string "So! I must say, I am impressed you\n"
 	.string "got here.\p"
-	.string "TEAM ROCKET captures POKéMON from\n"
+	.string "TEAM ROCKET captures POKeMON from\n"
 	.string "around the world.\p"
 	.string "They're important tools for keeping\n"
 	.string "our criminal enterprise going.\p"
@@ -136,7 +136,7 @@ RocketHideout_B4F_Text_GiovanniDefeat::
 	.string "This can't be!$"
 
 RocketHideout_B4F_Text_GiovanniPostBattle::
-	.string "I see that you raise POKéMON with\n"
+	.string "I see that you raise POKeMON with\n"
 	.string "utmost care.\p"
 	.string "A child like you would never\n"
 	.string "understand what I hope to achieve.\p"
@@ -148,7 +148,7 @@ RocketHideout_B4F_Text_Grunt2Intro::
 	.string "You ruined our plans at MT. MOON!$"
 
 RocketHideout_B4F_Text_Grunt2Defeat::
-	.string "Burned again!$"
+	.string "Queimado de novo!$"
 
 RocketHideout_B4F_Text_Grunt2PostBattle::
 	.string "Do you have something against TEAM\n"
@@ -159,7 +159,7 @@ RocketHideout_B4F_Text_Grunt3Intro::
 	.string "our evil?$"
 
 RocketHideout_B4F_Text_Grunt3Defeat::
-	.string "Ayaya!$"
+	.string "Aiaiai!$"
 
 RocketHideout_B4F_Text_Grunt3PostBattle::
 	.string "BOSS!\n"
@@ -170,7 +170,7 @@ RocketHideout_B4F_Text_Grunt1Intro::
 	.string "Who has the LIFT KEY?$"
 
 RocketHideout_B4F_Text_Grunt1Defeat::
-	.string "No!$"
+	.string "Nao!$"
 
 RocketHideout_B4F_Text_Grunt1PostBattle::
 	.string "Oh, no!\n"

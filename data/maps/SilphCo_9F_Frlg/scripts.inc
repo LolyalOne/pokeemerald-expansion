@@ -49,13 +49,13 @@ SilphCo_9F_Text_YouShouldTakeQuickNap::
 	.string "You should take a quick nap.$"
 
 SilphCo_9F_Text_DontGiveUp::
-	.string "Don't give up!$"
+	.string "Nao desista!$"
 
 SilphCo_9F_Text_ThankYouSoMuch::
-	.string "Thank you so much.$"
+	.string "Muito obrigado.$"
 
 SilphCo_9F_Text_Grunt1Intro::
-	.string "Your POKéMON seem to adore you,\n"
+	.string "Your POKeMON seem to adore you,\n"
 	.string "kid!$"
 
 SilphCo_9F_Text_Grunt1Defeat::
@@ -66,11 +66,11 @@ SilphCo_9F_Text_Grunt1PostBattle::
 	.string "your age…$"
 
 SilphCo_9F_Text_EdIntro::
-	.string "Your POKéMON have weak points!\n"
+	.string "Your POKeMON have weak points!\n"
 	.string "I can nail them!$"
 
 SilphCo_9F_Text_EdDefeat::
-	.string "You hammered me!$"
+	.string "Voce me esmagou!$"
 
 SilphCo_9F_Text_EdPostBattle::
 	.string "Exploiting weak spots does work.\n"
@@ -85,7 +85,7 @@ SilphCo_9F_Text_Grunt2Defeat::
 	.string "Brothers, I lost!$"
 
 SilphCo_9F_Text_Grunt2PostBattle::
-	.string "My brothers will avenge me!$"
+	.string "Meus irmaos vao me vingar!$"
 
 SilphCo_9F_Text_FloorSign::
 	.string "SILPH CO. HEAD OFFICE\n"

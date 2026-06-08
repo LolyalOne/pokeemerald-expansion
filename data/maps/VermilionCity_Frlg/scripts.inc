@@ -280,7 +280,7 @@ VermilionCity_Text_SSAnneHasDepartedForYear::
 VermilionCity_Text_BuildingOnThisLand::
 	.string "I'm putting up a building on this\n"
 	.string "plot of land. I own it all.\p"
-	.string "My POKéMON is tamping the land\n"
+	.string "My POKeMON is tamping the land\n"
 	.string "to lay the foundation.$"
 
 VermilionCity_Text_Machop::
@@ -301,34 +301,37 @@ VermilionCity_Text_CitySign::
 VermilionCity_Text_SnorlaxBlockingRoute12::
 	.string "NOTICE!\p"
 	.string "ROUTE 12 may be blocked off by a\n"
-	.string "sleeping POKéMON.\p"
+	.string "sleeping POKeMON.\p"
 	.string "Detour through ROCK TUNNEL to\n"
 	.string "LAVENDER TOWN.\p"
 	.string "VERMILION POLICE$"
 
 VermilionCity_Text_PokemonFanClubSign::
-	.string "POKéMON FAN CLUB\n"
-	.string "All POKéMON fans welcome!$"
+	.string "POKeMON FAN CLUB\n"
+	.string "All POKeMON fans welcome!$"
 
 VermilionCity_Text_GymSign::
-	.string "VERMILION CITY POKéMON GYM\n"
+	.string "VERMILION CITY POKeMON GYM\n"
 	.string "LEADER: LT. SURGE\l"
-	.string "The Lightning American!$"
+	.string "O Americano Relampago!\lPrepare-se para o choque, Lucas!$"
 
 VermilionCity_Text_VermilionHarbor::
-	.string "VERMILION HARBOR$"
+	.string "PORTO DE VERMILION$"
 
 VermilionCity_Text_WelcomeToTheSSAnne::
-	.string "Welcome to the S.S. ANNE!$"
+	.string "Bem-vindo ao S.S. ANNE!\pLucas, a festa a bordo ja vai\n"
+	.string "comecar!"
 
 VermilionCity_Text_DoYouHaveATicket::
-	.string "Welcome to the S.S. ANNE!\p"
+	.string "Bem-vindo ao S.S. ANNE!\pLucas, a festa a bordo ja vai\n"
+	.string "comecar!"
 	.string "Excuse me, do you have a ticket?$"
 
 VermilionCity_Text_FlashedSSTicket::
 	.string "{FONT_NORMAL}{PLAYER} flashed the S.S. TICKET!\p"
 	.string "{FONT_MALE}Great!\n"
-	.string "Welcome to the S.S. ANNE!$"
+	.string "Bem-vindo ao S.S. ANNE!\pLucas, a festa a bordo ja vai\n"
+	.string "comecar!"
 
 VermilionCity_Text_DontHaveNeededSSTicket::
 	.string "{FONT_NORMAL}{PLAYER} doesn't have the needed\n"

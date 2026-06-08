@@ -166,7 +166,7 @@ SaffronCity_Dojo_Text_ChoosePrizedFightingMon::
 	.string "But, I beseech you, do not take\n"
 	.string "our emblem as your trophy!\p"
 	.string "In return, I will give you a prized\n"
-	.string "FIGHTING POKéMON!\p"
+	.string "FIGHTING POKeMON!\p"
 	.string "Choose whichever one you like!$"
 
 SaffronCity_Dojo_Text_StayAndTrainWithUs::
@@ -178,7 +178,7 @@ SaffronCity_Dojo_Text_MikeIntro::
 	.string "Take your shoes off!$"
 
 SaffronCity_Dojo_Text_MikeDefeat::
-	.string "I give up!$"
+	.string "Eu desisto!$"
 
 SaffronCity_Dojo_Text_MikePostBattle::
 	.string "You wait 'til you see our MASTER!\n"
@@ -213,11 +213,11 @@ SaffronCity_Dojo_Text_AaronPostBattle::
 SaffronCity_Dojo_Text_HitoshiIntro::
 	.string "Hwaah!\p"
 	.string "You're trespassing in our\n"
-	.string "FIGHTING DOJO!$"
+	.string "DOJO LUTADOR!$"
 
 SaffronCity_Dojo_Text_HitoshiDefeat::
 	.string "Oof!\n"
-	.string "I give up!$"
+	.string "Eu desisto!$"
 
 SaffronCity_Dojo_Text_HitoshiPostBattle::
 	.string "The prime fighters across the land\n"
@@ -240,14 +240,14 @@ SaffronCity_Dojo_Text_ReceivedMonFromKarateMaster2::
 	.string "{STR_VAR_1}を　もらった！$"
 
 SaffronCity_Dojo_Text_BetterNotGetGreedy::
-	.string "Better not get greedy…$"
+	.string "Melhor nao ser ganancioso...$"
 
 SaffronCity_Dojo_Text_EnemiesOnEverySide::
-	.string "Enemies on every side!$"
+	.string "Inimigos por todos os lados!$"
 
 SaffronCity_Dojo_Text_GoesAroundComesAround::
-	.string "What goes around comes around.$"
+	.string "O que vai volta.$"
 
 SaffronCity_Dojo_Text_FightingDojo::
-	.string "FIGHTING DOJO$"
+	.string "DOJO LUTADOR$"
 

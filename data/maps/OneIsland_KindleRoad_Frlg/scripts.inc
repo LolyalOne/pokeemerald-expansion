@@ -21,10 +21,10 @@ OneIsland_KindleRoad_Text_MariaPostBattle::
 	.string "You'll ruin the makeup.$"
 
 OneIsland_KindleRoad_Text_AbigailIntro::
-	.string "I'm beginning to get a sunburn…$"
+	.string "Estou comecando a me queimar no sol...$"
 
 OneIsland_KindleRoad_Text_AbigailDefeat::
-	.string "Oh, you're so awful.$"
+	.string "Oh, voce e muito horrivel.$"
 
 OneIsland_KindleRoad_Text_AbigailPostBattle::
 	.string "I like that cap you have.\n"
@@ -35,7 +35,7 @@ OneIsland_KindleRoad_Text_FinnIntro::
 	.string "into the sky.$"
 
 OneIsland_KindleRoad_Text_FinnDefeat::
-	.string "Well, aren't you tough?$"
+	.string "Bem, voce nao e durao, Lucas?$"
 
 OneIsland_KindleRoad_Text_FinnPostBattle::
 	.string "The sky is immense around these\n"
@@ -69,7 +69,7 @@ OneIsland_KindleRoad_Text_SharonIntro::
 	.string "training?$"
 
 OneIsland_KindleRoad_Text_SharonDefeat::
-	.string "You were a cut above me.$"
+	.string "Voce estava um nivel acima.$"
 
 OneIsland_KindleRoad_Text_SharonPostBattle::
 	.string "It's clear that you're skilled.\n"
@@ -80,10 +80,10 @@ OneIsland_KindleRoad_Text_TanyaIntro::
 	.string "train!$"
 
 OneIsland_KindleRoad_Text_TanyaDefeat::
-	.string "I'm such a fool!$"
+	.string "Sou um tolo!$"
 
 OneIsland_KindleRoad_Text_TanyaPostBattle::
-	.string "I'll train even harder from now on!$"
+	.string "Treinarei ainda mais a partir de agora!$"
 
 OneIsland_KindleRoad_Text_SheaIntro::
 	.string "Every morning, before breakfast,\n"
@@ -102,7 +102,7 @@ OneIsland_KindleRoad_Text_HughIntro::
 	.string "Lose that frivolous outfit!$"
 
 OneIsland_KindleRoad_Text_HughDefeat::
-	.string "Why me?!$"
+	.string "Por que eu?!$"
 
 OneIsland_KindleRoad_Text_HughPostBattle::
 	.string "Even martial artists are becoming\n"
@@ -113,7 +113,7 @@ OneIsland_KindleRoad_Text_BryceIntro::
 	.string "when you're out in the wild.$"
 
 OneIsland_KindleRoad_Text_BryceDefeat::
-	.string "Awww, blown!$"
+	.string "Ahhh, perdi!$"
 
 OneIsland_KindleRoad_Text_BrycePostBattle::
 	.string "The water in volcanic regions is\n"
@@ -124,7 +124,7 @@ OneIsland_KindleRoad_Text_ClaireIntro::
 	.string "battle us for some exercise?$"
 
 OneIsland_KindleRoad_Text_ClaireDefeat::
-	.string "That made me all sweaty.$"
+	.string "Isso me deixou toda suada.$"
 
 OneIsland_KindleRoad_Text_ClairePostBattle::
 	.string "What should I do?\n"
@@ -145,7 +145,7 @@ OneIsland_KindleRoad_Text_KiaPostBattle::
 OneIsland_KindleRoad_Text_KiaNotEnoughMons::
 	.string "KIA: If you want to battle with\n"
 	.string "us, you have to bring at least two\l"
-	.string "POKéMON with you.$"
+	.string "POKeMON with you.$"
 
 OneIsland_KindleRoad_Text_MikIntro::
 	.string "MIK: Together with KIA, I'm afraid\n"
@@ -162,7 +162,7 @@ OneIsland_KindleRoad_Text_MikPostBattle::
 OneIsland_KindleRoad_Text_MikNotEnoughMons::
 	.string "MIK: Hey, do you want to battle\n"
 	.string "with us two?\p"
-	.string "Bring two or more POKéMON with\n"
+	.string "Bring two or more POKeMON with\n"
 	.string "you, then.$"
 
 OneIsland_KindleRoad_Text_RouteSign::

@@ -53,7 +53,7 @@ MtPyre_2F_Text_TumbledFromFloorAbove:
 	.string "the floor above.$"
 
 MtPyre_2F_Text_MarkIntro:
-	.string "Hey! Are you searching for POKéMON?\n"
+	.string "Hey! Are you searching for POKeMON?\n"
 	.string "You came along after me! You're rude!$"
 
 MtPyre_2F_Text_MarkDefeat:
@@ -62,7 +62,7 @@ MtPyre_2F_Text_MarkDefeat:
 
 MtPyre_2F_Text_MarkPostBattle:
 	.string "People don't come here often, so\n"
-	.string "I thought there'd be rare POKéMON.$"
+	.string "I thought there'd be rare POKeMON.$"
 
 MtPyre_2F_Text_LukeIntro:
 	.string "LUKE: We're here on a dare.\p"
@@ -72,7 +72,7 @@ MtPyre_2F_Text_LukeIntro:
 	.string "how cool I am!$"
 
 MtPyre_2F_Text_LukeDefeat:
-	.string "LUKE: Whoopsie!$"
+	.string "LUKE: Opa!$"
 
 MtPyre_2F_Text_LukePostBattle:
 	.string "LUKE: Well, we lost but that's okay!\n"
@@ -81,7 +81,7 @@ MtPyre_2F_Text_LukePostBattle:
 
 MtPyre_2F_Text_LukeNotEnoughMons:
 	.string "LUKE: If you want to take me on,\n"
-	.string "bring some more POKéMON.\p"
+	.string "bring some more POKeMON.\p"
 	.string "If you don't, I won't be able to show\n"
 	.string "off to my girl how cool I am!$"
 
@@ -94,7 +94,7 @@ MtPyre_2F_Text_DezIntro:
 	.string "cool by beating you!$"
 
 MtPyre_2F_Text_DezDefeat:
-	.string "DEZ: Waaaah! I'm scared!$"
+	.string "DEZ: Uaaaaa! Estou com medo!$"
 
 MtPyre_2F_Text_DezPostBattle:
 	.string "DEZ: We're lovey-dovey, so we don't\n"
@@ -102,9 +102,9 @@ MtPyre_2F_Text_DezPostBattle:
 
 MtPyre_2F_Text_DezNotEnoughMons:
 	.string "DEZ: If you want to challenge us, you\n"
-	.string "should bring at least two POKéMON.\p"
+	.string "should bring at least two POKeMON.\p"
 	.string "My boyfriend's strong.\n"
-	.string "Just one POKéMON won't do at all.$"
+	.string "Just one POKeMON won't do at all.$"
 
 MtPyre_2F_Text_LeahIntro:
 	.string "You are an unfamiliar sight…\n"
@@ -131,5 +131,5 @@ MtPyre_2F_Text_ZanderDefeat:
 MtPyre_2F_Text_ZanderPostBattle:
 	.string "I get freaked out every time I see\n"
 	.string "anything move…\p"
-	.string "I shouldn't have come here to train…$"
+	.string "Eu nao devia ter vindo treinar aqui...\lLogo no seu aniversario, Lucas!$"
 

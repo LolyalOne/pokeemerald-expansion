@@ -28,17 +28,17 @@ PacifidlogTown_House4_EventScript_No::
 	end
 
 PacifidlogTown_House4_Text_PeopleSawHighFlyingPokemon:
-	.string "People were saying they saw a POKéMON\n"
+	.string "People were saying they saw a POKeMON\n"
 	.string "flying high above HOENN.\p"
 	.string "Is it flying around all the time?\n"
 	.string "Doesn't it need to rest somewhere?$"
 
 PacifidlogTown_House4_Text_SkyPokemon:
-	.string "A sky POKéMON!\n"
-	.string "A sky POKéMON!$"
+	.string "A sky POKeMON!\n"
+	.string "A sky POKeMON!$"
 
 PacifidlogTown_House4_Text_WhereDidYouComeFrom:
-	.string "Where did you come from?$"
+	.string "De onde voce veio?$"
 
 PacifidlogTown_House4_Text_YesTown:
 	.string "Yes?\n"

@@ -114,7 +114,7 @@ Text_IdLoveToHearYourProfile:
 	.string "How about saying hi back?\p"
 	.string "So, come on, tell me about\n"
 	.string "yourself.\p"
-	.string "I'd love to hear your profile!$"
+	.string "Adoraria ouvir seu perfil!$"
 
 Text_TellMeWhatsYourProfile:
 	.string "Tell me something good about\n"

@@ -18,7 +18,7 @@ Text_JustMistaken::
 
 Text_AllowMeToTeachMonUltimateMove::
 	.string "Oh! This is the one!\n"
-	.string "This is the POKéMON!\p"
+	.string "This is the POKeMON!\p"
 	.string "This {STR_VAR_1} is worthy of\n"
 	.string "learning my ultimate move!\p"
 	.string "Will you allow it?\p"
@@ -33,7 +33,7 @@ Text_LetMeConferUltimateMove::
 	.string "You will allow it?\p"
 	.string "Then, let me confer my ultimate\n"
 	.string "{STR_VAR_2} on your {STR_VAR_1}.\p"
-	.string "Ggggrah-awooo!$"
+	.string "Ggggrah-auuuuu!$"
 
 Text_TaughtMove::
 	.string "Gasp, gasp, gasp…\p"

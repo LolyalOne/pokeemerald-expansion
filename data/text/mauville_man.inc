@@ -1,9 +1,9 @@
-@ Only contains the text for the Mauville Man named Giddy. The rest is in scripts/mauville_man.inc
+@ Only contains the text for the Mauville Man named Giddy. The rest e in scripts/mauville_man.inc
 GiddyText_SoPretty::
-	.string " so pretty!$"
+	.string " tao lindo!$"
 
 GiddyText_SoDarling::
-	.string " so darling!$"
+	.string " tao amado!$"
 
 GiddyText_SoRelaxed::
 	.string " so relaxed!$"
@@ -24,11 +24,11 @@ GiddyText_SoMagical::
 	.string " so magical!$"
 
 GiddyText_Is::
-	.string " is$"
+	.string " e$"
 
 GiddyText_DontYouAgree::
 	.string "\n"
-	.string "Don't you agree?$"
+	.string "Nao concorda, Lucas?$"
 
 GiddyText_ISoWantToGoOnAVacation::
 	.string "I so want to go on a vacation.\n"

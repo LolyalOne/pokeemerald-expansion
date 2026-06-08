@@ -12,7 +12,7 @@ BerryBlender_Text_MadeOldTimerSad:
 	.string "You've made this old-timer sad…$"
 
 BerryBlender_Text_KnowHowToMakePokeblocks:
-	.string "Do you know how to make a {POKEBLOCK}?$"
+	.string "Sabe como fazer um {POKEBLOCK}?$"
 
 BerryBlender_Text_LetsBerryBlender:
 	.string "Let's get started, then!\p"
@@ -47,12 +47,12 @@ BerryBlender_Text_DontHaveAnyBerriesToSpare:
 
 BerryBlender_Text_PokeblockCaseIsFull:
 	.string "But your {POKEBLOCK} CASE is full.\p"
-	.string "You should use some {POKEBLOCK}S before\n"
+	.string "Use alguns {POKEBLOCK}S antes\n"
 	.string "you come see me again.$"
 
 BerryBlender_Text_DontHavePokeblockCase:
 	.string "But you don't have a {POKEBLOCK} CASE.\p"
-	.string "You should get a {POKEBLOCK} CASE and then\n"
+	.string "Consiga um PORTA-BLOCOS e depois\n"
 	.string "come see me.$"
 
 BerryBlender_Text_LetsGetBlendingAlready:
@@ -75,7 +75,7 @@ BerryBlender_Text_ThatsTooBad:
 	.string "you get the urge to blend!$"
 
 BerryBlender_Text_KnowHowToMakePokeblocks2:
-	.string "Of course, you do know how to\n"
+	.string "Claro, voce ja sabe como\n"
 	.string "blend {POKEBLOCK}S, don't you?$"
 
 BerryBlender_Text_LetsBerryBlender2:
@@ -172,7 +172,7 @@ BerryBlender_Text_LookGoodAtBlendingJoinUs:
 
 BerryBlender_Text_MakeDeliciousPokeblocks:
 	.string "I'm going to make delicious {POKEBLOCK}S\n"
-	.string "and make my POKéMON cuter.$"
+	.string "and make my POKeMON cuter.$"
 
 BerryBlender_Text_SaveGameBeforeBerryBlenderLink:
 	.string "{POKEBLOCK}S will be made with your friends \n"

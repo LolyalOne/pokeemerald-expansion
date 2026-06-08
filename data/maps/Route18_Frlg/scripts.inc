@@ -29,23 +29,23 @@ Route18_EventScript_CyclingRoadSign::
 
 Route18_Text_WiltonIntro::
 	.string "I always check every grassy area\n"
-	.string "for new POKéMON.$"
+	.string "for new POKeMON.$"
 
 Route18_Text_WiltonDefeat::
 	.string "Tch!$"
 
 Route18_Text_WiltonPostBattle::
-	.string "I wish I had a BIKE!$"
+	.string "Queria ter uma BIKE!$"
 
 Route18_Text_RamiroIntro::
 	.string "Kurukkoo!\n"
 	.string "How do you like my birdcall?$"
 
 Route18_Text_RamiroDefeat::
-	.string "I had to bug you!$"
+	.string "Eu tinha que te perturbar!$"
 
 Route18_Text_RamiroPostBattle::
-	.string "I collect sea POKéMON on weekends\n"
+	.string "I collect sea POKeMON on weekends\n"
 	.string "because the sea is so close.$"
 
 Route18_Text_JacobIntro::
@@ -53,11 +53,11 @@ Route18_Text_JacobIntro::
 	.string "Get out of here!$"
 
 Route18_Text_JacobDefeat::
-	.string "Darn!$"
+	.string "Droga!$"
 
 Route18_Text_JacobPostBattle::
 	.string "This is my fave area for catching\n"
-	.string "POKéMON.$"
+	.string "POKeMON.$"
 
 Route18_Text_RouteSign::
 	.string "ROUTE 18\n"

@@ -211,7 +211,7 @@ SevenIsland_House_Room1_Text_LimitThreeMonsPerSide::
 	.string "This hidden room is not built very\n"
 	.string "sturdy.\p"
 	.string "Can I get you to limit it to\n"
-	.string "battles of three POKéMON per side?$"
+	.string "battles of three POKeMON per side?$"
 
 SevenIsland_House_Room1_Text_SaveProgressBeforeBattle::
 	.string "Fine! Before your battle, would\n"
@@ -226,7 +226,7 @@ SevenIsland_House_Room1_Text_StrVar1_1::
 	.string "{STR_VAR_1}$"
 
 SevenIsland_House_Room2_Text_MatchEndedUpDraw::
-	.string "The match ended up a draw.$"
+	.string "A partida acabou empatada.$"
 
 SevenIsland_House_Room1_Text_DrawWasIt::
 	.string "A draw, was it?\p"

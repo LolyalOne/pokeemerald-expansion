@@ -87,10 +87,10 @@ MtMoon_1F_Text_JovanIntro::
 	.string "Don't sneak up on me!$"
 
 MtMoon_1F_Text_JovanDefeat::
-	.string "My POKéMON won't do!$"
+	.string "Meus POKeMON falharam!$"
 
 MtMoon_1F_Text_JovanPostBattle::
-	.string "I have to find stronger POKéMON.\n"
+	.string "I have to find stronger POKeMON.\n"
 	.string "Where might they be?$"
 
 MtMoon_1F_Text_IrisIntro::
@@ -99,7 +99,7 @@ MtMoon_1F_Text_IrisIntro::
 	.string "me here.$"
 
 MtMoon_1F_Text_IrisDefeat::
-	.string "I lost?$"
+	.string "Eu perdi?$"
 
 MtMoon_1F_Text_IrisPostBattle::
 	.string "I came because I heard there are\n"
@@ -110,7 +110,7 @@ MtMoon_1F_Text_KentIntro::
 	.string "What about you?$"
 
 MtMoon_1F_Text_KentDefeat::
-	.string "You got me!$"
+	.string "Voce me pegou!$"
 
 MtMoon_1F_Text_KentPostBattle::
 	.string "I saw them!\n"
@@ -121,7 +121,7 @@ MtMoon_1F_Text_RobbyIntro::
 	.string "to get to CERULEAN CITY.$"
 
 MtMoon_1F_Text_RobbyDefeat::
-	.string "I lost.$"
+	.string "Eu perdi.$"
 
 MtMoon_1F_Text_RobbyPostBattle::
 	.string "ZUBAT is tough!\n"

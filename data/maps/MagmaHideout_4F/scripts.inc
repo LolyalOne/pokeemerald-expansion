@@ -159,7 +159,7 @@ MagmaHideout_4F_Text_Grunt13Defeat:
 	.string "Was I that easy to knock down?$"
 
 MagmaHideout_4F_Text_Grunt13PostBattle:
-	.string "C-come on, one more match…$"
+	.string "V-vamos, mais uma luta...$"
 
 MagmaHideout_4F_Text_TabithaIntro:
 	.string "Hehehe!\n"
@@ -172,7 +172,7 @@ MagmaHideout_4F_Text_TabithaIntro:
 	.string "Hehe! Hehehe!$"
 
 MagmaHideout_4F_Text_TabithaDefeat:
-	.string "Taken down again…\n"
+	.string "Vencido de novo...\n"
 	.string "Hehe…$"
 
 MagmaHideout_4F_Text_TabithaPostBattle:
@@ -188,7 +188,8 @@ MagmaHideout_4F_Text_MaxieAwakenGroudon:
 	.string "I have brought you the BLUE ORB.\n"
 	.string "Let its shine awaken you!\p"
 	.string "And show me…\n"
-	.string "Show me the full extent of your power!$"
+	.string "Mostre-me toda a extensao do seu\n"
+	.string "poder!$"
 
 MagmaHideout_4F_Text_MaxieGroudonWhatsWrong:
 	.string "MAXIE: GROUDON!\n"
@@ -202,11 +203,12 @@ MagmaHideout_4F_Text_MaxieOhItWasYou:
 	.string "I've seen you poking around uninvited\n"
 	.string "here and there…\p"
 	.string "I get it now!\n"
-	.string "You must have pulled a cheap stunt!$"
+	.string "Voce deve ter feito algum truquezinho\n"
+	.string "barato!$"
 
 MagmaHideout_4F_Text_MaxieDefeat:
 	.string "What makes you so adept at handling\n"
-	.string "POKéMON?$"
+	.string "POKeMON?$"
 
 MagmaHideout_4F_Text_MaxieImGoingAfterGroudon:
 	.string "MAXIE: There has to be some reason\n"

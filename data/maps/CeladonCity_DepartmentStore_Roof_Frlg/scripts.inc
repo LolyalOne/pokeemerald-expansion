@@ -286,7 +286,7 @@ CeladonCity_DepartmentStore_Roof_Text_ImThirstyGiveHerDrink::
 	.string "{FONT_NORMAL}Give her a drink?$"
 
 CeladonCity_DepartmentStore_Roof_Text_GiveWhichDrink::
-	.string "Give her which drink?$"
+	.string "Dar qual bebida para ela?$"
 
 CeladonCity_DepartmentStore_Roof_Text_YayFreshWaterHaveThis::
 	.string "Yay!\p"
@@ -312,7 +312,7 @@ CeladonCity_DepartmentStore_Roof_Text_YaySodaPopHaveThis::
 CeladonCity_DepartmentStore_Roof_Text_ExplainTM20::
 	.string "TM20 contains SAFEGUARD.\p"
 	.string "It's a move that prevents status\n"
-	.string "problems among your POKéMON.$"
+	.string "problems among your POKeMON.$"
 
 CeladonCity_DepartmentStore_Roof_Text_YayLemonadeHaveThis::
 	.string "Yay!\p"
@@ -326,7 +326,7 @@ CeladonCity_DepartmentStore_Roof_Text_ExplainTM33::
 	.string "of physical attacks by your foe.$"
 
 CeladonCity_DepartmentStore_Roof_Text_DontHaveSpaceForThis::
-	.string "You don't have space for this!$"
+	.string "Voce nao tem espaco para isto!$"
 
 CeladonCity_DepartmentStore_Roof_Text_ImNotThirstyAfterAll::
 	.string "No, thank you!\n"
@@ -351,14 +351,14 @@ CeladonCity_DepartmentStore_Roof_Text_VendingMachineWhatDoesItHave::
 	.string "What does it have?$"
 
 CeladonCity_DepartmentStore_Roof_Text_NotEnoughMoney::
-	.string "Oops, not enough money!$"
+	.string "Opa, sem dinheiro suficiente!$"
 
 CeladonCity_DepartmentStore_Roof_Text_DrinkCanPoppedOut::
-	.string "A can of {STR_VAR_1} popped out!$"
+	.string "Uma lata de {STR_VAR_1} saiu!$"
 
 CeladonCity_DepartmentStore_Roof_Text_NoMoreRoomForStuff::
-	.string "There's no more room for stuff!$"
+	.string "Nao ha mais espaco!$"
 
 CeladonCity_DepartmentStore_Roof_Text_NotThirsty::
-	.string "Not thirsty!$"
+	.string "Sem sede!$"
 

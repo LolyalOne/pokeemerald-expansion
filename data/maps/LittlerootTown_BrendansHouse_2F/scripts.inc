@@ -279,15 +279,15 @@ PlayersHouse_2F_Text_HowDoYouLikeYourRoom:
 	.string "Good! Everything's put away neatly!\p"
 	.string "They finished moving everything in\n"
 	.string "downstairs, too.\p"
-	.string "POKéMON movers are so convenient!\p"
+	.string "POKeMON movers are so convenient!\p"
 	.string "Oh, you should make sure that\n"
 	.string "everything's all there on your desk.$"
 
 PlayersHouse_2F_Text_Notebook:
-	.string "{PLAYER} flipped open the notebook.\p"
-	.string "ADVENTURE RULE NO. 1\n"
+	.string "{PLAYER} abriu o caderno.\p"
+	.string "REGRA DE AVENTURA NO. 1\n"
 	.string "Open the MENU with START.\p"
-	.string "ADVENTURE RULE NO. 2\n"
+	.string "REGRA DE AVENTURA NO. 2\n"
 	.string "Record your progress with SAVE.\p"
 	.string "The remaining pages are blank…$"
 

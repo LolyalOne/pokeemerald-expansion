@@ -2,12 +2,14 @@ AbandonedShip_Rooms2_B1F_MapScripts::
 	.byte 0
 
 AbandonedShip_Rooms2_B1F_EventScript_Camper::
-	msgbox AbandonedShip_Rooms2_B1F_Text_PerfectPlaceToGoExploring, MSGBOX_NPC
+	msgbox AbandonedShip_Rooms2_B1F_Text_PerfectPlaceForExploring, MSGBOX_NPC
 	end
 
-AbandonedShip_Rooms2_B1F_Text_PerfectPlaceToGoExploring:
-	.string "This is a perfect place to go exploring!\n"
-	.string "It's exciting here!\p"
-	.string "I bet there're amazing treasures on\n"
-	.string "board.$"
+AbandonedShip_Rooms2_B1F_Text_PerfectPlaceForExploring:
+	.string "Este e o lugar perfeito para explorar!\n"
+	.string "E tao emocionante estar aqui!\p"
+	.string "Aposto que existem tesouros incriveis\n"
+	.string "a bordo.\p"
+	.string "Tesouros dignos de um aniversario,\n"
+	.string "nao acha, Lucas?$"
 

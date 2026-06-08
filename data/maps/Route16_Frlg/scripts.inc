@@ -74,10 +74,10 @@ Route16_EventScript_RouteSign::
 	end
 
 Route16_Text_LaoIntro::
-	.string "What do you want?$"
+	.string "O que voce quer?$"
 
 Route16_Text_LaoDefeat::
-	.string "Don't you dare laugh!$"
+	.string "Nao ouse rir!$"
 
 Route16_Text_LaoPostBattle::
 	.string "We like just hanging here.\n"
@@ -88,26 +88,26 @@ Route16_Text_KojiIntro::
 	.string "Hand it over!$"
 
 Route16_Text_KojiDefeat::
-	.string "Knockout!$"
+	.string "Nocauteado!$"
 
 Route16_Text_KojiPostBattle::
 	.string "Forget it, who needs your BIKE!$"
 
 Route16_Text_LukeIntro::
-	.string "Come out and play, little mouse!$"
+	.string "Saia e brinque, ratinho!$"
 
 Route16_Text_LukeDefeat::
-	.string "You little rat!$"
+	.string "Seu ratinho!$"
 
 Route16_Text_LukePostBattle::
 	.string "I hate losing!\n"
 	.string "Get out of my face!$"
 
 Route16_Text_HideoIntro::
-	.string "Hey, you just bumped me!$"
+	.string "Ei, voce trombou em mim!$"
 
 Route16_Text_HideoDefeat::
-	.string "Kaboom!$"
+	.string "Cabum!$"
 
 Route16_Text_HideoPostBattle::
 	.string "We'll always be hanging around here\n"
@@ -120,10 +120,10 @@ Route16_Text_CamronIntro::
 	.string "I need a punching bag!$"
 
 Route16_Text_CamronDefeat::
-	.string "Bad, bad, bad!$"
+	.string "Mal, mal, mau!$"
 
 Route16_Text_CamronPostBattle::
-	.string "If I'm going to have POKéMON, they\n"
+	.string "If I'm going to have POKeMON, they\n"
 	.string "may as well be ferocious.\p"
 	.string "I'd use them to leave my enemies\n"
 	.string "in tatters.$"
@@ -133,16 +133,16 @@ Route16_Text_RubenIntro::
 	.string "Let's have ourselves a good time!$"
 
 Route16_Text_RubenDefeat::
-	.string "Don't make me mad!$"
+	.string "Nao me irrite!$"
 
 Route16_Text_RubenPostBattle::
 	.string "I get my kicks by harassing people\n"
-	.string "with my stinking POKéMON.\p"
+	.string "with my stinking POKeMON.\p"
 	.string "They're great for startling people.\n"
 	.string "And, they bite, too.$"
 
 Route16_Text_MonSprawledOutInSlumber::
-	.string "A POKéMON is sprawled out in\n"
+	.string "A POKeMON is sprawled out in\n"
 	.string "a deep and comfortable slumber.$"
 
 Route16_Text_CyclingRoadSign::
@@ -166,7 +166,7 @@ Route16_Text_JedPostBattle::
 	.string "You need to focus less on me.$"
 
 Route16_Text_JedNotEnoughMons::
-	.string "JED: You have just one POKéMON?\n"
+	.string "JED: You have just one POKeMON?\n"
 	.string "Is there no love in your heart?$"
 
 Route16_Text_LeaIntro::
@@ -183,6 +183,6 @@ Route16_Text_LeaPostBattle::
 
 Route16_Text_LeaNotEnoughMons::
 	.string "LEA: Oh, you don't have two\n"
-	.string "POKéMON with you?\p"
+	.string "POKeMON with you?\p"
 	.string "Doesn't it feel lonely for you or\n"
-	.string "your POKéMON?$"
+	.string "your POKeMON?$"

@@ -118,5 +118,5 @@ Route18_EastEntrance_1F_Text_CyclingRoadAllUphillFromHere::
 	.string "here.$"
 
 Route18_EastEntrance_1F_Text_ExcuseMe::
-	.string "Excuse me!$"
+	.string "Com licenca!$"
 

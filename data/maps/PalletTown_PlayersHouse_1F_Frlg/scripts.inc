@@ -73,7 +73,7 @@ PalletTown_PlayersHouse_1F_Text_YouShouldTakeQuickRest::
 
 PalletTown_PlayersHouse_1F_Text_LookingGreatTakeCare::
 	.string "MOM: Oh, good! You and your\n"
-	.string "POKéMON are looking great.\l"
+	.string "POKeMON are looking great.\l"
 	.string "Take care now!$"
 
 PalletTown_PlayersHouse_1F_Text_MovieOnTVFourBoysOnRailroad::
@@ -89,4 +89,4 @@ PalletTown_PlayersHouse_1F_Text_MovieOnTVGirlOnBrickRoad::
 	.string "…I better go, too.$"
 
 PalletTown_PlayersHouse_1F_Text_OopsWrongSide::
-	.string "Oops, wrong side…$"
+	.string "Ops, lado errado...$"

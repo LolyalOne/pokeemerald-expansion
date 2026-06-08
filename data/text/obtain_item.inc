@@ -1,5 +1,5 @@
 gText_ObtainedTheItem::
-	.string "Obtained the {STR_VAR_2}!$"
+	.string "Obteve o {STR_VAR_2}!$"
 
 gText_TheBagIsFull::
 	.string "The BAG is full…$"
@@ -9,7 +9,7 @@ gText_PutItemInPocket::
 	.string "in the {STR_VAR_3} POCKET.$"
 
 gText_PlayerFoundOneItem::
-	.string "{PLAYER} found one {STR_VAR_2}!$"
+	.string "{PLAYER} achou um {STR_VAR_2}!$"
 
 gText_TooBadBagIsFull::
 	.string "Too bad!\n"
@@ -20,7 +20,7 @@ gText_PlayerPutItemInBag::
 	.string "in the BAG.$"
 
 gText_ObtainedTheDecor::
-	.string "Obtained the {STR_VAR_2}!$"
+	.string "Obteve o {STR_VAR_2}!$"
 
 gText_NoRoomLeftForAnother::
 	.string "Too bad! There's no room left for\n"

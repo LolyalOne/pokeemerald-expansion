@@ -1,58 +1,58 @@
 MatchCall_WildBattleText1::
-	.string "Hi! {PLAYER}{KUN}, hello!\n"
+	.string "Oi! {PLAYER}, tudo bem?\n"
 	.string "This is {STR_VAR_1}.\p"
-	.string "I saw this {STR_VAR_2} a while back\n"
+	.string "Vi este {STR_VAR_2} ha pouco tempo\n"
 	.string "but I couldn't catch it.\p"
 	.string "It was so close, too!\n"
-	.string "Well, see you again!$"
+	.string "Bom, a gente se ve!$"
 
 MatchCall_WildBattleText2::
-	.string "Hello, {PLAYER}{KUN}.\n"
+	.string "Ola, {PLAYER}.\n"
 	.string "It's {STR_VAR_1}.\p"
-	.string "I tried to catch a nice {STR_VAR_2}\n"
-	.string "a little while ago.\p"
+	.string "Tentei pegar um {STR_VAR_2}\n"
+	.string "agora pouco.\p"
 	.string "But, it got away.\n"
-	.string "I was sure disappointed!\p"
-	.string "Okay, bye!$"
+	.string "Fiquei bem triste!\p"
+	.string "Certo, tchau! Feliz niver, Lucas!$"
 
 MatchCall_WildBattleText3::
-	.string "Hey there, {PLAYER}!\n"
+	.string "Ei, {PLAYER}!\n"
 	.string "It's me, {STR_VAR_1}.\p"
 	.string "I just took a shot at catching\n"
 	.string "this {STR_VAR_2}, but it took off.\p"
 	.string "I came oh so close, too!\p"
 	.string "It spoiled my day…\n"
-	.string "All right, see you!$"
+	.string "Certo, ate mais!$"
 
 MatchCall_WildBattleText4::
-	.string "Hey, {PLAYER}{KUN}.\n"
-	.string "{STR_VAR_1} here.\p"
-	.string "You know the POKéMON {STR_VAR_2}?\n"
+	.string "Hey, {PLAYER}.\n"
+	.string "Aqui e o {STR_VAR_1}.\p"
+	.string "You know the POKeMON {STR_VAR_2}?\n"
 	.string "I came close to getting one.\p"
 	.string "It was just a while back.\n"
 	.string "I thought I had it but it escaped.\p"
 	.string "If I see it again, I'll get it for\n"
 	.string "sure, though.\p"
-	.string "Okay, catch you later.$"
+	.string "Certo, te vejo depois.$"
 
 MatchCall_WildBattleText5::
-	.string "Hiya, {PLAYER}{KUN}!\n"
+	.string "Hiya, {PLAYER}!\n"
 	.string "It's {STR_VAR_1}.\l"
-	.string "Catching any POKéMON lately?\p"
+	.string "Pegou muitos POKeMON ultimamente?\p"
 	.string "A little while ago I came close to\n"
 	.string "nabbing one, but it got loose.\p"
-	.string "Right, take care!$"
+	.string "Certo, se cuide! Aproveite seu dia, Lucas!$"
 
 MatchCall_WildBattleText6::
-	.string "Hey, {PLAYER}{KUN}.\n"
-	.string "{STR_VAR_1} here.\l"
-	.string "Caught any POKéMON lately?\p"
+	.string "Hey, {PLAYER}.\n"
+	.string "Aqui e o {STR_VAR_1}.\l"
+	.string "Caught any POKeMON lately?\p"
 	.string "I nearly nabbed one the other day.\n"
 	.string "But it evaded me somehow.\p"
-	.string "You take care.$"
+	.string "Se cuide, Lucas!$"
 
 MatchCall_WildBattleText7::
-	.string "…Uh, {PLAYER}{KUN}?\n"
+	.string "…Uh, {PLAYER}?\n"
 	.string "It's me, {STR_VAR_1}.\p"
 	.string "Oh, wait! Wait!\n"
 	.string "I can catch this {STR_VAR_2}…\p"
@@ -60,35 +60,35 @@ MatchCall_WildBattleText7::
 	.string "That wasn't just close!$"
 
 MatchCall_WildBattleText8::
-	.string "Oh, {PLAYER}{KUN}, how do you do?\n"
+	.string "Oh, {PLAYER}, how do you do?\n"
 	.string "This is {STR_VAR_1} speaking.\p"
 	.string "Have you had success catching\n"
-	.string "POKéMON lately?\p"
+	.string "POKeMON lately?\p"
 	.string "I came very close a little while\n"
 	.string "ago, but my target got free.\p"
 	.string "I need to try harder!\n"
 	.string "See you again!$"
 
 MatchCall_WildBattleText9::
-	.string "Oh, {PLAYER}{KUN}, hi there!\n"
+	.string "Oh, {PLAYER}, hi there!\n"
 	.string "This is {STR_VAR_1}!\p"
-	.string "So? Are you getting more POKéMON\n"
+	.string "So? Are you getting more POKeMON\n"
 	.string "together?\p"
 	.string "I'm having a rotten time of it!\n"
 	.string "They all get away from me!\p"
-	.string "See you!$"
+	.string "Ate!$"
 
 MatchCall_WildBattleText10::
-	.string "Oh, {PLAYER}{KUN}, hello…\n"
+	.string "Oh, {PLAYER}, hello…\n"
 	.string "This is {STR_VAR_1}.\p"
 	.string "Listen, I came within a whisker of\n"
 	.string "catching this {STR_VAR_2}…\p"
 	.string "But, it gave me the slip…\p"
 	.string "I need to try harder.\n"
-	.string "See you around.$"
+	.string "A gente se ve por ai.$"
 
 MatchCall_WildBattleText11::
-	.string "Ah, {PLAYER}{KUN}.\n"
+	.string "Ah, {PLAYER}.\n"
 	.string "This is {STR_VAR_1}.\l"
 	.string "How are things with you?\p"
 	.string "I tried to catch a wild {STR_VAR_2}\n"
@@ -96,50 +96,50 @@ MatchCall_WildBattleText11::
 	.string "I feel defeated…$"
 
 MatchCall_WildBattleText12::
-	.string "Hello, {PLAYER}{KUN}.\n"
+	.string "Ola, {PLAYER}.\n"
 	.string "It's me, {STR_VAR_1}.\l"
-	.string "Are you still catching POKéMON?\p"
+	.string "Are you still catching POKeMON?\p"
 	.string "I've been trying to catch them\n"
 	.string "myself, but it's not so easy.\p"
-	.string "The way of POKéMON is deep!$"
+	.string "The way of POKeMON is deep!$"
 
 MatchCall_WildBattleText13::
-	.string "Ah, hello, {PLAYER}{KUN}!\n"
+	.string "Ah, hello, {PLAYER}!\n"
 	.string "This is {STR_VAR_1}!\l"
-	.string "Have you been catching POKéMON?\p"
+	.string "Have you been catching POKeMON?\p"
 	.string "I've been trying to catch them\n"
 	.string "myself, but with little success.\p"
-	.string "The way of POKéMON is deep!$"
+	.string "The way of POKeMON is deep!$"
 
 MatchCall_WildBattleText14::
-	.string "Oh, hi, {PLAYER}{KUN}, how do you do?\n"
+	.string "Oh, hi, {PLAYER}, how do you do?\n"
 	.string "This is {STR_VAR_1}.\p"
 	.string "Just now, I tried to catch a cute\n"
 	.string "{STR_VAR_2}.\p"
 	.string "It got away, though!\n"
 	.string "Oh, you bet I was disappointed!\p"
-	.string "Bye-bye!$"
+	.string "Tchau tchau!$"
 
 MatchCall_WildBattleText15::
 	.string "Hey, {PLAYER}!\n"
 	.string "This is {STR_VAR_1}!\p"
 	.string "I've been thinking about trying\n"
-	.string "to catch me some POKéMON.\p"
+	.string "to catch me some POKeMON.\p"
 	.string "But I can't seem to find any.\n"
 	.string "It's a real puzzler for me!\p"
 	.string "I'm at my wit's end!\n"
 	.string "See you around!$"
 
 MatchCall_NegativeBattleText1::
-	.string "Hi! {PLAYER}{KUN}, hello!\n"
+	.string "Oi! {PLAYER}, tudo bem?\n"
 	.string "This is {STR_VAR_1}.\p"
 	.string "I tried battling another TRAINER,\n"
 	.string "but I lost.\p"
-	.string "It was really disappointing.\n"
-	.string "Well, see you again!$"
+	.string "Foi bem chato.\n"
+	.string "Bom, a gente se ve!$"
 
 MatchCall_NegativeBattleText2::
-	.string "Hello, {PLAYER}{KUN}.\n"
+	.string "Ola, {PLAYER}.\n"
 	.string "It's {STR_VAR_1}.\p"
 	.string "I challenged someone else after\n"
 	.string "we battled.\p"
@@ -147,7 +147,7 @@ MatchCall_NegativeBattleText2::
 	.string "losing. Oh, well!$"
 
 MatchCall_NegativeBattleText3::
-	.string "Hey there, {PLAYER}!\n"
+	.string "Ei, {PLAYER}!\n"
 	.string "It's me, {STR_VAR_1}.\p"
 	.string "I just got cleaned in a battle.\p"
 	.string "I guess I need to raise my team\n"
@@ -155,11 +155,11 @@ MatchCall_NegativeBattleText3::
 
 MatchCall_NegativeBattleText4::
 	.string "Hey, {PLAYER}.\n"
-	.string "{STR_VAR_1} here.\p"
+	.string "Aqui e o {STR_VAR_1}.\p"
 	.string "I tried another battle yesterday,\n"
 	.string "but I couldn't pull out the win.\p"
 	.string "My team needs more raising.\n"
-	.string "Okay, catch you later.$"
+	.string "Certo, te vejo depois.$"
 
 MatchCall_NegativeBattleText5::
 	.string "Hiya, {PLAYER}!\n"
@@ -168,19 +168,19 @@ MatchCall_NegativeBattleText5::
 	.string "I've been battling on,\n"
 	.string "but I haven't won very often.\p"
 	.string "I can't get it together.\n"
-	.string "Right, take care!$"
+	.string "Certo, se cuide! Aproveite seu dia, Lucas!$"
 
 MatchCall_NegativeBattleText6::
 	.string "Hey, {PLAYER}.\n"
-	.string "{STR_VAR_1} here.\p"
+	.string "Aqui e o {STR_VAR_1}.\p"
 	.string "How's it going for you?\p"
 	.string "I've been battling hard lately,\n"
 	.string "but to little success.\p"
 	.string "I can't get into the groove.\n"
-	.string "You take care.$"
+	.string "Se cuide, Lucas!$"
 
 MatchCall_NegativeBattleText7::
-	.string "{STR_VAR_1} here.\n"
+	.string "Aqui e o {STR_VAR_1}.\n"
 	.string "How's it going lately?\p"
 	.string "I lost a battle yesterday,\n"
 	.string "and it's filled my thoughts.\p"
@@ -188,39 +188,39 @@ MatchCall_NegativeBattleText7::
 	.string "See you.$"
 
 MatchCall_NegativeBattleText8::
-	.string "Oh, {PLAYER}{KUN}, how do you do?\n"
+	.string "Oh, {PLAYER}, how do you do?\n"
 	.string "This is {STR_VAR_1} speaking.\p"
-	.string "How are your POKéMON doing?\n"
+	.string "How are your POKeMON doing?\n"
 	.string "I lost a match the other day.\p"
 	.string "I need to try harder!\n"
 	.string "See you again!$"
 
 MatchCall_NegativeBattleText9::
-	.string "Oh, {PLAYER}{KUN}, hi there!\n"
+	.string "Oh, {PLAYER}, hi there!\n"
 	.string "This is {STR_VAR_1}!\p"
 	.string "Listen, listen, you have to hear\n"
 	.string "this!\p"
-	.string "I had a POKéMON battle earlier,\n"
+	.string "I had a POKeMON battle earlier,\n"
 	.string "but I lost at the last second.\p"
 	.string "Oh, it burns me up!$"
 
 MatchCall_NegativeBattleText10::
-	.string "Oh, {PLAYER}{KUN}, hello…\n"
+	.string "Oh, {PLAYER}, hello…\n"
 	.string "This is {STR_VAR_1}.\p"
 	.string "A little earlier, I was in a battle.\n"
 	.string "I lost, though.\p"
-	.string "I need to raise my POKéMON more.\n"
-	.string "See you around.$"
+	.string "I need to raise my POKeMON more.\n"
+	.string "A gente se ve por ai.$"
 
 MatchCall_NegativeBattleText11::
-	.string "Ah, {PLAYER}{KUN}.\n"
+	.string "Ah, {PLAYER}.\n"
 	.string "This is {STR_VAR_1}.\l"
-	.string "How are your POKéMON?\p"
+	.string "How are your POKeMON?\p"
 	.string "I just lost yet another battle.\p"
 	.string "Well, see you!$"
 
 MatchCall_NegativeBattleText12::
-	.string "Hello, {PLAYER}{KUN}.\n"
+	.string "Ola, {PLAYER}.\n"
 	.string "It's me, {STR_VAR_1}.\l"
 	.string "Are you still battling hard?\p"
 	.string "As for me, I lost recently, so I've\n"
@@ -228,24 +228,24 @@ MatchCall_NegativeBattleText12::
 	.string "Let's meet again.$"
 
 MatchCall_NegativeBattleText13::
-	.string "Ah, hello, {PLAYER}{KUN}!\n"
+	.string "Ah, hello, {PLAYER}!\n"
 	.string "This is {STR_VAR_1}!\p"
 	.string "I hope you've been keeping well.\p"
 	.string "I was in a battle just a little\n"
 	.string "while before this.\p"
-	.string "{PLAYER}{KUN}, try to be active like me.\n"
+	.string "{PLAYER}, try to be active like me.\n"
 	.string "See you again!$"
 
 MatchCall_NegativeBattleText14::
-	.string "Oh, hi, {PLAYER}{KUN}.\n"
+	.string "Oh, hi, {PLAYER}.\n"
 	.string "This is {STR_VAR_1}.\p"
 	.string "Are you doing good?\p"
 	.string "You should go home every so often,\n"
 	.string "though.\p"
-	.string "Bye-bye!$"
+	.string "Tchau tchau!$"
 
 MatchCall_PositiveBattleText1::
-	.string "Hi! {PLAYER}{KUN}, hello!\n"
+	.string "Oi! {PLAYER}, tudo bem?\n"
 	.string "This is {STR_VAR_1}!\p"
 	.string "I battled another TRAINER earlier.\n"
 	.string "I won! I won!\p"
@@ -253,13 +253,13 @@ MatchCall_PositiveBattleText1::
 	.string "for me. This is so great!$"
 
 MatchCall_PositiveBattleText2::
-	.string "Hello, {PLAYER}{KUN}!\n"
+	.string "Hello, {PLAYER}!\n"
 	.string "It's {STR_VAR_1}!\p"
 	.string "I had a battle yesterday and\n"
 	.string "I won! It's fantastic!$"
 
 MatchCall_PositiveBattleText3::
-	.string "Hey there, {PLAYER}!\n"
+	.string "Ei, {PLAYER}!\n"
 	.string "It's me, {STR_VAR_1}!\l"
 	.string "How's your battling?\p"
 	.string "Me, I had a battle the other day,\n"
@@ -269,25 +269,25 @@ MatchCall_PositiveBattleText3::
 
 MatchCall_PositiveBattleText4::
 	.string "Hey, {PLAYER}.\n"
-	.string "{STR_VAR_1} here.\p"
+	.string "Aqui e o {STR_VAR_1}.\p"
 	.string "I had a match earlier.\n"
 	.string "I managed to win, but it was close.\p"
 	.string "My {STR_VAR_2} put on one\n"
 	.string "inspired showing.$"
 
 MatchCall_PositiveBattleText5::
-	.string "Hiya, {PLAYER}{KUN}!\n"
+	.string "Hiya, {PLAYER}!\n"
 	.string "It's {STR_VAR_1}.\p"
 	.string "How are things with you?\n"
 	.string "Battling much?\p"
 	.string "I just won a while back!\n"
-	.string "My {STR_VAR_2} was brilliant!\p"
+	.string "Meu {STR_VAR_2} foi brilhante!\p"
 	.string "You wait. I'm going to beat you\n"
-	.string "next time! Right, take care!$"
+	.string "next time! Certo, se cuide! Aproveite seu dia, Lucas!$"
 
 MatchCall_PositiveBattleText6::
-	.string "Hey, {PLAYER}{KUN}.\n"
-	.string "{STR_VAR_1} here.\p"
+	.string "Hey, {PLAYER}.\n"
+	.string "Aqui e o {STR_VAR_1}.\p"
 	.string "How's it going for you?\p"
 	.string "I've been riding a hot streak.\n"
 	.string "Why, I just won a battle.\p"
@@ -295,15 +295,15 @@ MatchCall_PositiveBattleText6::
 	.string "I'm sure not going to lose!$"
 
 MatchCall_PositiveBattleText7::
-	.string "{PLAYER}{KUN}?\n"
-	.string "{STR_VAR_1} here.\p"
+	.string "{PLAYER}?\n"
+	.string "Aqui e o {STR_VAR_1}.\p"
 	.string "My {STR_VAR_2} is a force!\n"
 	.string "It won me another battle just now!\p"
 	.string "I can't wait to have a rematch\n"
 	.string "with you.$"
 
 MatchCall_PositiveBattleText8::
-	.string "Oh, {PLAYER}{KUN}, how do you do?\n"
+	.string "Oh, {PLAYER}, how do you do?\n"
 	.string "This is {STR_VAR_1} speaking.\p"
 	.string "I hope you've been well.\n"
 	.string "I wanted to tell you I just won.\p"
@@ -312,9 +312,9 @@ MatchCall_PositiveBattleText8::
 	.string "See you again!$"
 
 MatchCall_PositiveBattleText9::
-	.string "Oh, {PLAYER}{KUN}, hi there!\n"
+	.string "Oh, {PLAYER}, hi there!\n"
 	.string "This is {STR_VAR_1}!\p"
-	.string "How are your POKéMON holding up?\n"
+	.string "How are your POKeMON holding up?\n"
 	.string "Mine just won a battle!\p"
 	.string "My {STR_VAR_2} was spectacular,\n"
 	.string "I must say!\p"
@@ -322,16 +322,16 @@ MatchCall_PositiveBattleText9::
 	.string "See you again!$"
 
 MatchCall_PositiveBattleText10::
-	.string "Oh, {PLAYER}{KUN}, hello…\n"
+	.string "Oh, {PLAYER}, hello…\n"
 	.string "This is {STR_VAR_1}.\p"
 	.string "How has life been treating you?\p"
-	.string "My POKéMON appear to be charged\n"
+	.string "My POKeMON appear to be charged\n"
 	.string "with energy.\p"
 	.string "I just won a battle with them.\n"
-	.string "See you around.$"
+	.string "A gente se ve por ai.$"
 
 MatchCall_PositiveBattleText11::
-	.string "Ah, {PLAYER}{KUN}.\n"
+	.string "Ah, {PLAYER}.\n"
 	.string "This is {STR_VAR_1}.\p"
 	.string "Been in any battles lately?\n"
 	.string "I just won another one today!\p"
@@ -339,7 +339,7 @@ MatchCall_PositiveBattleText11::
 	.string "Well, see you!$"
 
 MatchCall_PositiveBattleText12::
-	.string "Hello, {PLAYER}{KUN}.\n"
+	.string "Ola, {PLAYER}.\n"
 	.string "It's me, {STR_VAR_1}.\p"
 	.string "I trust you've been well?\n"
 	.string "I'm still bursting with life!\p"
@@ -348,7 +348,7 @@ MatchCall_PositiveBattleText12::
 	.string "youngsters yet!$"
 
 MatchCall_PositiveBattleText13::
-	.string "Ah, hello, {PLAYER}{KUN}!\n"
+	.string "Ah, hello, {PLAYER}!\n"
 	.string "This is {STR_VAR_1}!\p"
 	.string "I hope you've been keeping well.\n"
 	.string "I still have a bounce in my step!\p"
@@ -358,12 +358,12 @@ MatchCall_PositiveBattleText13::
 	.string "See you again!$"
 
 MatchCall_PositiveBattleText14::
-	.string "Oh, hi, {PLAYER}{KUN}.\n"
+	.string "Oh, hi, {PLAYER}.\n"
 	.string "This is {STR_VAR_1}.\p"
 	.string "I was in a battle recently, and my\n"
 	.string "{STR_VAR_2} was exceptional!\p"
 	.string "I wish you could have seen it,\n"
-	.string "{PLAYER}{KUN}. Bye-bye!$"
+	.string "{PLAYER}. Tchau tchau!$"
 
 MatchCall_SameRouteBattleRequestText1::
 	.string "Hi! {PLAYER}, hello!\n"
@@ -371,7 +371,7 @@ MatchCall_SameRouteBattleRequestText1::
 	.string "Huh? Wait, you're near\n"
 	.string "{STR_VAR_2}?\p"
 	.string "Oh, wow, we have to battle, then!\n"
-	.string "I'll be waiting! See you!$"
+	.string "I'll be waiting! Ate!$"
 
 MatchCall_SameRouteBattleRequestText2::
 	.string "Hello, {PLAYER}!\n"
@@ -379,10 +379,10 @@ MatchCall_SameRouteBattleRequestText2::
 	.string "Oh? You happen to be around\n"
 	.string "{STR_VAR_2} right now?\p"
 	.string "Would you like to battle now?\n"
-	.string "I'll wait for you! See you!$"
+	.string "I'll wait for you! Ate!$"
 
 MatchCall_SameRouteBattleRequestText3::
-	.string "Hey there, {PLAYER}!\n"
+	.string "Ei, {PLAYER}!\n"
 	.string "It's me, {STR_VAR_1}.\p"
 	.string "Oh, hey, are you near\n"
 	.string "{STR_VAR_2} right now?\p"
@@ -392,15 +392,15 @@ MatchCall_SameRouteBattleRequestText3::
 	.string "I'll be waiting! Catch you soon!$"
 
 MatchCall_SameRouteBattleRequestText4::
-	.string "Hey, {PLAYER}{KUN}.\n"
-	.string "{STR_VAR_1} here.\p"
+	.string "Hey, {PLAYER}.\n"
+	.string "Aqui e o {STR_VAR_1}.\p"
 	.string "Whereabouts are you now?\n"
 	.string "Huh? {STR_VAR_2}?\p"
 	.string "Want to battle now?\n"
-	.string "I'll wait for you. See you!$"
+	.string "I'll wait for you. Ate!$"
 
 MatchCall_SameRouteBattleRequestText5::
-	.string "Hiya, {PLAYER}{KUN}!\n"
+	.string "Hiya, {PLAYER}!\n"
 	.string "It's {STR_VAR_1}.\l"
 	.string "How are things with you?\p"
 	.string "You're where now?\n"
@@ -411,28 +411,28 @@ MatchCall_SameRouteBattleRequestText5::
 	.string "See you soon!$"
 
 MatchCall_SameRouteBattleRequestText6::
-	.string "Hey, {PLAYER}{KUN}.\n"
-	.string "{STR_VAR_1} here.\l"
-	.string "How are your POKéMON keeping?\p"
+	.string "Hey, {PLAYER}.\n"
+	.string "Aqui e o {STR_VAR_1}.\l"
+	.string "How are your POKeMON keeping?\p"
 	.string "Oh, is that right? You're around\n"
 	.string "{STR_VAR_2}?\p"
 	.string "Well, then, we'd better have\n"
 	.string "a rematch.\p"
 	.string "I can wait, sure.\n"
-	.string "See you!$"
+	.string "Ate!$"
 
 MatchCall_SameRouteBattleRequestText7::
-	.string "…Er, {PLAYER}{KUN}?\n"
+	.string "…Er, {PLAYER}?\n"
 	.string "{STR_VAR_1} here…\p"
 	.string "Oh, you happen to be around\n"
 	.string "{STR_VAR_2}?\p"
 	.string "Then, let's battle.\n"
 	.string "Right away, I mean.\p"
-	.string "I'll show you my POKéMON.\n"
+	.string "I'll show you my POKeMON.\n"
 	.string "I'll wait for you.$"
 
 MatchCall_SameRouteBattleRequestText8::
-	.string "Oh, {PLAYER}{KUN}, how do you do?\n"
+	.string "Oh, {PLAYER}, how do you do?\n"
 	.string "This is {STR_VAR_1} speaking.\p"
 	.string "I hope you're doing well.\n"
 	.string "Oh, you're near {STR_VAR_2}.\p"
@@ -442,7 +442,7 @@ MatchCall_SameRouteBattleRequestText8::
 	.string "See you soon!$"
 
 MatchCall_SameRouteBattleRequestText9::
-	.string "Oh, {PLAYER}{KUN}, hi there!\n"
+	.string "Oh, {PLAYER}, hi there!\n"
 	.string "This is {STR_VAR_1}!\p"
 	.string "Are you keeping up?\n"
 	.string "Oh, you're near {STR_VAR_2}?\p"
@@ -451,7 +451,7 @@ MatchCall_SameRouteBattleRequestText9::
 	.string "Don't keep me waiting too long!$"
 
 MatchCall_SameRouteBattleRequestText10::
-	.string "Oh, {PLAYER}{KUN}, hello…\n"
+	.string "Oh, {PLAYER}, hello…\n"
 	.string "This is {STR_VAR_1}.\p"
 	.string "How are things with you?\n"
 	.string "Oh, you're near {STR_VAR_2}.\p"
@@ -460,7 +460,7 @@ MatchCall_SameRouteBattleRequestText10::
 	.string "Be quick!$"
 
 MatchCall_SameRouteBattleRequestText11::
-	.string "Ah, {PLAYER}{KUN}.\n"
+	.string "Ah, {PLAYER}.\n"
 	.string "This is {STR_VAR_1}.\p"
 	.string "Ah, so where you are now is\n"
 	.string "{STR_VAR_2}?\p"
@@ -470,7 +470,7 @@ MatchCall_SameRouteBattleRequestText11::
 	.string "See you real quick!$"
 
 MatchCall_SameRouteBattleRequestText12::
-	.string "Hello, {PLAYER}{KUN}.\n"
+	.string "Ola, {PLAYER}.\n"
 	.string "It's me, {STR_VAR_1}.\l"
 	.string "Where might you be now?\p"
 	.string "{STR_VAR_2}?\n"
@@ -478,27 +478,27 @@ MatchCall_SameRouteBattleRequestText12::
 	.string "What do you say we have a battle\n"
 	.string "now?\p"
 	.string "I can wait.\n"
-	.string "See you!$"
+	.string "Ate!$"
 
 MatchCall_SameRouteBattleRequestText13::
-	.string "Ah, hello, {PLAYER}{KUN}!\n"
+	.string "Ah, hello, {PLAYER}!\n"
 	.string "This is {STR_VAR_1}!\p"
 	.string "I hope you've been keeping well.\n"
 	.string "Oh, you're near {STR_VAR_2}?\p"
 	.string "Since that's not very far away,\n"
 	.string "come see me for a battle.\p"
 	.string "I'll wait for you.\n"
-	.string "Bye for now.$"
+	.string "Tchau por enquanto!$"
 
 MatchCall_SameRouteBattleRequestText14::
-	.string "Oh, hi, {PLAYER}{KUN}.\n"
+	.string "Oh, hi, {PLAYER}.\n"
 	.string "This is {STR_VAR_1}.\p"
 	.string "You're what? …{STR_VAR_2}?\n"
 	.string "That's very close.\p"
 	.string "Don't you think we ought to have\n"
 	.string "a battle?\p"
 	.string "I'll be looking for you!\n"
-	.string "Bye-bye!$"
+	.string "Tchau tchau!$"
 
 MatchCall_DifferentRouteBattleRequestText1::
 	.string "Hi! {PLAYER}, hello!\n"
@@ -516,21 +516,21 @@ MatchCall_DifferentRouteBattleRequestText2::
 	.string "{STR_VAR_2}. I'll be waiting!$"
 
 MatchCall_DifferentRouteBattleRequestText3::
-	.string "Hey there, {PLAYER}!\n"
+	.string "Ei, {PLAYER}!\n"
 	.string "It's me, {STR_VAR_1}.\p"
-	.string "My POKéMON have grown a lot\n"
+	.string "My POKeMON have grown a lot\n"
 	.string "tougher since last time.\p"
 	.string "I want to see how strong they've\n"
-	.string "become with your POKéMON, {PLAYER}.\p"
+	.string "become with your POKeMON, {PLAYER}.\p"
 	.string "So, let's have a battle!\p"
 	.string "I'll be waiting for you around\n"
 	.string "{STR_VAR_2}.$"
 
 MatchCall_DifferentRouteBattleRequestText4::
-	.string "Hey, {PLAYER}{KUN}.\n"
-	.string "{STR_VAR_1} here.\l"
+	.string "Hey, {PLAYER}.\n"
+	.string "Aqui e o {STR_VAR_1}.\l"
 	.string "How are things with you?\p"
-	.string "My POKéMON have grown pretty\n"
+	.string "My POKeMON have grown pretty\n"
 	.string "tough lately.\p"
 	.string "Hey, how would you like to have\n"
 	.string "another battle with me?\p"
@@ -538,9 +538,9 @@ MatchCall_DifferentRouteBattleRequestText4::
 	.string "{STR_VAR_2}, okay?$"
 
 MatchCall_DifferentRouteBattleRequestText5::
-	.string "Hiya, {PLAYER}{KUN}!\n"
+	.string "Hiya, {PLAYER}!\n"
 	.string "It's {STR_VAR_1}.\p"
-	.string "My POKéMON are growing up in\n"
+	.string "My POKeMON are growing up in\n"
 	.string "decent ways.\p"
 	.string "I'd really like to have another\n"
 	.string "battle with you.\p"
@@ -548,81 +548,81 @@ MatchCall_DifferentRouteBattleRequestText5::
 	.string "{STR_VAR_2}. See you soon!$"
 
 MatchCall_DifferentRouteBattleRequestText6::
-	.string "Hey, {PLAYER}{KUN}.\n"
-	.string "{STR_VAR_1} here.\l"
+	.string "Hey, {PLAYER}.\n"
+	.string "Aqui e o {STR_VAR_1}.\l"
 	.string "I hope you're on top of things.\p"
 	.string "I was thinking I'd like another\n"
 	.string "battle with you. What do you say?\p"
 	.string "If you feel like a battle,\n"
 	.string "come to {STR_VAR_2}.\p"
-	.string "See you!$"
+	.string "Ate!$"
 
 MatchCall_DifferentRouteBattleRequestText7::
-	.string "…Er, {PLAYER}{KUN}?\n"
+	.string "…Er, {PLAYER}?\n"
 	.string "{STR_VAR_1} here…\l"
-	.string "So? Are your POKéMON growing?\p"
+	.string "So? Are your POKeMON growing?\p"
 	.string "Mine sure got stronger.\n"
 	.string "I'd like to show you.\p"
 	.string "I'll be around {STR_VAR_2}.\n"
 	.string "Come see me for a match.\p"
-	.string "See you around.$"
+	.string "A gente se ve por ai.$"
 
 MatchCall_DifferentRouteBattleRequestText8::
-	.string "Oh, {PLAYER}{KUN}, how do you do?\n"
+	.string "Oh, {PLAYER}, how do you do?\n"
 	.string "This is {STR_VAR_1} speaking.\p"
 	.string "I hope you're doing well.\n"
-	.string "My POKéMON are very frisky.\p"
+	.string "My POKeMON are very frisky.\p"
 	.string "If you're ever in the area, please\n"
 	.string "give me a rematch.\p"
 	.string "I'll be around {STR_VAR_2}.\n"
 	.string "Until then, good-bye!$"
 
 MatchCall_DifferentRouteBattleRequestText9::
-	.string "Oh, {PLAYER}{KUN}, hi there!\n"
+	.string "Oh, {PLAYER}, hi there!\n"
 	.string "This is {STR_VAR_1}!\l"
-	.string "How are your POKéMON doing?\p"
-	.string "My POKéMON keep getting better.\n"
-	.string "I'd like to show you, {PLAYER}{KUN}.\p"
+	.string "How are your POKeMON doing?\p"
+	.string "My POKeMON keep getting better.\n"
+	.string "I'd like to show you, {PLAYER}.\p"
 	.string "I'm around {STR_VAR_2} now,\n"
 	.string "so let's battle if you're close by.\p"
-	.string "Hope I see you soon!$"
+	.string "Espero te ver logo!$"
 
 MatchCall_DifferentRouteBattleRequestText10::
-	.string "Oh, {PLAYER}{KUN}, hello…\n"
+	.string "Oh, {PLAYER}, hello…\n"
 	.string "This is {STR_VAR_1}.\l"
 	.string "So, how are things with you?\p"
-	.string "My POKéMON have grown much\n"
+	.string "My POKeMON have grown much\n"
 	.string "stronger than before.\p"
 	.string "I'd love another battle with you,\n"
-	.string "{PLAYER}{KUN}.\p"
+	.string "{PLAYER}.\p"
 	.string "I'll be around {STR_VAR_2}.\n"
 	.string "Come see me if you're close.$"
 
 MatchCall_DifferentRouteBattleRequestText11::
-	.string "Ah, {PLAYER}{KUN}.\n"
+	.string "Ah, {PLAYER}.\n"
 	.string "This is {STR_VAR_1}.\l"
 	.string "Where might you be now?\p"
-	.string "My POKéMON are full of life.\n"
+	.string "My POKeMON are full of life.\n"
 	.string "They appear to be looking forward\l"
-	.string "to seeing your POKéMON, {PLAYER}{KUN}.\p"
+	.string "to seeing your POKeMON, {PLAYER}.\p"
 	.string "I'm around {STR_VAR_2} now.\n"
 	.string "I hope you'll seek us out.$"
 
 MatchCall_DifferentRouteBattleRequestText12::
-	.string "Hello, {PLAYER}{KUN}.\n"
+	.string "Ola, {PLAYER}.\n"
 	.string "It's me, {STR_VAR_1}.\p"
-	.string "I should tell you, my POKéMON have\n"
+	.string "I should tell you, my POKeMON have\n"
 	.string "grown to be quite robust lately.\p"
 	.string "I would like to see them in a battle\n"
-	.string "with you, {PLAYER}{KUN}.\p"
+	.string "with you, {PLAYER}.\p"
 	.string "We'll be around {STR_VAR_2}.\n"
 	.string "Come see us anytime!$"
 
 MatchCall_DifferentRouteBattleRequestText13::
-	.string "Ah, hello, {PLAYER}{KUN}!\n"
+	.string "Ah, hello, {PLAYER}!\n"
 	.string "This is {STR_VAR_1}!\l"
-	.string "Are your POKéMON keeping well?\p"
-	.string "My POKéMON have been so healthy,\n"
+	.string "Are your POKeMON keeping well?\p"
+	.string "My POKeMON have been so healthy,\n"
 	.string "they don't look capable of losing!\p"
 	.string "I would surely love to have another\n"
 	.string "battle with you.\p"
@@ -630,16 +630,16 @@ MatchCall_DifferentRouteBattleRequestText13::
 	.string "do come see us.$"
 
 MatchCall_DifferentRouteBattleRequestText14::
-	.string "Oh, hi, {PLAYER}{KUN}.\n"
+	.string "Oh, hi, {PLAYER}.\n"
 	.string "This is {STR_VAR_1}.\l"
 	.string "Keeping well, I hope.\p"
-	.string "Oh, yes! My POKéMON are\n"
+	.string "Oh, yes! My POKeMON are\n"
 	.string "much stronger than before.\p"
 	.string "Don't you think we ought to have\n"
-	.string "a battle, {PLAYER}{KUN}?\p"
+	.string "a battle, {PLAYER}?\p"
 	.string "We'll be waiting for you around\n"
 	.string "{STR_VAR_2}.\p"
-	.string "Come see us anytime, okay?$"
+	.string "Venha nos ver quando quiser!$"
 
 MatchCall_PersonalizedText1::
 	.string "It's me, the mountain-loving\n"
@@ -656,10 +656,10 @@ MatchCall_PersonalizedText2::
 	.string "I was just telling a new TRAINER\n"
 	.string "about you.\p"
 	.string "I told her about a strong TRAINER\n"
-	.string "who raises POKéMON with care.\p"
+	.string "who raises POKeMON with care.\p"
 	.string "I hope you'll become a TRAINER\n"
 	.string "that everyone will admire.\p"
-	.string "I hope we meet again!$"
+	.string "Espero que nos vejamos de novo!$"
 
 MatchCall_PersonalizedText3::
 	.string "Hello! It's {STR_VAR_1}.\p"
@@ -667,7 +667,7 @@ MatchCall_PersonalizedText3::
 	.string "It's pleasant with sweet aromas!\p"
 	.string "I think someone planted BERRIES,\n"
 	.string "and they burst into bloom.\p"
-	.string "See you again sometime!$"
+	.string "Ate a proxima, Lucas!$"
 
 MatchCall_PersonalizedText4::
 	.string "Hello! Thirty years of exploration,\n"
@@ -691,7 +691,7 @@ MatchCall_PersonalizedText6::
 	.string "Munch-chew…\n"
 	.string "Oh, hi, it's {STR_VAR_1}.\l"
 	.string "I love eating on the beach.\p"
-	.string "My POKéMON and I have been doing\n"
+	.string "My POKeMON and I have been doing\n"
 	.string "great. We're fully fueled!\l"
 	.string "I'm going for a swim. Bye!$"
 
@@ -714,7 +714,7 @@ MatchCall_PersonalizedText7::
 MatchCall_PersonalizedText8::
 	.string "Yahoo, it's {STR_VAR_1}!\n"
 	.string "How do you do?\p"
-	.string "I've been raising my POKéMON with\n"
+	.string "I've been raising my POKeMON with\n"
 	.string "you as the target.\p"
 	.string "I don't intend to lose when we\n"
 	.string "battle again.\p"
@@ -725,7 +725,7 @@ MatchCall_PersonalizedText9::
 	.string "It's {STR_VAR_1}…\n"
 	.string "Right now, behind you…\l"
 	.string "Wasn't there something…?\p"
-	.string "The power of the POKéMON that\n"
+	.string "The power of the POKeMON that\n"
 	.string "sleep here at MT. PYRE…\p"
 	.string "It's telling me about you…\p"
 	.string "You should walk away quickly and\n"
@@ -757,11 +757,11 @@ MatchCall_PersonalizedText11::
 	.string "Catch you!$"
 
 MatchCall_PersonalizedText12::
-	.string "Hello, {STR_VAR_1} here.\n"
+	.string "Hello, Aqui e o {STR_VAR_1}.\n"
 	.string "Yes, correct, I am rich, yes.\p"
 	.string "I should tell you, my wealth has\n"
 	.string "grown since we last met.\p"
-	.string "What's more, my POKéMON have also\n"
+	.string "What's more, my POKeMON have also\n"
 	.string "grown stronger.\p"
 	.string "I can't shake the feeling that\n"
 	.string "this world exists for me!\p"
@@ -808,11 +808,11 @@ MatchCall_PersonalizedText15::
 
 MatchCall_PersonalizedText16::
 	.string "It's {STR_VAR_1}! Listen, I've been\n"
-	.string "teaching karate to my POKéMON.\p"
+	.string "teaching karate to my POKeMON.\p"
 	.string "But now they're better than me!\n"
 	.string "I've done nothing but lose to them!\p"
 	.string "But even though I may lose to\n"
-	.string "POKéMON, I won't lose to another\l"
+	.string "POKeMON, I won't lose to another\l"
 	.string "TRAINER, no sir!\p"
 	.string "We have to battle again!\n"
 	.string "Ugwaah!$"
@@ -877,21 +877,21 @@ MatchCall_PersonalizedText22::
 	.string "You have a rival like that, yes?\n"
 	.string "I wish it were me…\p"
 	.string "I'm glad you heard me out.\n"
-	.string "See you!$"
+	.string "Ate!$"
 
 MatchCall_PersonalizedText23::
 	.string "It's {STR_VAR_1}.\p"
 	.string "When there's a strong TRAINER\n"
 	.string "nearby, I can sometimes sense that\l"
 	.string "somehow.\p"
-	.string "Did you pass close by, {PLAYER}{KUN}?\n"
+	.string "Did you pass close by, {PLAYER}?\n"
 	.string "Maybe it was you.\p"
 	.string "I'll be waiting for your visit.\n"
 	.string "Bye!$"
 
 MatchCall_PersonalizedText24::
 	.string "Hello, this is {STR_VAR_1}.\n"
-	.string "You sound well, {PLAYER}{KUN}.\p"
+	.string "You sound well, {PLAYER}.\p"
 	.string "I've traveled around the world,\n"
 	.string "but I must say I've taken a great\l"
 	.string "shine to this region.\p"
@@ -930,7 +930,7 @@ MatchCall_PersonalizedText27::
 	.string "Hi, it's ANNA! I'm with my junior\n"
 	.string "partner MEG again today.\p"
 	.string "I really love caring for MEG and\n"
-	.string "POKéMON. They're so cute!\p"
+	.string "POKeMON. They're so cute!\p"
 	.string "I wish I could look after them\n"
 	.string "as if they were my siblings!\p"
 	.string "Oh, hi, MEG!\n"
@@ -945,10 +945,10 @@ MatchCall_PersonalizedText27::
 	.string "It's time for our snack!$"
 
 MatchCall_PersonalizedText28::
-	.string "I love POKéMON!\n"
+	.string "Eu amo POKeMON!\n"
 	.string "It's {STR_VAR_1} from the FAN CLUB!\p"
 	.string "You have to hear this!\n"
-	.string "My sweet POKéMON…\p"
+	.string "My sweet POKeMON…\p"
 	.string "Snort! Wahaha!\n"
 	.string "I can't say any more! It's a secret!\l"
 	.string "It's just too cute for words!\p"
@@ -961,7 +961,7 @@ MatchCall_PersonalizedText28::
 MatchCall_PersonalizedText29::
 	.string "Ohoho!\p"
 	.string "This is {STR_VAR_1}! I can't wait to\n"
-	.string "tell you about my darling POKéMON!\p"
+	.string "tell you about my darling POKeMON!\p"
 	.string "Please, you must listen to this.\n"
 	.string "It's about my darling {STR_VAR_2}.\p"
 	.string "Whenever anyone picks it up,\n"
@@ -980,7 +980,7 @@ MatchCall_PersonalizedText30::
 	.string "But there is one thing I know.\n"
 	.string "I could not be an EXPERT on my own\l"
 	.string "power.\p"
-	.string "Only with the help of POKéMON can\n"
+	.string "Only with the help of POKeMON can\n"
 	.string "a TRAINER become an EXPERT.\p"
 	.string "Humph! I believe I may have said\n"
 	.string "something deep and profound!\p"
@@ -1007,7 +1007,7 @@ MatchCall_PersonalizedText32::
 	.string "It's kind of hard to explain, but…\l"
 	.string "How would I say this now…\l"
 	.string "My shorts feel silkier!\p"
-	.string "And when I battled you, {PLAYER}{KUN},\n"
+	.string "And when I battled you, {PLAYER},\n"
 	.string "my shorts felt icky and coarse.\p"
 	.string "… … … … … …\n"
 	.string "You didn't really believe that?\l"
@@ -1043,7 +1043,7 @@ MatchCall_PersonalizedText34::
 	.string "Imagine yourself as a teacher,\n"
 	.string "or maybe an artist. Cool, huh?\p"
 	.string "But, hey, be cool. Take it casual.\n"
-	.string "See you around.$"
+	.string "A gente se ve por ai.$"
 
 MatchCall_PersonalizedText35::
 	.string "This is {STR_VAR_1}!\n"
@@ -1057,14 +1057,14 @@ MatchCall_PersonalizedText35::
 	.string "Okay! Today, I'm going to set a new\n"
 	.string "CYCLING ROAD record!\p"
 	.string "You should make the challenge, too!\n"
-	.string "See you!$"
+	.string "Ate!$"
 
 MatchCall_PersonalizedText36::
 	.string "Yo, this is {STR_VAR_1}! I'm smack\n"
 	.string "in the middle of a triathlon!\p"
 	.string "But, hey, I've always got time to\n"
 	.string "shoot the breeze!\p"
-	.string "Working out with POKéMON feels\n"
+	.string "Working out with POKeMON feels\n"
 	.string "mighty good!\p"
 	.string "Without exchanging words, we synch\n"
 	.string "as if we shared a heart.\p"
@@ -1080,7 +1080,7 @@ MatchCall_PersonalizedText37::
 	.string "Try running on a mountaintop.\n"
 	.string "You'll be gasping in no time!\p"
 	.string "I'm getting oxygen starved, too!\n"
-	.string "See you!$"
+	.string "Ate!$"
 
 MatchCall_PersonalizedText38::
 	.string "Oh, it's {STR_VAR_1}, hello.\p"
@@ -1089,7 +1089,7 @@ MatchCall_PersonalizedText38::
 	.string "Maybe I'm just going in circles.\p"
 	.string "No, no, that can't be possible.\n"
 	.string "Wahahaha.\l"
-	.string "Take care!$"
+	.string "Se cuida!$"
 
 MatchCall_PersonalizedText39::
 	.string "Hey, it's {STR_VAR_1}…\n"
@@ -1100,9 +1100,9 @@ MatchCall_PersonalizedText39::
 	.string "Whiff-whiff! Whiff-whiff!\p"
 	.string "Hey! Sorry about that!\n"
 	.string "I just put on some suntan oil.\p"
-	.string "So my POKéNAV went whoopsy\n"
+	.string "So my POKeNAV went whoopsy\n"
 	.string "out of my hand into the water!\p"
-	.string "But, boy, DEVON's POKéNAV is built\n"
+	.string "But, boy, DEVON's POKeNAV is built\n"
 	.string "tough. It survived that dunking!\p"
 	.string "Anyways, I'm busy sunbathing,\n"
 	.string "so let's chat another time.$"
@@ -1117,14 +1117,14 @@ MatchCall_PersonalizedText40::
 	.string "test of human endurance! Bye!$"
 
 MatchCall_PersonalizedText41::
-	.string "Hello, {PLAYER}{KUN}.\n"
-	.string "{STR_VAR_1} here.\p"
-	.string "How are your POKéMON doing?\p"
-	.string "My DRAGON POKéMON appear to be\n"
-	.string "in peak form. Bye for now.$"
+	.string "Ola, {PLAYER}.\n"
+	.string "Aqui e o {STR_VAR_1}.\p"
+	.string "How are your POKeMON doing?\p"
+	.string "My DRAGON POKeMON appear to be\n"
+	.string "in peak form. Tchau por enquanto!$"
 
 MatchCall_PersonalizedText42::
-	.string "{STR_VAR_1} here.\p"
+	.string "Aqui e o {STR_VAR_1}.\p"
 	.string "My {STR_VAR_2} has grown even more\n"
 	.string "tough than that last time.\p"
 	.string "I'm not going to lose again to you.\n"
@@ -1132,7 +1132,7 @@ MatchCall_PersonalizedText42::
 	.string "See you around!$"
 
 MatchCall_PersonalizedText43::
-	.string "It is {STR_VAR_1} here.\p"
+	.string "It is Aqui e o {STR_VAR_1}.\p"
 	.string "I have continued with my studies\n"
 	.string "in the art of concealment.\p"
 	.string "But I have been too successful.\n"
@@ -1159,7 +1159,7 @@ MatchCall_PersonalizedText45::
 	.string "Let's promise to meet again!$"
 
 MatchCall_PersonalizedText46::
-	.string "Hi, {STR_VAR_1} here.\p"
+	.string "Hi, Aqui e o {STR_VAR_1}.\p"
 	.string "Did you know that it's easier to\n"
 	.string "float in the sea than a pool?\p"
 	.string "Just by lying still, your body will\n"
@@ -1171,23 +1171,23 @@ MatchCall_PersonalizedText46::
 	.string "I'd better go!$"
 
 MatchCall_PersonalizedText47::
-	.string "Oh, {PLAYER}{KUN}, hello!\n"
+	.string "Oh, {PLAYER}, hello!\n"
 	.string "This is {STR_VAR_1}.\l"
 	.string "I'm up in the mountains now.\p"
 	.string "But the ground is too bumpy.\n"
 	.string "I can't pitch my tent here…\p"
 	.string "Oh, I had a brilliant idea!\p"
-	.string "Maybe I can get my POKéMON to tamp\n"
+	.string "Maybe I can get my POKeMON to tamp\n"
 	.string "the ground flat here!\p"
 	.string "I'm going to try that!\n"
-	.string "Bye-bye!$"
+	.string "Tchau tchau!$"
 
 MatchCall_PersonalizedText48::
 	.string "Oh, hi, hi, this is {STR_VAR_1}!\p"
-	.string "I'm raising POKéMON with LIV!\n"
+	.string "I'm raising POKeMON with LIV!\n"
 	.string "We're trying very hard!\p"
 	.string "If we try harder, can we become\n"
-	.string "number one? Bye-bye!$"
+	.string "number one? Tchau tchau!$"
 
 MatchCall_PersonalizedText49::
 	.string "{STR_VAR_1} here!\p"
@@ -1201,38 +1201,38 @@ MatchCall_PersonalizedText49::
 
 MatchCall_PersonalizedText50::
 	.string "It's {STR_VAR_1}.\n"
-	.string "So? Get any more POKéMON?\p"
-	.string "If you catch a new POKéMON,\n"
+	.string "So? Get any more POKeMON?\p"
+	.string "If you catch a new POKeMON,\n"
 	.string "you have to come show me.\p"
 	.string "I won't whine for it, honest.\n"
 	.string "I'll be waiting. See you.$"
 
 MatchCall_PersonalizedText51::
 	.string "This is {STR_VAR_1}.\p"
-	.string "Are you raising your POKéMON\n"
+	.string "Are you raising your POKeMON\n"
 	.string "in the optimal way?\p"
 	.string "The air is clean where I am.\n"
 	.string "It's the perfect environment for\l"
-	.string "raising POKéMON.\p"
+	.string "raising POKeMON.\p"
 	.string "If you're going to focus on raising\n"
-	.string "POKéMON, you should come out to\l"
+	.string "POKeMON, you should come out to\l"
 	.string "{STR_VAR_2}. Take care now.$"
 
 MatchCall_PersonalizedText52::
 	.string "Hi, this is {STR_VAR_1}.\p"
 	.string "I gave a {POKEBLOCK} to my {STR_VAR_2}.\n"
 	.string "It seemed to enjoy it very much.\p"
-	.string "It looks like POKéMON have their\n"
+	.string "It looks like POKeMON have their\n"
 	.string "likes and dislikes with {POKEBLOCK}S.\p"
 	.string "I find that quite fascinating.\n"
 	.string "Please do take care.$"
 
 MatchCall_PersonalizedText53::
-	.string "{STR_VAR_1} here.\p"
-	.string "If you cooperate with POKéMON,\n"
+	.string "Aqui e o {STR_VAR_1}.\p"
+	.string "If you cooperate with POKeMON,\n"
 	.string "one can be comfortable in the wild.\p"
 	.string "Everyone should realize that and\n"
-	.string "cooperate with POKéMON more.\p"
+	.string "cooperate with POKeMON more.\p"
 	.string "That would be ideal.\n"
 	.string "I really think so.\p"
 	.string "I think you're on the right track!\n"
@@ -1241,8 +1241,8 @@ MatchCall_PersonalizedText53::
 MatchCall_PersonalizedText54::
 	.string "Hi, it's {STR_VAR_1}. You know,\n"
 	.string "the TRAINER who's always prepared!\p"
-	.string "{PLAYER}{KUN}, do you have enough items?\n"
-	.string "Are your POKéMON fit for action?\p"
+	.string "{PLAYER}, do you have enough items?\n"
+	.string "Are your POKeMON fit for action?\p"
 	.string "Keeping everything perfect around\n"
 	.string "you all the time is the secret to\l"
 	.string "keeping your journey going.\p"
@@ -1263,15 +1263,15 @@ MatchCall_PersonalizedText55::
 MatchCall_PersonalizedText56::
 	.string "It's me, {STR_VAR_1}.\p"
 	.string "I'm popular because I have lots\n"
-	.string "of BUG POKéMON, right?\p"
+	.string "of BUG POKeMON, right?\p"
 	.string "Well, I took a bunch of my fave\n"
 	.string "bugs to school today.\p"
 	.string "This girl I like started crying!\n"
 	.string "Go ahead and laugh if you want.\p"
 	.string "I have to try teaching her what\n"
-	.string "makes BUG POKéMON so appealing.\p"
+	.string "makes BUG POKeMON so appealing.\p"
 	.string "Snivel…\n"
-	.string "See you!$"
+	.string "Ate!$"
 
 MatchCall_PersonalizedText57::
 	.string "Hah! Hah! Hah! Hah!\p"
@@ -1323,12 +1323,12 @@ MatchCall_PersonalizedText60::
 	.string "It's a pleasure to chat with\n"
 	.string "a young TRAINER like you.\p"
 	.string "I imagine that you will continue to\n"
-	.string "enjoy POKéMON whatever your age.\p"
+	.string "enjoy POKeMON whatever your age.\p"
 	.string "Wouldn't it be good if you had\n"
 	.string "a partnership like ours?\p"
-	.string "Of course, {PLAYER}{KUN}, you already\n"
+	.string "Of course, {PLAYER}, you already\n"
 	.string "enjoy the trust and companionship\l"
-	.string "of your POKéMON now.\p"
+	.string "of your POKeMON now.\p"
 	.string "You have the makings of long and\n"
 	.string "enduring relationships already!\p"
 	.string "Hahaha!\n"
@@ -1344,7 +1344,7 @@ MatchCall_PersonalizedText61::
 	.string "was weak to make an impression!\p"
 	.string "She always chews me out whether\n"
 	.string "we win or lose!\p"
-	.string "{PLAYER}{KUN}, can you say something\n"
+	.string "{PLAYER}, can you say something\n"
 	.string "to her next time?\p"
 	.string "Okay, see you!$"
 
@@ -1391,7 +1391,7 @@ MatchCall_BattleFrontierStreakText1::
 	.string "They say you did excellent at\n"
 	.string "the {STR_VAR_2}.\p"
 	.string "It's awesome, {STR_VAR_3} straight wins?\n"
-	.string "See you!$"
+	.string "Ate!$"
 
 MatchCall_BattleFrontierStreakText2::
 	.string "Hello, it's {STR_VAR_1}!\n"
@@ -1399,10 +1399,10 @@ MatchCall_BattleFrontierStreakText2::
 	.string "They said you won {STR_VAR_3} straight\n"
 	.string "battles at the {STR_VAR_2}.\p"
 	.string "That's special! I should try\n"
-	.string "harder, too! See you!$"
+	.string "harder, too! Ate!$"
 
 MatchCall_BattleFrontierStreakText3::
-	.string "Hey there, {PLAYER}!\n"
+	.string "Ei, {PLAYER}!\n"
 	.string "It's me, {STR_VAR_1}.\p"
 	.string "I heard you went on a tear at\n"
 	.string "the {STR_VAR_2}!\p"
@@ -1412,26 +1412,26 @@ MatchCall_BattleFrontierStreakText3::
 	.string "Catch you soon!$"
 
 MatchCall_BattleFrontierStreakText4::
-	.string "Hey, {PLAYER}{KUN}.\n"
-	.string "{STR_VAR_1} here. What's up?\p"
+	.string "Hey, {PLAYER}.\n"
+	.string "Aqui e o {STR_VAR_1}. What's up?\p"
 	.string "There's a rumor going around that\n"
 	.string "you strung together {STR_VAR_3} straight\l"
 	.string "wins at the {STR_VAR_2}.\p"
 	.string "I'd better step it up, too.\n"
-	.string "See you!$"
+	.string "Ate!$"
 
 MatchCall_BattleFrontierStreakText5::
-	.string "Hiya, {PLAYER}{KUN}!\n"
+	.string "Hiya, {PLAYER}!\n"
 	.string "It's {STR_VAR_1}.\p"
 	.string "You were at the {STR_VAR_2}\n"
 	.string "and won {STR_VAR_3} battles in a row?\l"
 	.string "Isn't that something!\p"
-	.string "I'd better work on my POKéMON more.\n"
+	.string "I'd better work on my POKeMON more.\n"
 	.string "See you soon!$"
 
 MatchCall_BattleFrontierStreakText6::
-	.string "Hey, {PLAYER}{KUN}.\n"
-	.string "{STR_VAR_1} here. How are you?\p"
+	.string "Hey, {PLAYER}.\n"
+	.string "Aqui e o {STR_VAR_1}. How are you?\p"
 	.string "By the way, I heard you pulled off\n"
 	.string "the feat of {STR_VAR_3} straight wins at\l"
 	.string "the {STR_VAR_2}.\p"
@@ -1439,16 +1439,16 @@ MatchCall_BattleFrontierStreakText6::
 	.string "raising my team.$"
 
 MatchCall_BattleFrontierStreakText7::
-	.string "…Er, {PLAYER}{KUN}?\n"
+	.string "…Er, {PLAYER}?\n"
 	.string "{STR_VAR_1} here…\p"
 	.string "Oh, yeah, you were over at\n"
 	.string "the {STR_VAR_2}, right?\p"
 	.string "And you won {STR_VAR_3} battles in a row.\p"
-	.string "Oh, there goes a rare POKéMON!\n"
+	.string "Oh, there goes a rare POKeMON!\n"
 	.string "I have to go!$"
 
 MatchCall_BattleFrontierStreakText8::
-	.string "Oh, {PLAYER}{KUN}, how do you do?\n"
+	.string "Oh, {PLAYER}, how do you do?\n"
 	.string "This is {STR_VAR_1} speaking.\l"
 	.string "I hope you're doing well.\p"
 	.string "Oh, but, you are. I've heard that\n"
@@ -1458,7 +1458,7 @@ MatchCall_BattleFrontierStreakText8::
 	.string "I hope you stay successful.$"
 
 MatchCall_BattleFrontierStreakText9::
-	.string "Oh, {PLAYER}{KUN}, hi there!\n"
+	.string "Oh, {PLAYER}, hi there!\n"
 	.string "This is {STR_VAR_1}!\p"
 	.string "I heard! Your {STR_VAR_3}-win streak at\n"
 	.string "the {STR_VAR_2}!\p"
@@ -1466,7 +1466,7 @@ MatchCall_BattleFrontierStreakText9::
 	.string "I'd better try harder, too!$"
 
 MatchCall_BattleFrontierStreakText10::
-	.string "Oh, {PLAYER}{KUN}, hello…\n"
+	.string "Oh, {PLAYER}, hello…\n"
 	.string "This is {STR_VAR_1}.\p"
 	.string "You won {STR_VAR_3} straight battles at\n"
 	.string "the {STR_VAR_2}?\p"
@@ -1474,7 +1474,7 @@ MatchCall_BattleFrontierStreakText10::
 	.string "I need to work harder.$"
 
 MatchCall_BattleFrontierStreakText11::
-	.string "Ah, {PLAYER}{KUN}.\n"
+	.string "Ah, {PLAYER}.\n"
 	.string "This is {STR_VAR_1}.\p"
 	.string "I hear you're the terror of\n"
 	.string "the {STR_VAR_2}?\p"
@@ -1484,17 +1484,17 @@ MatchCall_BattleFrontierStreakText11::
 	.string "I wonder how many I can win?$"
 
 MatchCall_BattleFrontierStreakText12::
-	.string "Hello, {PLAYER}{KUN}.\n"
+	.string "Ola, {PLAYER}.\n"
 	.string "It's me, {STR_VAR_1}.\l"
 	.string "Are you keeping well?\p"
 	.string "Someone passed on word about you.\n"
 	.string "How you won {STR_VAR_3} straight battles\l"
 	.string "at a place named {STR_VAR_2}?\p"
 	.string "That's quite the tale.\n"
-	.string "See you!$"
+	.string "Ate!$"
 
 MatchCall_BattleFrontierStreakText13::
-	.string "Ah, hello, {PLAYER}{KUN}!\n"
+	.string "Ah, hello, {PLAYER}!\n"
 	.string "This is {STR_VAR_1}!\l"
 	.string "I hope you've been keeping well.\p"
 	.string "They say you won {STR_VAR_3} straight\n"
@@ -1503,13 +1503,13 @@ MatchCall_BattleFrontierStreakText13::
 	.string "Bye now.$"
 
 MatchCall_BattleFrontierStreakText14::
-	.string "Oh, hi, {PLAYER}{KUN}.\n"
+	.string "Oh, hi, {PLAYER}.\n"
 	.string "This is {STR_VAR_1}.\p"
 	.string "I heard about you!\n"
 	.string "Didn't you just win {STR_VAR_3} battles in\l"
 	.string "a row at the {STR_VAR_2}?\p"
 	.string "You're an inspiration!\n"
-	.string "Bye-bye!$"
+	.string "Tchau tchau!$"
 
 MatchCall_BattleFrontierRecordStreakText1::
 	.string "Hi! This is {STR_VAR_1}.\n"
@@ -1517,7 +1517,7 @@ MatchCall_BattleFrontierRecordStreakText1::
 	.string "They say you did excellent at\n"
 	.string "the {STR_VAR_2}.\p"
 	.string "It's awesome--{STR_VAR_3} straight wins?\n"
-	.string "See you!$"
+	.string "Ate!$"
 
 MatchCall_BattleFrontierRecordStreakText2::
 	.string "Hello, it's {STR_VAR_1}!\n"
@@ -1525,10 +1525,10 @@ MatchCall_BattleFrontierRecordStreakText2::
 	.string "They said you won {STR_VAR_3} straight\n"
 	.string "battles at the {STR_VAR_2}.\p"
 	.string "That's special! I should try\n"
-	.string "harder, too! See you!$"
+	.string "harder, too! Ate!$"
 
 MatchCall_BattleFrontierRecordStreakText3::
-	.string "Hey there, {PLAYER}!\n"
+	.string "Ei, {PLAYER}!\n"
 	.string "It's me, {STR_VAR_1}.\p"
 	.string "I heard you went on a tear at\n"
 	.string "the {STR_VAR_2}!\p"
@@ -1538,16 +1538,16 @@ MatchCall_BattleFrontierRecordStreakText3::
 	.string "Catch you soon!$"
 
 MatchCall_BattleFrontierRecordStreakText4::
-	.string "Hey, {PLAYER}{KUN}.\n"
-	.string "{STR_VAR_1} here. What's up?\p"
+	.string "Hey, {PLAYER}.\n"
+	.string "Aqui e o {STR_VAR_1}. What's up?\p"
 	.string "There's a rumor going around that\n"
 	.string "you strung together {STR_VAR_3} straight\l"
 	.string "wins at the {STR_VAR_2}.\p"
 	.string "I'd better step it up, too.\n"
-	.string "See you!$"
+	.string "Ate!$"
 
 MatchCall_BattleFrontierRecordStreakText5::
-	.string "Hiya, {PLAYER}{KUN}!\n"
+	.string "Hiya, {PLAYER}!\n"
 	.string "It's {STR_VAR_1}.\p"
 	.string "You were at the {STR_VAR_2}\n"
 	.string "and won {STR_VAR_3} battles in a row?\l"
@@ -1556,8 +1556,8 @@ MatchCall_BattleFrontierRecordStreakText5::
 	.string "See you soon!$"
 
 MatchCall_BattleFrontierRecordStreakText6::
-	.string "Hey, {PLAYER}{KUN}.\n"
-	.string "{STR_VAR_1} here. How are you?\p"
+	.string "Hey, {PLAYER}.\n"
+	.string "Aqui e o {STR_VAR_1}. How are you?\p"
 	.string "By the way, I heard you pulled off\n"
 	.string "the feat of {STR_VAR_3} straight wins at\l"
 	.string "the {STR_VAR_2}.\p"
@@ -1565,26 +1565,26 @@ MatchCall_BattleFrontierRecordStreakText6::
 	.string "See you soon!$"
 
 MatchCall_BattleFrontierRecordStreakText7::
-	.string "…Er, {PLAYER}{KUN}?\n"
+	.string "…Er, {PLAYER}?\n"
 	.string "{STR_VAR_1} here…\p"
 	.string "Oh, yeah, you were over at\n"
 	.string "the {STR_VAR_2}, right?\p"
 	.string "And you won {STR_VAR_3} battles in a row.\p"
-	.string "Oh, there goes a rare POKéMON!\n"
+	.string "Oh, there goes a rare POKeMON!\n"
 	.string "I have to go!$"
 
 MatchCall_BattleFrontierRecordStreakText8::
-	.string "Oh, {PLAYER}{KUN}, how do you do?\n"
+	.string "Oh, {PLAYER}, how do you do?\n"
 	.string "This is {STR_VAR_1} speaking.\l"
 	.string "I hope you're doing well.\p"
 	.string "Oh, but, you are. I've heard that\n"
 	.string "you won {STR_VAR_3} matches in a row at\l"
 	.string "the {STR_VAR_2}.\p"
 	.string "That's very impressive!\n"
-	.string "I'd better work on my POKéMON, too!$"
+	.string "I'd better work on my POKeMON, too!$"
 
 MatchCall_BattleFrontierRecordStreakText9::
-	.string "Oh, {PLAYER}{KUN}, hi there!\n"
+	.string "Oh, {PLAYER}, hi there!\n"
 	.string "This is {STR_VAR_1}!\p"
 	.string "I heard! Your {STR_VAR_3}-win streak at\n"
 	.string "the {STR_VAR_2}!\p"
@@ -1592,7 +1592,7 @@ MatchCall_BattleFrontierRecordStreakText9::
 	.string "I'd better try harder, too!$"
 
 MatchCall_BattleFrontierRecordStreakText10::
-	.string "Oh, {PLAYER}{KUN}, hello…\n"
+	.string "Oh, {PLAYER}, hello…\n"
 	.string "This is {STR_VAR_1}.\p"
 	.string "You won {STR_VAR_3} straight battles at\n"
 	.string "the {STR_VAR_2}?\p"
@@ -1600,7 +1600,7 @@ MatchCall_BattleFrontierRecordStreakText10::
 	.string "I need to work harder.$"
 
 MatchCall_BattleFrontierRecordStreakText11::
-	.string "Ah, {PLAYER}{KUN}.\n"
+	.string "Ah, {PLAYER}.\n"
 	.string "This is {STR_VAR_1}.\p"
 	.string "I hear you're the terror of\n"
 	.string "the {STR_VAR_2}?\p"
@@ -1610,17 +1610,17 @@ MatchCall_BattleFrontierRecordStreakText11::
 	.string "I wonder how many I can win?$"
 
 MatchCall_BattleFrontierRecordStreakText12::
-	.string "Hello, {PLAYER}{KUN}.\n"
+	.string "Ola, {PLAYER}.\n"
 	.string "It's me, {STR_VAR_1}.\l"
 	.string "Are you keeping well?\p"
 	.string "Someone passed on word about you.\n"
 	.string "How you won {STR_VAR_3} straight battles\l"
 	.string "at a place named {STR_VAR_2}?\p"
 	.string "That's quite the tale.\n"
-	.string "See you!$"
+	.string "Ate!$"
 
 MatchCall_BattleFrontierRecordStreakText13::
-	.string "Ah, hello, {PLAYER}{KUN}!\n"
+	.string "Ah, hello, {PLAYER}!\n"
 	.string "This is {STR_VAR_1}!\l"
 	.string "I hope you've been keeping well.\p"
 	.string "They say you won {STR_VAR_3} straight\n"
@@ -1629,13 +1629,13 @@ MatchCall_BattleFrontierRecordStreakText13::
 	.string "Bye now.$"
 
 MatchCall_BattleFrontierRecordStreakText14::
-	.string "Oh, hi, {PLAYER}{KUN}.\n"
+	.string "Oh, hi, {PLAYER}.\n"
 	.string "This is {STR_VAR_1}.\l"
 	.string "I heard about you!\p"
 	.string "Didn't you just win {STR_VAR_3} battles in\n"
 	.string "a row at the {STR_VAR_2}?\p"
 	.string "You're an inspiration!\n"
-	.string "Bye-bye!$"
+	.string "Tchau tchau!$"
 
 MatchCall_BattleDomeText1::
 	.string "Hi! {PLAYER}?\n"
@@ -1644,7 +1644,7 @@ MatchCall_BattleDomeText1::
 	.string "You became the champion at\n"
 	.string "the {STR_VAR_2} {STR_VAR_3} times?\p"
 	.string "It's awesome! I have to do better!\n"
-	.string "See you!$"
+	.string "Ate!$"
 
 MatchCall_BattleDomeText2::
 	.string "Hello, it's {STR_VAR_1}!\n"
@@ -1655,7 +1655,7 @@ MatchCall_BattleDomeText2::
 	.string "become a champion?$"
 
 MatchCall_BattleDomeText3::
-	.string "Hey there, {PLAYER}!\n"
+	.string "Ei, {PLAYER}!\n"
 	.string "It's me, {STR_VAR_1}.\l"
 	.string "How's it going?\p"
 	.string "I heard you won events {STR_VAR_3} times\n"
@@ -1664,15 +1664,15 @@ MatchCall_BattleDomeText3::
 	.string "Catch you soon!$"
 
 MatchCall_BattleDomeText4::
-	.string "Hey, {PLAYER}{KUN}.\n"
-	.string "{STR_VAR_1} here.\p"
+	.string "Hey, {PLAYER}.\n"
+	.string "Aqui e o {STR_VAR_1}.\p"
 	.string "I heard you became the champion\n"
 	.string "at the {STR_VAR_2} {STR_VAR_3} times.\p"
 	.string "Sounds like you're working hard.\n"
 	.string "I'll try to keep up!$"
 
 MatchCall_BattleDomeText5::
-	.string "Hiya, {PLAYER}{KUN}!\n"
+	.string "Hiya, {PLAYER}!\n"
 	.string "It's {STR_VAR_1}.\p"
 	.string "I heard you won {STR_VAR_3} times\n"
 	.string "outright at the {STR_VAR_2}.\p"
@@ -1680,36 +1680,36 @@ MatchCall_BattleDomeText5::
 	.string "See you soon!$"
 
 MatchCall_BattleDomeText6::
-	.string "Hey, {PLAYER}{KUN}?\n"
-	.string "{STR_VAR_1} here. How are you?\p"
+	.string "Hey, {PLAYER}?\n"
+	.string "Aqui e o {STR_VAR_1}. How are you?\p"
 	.string "By the way, I heard you became\n"
 	.string "the champion {STR_VAR_3} times at\l"
 	.string "the {STR_VAR_2}.\p"
-	.string "I'd better raise my POKéMON before\n"
+	.string "I'd better raise my POKeMON before\n"
 	.string "you pull farther ahead.$"
 
 MatchCall_BattleDomeText7::
-	.string "{PLAYER}{KUN}?\n"
-	.string "{STR_VAR_1} here.\p"
+	.string "{PLAYER}?\n"
+	.string "Aqui e o {STR_VAR_1}.\p"
 	.string "You were at the {STR_VAR_2}\n"
 	.string "and became the champ {STR_VAR_3} times?\p"
 	.string "That's neat. By the way, have you\n"
-	.string "caught any rare POKéMON lately?\p"
+	.string "caught any rare POKeMON lately?\p"
 	.string "Oh, is that right.\n"
 	.string "Okay, bye.$"
 
 MatchCall_BattleDomeText8::
-	.string "Oh, {PLAYER}{KUN}, how do you do?\n"
+	.string "Oh, {PLAYER}, how do you do?\n"
 	.string "This is {STR_VAR_1} speaking.\l"
 	.string "I hope you're doing well.\l"
 	.string "Oh, but, you are.\p"
 	.string "I've heard that you won {STR_VAR_3} titles\n"
 	.string "at the {STR_VAR_2}.\p"
-	.string "I must raise my POKéMON like you.\n"
+	.string "I must raise my POKeMON like you.\n"
 	.string "See you again.$"
 
 MatchCall_BattleDomeText9::
-	.string "Oh, {PLAYER}{KUN}, hi there!\n"
+	.string "Oh, {PLAYER}, hi there!\n"
 	.string "This is {STR_VAR_1}!\p"
 	.string "I heard! You took the title\n"
 	.string "{STR_VAR_3} times at the {STR_VAR_2}!\p"
@@ -1717,7 +1717,7 @@ MatchCall_BattleDomeText9::
 	.string "I'd better try harder, too!$"
 
 MatchCall_BattleDomeText10::
-	.string "Oh, {PLAYER}{KUN}, hello.\n"
+	.string "Oh, {PLAYER}, hello.\n"
 	.string "This is {STR_VAR_1}.\p"
 	.string "You won {STR_VAR_3} straight times at\n"
 	.string "the {STR_VAR_2}?\p"
@@ -1725,7 +1725,7 @@ MatchCall_BattleDomeText10::
 	.string "I need to work harder.$"
 
 MatchCall_BattleDomeText11::
-	.string "Ah, {PLAYER}{KUN}.\n"
+	.string "Ah, {PLAYER}.\n"
 	.string "This is {STR_VAR_1}.\p"
 	.string "I hear you're the terror of\n"
 	.string "the {STR_VAR_2}?\p"
@@ -1737,16 +1737,16 @@ MatchCall_BattleDomeText11::
 	.string "Well, see you!$"
 
 MatchCall_BattleDomeText12::
-	.string "Hello, {PLAYER}{KUN}.\n"
+	.string "Ola, {PLAYER}.\n"
 	.string "It's me, {STR_VAR_1}.\l"
 	.string "Are you keeping well?\p"
 	.string "You've won {STR_VAR_3} events at a place\n"
 	.string "named {STR_VAR_2}?\p"
 	.string "That's quite the tale.\n"
-	.string "See you!$"
+	.string "Ate!$"
 
 MatchCall_BattleDomeText13::
-	.string "Ah, hello, {PLAYER}{KUN}!\n"
+	.string "Ah, hello, {PLAYER}!\n"
 	.string "This is {STR_VAR_1}!\l"
 	.string "I hope you've been keeping well.\p"
 	.string "They say you won {STR_VAR_3} events\n"
@@ -1755,7 +1755,7 @@ MatchCall_BattleDomeText13::
 	.string "Bye now.$"
 
 MatchCall_BattleDomeText14::
-	.string "Oh, hi, {PLAYER}{KUN}.\n"
+	.string "Oh, hi, {PLAYER}.\n"
 	.string "This is {STR_VAR_1}.\l"
 	.string "I heard about you!\p"
 	.string "Didn't you win {STR_VAR_3} titles\n"
@@ -1770,7 +1770,7 @@ MatchCall_BattlePikeText1::
 	.string "You got through {STR_VAR_3} rooms\n"
 	.string "at the {STR_VAR_2}!\p"
 	.string "That's awesome!\n"
-	.string "See you!$"
+	.string "Ate!$"
 
 MatchCall_BattlePikeText2::
 	.string "Hello, it's {STR_VAR_1}!\n"
@@ -1781,7 +1781,7 @@ MatchCall_BattlePikeText2::
 	.string "Bye!$"
 
 MatchCall_BattlePikeText3::
-	.string "Hey there, {PLAYER}!\n"
+	.string "Ei, {PLAYER}!\n"
 	.string "It's me, {STR_VAR_1}.\l"
 	.string "How's it going?\p"
 	.string "I heard you won through {STR_VAR_3} rooms\n"
@@ -1790,15 +1790,15 @@ MatchCall_BattlePikeText3::
 	.string "Catch you soon!$"
 
 MatchCall_BattlePikeText4::
-	.string "Hey, {PLAYER}{KUN}.\n"
-	.string "{STR_VAR_1} here.\p"
+	.string "Hey, {PLAYER}.\n"
+	.string "Aqui e o {STR_VAR_1}.\p"
 	.string "I heard you blew through {STR_VAR_3} rooms\n"
 	.string "at the {STR_VAR_2}.\p"
-	.string "I'd better train my POKéMON and\n"
+	.string "I'd better train my POKeMON and\n"
 	.string "try to keep up!$"
 
 MatchCall_BattlePikeText5::
-	.string "Hiya, {PLAYER}{KUN}!\n"
+	.string "Hiya, {PLAYER}!\n"
 	.string "It's {STR_VAR_1}.\p"
 	.string "I heard you got past {STR_VAR_3} rooms\n"
 	.string "at the {STR_VAR_2}.\p"
@@ -1806,35 +1806,35 @@ MatchCall_BattlePikeText5::
 	.string "See you soon!$"
 
 MatchCall_BattlePikeText6::
-	.string "Hey, {PLAYER}{KUN}?\n"
-	.string "{STR_VAR_1} here. How are you?\p"
+	.string "Hey, {PLAYER}?\n"
+	.string "Aqui e o {STR_VAR_1}. How are you?\p"
 	.string "By the way, I heard you got through\n"
 	.string "{STR_VAR_3} rooms at the {STR_VAR_2}.\p"
-	.string "I'd better raise my POKéMON before\n"
+	.string "I'd better raise my POKeMON before\n"
 	.string "you pull further ahead.$"
 
 MatchCall_BattlePikeText7::
-	.string "{PLAYER}{KUN}?\n"
-	.string "{STR_VAR_1} here.\p"
+	.string "{PLAYER}?\n"
+	.string "Aqui e o {STR_VAR_1}.\p"
 	.string "You were at the {STR_VAR_2}\n"
 	.string "and won your way past {STR_VAR_3} rooms?\p"
 	.string "That's wicked.\p"
-	.string "Oh, there goes a rare POKéMON!\n"
+	.string "Oh, there goes a rare POKeMON!\n"
 	.string "Okay, bye.$"
 
 MatchCall_BattlePikeText8::
-	.string "Oh, {PLAYER}{KUN}, how do you do?\n"
+	.string "Oh, {PLAYER}, how do you do?\n"
 	.string "This is {STR_VAR_1} speaking.\l"
 	.string "I hope you're doing well.\l"
 	.string "Oh, but, you are.\p"
 	.string "I've heard that you got through\n"
 	.string "{STR_VAR_3} rooms at the {STR_VAR_2}.\p"
 	.string "That's quite impressive!\n"
-	.string "I must raise my POKéMON like you.\l"
+	.string "I must raise my POKeMON like you.\l"
 	.string "See you again.$"
 
 MatchCall_BattlePikeText9::
-	.string "Oh, {PLAYER}{KUN}, hi there!\n"
+	.string "Oh, {PLAYER}, hi there!\n"
 	.string "This is {STR_VAR_1}!\p"
 	.string "I heard! You won your way through\n"
 	.string "{STR_VAR_3} rooms at the {STR_VAR_2}!\p"
@@ -1842,7 +1842,7 @@ MatchCall_BattlePikeText9::
 	.string "I'd better try harder, too!$"
 
 MatchCall_BattlePikeText10::
-	.string "Oh, {PLAYER}{KUN}, hello.\n"
+	.string "Oh, {PLAYER}, hello.\n"
 	.string "This is {STR_VAR_1}.\p"
 	.string "You won your way past {STR_VAR_3} rooms\n"
 	.string "at the {STR_VAR_2}?\p"
@@ -1850,7 +1850,7 @@ MatchCall_BattlePikeText10::
 	.string "I need to work harder.$"
 
 MatchCall_BattlePikeText11::
-	.string "Ah, {PLAYER}{KUN}.\n"
+	.string "Ah, {PLAYER}.\n"
 	.string "This is {STR_VAR_1}.\p"
 	.string "I hear you're the terror of\n"
 	.string "the {STR_VAR_2}?\p"
@@ -1862,16 +1862,16 @@ MatchCall_BattlePikeText11::
 	.string "Well, see you!$"
 
 MatchCall_BattlePikeText12::
-	.string "Hello, {PLAYER}{KUN}.\n"
+	.string "Ola, {PLAYER}.\n"
 	.string "It's me, {STR_VAR_1}.\l"
 	.string "Are you keeping well?\p"
 	.string "You've won through {STR_VAR_3} rooms at\n"
 	.string "a place named {STR_VAR_2}?\p"
 	.string "That's quite the tale.\n"
-	.string "See you!$"
+	.string "Ate!$"
 
 MatchCall_BattlePikeText13::
-	.string "Ah, hello, {PLAYER}{KUN}!\n"
+	.string "Ah, hello, {PLAYER}!\n"
 	.string "This is {STR_VAR_1}!\l"
 	.string "I hope you've been keeping well.\p"
 	.string "They say you won in {STR_VAR_3} rooms\n"
@@ -1880,7 +1880,7 @@ MatchCall_BattlePikeText13::
 	.string "Bye now.$"
 
 MatchCall_BattlePikeText14::
-	.string "Oh, hi, {PLAYER}{KUN}.\n"
+	.string "Oh, hi, {PLAYER}.\n"
 	.string "This is {STR_VAR_1}.\l"
 	.string "I heard about you!\p"
 	.string "Didn't you get through {STR_VAR_3} rooms\n"
@@ -1903,10 +1903,10 @@ MatchCall_BattlePyramidText2::
 	.string "They said you won your way through\n"
 	.string "{STR_VAR_3} floors in the {STR_VAR_2}.\p"
 	.string "Wow, that's fantastic!\n"
-	.string "I'd better raise my POKéMON, too!$"
+	.string "I'd better raise my POKeMON, too!$"
 
 MatchCall_BattlePyramidText3::
-	.string "Hey there, {PLAYER}!\n"
+	.string "Ei, {PLAYER}!\n"
 	.string "It's me, {STR_VAR_1}.\l"
 	.string "How's it going?\p"
 	.string "I heard you climbed {STR_VAR_3} floors\n"
@@ -1915,15 +1915,15 @@ MatchCall_BattlePyramidText3::
 	.string "Catch you soon!$"
 
 MatchCall_BattlePyramidText4::
-	.string "Hey, {PLAYER}{KUN}.\n"
-	.string "{STR_VAR_1} here.\p"
+	.string "Hey, {PLAYER}.\n"
+	.string "Aqui e o {STR_VAR_1}.\p"
 	.string "I heard you scaled {STR_VAR_3} floors\n"
 	.string "in the {STR_VAR_2}.\p"
 	.string "I'd better work hard and try\n"
 	.string "to keep up!$"
 
 MatchCall_BattlePyramidText5::
-	.string "Hiya, {PLAYER}{KUN}!\n"
+	.string "Hiya, {PLAYER}!\n"
 	.string "It's {STR_VAR_1}.\p"
 	.string "I heard you climbed {STR_VAR_3} floors\n"
 	.string "in the {STR_VAR_2}.\p"
@@ -1931,36 +1931,36 @@ MatchCall_BattlePyramidText5::
 	.string "See you soon!$"
 
 MatchCall_BattlePyramidText6::
-	.string "Hey, {PLAYER}{KUN}?\n"
-	.string "{STR_VAR_1} here. How are you?\p"
+	.string "Hey, {PLAYER}?\n"
+	.string "Aqui e o {STR_VAR_1}. How are you?\p"
 	.string "By the way, I heard you got through\n"
 	.string "{STR_VAR_3} floors in the {STR_VAR_2}.\p"
-	.string "I'd better raise my POKéMON before\n"
+	.string "I'd better raise my POKeMON before\n"
 	.string "you pull further ahead.$"
 
 MatchCall_BattlePyramidText7::
-	.string "{PLAYER}{KUN}?\n"
-	.string "{STR_VAR_1} here.\p"
+	.string "{PLAYER}?\n"
+	.string "Aqui e o {STR_VAR_1}.\p"
 	.string "You were at the {STR_VAR_2}\n"
 	.string "and won your way up {STR_VAR_3} floors?\p"
-	.string "Neat. Were there any rare POKéMON\n"
+	.string "Neat. Were there any rare POKeMON\n"
 	.string "there?\p"
 	.string "No, huh?\n"
 	.string "Okay, bye.$"
 
 MatchCall_BattlePyramidText8::
-	.string "Oh, {PLAYER}{KUN}, how do you do?\n"
+	.string "Oh, {PLAYER}, how do you do?\n"
 	.string "This is {STR_VAR_1} speaking.\l"
 	.string "I hope you're doing well.\l"
 	.string "Oh, but, you are.\p"
 	.string "I've heard that you got through\n"
 	.string "{STR_VAR_3} floors in the {STR_VAR_2}.\p"
 	.string "That's quite impressive!\n"
-	.string "I must raise my POKéMON like you.\l"
+	.string "I must raise my POKeMON like you.\l"
 	.string "See you again.$"
 
 MatchCall_BattlePyramidText9::
-	.string "Oh, {PLAYER}{KUN}, hi there!\n"
+	.string "Oh, {PLAYER}, hi there!\n"
 	.string "This is {STR_VAR_1}!\p"
 	.string "I heard! You won your way through\n"
 	.string "{STR_VAR_3} floors in the {STR_VAR_2}!\p"
@@ -1968,7 +1968,7 @@ MatchCall_BattlePyramidText9::
 	.string "I'd better try harder, too!$"
 
 MatchCall_BattlePyramidText10::
-	.string "Oh, {PLAYER}{KUN}, hello.\n"
+	.string "Oh, {PLAYER}, hello.\n"
 	.string "This is {STR_VAR_1}.\p"
 	.string "You climbed {STR_VAR_3} floors inside\n"
 	.string "the {STR_VAR_2}?\p"
@@ -1976,7 +1976,7 @@ MatchCall_BattlePyramidText10::
 	.string "I need to work harder.$"
 
 MatchCall_BattlePyramidText11::
-	.string "Ah, {PLAYER}{KUN}.\n"
+	.string "Ah, {PLAYER}.\n"
 	.string "This is {STR_VAR_1}.\p"
 	.string "I hear you're the terror of\n"
 	.string "the {STR_VAR_2}?\p"
@@ -1988,16 +1988,16 @@ MatchCall_BattlePyramidText11::
 	.string "Well, see you!$"
 
 MatchCall_BattlePyramidText12::
-	.string "Hello, {PLAYER}{KUN}.\n"
+	.string "Ola, {PLAYER}.\n"
 	.string "It's me, {STR_VAR_1}.\l"
 	.string "Are you keeping well?\p"
 	.string "You've won through {STR_VAR_3} floors in\n"
 	.string "a place named {STR_VAR_2}?\p"
 	.string "That's quite the tale.\n"
-	.string "See you!$"
+	.string "Ate!$"
 
 MatchCall_BattlePyramidText13::
-	.string "Ah, hello, {PLAYER}{KUN}!\n"
+	.string "Ah, hello, {PLAYER}!\n"
 	.string "This is {STR_VAR_1}!\l"
 	.string "I hope you've been keeping well.\p"
 	.string "They say you climbed {STR_VAR_3} floors\n"
@@ -2006,7 +2006,7 @@ MatchCall_BattlePyramidText13::
 	.string "Bye now.$"
 
 MatchCall_BattlePyramidText14::
-	.string "Oh, hi, {PLAYER}{KUN}.\n"
+	.string "Oh, hi, {PLAYER}.\n"
 	.string "This is {STR_VAR_1}.\l"
 	.string "I heard about you!\p"
 	.string "Didn't you get through {STR_VAR_3} floors\n"
@@ -2016,10 +2016,10 @@ MatchCall_BattlePyramidText14::
 
 MatchCall_Text_Mom1::
 	.string "MOM: Your father and you…\n"
-	.string "Everyone is captivated by POKéMON.\p"
-	.string "What is the charm of POKéMON?\p"
+	.string "Everyone is captivated by POKeMON.\p"
+	.string "What is the charm of POKeMON?\p"
 	.string "Me?\n"
-	.string "I adore POKéMON that help me with\l"
+	.string "I adore POKeMON that help me with\l"
 	.string "my everyday chores.$"
 
 MatchCall_Text_Mom2::
@@ -2049,7 +2049,7 @@ MatchCall_Text_Roxanne_Preparing::
 
 MatchCall_Text_Roxanne_PreparingPostGame::
 	.string "ROXANNE: Is this {PLAYER}?\n"
-	.string "Congratulations!\l"
+	.string "Parabens!\l"
 	.string "I've been hearing about you!\p"
 	.string "As for me, I need some more time\n"
 	.string "before I can reopen the GYM.\p"
@@ -2068,7 +2068,7 @@ MatchCall_Text_Roxanne_PostRematch::
 	.string "is a matter of pride.$"
 
 MatchCall_Text_Brawly_Preparing::
-	.string "BRAWLY: Hey, there, {PLAYER}{KUN}!\p"
+	.string "BRAWLY: Hey, there, {PLAYER}!\p"
 	.string "I learned a lot from the battle we\n"
 	.string "had together.\p"
 	.string "I intend to do my training over,\n"
@@ -2079,8 +2079,8 @@ MatchCall_Text_Brawly_Preparing::
 	.string "I want you to challenge us again.$"
 
 MatchCall_Text_Brawly_PreparingPostGame::
-	.string "BRAWLY: Hey, {PLAYER}{KUN}!\n"
-	.string "Congratulations!\p"
+	.string "BRAWLY: Hey, {PLAYER}!\n"
+	.string "Parabens!\p"
 	.string "Word about your exploits arrived\n"
 	.string "on tidal winds!\p"
 	.string "It appears as if I need to work on\n"
@@ -2091,13 +2091,13 @@ MatchCall_Text_Brawly_PreparingPostGame::
 	.string "I want you to challenge us again.$"
 
 MatchCall_Text_Brawly_RematchReady::
-	.string "BRAWLY: Hey, {PLAYER}{KUN}!\n"
+	.string "BRAWLY: Hey, {PLAYER}!\n"
 	.string "My GYM's ready for action!\p"
 	.string "Come back to DEWFORD anytime\n"
 	.string "for another challenge!$"
 
 MatchCall_Text_Brawly_PostRematch::
-	.string "BRAWLY: {PLAYER}{KUN}, I don't think\n"
+	.string "BRAWLY: {PLAYER}, I don't think\n"
 	.string "I'll ever get bored of battling you!$"
 
 MatchCall_Text_Wattson_Preparing::
@@ -2143,7 +2143,7 @@ MatchCall_Text_Flannery_Preparing::
 
 MatchCall_Text_Flannery_PreparingPostGame::
 	.string "FLANNERY: Hello, {PLAYER}?\n"
-	.string "Congratulations!\p"
+	.string "Parabens!\p"
 	.string "Word of your success has reached\n"
 	.string "us like the heat of a volcano!\p"
 	.string "Our training is coming along very\n"
@@ -2225,7 +2225,7 @@ MatchCall_Text_TateLiza_PostRematch::
 
 MatchCall_Text_Juan_Preparing::
 	.string "JUAN: Hmm…\n"
-	.string "{PLAYER}{KUN}… Was it?\p"
+	.string "{PLAYER}… Was it?\p"
 	.string "Our battle together--it brought\n"
 	.string "to me memories of when I first\l"
 	.string "encountered WALLACE.\p"
@@ -2233,7 +2233,7 @@ MatchCall_Text_Juan_Preparing::
 	.string "yet surpass WALLACE!$"
 
 MatchCall_Text_Juan_PreparingPostGame::
-	.string "JUAN: Fufu… {PLAYER}{KUN}…\n"
+	.string "JUAN: Fufu… {PLAYER}…\n"
 	.string "You've finally achieved your goal.\p"
 	.string "My eye for appraising talent wasn't\n"
 	.string "mistaken…\p"
@@ -2242,14 +2242,14 @@ MatchCall_Text_Juan_PreparingPostGame::
 	.string "of power and prestige.$"
 
 MatchCall_Text_Juan_RematchReady::
-	.string "JUAN: Hoho… {PLAYER}{KUN}…\p"
+	.string "JUAN: Hoho… {PLAYER}…\p"
 	.string "Our SOOTOPOLIS GYM has finally\n"
 	.string "reopened.\p"
 	.string "If you wish to see me, you are\n"
 	.string "welcome to visit anytime.$"
 
 MatchCall_Text_Juan_PostRematch::
-	.string "JUAN: {PLAYER}{KUN}…\p"
+	.string "JUAN: {PLAYER}…\p"
 	.string "Like the finest music, the battles\n"
 	.string "we wage together strike chords\l"
 	.string "of inspiration in my heart…\p"
@@ -2260,7 +2260,7 @@ MatchCall_Text_Sidney::
 	.string "SIDNEY: Yo, {PLAYER}!\p"
 	.string "If you want to battle with me\n"
 	.string "again, you come on back whenever\l"
-	.string "you like to the POKéMON LEAGUE.\p"
+	.string "you like to the POKeMON LEAGUE.\p"
 	.string "I'll always be here!\n"
 	.string "I'll be waiting!$"
 
@@ -2270,7 +2270,7 @@ MatchCall_Text_Phoebe::
 	.string "sometime?\p"
 	.string "I'd like to see how much tighter\n"
 	.string "your bond has grown with your\l"
-	.string "POKéMON.$"
+	.string "POKeMON.$"
 
 MatchCall_Text_Glacia::
 	.string "GLACIA: Hello, {PLAYER}.\p"
@@ -2278,7 +2278,7 @@ MatchCall_Text_Glacia::
 	.string "complacent with your power?\p"
 	.string "If you feel the need to cool your\n"
 	.string "hot emotions just a little, do come\l"
-	.string "to the POKéMON LEAGUE…$"
+	.string "to the POKeMON LEAGUE…$"
 
 MatchCall_Text_Drake::
 	.string "DRAKE: That voice… {PLAYER}, is it?\n"
@@ -2289,11 +2289,11 @@ MatchCall_Text_Drake::
 	.string "TRAINERS.\p"
 	.string "However, if you wish to have real\n"
 	.string "battles, there is no substitute for\l"
-	.string "the POKéMON LEAGUE!\p"
+	.string "the POKeMON LEAGUE!\p"
 	.string "Don't you agree, {PLAYER}?$"
 
 MatchCall_Text_Wallace::
-	.string "WALLACE: Hello, {PLAYER}{KUN}.\n"
+	.string "WALLACE: Ola, {PLAYER}.\n"
 	.string "Have you met STEVEN?\p"
 	.string "He is…\n"
 	.string "Actually incredibly skilled.\p"
@@ -2309,10 +2309,10 @@ MatchCall_Text_Wallace::
 MatchCall_Text_MayRayquazaCall:
 	.string "… … … … … …\n"
 	.string "… … … … … Beep!\p"
-	.string "MAY: Hi, {PLAYER}{KUN}!\p"
+	.string "MAY: Hi, {PLAYER}!\p"
 	.string "I was just in PACIFIDLOG a little\n"
 	.string "while ago.\p"
-	.string "I saw a giant green POKéMON\n"
+	.string "I saw a giant green POKeMON\n"
 	.string "flying high in the sky.\p"
 	.string "I…\n"
 	.string "I've never seen anything like it.\p"
@@ -2326,7 +2326,7 @@ MatchCall_Text_BrendanRayquazaCall:
 	.string "… … … … … Beep!\p"
 	.string "BRENDAN: Hey, {PLAYER}!\n"
 	.string "I was in PACIFIDLOG just now.\p"
-	.string "I saw this huge green POKéMON\n"
+	.string "I saw this huge green POKeMON\n"
 	.string "flying across the sky.\p"
 	.string "I've never seen anything that\n"
 	.string "amazing before.\p"
@@ -2336,14 +2336,14 @@ MatchCall_Text_BrendanRayquazaCall:
 	.string "… … … … … Click!$"
 
 MatchCall_Text_May1::
-	.string "MAY: Hi, {PLAYER}{KUN}!\p"
+	.string "MAY: Hi, {PLAYER}!\p"
 	.string "MR. BRINEY retired as a SAILOR,\n"
 	.string "but I still see him out on the sea\l"
 	.string "with his pet PEEKO sometimes.\p"
 	.string "He must love the sea still.$"
 
 MatchCall_Text_May2::
-	.string "MAY: Hi, {PLAYER}{KUN}!\p"
+	.string "MAY: Hi, {PLAYER}!\p"
 	.string "You know how little towns like\n"
 	.string "PETALBURG and DEWFORD have GYMS?\p"
 	.string "For some reason, the big port of\n"
@@ -2352,7 +2352,7 @@ MatchCall_Text_May2::
 	.string "I should apply to be the LEADER.$"
 
 MatchCall_Text_May3::
-	.string "MAY: Hi, {PLAYER}{KUN}!\p"
+	.string "MAY: Hi, {PLAYER}!\p"
 	.string "Do you remember a man named\n"
 	.string "the CUTTER in RUSTBORO?\l"
 	.string "He had a house there, remember?\p"
@@ -2364,13 +2364,13 @@ MatchCall_Text_May3::
 	.string "The ROCK SMASH GUY!$"
 
 MatchCall_Text_May4::
-	.string "MAY: {PLAYER}{KUN}?\p"
+	.string "MAY: {PLAYER}?\p"
 	.string "RUSTURF TUNNEL…\n"
 	.string "They named it that because it\l"
 	.string "joins RUSTBORO and VERDANTURF.$"
 
 MatchCall_Text_May5::
-	.string "MAY: {PLAYER}{KUN}, how are you?\p"
+	.string "MAY: {PLAYER}, how are you?\p"
 	.string "I'm out on ROUTE 111 now.\p"
 	.string "I'm going to get a rest at an old\n"
 	.string "lady's house.\p"
@@ -2378,7 +2378,7 @@ MatchCall_Text_May5::
 	.string "the desert.$"
 
 MatchCall_Text_May6::
-	.string "MAY: Hi, {PLAYER}{KUN}!\p"
+	.string "MAY: Hi, {PLAYER}!\p"
 	.string "Did you know about the MIRAGE\n"
 	.string "TOWER in the desert?\p"
 	.string "They say, like a mirage, it seems\n"
@@ -2386,21 +2386,21 @@ MatchCall_Text_May6::
 	.string "I wish I could see it.$"
 
 MatchCall_Text_May7::
-	.string "MAY: {PLAYER}{KUN}, yahoo!\n"
+	.string "MAY: {PLAYER}, yahoo!\n"
 	.string "I'm on ROUTE 119 now.\p"
 	.string "There's a big river here, and\n"
 	.string "it often rains.\p"
 	.string "I got soaked!$"
 
 MatchCall_Text_May8::
-	.string "MAY: {PLAYER}{KUN}, hi.\p"
-	.string "MT. PYRE is a memorial to POKéMON\n"
+	.string "MAY: {PLAYER}, hi.\p"
+	.string "MT. PYRE is a memorial to POKeMON\n"
 	.string "whose lives have ended.\p"
 	.string "Maybe as a result, it's infested\n"
-	.string "with many GHOST-type POKéMON!$"
+	.string "with many GHOST-type POKeMON!$"
 
 MatchCall_Text_May9::
-	.string "MAY: Hi, {PLAYER}{KUN}!\p"
+	.string "MAY: Hi, {PLAYER}!\p"
 	.string "I was thinking of going to the hot\n"
 	.string "spring in LAVARIDGE.\p"
 	.string "But on the way, around JAGGED\n"
@@ -2408,24 +2408,24 @@ MatchCall_Text_May9::
 	.string "characters. The mood was ugly!$"
 
 MatchCall_Text_May10::
-	.string "MAY: Hi, {PLAYER}{KUN}!\n"
+	.string "MAY: Hi, {PLAYER}!\n"
 	.string "Did you see the news?\p"
 	.string "They say CAPT. STERN discovered\n"
 	.string "the SEAFLOOR CAVERN while on his\l"
 	.string "submarine expedition.$"
 
 MatchCall_Text_May11::
-	.string "MAY: Hi, {PLAYER}{KUN}!\n"
+	.string "MAY: Hi, {PLAYER}!\n"
 	.string "Don't you think it's neat?\p"
 	.string "Even if you don't have a boat,\n"
 	.string "you can cross the sea using\l"
-	.string "a POKéMON's move.\p"
+	.string "a POKeMON's move.\p"
 	.string "Did you know there's more?\p"
-	.string "There's a POKéMON move that lets\n"
+	.string "There's a POKeMON move that lets\n"
 	.string "you go to the bottom of the sea.$"
 
 MatchCall_Text_May12::
-	.string "MAY: Hi, {PLAYER}{KUN}!\n"
+	.string "MAY: Hi, {PLAYER}!\n"
 	.string "Hope things are okay!\p"
 	.string "Have you been on the sea and\n"
 	.string "found your way to the other side\l"
@@ -2436,16 +2436,16 @@ MatchCall_Text_May12::
 	.string "come up to the surface. Easy!$"
 
 MatchCall_Text_May13::
-	.string "MAY: Hi, {PLAYER}{KUN}!\p"
+	.string "MAY: Hi, {PLAYER}!\p"
 	.string "How's it going?\n"
-	.string "Are you filling your POKéDEX?\p"
+	.string "Are you filling your POKeDEX?\p"
 	.string "I heard a rumor that there are\n"
-	.string "super-ancient POKéMON out there.\l"
+	.string "super-ancient POKeMON out there.\l"
 	.string "And there are three of them!\p"
 	.string "I would love to see even one…$"
 
 MatchCall_Text_May14::
-	.string "MAY: {PLAYER}{KUN}!\n"
+	.string "MAY: {PLAYER}!\n"
 	.string "I heard the rumors!\p"
 	.string "You beat the SOOTOPOLIS GYM\n"
 	.string "LEADER?\p"
@@ -2455,9 +2455,9 @@ MatchCall_Text_May14::
 MatchCall_Text_May15::
 	.string "MAY: There isn't a single TRAINER\n"
 	.string "left in HOENN who doesn't know who\l"
-	.string "you are, {PLAYER}{KUN}!\p"
+	.string "you are, {PLAYER}!\p"
 	.string "When I tell people that I'm friends\n"
-	.string "with you, {PLAYER}{KUN}, they're all\l"
+	.string "with you, {PLAYER}, they're all\l"
 	.string "surprised!$"
 
 MatchCall_Text_Brendan1::
@@ -2521,10 +2521,10 @@ MatchCall_Text_Brendan7::
 
 MatchCall_Text_Brendan8::
 	.string "BRENDAN: {PLAYER}!\p"
-	.string "MT. PYRE is a memorial to POKéMON\n"
+	.string "MT. PYRE is a memorial to POKeMON\n"
 	.string "whose lives have ended.\p"
 	.string "That's probably why it's infested\n"
-	.string "with many GHOST-type POKéMON!$"
+	.string "with many GHOST-type POKeMON!$"
 
 MatchCall_Text_Brendan9::
 	.string "BRENDAN: Hey there, {PLAYER}.\p"
@@ -2543,14 +2543,14 @@ MatchCall_Text_Brendan10::
 	.string "submarine expedition.$"
 
 MatchCall_Text_Brendan11::
-	.string "BRENDAN: Hey there, {PLAYER}!\n"
+	.string "BRENDAN: Ei, {PLAYER}!\n"
 	.string "Don't you think it's awesome?\p"
 	.string "Even if you don't have a boat,\n"
 	.string "you can cross the sea using\l"
-	.string "a POKéMON's move.\p"
+	.string "a POKeMON's move.\p"
 	.string "And, there's a move that lets you\n"
 	.string "travel to the bottom of the sea.\p"
-	.string "Man, POKéMON can do anything!$"
+	.string "Man, POKeMON can do anything!$"
 
 MatchCall_Text_Brendan12::
 	.string "BRENDAN: Howdy, {PLAYER}!\n"
@@ -2563,11 +2563,11 @@ MatchCall_Text_Brendan12::
 	.string "come up to the surface. Simple!$"
 
 MatchCall_Text_Brendan13::
-	.string "BRENDAN: Hey there, {PLAYER}!\p"
+	.string "BRENDAN: Ei, {PLAYER}!\p"
 	.string "How's it going? Filling up your\n"
-	.string "POKéDEX successfully?\p"
+	.string "POKeDEX successfully?\p"
 	.string "I heard a rumor that there are\n"
-	.string "super-ancient POKéMON out there.\l"
+	.string "super-ancient POKeMON out there.\l"
 	.string "And not just one--three!\p"
 	.string "I'd love to catch even one…$"
 
@@ -2610,10 +2610,10 @@ MatchCall_Text_Wally4::
 	.string "WALLY: {PLAYER}?\n"
 	.string "It's me, WALLY!\p"
 	.string "The world of TRAINERS is amazing!\p"
-	.string "When I have my POKéMON with me,\n"
+	.string "When I have my POKeMON with me,\n"
 	.string "all sorts of people say hi!\p"
 	.string "It's as if everyone's getting\n"
-	.string "connected through POKéMON!$"
+	.string "connected through POKeMON!$"
 
 MatchCall_Text_Wally5::
 	.string "WALLY: {PLAYER}? It's awesome!\n"
@@ -2622,31 +2622,31 @@ MatchCall_Text_Wally5::
 	.string "Maybe I'm talented…\p"
 	.string "Oh, but I shouldn't get a big head\n"
 	.string "like that!\p"
-	.string "After all, it's the POKéMON that\n"
+	.string "After all, it's the POKeMON that\n"
 	.string "should be praised!$"
 
 MatchCall_Text_Wally6::
 	.string "… … … … … …\n"
 	.string "… … … … … …\p"
 	.string "WALLY appears to be out of\n"
-	.string "the POKéNAV's service area…$"
+	.string "the POKeNAV's service area…$"
 
 MatchCall_Text_Wally7::
 	.string "WALLY: Oh, {PLAYER}!\p"
 	.string "Before I met you, I hardly ever\n"
 	.string "left my house…\p"
 	.string "But now, I'm on an adventure with\n"
-	.string "my very own POKéMON…\p"
+	.string "my very own POKeMON…\p"
 	.string "{PLAYER}…\n"
 	.string "Thank you…$"
 
 MatchCall_Text_Scott1::
-	.string "SCOTT: Howdy, {PLAYER}{KUN}!\p"
-	.string "You know how POKéMON can be found\n"
+	.string "SCOTT: Howdy, {PLAYER}!\p"
+	.string "You know how POKeMON can be found\n"
 	.string "everywhere?\p"
 	.string "Like in the mountains, in the sea,\n"
 	.string "in tall grass anywhere?\p"
-	.string "Just like POKéMON, you can find\n"
+	.string "Just like POKeMON, you can find\n"
 	.string "TRAINERS everywhere, too.\p"
 	.string "As a result, I have to hurry\n"
 	.string "everywhere, too. Busy, busy!$"
@@ -2660,16 +2660,16 @@ MatchCall_Text_Scott2::
 	.string "makes me all ticklish!$"
 
 MatchCall_Text_Scott3::
-	.string "SCOTT: Hi, hi, {PLAYER}{KUN}!\p"
+	.string "SCOTT: Hi, hi, {PLAYER}!\p"
 	.string "Have you had the chance to climb\n"
 	.string "MT. PYRE?\p"
-	.string "The place is a memorial to POKéMON\n"
+	.string "The place is a memorial to POKeMON\n"
 	.string "that have passed away.\p"
 	.string "It's somewhere every TRAINER\n"
 	.string "should climb to the top of once.$"
 
 MatchCall_Text_Scott4::
-	.string "SCOTT: Hi, {PLAYER}{KUN}!\p"
+	.string "SCOTT: Hi, {PLAYER}!\p"
 	.string "I've been hearing about these odd\n"
 	.string "gangs being a nuisance.\p"
 	.string "TEAM MAGMA and TEAM AQUA,\n"
@@ -2679,17 +2679,17 @@ MatchCall_Text_Scott4::
 	.string "…But if they're thugs…$"
 
 MatchCall_Text_Scott5::
-	.string "SCOTT: Oh, hi, {PLAYER}{KUN}.\p"
+	.string "SCOTT: Oh, hi, {PLAYER}.\p"
 	.string "Might there be tough TRAINERS\n"
 	.string "at the bottom of the sea?\p"
 	.string "I can't go check for myself.\n"
 	.string "I can't swim, for one.\l"
-	.string "And I don't raise POKéMON…$"
+	.string "And I don't raise POKeMON…$"
 
 MatchCall_Text_Scott6::
-	.string "SCOTT: Hi, hi, {PLAYER}{KUN}!\p"
+	.string "SCOTT: Hi, hi, {PLAYER}!\p"
 	.string "You know that you can challenge\n"
-	.string "the POKéMON LEAGUE when you've\l"
+	.string "the POKeMON LEAGUE when you've\l"
 	.string "collected all the GYM BADGES?\p"
 	.string "With your talent, becoming the\n"
 	.string "CHAMPION isn't a pipe dream.\p"
@@ -2700,14 +2700,14 @@ MatchCall_Text_Scott6::
 	.string "It's something you can look\n"
 	.string "forward to.\p"
 	.string "When you've won your way through\n"
-	.string "the POKéMON LEAGUE into the HALL\l"
+	.string "the POKeMON LEAGUE into the HALL\l"
 	.string "OF FAME!$"
 
 MatchCall_Text_Scott7::
 	.string "… … … … … …\n"
 	.string "… … … … … …\p"
 	.string "SCOTT appears to be out of\n"
-	.string "the POKéNAV's service area…$"
+	.string "the POKeNAV's service area…$"
 
 MatchCall_Text_Norman1::
 	.string "DAD: In RUSTBORO, there's a man\n"
@@ -2752,12 +2752,12 @@ MatchCall_Text_Norman_Preparing::
 	.string "DAD: Hiyah! Haah! Dwah!\p"
 	.string "…Oh? {PLAYER}!\p"
 	.string "You caught me right in the middle\n"
-	.string "of a POKéMON training session!$"
+	.string "of a POKeMON training session!$"
 
 MatchCall_Text_Norman_PreparingPostGame::
 	.string "DAD: {PLAYER}!\p"
 	.string "Who would've thought you'd become\n"
-	.string "the POKéMON LEAGUE CHAMPION…\p"
+	.string "the POKeMON LEAGUE CHAMPION…\p"
 	.string "Okay!\n"
 	.string "I won't be left behind!$"
 
@@ -2774,7 +2774,7 @@ MatchCall_Text_Norman_PostRematch::
 	.string "How much higher will you soar?$"
 
 MatchCall_Text_Steven1::
-	.string "STEVEN: Hi, {PLAYER}{KUN}!\p"
+	.string "STEVEN: Hi, {PLAYER}!\p"
 	.string "Have you been to MAUVILLE\n"
 	.string "already?\p"
 	.string "You should visit the BIKE SHOP\n"
@@ -2785,16 +2785,16 @@ MatchCall_Text_Steven1::
 	.string "there.$"
 
 MatchCall_Text_Steven2::
-	.string "STEVEN: Hi, {PLAYER}{KUN}!\p"
+	.string "STEVEN: Hi, {PLAYER}!\p"
 	.string "I've met a lot of different\n"
 	.string "TRAINERS so far.\p"
 	.string "But you're one of a kind.\n"
 	.string "You're not like anyone else.$"
 
 MatchCall_Text_Steven3::
-	.string "STEVEN: Hi, {PLAYER}{KUN}!\p"
+	.string "STEVEN: Hi, {PLAYER}!\p"
 	.string "When you're on an adventure with\n"
-	.string "your POKéMON, what do you think?\p"
+	.string "your POKeMON, what do you think?\p"
 	.string "Do you consider them to be strong\n"
 	.string "partners?\p"
 	.string "Do you think of them as fun\n"
@@ -2804,7 +2804,7 @@ MatchCall_Text_Steven3::
 
 MatchCall_Text_Steven4::
 	.string "STEVEN: Hello?\n"
-	.string "{PLAYER}{KUN}?\p"
+	.string "{PLAYER}?\p"
 	.string "I'm involved in a spot of trouble\n"
 	.string "at the SPACE CENTER.\p"
 	.string "I'm sorry, but I can't talk now.\n"
@@ -2812,7 +2812,7 @@ MatchCall_Text_Steven4::
 
 MatchCall_Text_Steven5::
 	.string "STEVEN: Oh!\n"
-	.string "{PLAYER}{KUN}!\p"
+	.string "{PLAYER}!\p"
 	.string "There's no need to talk.\n"
 	.string "It's past time for talking.\p"
 	.string "You have to believe in yourself\n"
@@ -2824,7 +2824,7 @@ MatchCall_Text_Steven6::
 	.string "the call…$"
 
 MatchCall_Text_Steven7::
-	.string "STEVEN: {PLAYER}{KUN}… Congratulations\n"
+	.string "STEVEN: {PLAYER}… Congratulations\n"
 	.string "for entering the HALL OF FAME.\p"
 	.string "… … … … … …\n"
 	.string "… … … … … …\p"
@@ -2832,28 +2832,28 @@ MatchCall_Text_Steven7::
 	.string "somewhere!$"
 
 MatchCall_Text_BirchRegisterCall:
-	.string "PROF. BIRCH: Oh, {PLAYER}{KUN}!\n"
+	.string "PROF. BIRCH: Oh, {PLAYER}!\n"
 	.string "I've already heard about you!\p"
-	.string "It seems your POKéNAV's been\n"
+	.string "It seems your POKeNAV's been\n"
 	.string "upgraded with MATCH CALL.\p"
 	.string "Well, I should register, too!\p"
 	.string "That way, I'd be able to examine\n"
-	.string "your POKéDEX even while you're\l"
+	.string "your POKeDEX even while you're\l"
 	.string "out in the field.\p"
 	.string "… … … … … …$"
 
 MatchCall_Text_RegisteredBirch:
 	.string "Registered PROF. BIRCH\n"
-	.string "in the POKéNAV.$"
+	.string "in the POKeNAV.$"
 
 MatchCall_Text_UnusedProfBirch:
 	.string "PROF. BIRCH: When one has both\n"
-	.string "the POKéDEX and POKéNAV, studying\l"
-	.string "POKéMON becomes more fun, eh?$"
+	.string "the POKeDEX and POKeNAV, studying\l"
+	.string "POKeMON becomes more fun, eh?$"
 
 MatchCall_Text_MrStone1::
-	.string "MR. STONE: Oh? {PLAYER}{KUN}!\p"
-	.string "Since you called me, the POKéNAV\n"
+	.string "MR. STONE: Oh? {PLAYER}!\p"
+	.string "Since you called me, the POKeNAV\n"
 	.string "must be working properly!\p"
 	.string "Other people will be registered,\n"
 	.string "so try calling them up, too!\p"
@@ -2867,7 +2867,7 @@ MatchCall_Text_MrStone1::
 	.string "See you again!$"
 
 MatchCall_Text_MrStone2::
-	.string "MR. STONE: Oh? {PLAYER}{KUN}!\p"
+	.string "MR. STONE: Oh? {PLAYER}!\p"
 	.string "What's wrong? Have you forgotten\n"
 	.string "about that little errand of mine?\p"
 	.string "I need you to deliver my letter\n"
@@ -2876,10 +2876,10 @@ MatchCall_Text_MrStone2::
 	.string "CAPT. STERN in SLATEPORT.\p"
 	.string "You remember, don't you?\p"
 	.string "Now, since I am a busy PRESIDENT,\n"
-	.string "I have to go! Bye-bye!$"
+	.string "I have to go! Tchau tchau!$"
 
 MatchCall_Text_MrStone3::
-	.string "MR. STONE: Oh! {PLAYER}{KUN}!\p"
+	.string "MR. STONE: Oh! {PLAYER}!\p"
 	.string "Ah, so you've met STEVEN!\n"
 	.string "I'd better reward you, then!\p"
 	.string "When you visit RUSTBORO again,\n"
@@ -2887,18 +2887,18 @@ MatchCall_Text_MrStone3::
 	.string "I'll be waiting for you!$"
 
 MatchCall_Text_MrStone4::
-	.string "MR. STONE: Oh! {PLAYER}{KUN}!\p"
+	.string "MR. STONE: Oh! {PLAYER}!\p"
 	.string "Did you know that DEVON was\n"
 	.string "digging the RUSTURF TUNNEL?\p"
 	.string "But we shut down the operation to\n"
-	.string "protect the POKéMON in the area.\p"
+	.string "protect the POKeMON in the area.\p"
 	.string "It's a no-brainer, really.\p"
-	.string "It's more important to let POKéMON\n"
+	.string "It's more important to let POKeMON\n"
 	.string "live in peace than worry about our\l"
 	.string "own convenience.$"
 
 MatchCall_Text_MrStone5::
-	.string "MR. STONE: Hello, hello, {PLAYER}{KUN}!\p"
+	.string "MR. STONE: Hello, hello, {PLAYER}!\p"
 	.string "I heard from someone in PETALBURG\n"
 	.string "that you're NORMAN's child!\p"
 	.string "No wonder you're such a capable\n"
@@ -2936,18 +2936,18 @@ MatchCall_Text_MrStone9::
 	.string "BZZZZ…$"
 
 MatchCall_Text_MrStone10::
-	.string "MR. STONE: {PLAYER}{KUN}! It's me!\p"
+	.string "MR. STONE: {PLAYER}! It's me!\p"
 	.string "You were apparently involved in all\n"
 	.string "sorts of things, but I, being busy,\l"
 	.string "haven't a clue exactly what!\p"
 	.string "However, I urge you to take\n"
 	.string "the road you believe in and walk it.\p"
 	.string "I'll always be in your corner!\n"
-	.string "Take care!$"
+	.string "Se cuida!$"
 
 MatchCall_Text_MrStone11::
 	.string "MR. STONE: … … … … … …\n"
-	.string "Is this maybe {PLAYER}{KUN}?\p"
+	.string "Is this maybe {PLAYER}?\p"
 	.string "Your voice is so full of confidence,\n"
 	.string "I didn't recognize you right off!\p"
 	.string "Hm! You must come visit us at DEVON\n"

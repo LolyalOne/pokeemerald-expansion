@@ -70,7 +70,7 @@ SSAnne_Kitchen_Text_PeelSpudsEveryDay::
 SSAnne_Kitchen_Text_HearAboutSnorlaxItsAGlutton::
 	.string "Did you hear about SNORLAX?\n"
 	.string "It's a glutton.\p"
-	.string "No other POKéMON eats and sleeps\n"
+	.string "No other POKeMON eats and sleeps\n"
 	.string "the way SNORLAX can and does!$"
 
 SSAnne_Kitchen_Text_OnlyGetToPeelOnions::
@@ -84,16 +84,16 @@ SSAnne_Kitchen_Text_IAmLeChefMainCourseIs::
 	.string "Le main course is$"
 
 SSAnne_Kitchen_Text_SalmonDuSalad::
-	.string "Salmon du Salad!\p"
+	.string "Salada de Salmao!\p"
 	.string "Les guests may gripe it's fish\n"
 	.string "again, however!$"
 
 SSAnne_Kitchen_Text_EelsAuBarbecue::
-	.string "Eels au Barbecue!\p"
+	.string "Enguia ao Churrasco!\p"
 	.string "Les guests will mutiny, I fear.$"
 
 SSAnne_Kitchen_Text_PrimeBeefsteak::
-	.string "Prime Beefsteak!\p"
+	.string "Bife de Primeira!\p"
 	.string "But, have I enough fillets du\n"
 	.string "beef?$"
 

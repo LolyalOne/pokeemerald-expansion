@@ -2,7 +2,7 @@ gText_FollowerLovesYou::
 	.string "{STR_VAR_1} is regarding you with\nadoration!$"
 
 gText_FollowerLostInThought::
-	.string "{STR_VAR_1} seems lost in thought.$"
+	.string "{STR_VAR_1} parece perdido em pensamentos.$"
 
 gText_FollowerDefault::
 	.string "ERROR 404: Script not found.$"

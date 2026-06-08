@@ -569,7 +569,7 @@ MtChimney_Text_MaxieIntro:
 	.string "That is why TEAM MAGMA is dedicated\n"
 	.string "to the expansion of the land mass.\p"
 	.string "It is for further advancement of\n"
-	.string "humankind and POKéMON!\p"
+	.string "humankind and POKeMON!\p"
 	.string "And for that, we need the power of\n"
 	.string "what sleeps within this mountain…\p"
 	.string "Oh! There was no need for you to\n"
@@ -700,7 +700,7 @@ MtChimney_Text_MagmaOutnumbersUs:
 
 MtChimney_Text_LessHabitatForWaterPokemon:
 	.string "If they expand the land, there'll be\n"
-	.string "less habitats for WATER POKéMON!$"
+	.string "less habitats for WATER POKeMON!$"
 
 MtChimney_Text_MagmasNameSimilar:
 	.string "We're TEAM AQUA!\p"
@@ -714,10 +714,10 @@ MtChimney_Text_Bushaa:
 MtChimney_Text_LavaCookiesJust200:
 	.string "LAVA COOKIES are MT. CHIMNEY's local\n"
 	.string "specialty.\p"
-	.string "Try one. It's just ¥200.$"
+	.string "Prove um. Custa apenas 200 ienes.\lUm mimo doce pro Lucas!$"
 
 MtChimney_Text_ThankYouDear:
-	.string "Thank you, dear!$"
+	.string "Obrigada, querido!\lFeliz aniversario!$"
 
 MtChimney_Text_YouveNotGotTheMoney:
 	.string "Oh, dear. You can't buy a thing if\n"
@@ -760,7 +760,7 @@ MtChimney_Text_ShelbyIntro:
 
 MtChimney_Text_ShelbyDefeat:
 	.string "Oh, my goodness.\n"
-	.string "Now, aren't you something!$"
+	.string "Ora, voce e muito bom!$"
 
 MtChimney_Text_ShelbyPostBattle:
 	.string "Well, well, I've lost. I can't call\n"
@@ -774,16 +774,16 @@ MtChimney_Text_ShelbyRegister:
 
 MtChimney_Text_ShelbyRematchIntro:
 	.string "If you can mesh your heart with those\n"
-	.string "of your POKéMON, why, you should be\l"
+	.string "of your POKeMON, why, you should be\l"
 	.string "able to achieve great things.$"
 
 MtChimney_Text_ShelbyRematchDefeat:
 	.string "Oh, my goodness.\n"
-	.string "Now, aren't you something!$"
+	.string "Ora, voce e muito bom!$"
 
 MtChimney_Text_ShelbyPostRematch:
 	.string "Perhaps your heart has become one\n"
-	.string "with the hearts of your POKéMON.$"
+	.string "with the hearts of your POKeMON.$"
 
 MtChimney_Text_MelissaIntro:
 	.string "I've got the fire in me, baby.\n"
@@ -798,7 +798,7 @@ MtChimney_Text_MelissaPostBattle:
 
 MtChimney_Text_SheilaIntro:
 	.string "I've finally made it to MT. CHIMNEY.\n"
-	.string "I want to make my POKéMON battle!$"
+	.string "I want to make my POKeMON battle!$"
 
 MtChimney_Text_SheilaDefeat:
 	.string "The way you battle…\n"
@@ -838,7 +838,7 @@ MtChimney_Text_SawyerPostBattle:
 
 MtChimney_Text_SawyerRegister:
 	.string "I like little fireballs like you.\n"
-	.string "Let me register you in my POKéNAV.$"
+	.string "Let me register you in my POKeNAV.$"
 
 MtChimney_Text_SawyerRematchIntro:
 	.string "I'm happily surrounded by hot people\n"

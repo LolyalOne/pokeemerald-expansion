@@ -14,5 +14,7 @@ SSAnne_2F_Room6_Text_CaptainIsAwfullySick::
 	.string "He was all pale.$"
 
 SSAnne_2F_Room6_Text_ManyPeopleGetSeasick::
-	.string "I hear many people get seasick.$"
+	.string "Ouvi dizer que muitos enjoam no\n"
+	.string "mar. Nao deixe isso te parar,\n"
+	.string "Lucas!$"
 
